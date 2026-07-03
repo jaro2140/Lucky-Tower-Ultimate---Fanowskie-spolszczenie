@@ -23,14 +23,14 @@ Lucky Tower Ultimate to absurdalna, czarnohumorystyczna gra roguelite/przygodowa
 ## Postęp
 | Etap | Status |
 |------|--------|
-| Teksty | ⏳ ~55% (4678 / 8480 linii) |
+| Teksty | ⏳ ~66% (5597 / 8480 linii) |
 | Przełącznik PL w menu gry | ⏳ planowane (patch obecnie podmienia dane w silniku, patrz niżej) |
 
 
 ## Jak to działa
-Gra przechowuje teksty w wewnętrznych tabelach z kolumnami dla każdego języka (`en`, `de`, `fr`, `es`, `pt`, `zh`, `ru`, `it`, `tr`). Nasze tłumaczenie jest wstrzykiwane jako nowa kolumna `pl` obok nich.
+Gra przechowuje teksty w wewnętrznych tabelach z kolumnami dla każdego języka (`en`, `de`, `fr`, `es`, `pt`, `zh`, `ru`, `it`, `tr`). Nasze tłumaczenie jest docelowo wstrzykiwane jako nowa kolumna `pl` obok nich.
 
-Gra **nie ma jeszcze** własnego przycisku "Polski" w menu wyboru języka — jej menu językowe jest zaszyte na sztywno w kodzie i obsługuje tylko powyższe 9 języków. Dodanie prawdziwej pozycji "Polski" wymaga dodatkowej pracy nad silnikiem gry i jest zaplanowane na dalszy etap projektu. Do tego czasu paczki testowe tymczasowo podmieniają jeden z istniejących, rzadziej używanych języków, żeby można było zweryfikować tłumaczenie bezpośrednio w grze.
+Gra **nie ma jeszcze** własnego przycisku "Polski" w menu wyboru języka — jej menu językowe jest zaszyte na sztywno w kodzie i obsługuje tylko powyższe 9 języków. Dodanie prawdziwej pozycji "Polski" wymaga dodatkowej pracy nad silnikiem gry i jest zaplanowane na dalszy etap projektu. Do tego czasu paczki testowe podmieniają przetłumaczone linie bezpośrednio w istniejącym slocie **angielskim** (`en`) — nieprzetłumaczone fragmenty zostają po angielsku, więc granie po angielsku od razu pokazuje aktualny postęp tłumaczenia bez przełączania języka w menu.
 
 
 ## Instalacja
@@ -42,8 +42,8 @@ Gdy release będzie dostępny:
 1. Pobierz paczkę z *Releases* i rozpakuj `data.unity3d` do folderu `patches/` w tym repozytorium.
 2. Uruchom `installers/linux/install-pl.sh` (Linux / SteamOS; wykrywa instalację Steam automatycznie,
    w razie potrzeby wskaż ścieżkę w pliku `game-path.env` — patrz `game-path.env.example`).
-3. W menu gry wybierz język **Turecki** — to tymczasowy nośnik polskiego tłumaczenia, dopóki gra
-   nie ma własnego przełącznika "Polski" (patrz sekcja wyżej).
+3. Graj normalnie z językiem **angielskim** w menu gry — przetłumaczone linie pojawią się
+   po polsku, reszta zostaje po angielsku (patrz sekcja wyżej).
 4. Weryfikacja: `installers/linux/verify-install.sh`. Przywrócenie oryginału: `installers/linux/restore-en.sh`.
 
 Instalator zawsze robi kopię zapasową oryginalnego pliku przed podmianą (folder `backup/`).
