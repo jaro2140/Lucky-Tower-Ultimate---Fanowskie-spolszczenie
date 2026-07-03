@@ -5,6 +5,14 @@ Dist/
 Extracted/
 *.zip
 
+# Skompilowana paczka patcha - publikowana w Releases, nie w git
+patches/*
+!patches/README.md
+
+# Tworzone lokalnie przez instalatory
+backup/
+game-path.env
+
 # macOS
 .DS_Store
 

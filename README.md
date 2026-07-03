@@ -34,7 +34,22 @@ Gra **nie ma jeszcze** własnego przycisku "Polski" w menu wyboru języka — je
 
 
 ## Instalacja
-Publiczne wydanie (release) z instrukcją instalacji pojawi się, gdy tłumaczenie osiągnie stabilny, grywalny stan. Obecnie projekt jest w fazie aktywnego tłumaczenia tekstów.
+Paczka z gotowym tłumaczeniem (plik `data.unity3d`) będzie publikowana w zakładce **Releases**,
+gdy tłumaczenie osiągnie stabilny, grywalny stan — obecnie projekt jest w fazie aktywnego
+tłumaczenia tekstów, więc release jeszcze się nie ukazał.
+
+Gdy release będzie dostępny:
+1. Pobierz paczkę z *Releases* i rozpakuj `data.unity3d` do folderu `patches/` w tym repozytorium.
+2. Uruchom `installers/linux/install-pl.sh` (Linux / SteamOS; wykrywa instalację Steam automatycznie,
+   w razie potrzeby wskaż ścieżkę w pliku `game-path.env` — patrz `game-path.env.example`).
+3. W menu gry wybierz język **Turecki** — to tymczasowy nośnik polskiego tłumaczenia, dopóki gra
+   nie ma własnego przełącznika "Polski" (patrz sekcja wyżej).
+4. Weryfikacja: `installers/linux/verify-install.sh`. Przywrócenie oryginału: `installers/linux/restore-en.sh`.
+
+Instalator zawsze robi kopię zapasową oryginalnego pliku przed podmianą (folder `backup/`).
+
+Źródła tłumaczeń (do przeglądu, w formacie `key,en,pl`) są w folderze `translations/`,
+a zasady stylu i glosariusz w `STYLE_GUIDE.md`.
 
 
 ## Disclaimer
