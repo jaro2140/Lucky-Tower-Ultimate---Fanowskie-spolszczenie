@@ -1,0 +1,14 @@
+# Pliki gry (copyright) - nigdy nie commitowac
+Original/
+Build/
+Dist/
+Extracted/
+*.zip
+
+# macOS
+.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
