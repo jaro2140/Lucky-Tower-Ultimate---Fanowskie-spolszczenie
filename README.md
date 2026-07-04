@@ -46,11 +46,11 @@ ale projekt nadal wymaga QA i dopracowania fontów.
 
 Release będzie dostępny:
 1. Pobierz paczkę z *Releases* i rozpakuj pliki
-2. Uruchom `installers/linux/install-pl.sh` (Linux / SteamOS; wykrywa instalację Steam automatycznie,
+2. Uruchom `.\install-pl.sh` (Linux / SteamOS; wykrywa instalację Steam automatycznie,
    w razie potrzeby wskaż ścieżkę w pliku `game-path.env` — patrz `game-path.env.example`).
 3. Wybierz w grze język **turecki** — ten slot jest używany jako polski. Przetłumaczone
    linie pojawią się po polsku, reszta zostaje po angielsku (patrz sekcja wyżej).
-4. Weryfikacja: `installers/linux/verify-install.sh`. Przywrócenie oryginału: `installers/linux/restore-en.sh`.
+4. Weryfikacja: `.\verify-install.sh`. Przywrócenie oryginału: `.\restore-en.sh`.
 
 Instalator zawsze robi kopię zapasową oryginalnych plików przed podmianą (folder `backup/`).
 

@@ -9,6 +9,9 @@ Extracted/
 patches/*
 !patches/README.md
 
+# Wewnetrzny glosariusz/wytyczne - nie publikowane w repo
+STYLE_GUIDE.md
+
 # Tworzone lokalnie przez instalatory
 backup/
 game-path.env
