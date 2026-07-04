@@ -1,0 +1,150 @@
+key,en,pl
+wanst_gambler_enterroom_1_1,"This is your lucky day, and you're up for a prize. #3.20 Just put your bet on the podium. #5.20 And we'll see what's in it for you.","To twój szczęśliwy dzień, #3.20 czeka na ciebie nagroda. #5.20 Po prostu postaw swój zakład na podium. A zobaczymy, co dla ciebie mamy."
+wanst_gambler_enterroom_2_1,"This is your lucky day, #1.50 and you're up for a prize. #2.90 Just put your bet on the podium #5.00 and we'll see what's in it for you.","To twój szczęśliwy dzień, #1.50 czeka na ciebie nagroda. #2.90 Po prostu postaw swój zakład na podium #5.00 a zobaczymy, co dla ciebie mamy."
+wanst_gambler_enterroom_3_1,"Hey hey, are you interested in a little game? #3.10 Put your bet on the podium.","Hej, hej, masz ochotę na małą grę? #3.10 Postaw swój zakład na podium."
+wanst_gambler_enterroom_4_1,Come closer. #1.60 Put your bet on the podium.,Podejdź bliżej. #1.60 Postaw swój zakład na podium.
+wanst_gambler_address_1_1,Alright. #0.70 I am a lucky guy after all.,No dobra. #0.70 W końcu jestem szczęściarzem.
+wanst_gambler_address_2_1,Bring on the odds!,Niech przemówią szanse!
+wanst_gambler_address_3_1,Bring on the odds!,Niech przemówią szanse!
+wanst_gambler_address_4_1,"Okay, let's play!","Okej, gramy!"
+wanst_gambler_empty_1_1,"Put your bet on the podium. #1.80 The heavier the bet, the nicer the prize.","Postaw swój zakład na podium. #1.80 Im cięższy zakład, tym lepsza nagroda."
+wanst_gambler_empty_2_1,Not so fast. #1.20 Let's see what you're willing to bet first. #4.00 Place your bets on the podium. #5.50 The heavier the better.,"Nie tak szybko. #1.20 Zobaczmy najpierw, co jesteś skłonny postawić. #4.00 Postaw swój zakład na podium. #5.50 Im cięższy, tym lepiej."
+wanst_gambler_light_1_1,Nyah.,Nyah.
+wanst_gambler_light_2_1,Nyah.,Nyah.
+wanst_gambler_light_3_1,Nyah.,Nyah.
+wanst_gambler_medium_1_1,Mmmyah.,Mmmyah.
+wanst_gambler_medium_2_1,Mmmyah.,Mmmyah.
+wanst_gambler_medium_3_1,Mmmyah.,Mmmyah.
+wanst_gambler_medium_4_1,Mmmyah.,Mmmyah.
+wanst_gambler_heavy_1_1,Mmmh.,Mmmh.
+wanst_gambler_heavy_2_1,Nyehe.,Nyehe.
+wanst_gambler_heavy_3_1,Myahahmm.,Myahahmm.
+wanst_gambler_heavy_4_1,Nyehee.,Nyehee.
+wanst_gambler_heavy_5_1,Nyaaah.,Nyaaah.
+wanst_gambler_heavy_6_1,Myeeeheh.,Myeeeheh.
+wanst_gambler_accept_1_1,Are you sure?,Jesteś pewien?
+wanst_gambler_accept_2_1,Are you sure?,Jesteś pewien?
+wanst_gambler_accept_3_1,Are you sure?,Jesteś pewien?
+wanst_gambler_accept_4_1,Is this your final bet?,To twój ostateczny zakład?
+wanst_gambler_accept_5_1,Is this your final bet?,To twój ostateczny zakład?
+wanst_gambler_accept_6_1,Is this your final bet?,To twój ostateczny zakład?
+wanst_gambler_accept_7_1,Is this your final bet?,To twój ostateczny zakład?
+wanst_gambler_accept_8_1,You accept this bet then?,Więc akceptujesz ten zakład?
+wanst_gambler_accept_9_1,"And, you accept this bet?",I akceptujesz ten zakład?
+wanst_gambler_accept_10_1,"Ah, you accept this bet?","Ach, akceptujesz ten zakład?"
+wanst_gambler_negative_1_1,"No, I was just talking to myself.","Nie, tylko mówiłem sam do siebie."
+wanst_gambler_positive_1_1,Yuss!,Tasss!
+wanst_gambler_start_1_1,"Mmm, can't wait to snatch those delicious bets!","Mmm, nie mogę się doczekać, żeby zgarnąć te pyszne zakłady!"
+wanst_gambler_start_2_1,"Mmm, can't wait to snatch these delicious bets!","Mmm, nie mogę się doczekać, żeby zgarnąć te pyszne zakłady!"
+wanst_gambler_start_3_1,"Mhmhm, can't wait to snatch delicious bets!","Mhmhm, nie mogę się doczekać, żeby zgarnąć pyszne zakłady!"
+wanst_gambler_start_4_1,"Okay, all bets are placed! #1.60 Rien ne va plus!","Okej, wszystkie zakłady postawione! #1.60 Rien ne va plus!"
+wanst_gambler_start_5_1,"Okay, all bets are placed! #2.00 Rien ne va plus!","Okej, wszystkie zakłady postawione! #2.00 Rien ne va plus!"
+wanst_gambler_start_6_1,"Okay, all bets are placed! #2.40 Rien ne va plus, as they say!","Okej, wszystkie zakłady postawione! #2.40 Rien ne va plus, jak to mówią!"
+wanst_gambler_rules_1_cup_1_1,Alright.,Dobra.
+wanst_gambler_rules_1_cup_1_2,Watch closely...,Patrz uważnie...
+wanst_gambler_rules_1_cup_1_3,... and tell me where the marble went.,"...i powiedz mi, gdzie podziała się kulka."
+wanst_gambler_rules_1_cup_1_4,One try only. #1.80 Correct guess or make a mess!,Tylko jedna próba. #1.80 Trafna odpowiedź albo klapa!
+wanst_gambler_rules_2_cup_1_4,Best out of three it is!,Do dwóch zwycięstw z trzech prób!
+wanst_gambler_rules_3_cup_1_4,First one to score three points wins!,"Kto pierwszy zdobędzie trzy punkty, wygrywa!"
+wanst_gambler_rules_1_card_1_1,Put down a card at the same time as me.,Połóż kartę w tym samym momencie co ja.
+wanst_gambler_rules_1_card_1_2,"If you're lucky, it will be the right one to beat mine.","Jeśli będziesz miał szczęście, będzie to ta właściwa, by pokonać moją."
+wanst_gambler_rules_3_card_1_3,First one to score three points wins!,"Kto pierwszy zdobędzie trzy punkty, wygrywa!"
+wanst_gambler_newround_1_1,Pick one.,Wybierz jeden.
+wanst_gambler_newround_2_1,Pick one.,Wybierz jeden.
+wanst_gambler_newround_3_1,Pick one.,Wybierz jeden.
+wanst_gambler_newround_4_1,Well?,No i?
+wanst_gambler_newround_5_1,Well?,No i?
+wanst_gambler_newround_6_1,Well?,No i?
+wanst_gambler_newround_7_1,Which one is it?,Który to?
+wanst_gambler_newround_8_1,Which one is it?,Który to?
+wanst_gambler_newround_9_1,Which one is it?,Który to?
+wanst_gambler_newround_10_1,Which one is it?,Który to?
+wanst_gambler_left_1_1,"Easy, the left cup.","Łatwizna, lewy kubek."
+wanst_gambler_left_2_1,"I choose you, left cup!","Wybieram ciebie, lewy kubku!"
+wanst_gambler_left_3_1,It's totally the left cup!,To zdecydowanie lewy kubek!
+wanst_gambler_left_4_1,Left is where the heart is.,"Lewa strona to ta, gdzie serce."
+wanst_gambler_left_5_1,Right on! #0.80 It's the left cup.,No właśnie! #0.80 To lewy kubek.
+wanst_gambler_left_6_1,"Too easy. #1.20 The left cup, of course.","Zbyt łatwe. #1.20 Lewy kubek, oczywiście."
+wanst_gambler_middle_1_1,"Easy, the middle cup.","Łatwizna, środkowy kubek."
+wanst_gambler_middle_2_1,Ain't no riddle: #1.00 It's the middle.,To nie zagadka: #1.00 to środek.
+wanst_gambler_middle_3_1,Alright! #1.00 You left the marble in the middle.,Dobra! #1.00 Zostawiłeś kulkę na środku.
+wanst_gambler_middle_4_1,Middle is my middle name!,Środek to moje drugie imię!
+wanst_gambler_middle_5_1,No challenge. It's the middle cup.,Żadne wyzwanie. To środkowy kubek.
+wanst_gambler_middle_6_1,The truth is always in the middle.,Prawda zawsze leży pośrodku.
+wanst_gambler_right_1_1,"Easy, the right cup.","Łatwizna, prawy kubek."
+wanst_gambler_right_2_1,"Righty righy, lefty losey!","Prawy zwycięski, lewy przegrany!"
+wanst_gambler_right_3_1,The right cup is the right cup!,Prawy kubek to właściwy kubek!
+wanst_gambler_right_4_1,Easy peasy! #1.00 The right one.,Łatwizna! #1.00 Ten prawy.
+wanst_gambler_right_5_1,I'm tight with right!,Prawa strona to mój żywioł!
+wanst_gambler_right_6_1,"Uh, right. It's on the right","Yy, prawy. To po prawej"
+wanst_gambler_right_7_1,"Pip pip cheerio. #1.40 Righto, friend!","Pip pip, cała naprzód. #1.40 Zgadza się, przyjacielu!"
+wanst_gambler_right_8_1,Right's the right choice.,Prawy to właściwy wybór.
+wanst_gambler_right_9_1,Take cup right out of sight!,Zabierz prawy kubek sprzed oczu!
+wanst_gambler_right_10_1,Up with the right cup!,Do góry z prawym kubkiem!
+wanst_gambler_gamblerpoint_1_1,Maybe today ain't your day...,Może dziś nie twój dzień...
+wanst_gambler_gamblerpoint_2_1,Maybe today ain't your day...,Może dziś nie twój dzień...
+wanst_gambler_gamblerpoint_3_1,Maybe today just isn't your day.,Może dziś po prostu nie twój dzień.
+wanst_gambler_gamblerpoint_4_1,Maybe today just wasn't your day...,Może dziś po prostu nie był twój dzień...
+wanst_gambler_gamblerpoint_5_1,Hurrhurr.,Hyhy.
+wanst_gambler_gamblerpoint_6_1,Hurrhurrhurr.,Hyhyhy.
+wanst_gambler_gamblerpoint_7_1,Heheheee.,Hehehee.
+wanst_gambler_gamblerpoint_8_1,Whoopsie! #0.80 Guess this one's mine.,Ups! #0.80 Chyba ten jest mój.
+wanst_gambler_gamblerpoint_9_1,Oh whoopsie! #1.30 Guess this one's mine.,"Oh, ups! #1.30 Chyba ten jest mój."
+wanst_gambler_gamblerpoint_10_1,Whoopsie! #0.80 Guess this one's mine.,Ups! #0.80 Chyba ten jest mój.
+wanst_gambler_gamblermatch_1_1,"Heheee, almost there!","Heheee, już prawie!"
+wanst_gambler_gamblermatch_2_1,Haha! #1.00 Almost there.,Haha! #1.00 Już prawie.
+wanst_gambler_gamblermatch_3_1,Almost there.,Już prawie.
+wanst_gambler_gamblermatch_4_1,I can already taste victory.,Już czuję smak zwycięstwa.
+wanst_gambler_gamblermatch_5_1,I can already taste victory.,Już czuję smak zwycięstwa.
+wanst_gambler_gamblermatch_6_1,Alright! #1.20 I feel a winning breeze.,Dobra! #1.20 Czuję zwycięski wiatr.
+wanst_gambler_gamblermatch_7_1,Alright! #1.00 I feel a winning breeze.,Dobra! #1.00 Czuję zwycięski wiatr.
+wanst_gambler_gamblerwin_1_1,That's it pal! #1.30 Better luck next time. #3.30 Yummm!,"I już, kolego! #1.30 Więcej szczęścia następnym razem. #3.30 Pycha!"
+wanst_gambler_gamblerwin_2_1,That's it pal! #1.10 Better luck next time. #2.80 Yummm!,"I już, kolego! #1.10 Więcej szczęścia następnym razem. #2.80 Pycha!"
+wanst_gambler_gamblerwin_3_1,Whoopsie. #1.00 Dinner time!,Ups. #1.00 Pora na obiad!
+wanst_gambler_gamblerwin_4_1,Whoopsie. #1.10 Dinner time!,Ups. #1.10 Pora na obiad!
+wanst_gambler_gamblerwin_5_1,"Oh, whoopsie. #1.60 Dinner time!","Oh, ups. #1.60 Pora na obiad!"
+wanst_gambler_gamblerwin_6_1,You can't always be the lucky one. #2.40 Sharing is caring! #4.20 Prost!,Nie zawsze można być tym szczęściarzem. #2.40 Dzielenie się to opiekowanie się! #4.20 Prost!
+wanst_gambler_gamblerwin_7_1,You can't always be the lucky one. #2.40  Sharing is caring! #4.50 Cheers.,Nie zawsze można być tym szczęściarzem. #2.40 Dzielenie się to opiekowanie się! #4.50 Na zdrowie.
+wanst_gambler_gamblerwin_8_1,You can't always be the lucky one. #2.60 Sharing is caring! #4.50 Prost.,Nie zawsze można być tym szczęściarzem. #2.60 Dzielenie się to opiekowanie się! #4.50 Prost.
+wanst_gambler_playerpoint_1_1,Bring it on!,Dawaj!
+wanst_gambler_playerpoint_2_1,Hell yeah!,"Kurde, tak!"
+wanst_gambler_playerpoint_3_1,Hell yeah!,"Kurde, tak!"
+wanst_gambler_playerpoint_4_1,Hey heyyy.,"Hej, heeej."
+wanst_gambler_playerpoint_reply_1_1,Duuh!,Dooo!
+wanst_gambler_playerpoint_reply_2_1,Huuh?,Hęę?
+wanst_gambler_playerpoint_reply_3_1,D'huh!,Ehh!
+wanst_gambler_playerpoint_reply_4_1,Ugh. #0.60 That doesn't mean anything. #2.20 Next!,Ugh. #0.60 To nic nie znaczy. #2.20 Następny!
+wanst_gambler_playerpoint_reply_5_1,Ugh. #0.60 That doesn't mean anything. #2.20 Next!,Ugh. #0.60 To nic nie znaczy. #2.20 Następny!
+wanst_gambler_playerpoint_reply_6_1,"Okay, that was pure chance.","Okej, to był czysty przypadek."
+wanst_gambler_playerpoint_reply_7_1,"Okay, that was pure chance.","Okej, to był czysty przypadek."
+wanst_gambler_playerpoint_reply_8_1,"Uh, what? #1.00 I must've lost focus there for a second.","Yy, co? #1.00 Musiałem się na sekundę zamyślić."
+wanst_gambler_playerpoint_reply_9_1,"Uh, what? #1.00 I must've lost focus there for a second.","Yy, co? #1.00 Musiałem się na sekundę zamyślić."
+wanst_gambler_playerpoint_reply_10_1,"D'uh, what? #1.30 I must've lost focus there for a second.","Eee, co? #1.30 Musiałem się na sekundę zamyślić."
+wanst_gambler_playerpoint_reply_11_1,"Ugh, I wasn't looking! #1.50 What just happened?","Ugh, nie patrzyłem! #1.50 Co się właśnie stało?"
+wanst_gambler_playerpoint_reply_12_1,"Ugh, I wasn't looking! #1.50 What just happened?","Ugh, nie patrzyłem! #1.50 Co się właśnie stało?"
+wanst_gambler_playermatch_1_1,Alright. #1.20 This is my day!,Dobra. #1.20 To mój dzień!
+wanst_gambler_playermatch_2_1,You're free to give up now to avoid shame.,"Możesz się teraz poddać, żeby uniknąć wstydu."
+wanst_gambler_playerwin_1_1,"No, this can't be!","Nie, to niemożliwe!"
+wanst_gambler_playerwin_2_1,"No, this can't be!","Nie, to niemożliwe!"
+wanst_gambler_playerwin_3_1,No! I never lose!,Nie! Ja nigdy nie przegrywam!
+wanst_gambler_playerwin_4_1,"No, I never lose.","Nie, ja nigdy nie przegrywam."
+wanst_gambler_playerwin_5_1,"Ah man, #1.10 I have let down my kind. #4.00 I'm sorry.","Ech, stary, #1.10 zawiodłem mój gatunek. #4.00 Przepraszam."
+wanst_gambler_playerwin_6_1,Oh no. #1.10 I have let down my kind. #4.00 I'm sorry.,O nie. #1.10 Zawiodłem mój gatunek. #4.00 Przepraszam.
+wanst_gambler_playerwin_7_1,Oh dear. #1.00 I have let down my people. #4.00 Oh I'm sorry.,"O rety. #1.00 Zawiodłem mój lud. #4.00 Ach, przepraszam."
+wanst_gambler_playerwin_8_1,Oh no. #1.30 I have let down my kind. #3.50 I'm sorry.,O nie. #1.30 Zawiodłem mój gatunek. #3.50 Przepraszam.
+wanst_gambler_playerwin_9_1,This is a disgrace! #1.70 Ah well...,"To hańba! #1.70 Ech, trudno..."
+wanst_gambler_playerwin_10_1,This is a disgrace! #1.70 Ah well...,"To hańba! #1.70 Ech, trudno..."
+wanst_gambler_playerwin_reply_1_1,An overwhelming victory #1.80 due to my amazing intellect.,Przytłaczające zwycięstwo #1.80 dzięki mojemu niesamowitemu intelektowi.
+wanst_gambler_playerwin_reply_2_1,It's all skill.,To wszystko umiejętności.
+wanst_gambler_steal_1_1,Whoa! #0.50 The boss doesn't like stealing around here.,Ojej! #0.50 Szef nie lubi tu kradzieży.
+wanst_gambler_steal_2_1,Whoa! #0.70 The boss does not like stealing around here.,Ojej! #0.70 Szef nie lubi tu kradzieży.
+wanst_gambler_steal_3_1,You thief! #0.80 I'm telling the boss.,Złodziej! #0.80 Powiem szefowi.
+wanst_gambler_steal_4_1,You thief! #1.30 I'm telling the boss.,Złodziej! #1.30 Powiem szefowi.
+wanst_gambler_bone_1_1,"Ah, that's my favourite bone!","Ach, to moja ulubiona kość!"
+wanst_gambler_bone_2_1,That's my favourite bone!,To moja ulubiona kość!
+wanst_gambler_bone_3_1,D'ah! #0.60 That's my favourite bone!,Ech! #0.60 To moja ulubiona kość!
+wanst_gambler_bone_4_1,That's my favourite bone!,To moja ulubiona kość!
+wanst_gambler_loiter_1_1,Are you in or out?,Grasz czy nie?
+wanst_gambler_loiter_2_1,"Uhmmm, #1.30 make yourself at home. I guess.","Yyy, #1.30 czuj się jak u siebie. Chyba."
+wanst_gambler_loiter_3_1,"Winning big doesn't come from loafin' around, pal.","Wielkie wygrane nie biorą się z obijania, kolego."
+wanst_gambler_loiter_4_1,"Chup chup, let's play some cups.","Chap chap, zagrajmy w kubki."

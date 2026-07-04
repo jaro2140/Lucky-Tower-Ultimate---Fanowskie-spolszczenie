@@ -1,0 +1,74 @@
+key,en,pl
+excito_door_cleared_perfect_1_1,"Job done.#0.90 But no reward in that chamber, my good sir. #3.50 Sorry!","Zadanie wykonane.#0.90 Ale w tej komnacie nie było żadnej nagrody, mój dobry panie. #3.50 Wybacz!"
+excito_door_cleared_perfect_2_1,"Okay, I'm done here! #1.30 #1.50 No loot though, sorry.","Okej, skończyłem tutaj! #1.30 #1.50 Łupów jednak brak, sorki."
+excito_door_cleared_great_1_1,Room cleared. #1.00 But nothing useful in there.,Pokój oczyszczony. #1.00 Ale nic tam pożytecznego nie było.
+excito_door_cleared_great_2_1,"That was exciting... #1.30 ...and all for nothing, really.","To było ekscytujące... #1.30 ...i to wszystko na darmo, serio."
+excito_door_cleared_good_1_1,This room won't get us anywhere or anything.,Ten pokój nas donikąd nie zaprowadzi ani niczego nie da.
+excito_door_cleared_good_2_1,What a lame room.,Co za żałosny pokój.
+excito_door_cleared_medium_1_1,That was pointless...,To było bez sensu...
+excito_door_cleared_medium_2_1,"Phew, that was random and unneccessary.","Uff, to było przypadkowe i niepotrzebne."
+excito_door_cleared_bummed_1_1,"All work, no pay...","Cała robota, żadnej zapłaty..."
+excito_door_cleared_bummed_2_1,"All cleared, but... yeah. #1.50 Nothing more...","Wszystko oczyszczone, ale... no tak. #1.50 Nic więcej..."
+excito_door_cleared_angry_1_1,Ugh. #0.70 Happy now?,Uch. #0.70 Zadowolony teraz?
+excito_door_cleared_angry_2_1,Now gimme a break.,Teraz daj mi spokój.
+excito_door_exit_perfect_1_1,"Alright, this way pal! #1.50 It's the right door.","Dobra, tędy, ziomek! #1.50 To właściwe drzwi."
+excito_door_exit_perfect_2_1,"He-heyyy, lucky us! #1.80 This room leads us further down!","He-hejże, ale mamy szczęście! #1.80 Ten pokój prowadzi nas dalej w dół!"
+excito_door_exit_great_1_1,"Okay, all done! #1.10 #1.40 This is the way to go.","Okej, gotowe! #1.10 #1.40 Tędy droga."
+excito_door_exit_great_2_1,"I don't want to brag, but...#1.30 ...I found the right way!","Nie chcę się chwalić, ale...#1.30 ...znalazłem właściwą drogę!"
+excito_door_exit_good_1_1,"If we want to go on, this is the way.","Jeśli chcemy iść dalej, to tędy."
+excito_door_exit_good_2_1,This is the correct door. #1.80 You're welcome.,To są właściwe drzwi. #1.80 Nie ma za co.
+excito_door_exit_medium_1_1,"Phew, that was something. #1.50 At least it was the right door.","Uff, to było coś. #1.50 Przynajmniej to były właściwe drzwi."
+excito_door_exit_medium_2_1,Done. Let's go. #1.40 That's the way.,Gotowe. Idziemy. #1.40 To ta droga.
+excito_door_exit_bummed_1_1,Wanna go? #0.80 This is the right door.,Chcesz iść? #0.80 To są właściwe drzwi.
+excito_door_exit_bummed_2_1,At least it was worth it.#1.00 #1.40 This one's correct.,Przynajmniej było warto.#1.00 #1.40 Te są dobre.
+excito_door_exit_angry_1_1,"Let's continue here, and never talk to each other again.",Idźmy dalej i już nigdy więcej ze sobą nie rozmawiajmy.
+excito_door_exit_angry_2_1,Done! #0.60 Let's go already.,Gotowe! #0.60 Idziemy już.
+excito_door_loot_perfect_1_1,It's time for treasure pleasure! #2.00 #2.40 Look at thaaat.,Czas na skarbową zabawę! #2.00 #2.40 Popatrz na toooo.
+excito_door_loot_perfect_2_1,"Toot toot, here's the cute loot!","Tu-tu, słodki łup nadciąga tu!"
+excito_door_loot_perfect_3_1,Eeeey! #0.80 Check this out!,Ejże! #0.80 Zobacz to!
+excito_door_loot_great_1_1,"Hey pal, I got us something!","Hej, ziomek, coś dla nas zdobyłem!"
+excito_door_loot_great_2_1,Acute loot for the good mood! #2.00 Et voila!,Fantastyczny łup na dobry humor! #2.00 Et voila!
+excito_door_loot_good_1_1,Guess it was worth going!,Chyba warto było tam iść!
+excito_door_loot_good_2_1,"Ok, here's what I got.","Okej, oto co znalazłem."
+excito_door_loot_medium_1_1,Looking for this?,Tego szukasz?
+excito_door_loot_medium_2_1,Just gonna drop this junk here...,Po prostu zostawię ten szmelc tutaj...
+excito_door_loot_bummed_1_1,Not gonna carry this further than here...,Dalej tego nie poniosę...
+excito_door_loot_bummed_2_1,Uhm... #0.80 Here you go...,Yyy... #0.80 Proszę bardzo...
+excito_door_loot_angry_1_1,Here! #0.70Take it already!,Masz! #0.70Bierz to już!
+excito_door_loot_angry_2_1,Hujuck!,Hałabała!
+excito_door_boring_perfect_1_1,Whoops! #0.60 That was pointless!,Ups! #0.60 To było bez sensu!
+excito_door_boring_perfect_2_1,"What a lame room! #1.50 Whatever, right?","Co za żałosny pokój! #1.50 Trudno, nie?"
+excito_door_boring_great_1_1,That room. #0.90 What is it good for?,Ten pokój. #0.90 Do czego on się przydaje?
+excito_door_boring_great_2_1,Nothing in there to see!,Nic tam nie ma do oglądania!
+excito_door_boring_good_1_1,Now that room... has nothing for us.,No i ten pokój... nic dla nas nie ma.
+excito_door_boring_good_2_1,What a dull room.,Co za nudny pokój.
+excito_door_boring_medium_1_1,"Yeah, that was pointless...","Tak, to było bez sensu..."
+excito_door_boring_medium_2_1,Nothing to do there. #1.20 Ugh.,Nic tam nie ma do roboty. #1.20 Uch.
+excito_door_boring_bummed_1_1,Wasting more time on pointless rooms. #2.00 #2.50 Cool.,Znowu tracimy czas na bezsensowne pokoje. #2.00 #2.50 Super.
+excito_door_boring_bummed_2_1,I feel like this room. #1.70 Empty.,Czuję się jak ten pokój. #1.70 Pusty.
+excito_door_boring_angry_1_1,"Yeah, that sucked.","Tak, to było do kitu."
+excito_door_boring_angry_2_1,"Stupid room, stupid adventure.","Głupi pokój, głupia przygoda."
+excito_door_obstacle_perfect_1_1,"This might be something for your enormous wit, my friend.","To może być coś dla twojego ogromnego rozumu, przyjacielu."
+excito_door_obstacle_perfect_2_1,"Hey pal, I really can't help you with that.","Hej, ziomek, tu naprawdę nie mogę ci pomóc."
+excito_door_obstacle_great_1_1,Brute force won't get us anywhere here. #2.30 I think we need your smart art.,Brutalna siła nic tu nie da. #2.30 Chyba potrzebujemy twojej mądrości.
+excito_door_obstacle_great_2_1,"I can't punch puzzles in the face. #1.90 So you gotta give this one a try yourself, pal.","Nie umiem walnąć zagadki w twarz. #1.90 Więc musisz sam spróbować, ziomek."
+excito_door_obstacle_good_1_1,This room needs a mastermind. #1.90 Not the blaster kind like me. #3.80 So take a look yourself.,Ten pokój wymaga geniusza. #1.90 Nie takiego łomciarza jak ja. #3.80 Więc sam rzuć na to okiem.
+excito_door_obstacle_good_2_1,I'm really bad at puzzles. #1.70 Sorry.,Jestem naprawdę słaby w zagadkach. #1.70 Wybacz.
+excito_door_obstacle_medium_1_1,You'll need to handle this one yourself.,Z tym musisz poradzić sobie sam.
+excito_door_obstacle_medium_2_1,"I'm here for adventures, not thinking....","Jestem tu od przygód, nie od myślenia...."
+excito_door_obstacle_bummed_1_1,I have no idea what this room is about.,"Nie mam pojęcia, o co chodzi w tym pokoju."
+excito_door_obstacle_bummed_2_1,I don't feel like even trying here.,Nawet nie mam ochoty tu próbować.
+excito_door_obstacle_angry_1_1,You know: This room sucks. #2.00 Like you. #3.00 So you might want to check it out yourself.,Wiesz co: ten pokój jest do kitu. #2.00 Tak jak ty. #3.00 Więc może sam go sprawdź.
+excito_door_obstacle_angry_2_1,This room is made for someone more simple-minded.#2.30 #2.80 I was thinking about you.,Ten pokój jest stworzony dla kogoś prostszego umysłowo.#2.30 #2.80 Miałem na myśli ciebie.
+excito_door_cauldron_1_1,They're cooking up trouble in this room!,W tym pokoju gotują kłopoty!
+excito_door_cauldron_2_1,This seems to be a kitchen for...#1.50 ...hardly edible stuff.#3.00 #3.50 Gross!,To wygląda jak kuchnia dla...#1.50 ...ledwo jadalnych rzeczy.#3.00 #3.50 Ohyda!
+excito_door_cauldron_3_1,I almost ended up as an ingredient in there!,"Mało brakowało, a skończyłbym tam jako składnik!"
+excito_door_cauldron_4_1,They're serving punches and magic lunches in there. #2.80 Watch out!,Serwują tam kuksańce i magiczne obiadańce. #2.80 Uważaj!
+excito_door_doom_1_1,Don't fall for this room! #1.30 It's a trap!,Nie daj się nabrać na ten pokój! #1.30 To pułapka!
+excito_door_doom_2_1,"Go in there, if you're into rooms without floors.","Wejdź tam, jeśli lubisz pokoje bez podłogi."
+excito_door_gambler_1_1,Looks like some sort of casino in there.,"Wygląda na to, że to jakieś kasyno."
+excito_door_gambler_2_1,There's some nice prizes to win in there...,Są tam jakieś fajne nagrody do wygrania...
+excito_door_doom_1_1,Don't fall for this room! #1.30 It's a trap!,Nie daj się nabrać na ten pokój! #1.30 To pułapka!
+excito_door_doom_2_1,Go in there if you're into rooms without floors.,"Wejdź tam, jeśli lubisz pokoje bez podłogi."
+excito_door_boring_good_1_1,Now that room has nothing for us...,No i ten pokój nic dla nas nie ma...
+excito_door_boring_good_2_1,What a dull room.,Co za nudny pokój.

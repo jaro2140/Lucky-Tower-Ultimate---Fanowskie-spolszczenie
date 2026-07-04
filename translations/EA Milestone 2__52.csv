@@ -1,0 +1,246 @@
+key,en,pl
+wanst_pipefitter_intro_1_1,Umm... #1.00 what's happening here?,Umm... #1.00 co tu się dzieje?
+wanst_pipefitter_intro_1_2,Hullo! #0.90 We're the Pipefitter Sisters!,Witaj! #0.90 Jesteśmy Siostrami Hydrauliczkami!
+wanst_pipefitter_intro_1_3,How's business going? #1.40 All pipin'?,Jak interesy? #1.40 Wszystko rurowo?
+wanst_pipefitter_intro_1_4,"Not good, actually. #1.50 Pit latrines are making a comeback... #3.50 and putting a squeeze on our business. #5.50 I have a splendid idea though, hehe. #8.30 Want to hear it?","Właściwie niedobrze. #1.50 Dołki kloaczne wracają do łask... #3.50 i przyciskają nasz biznes. #5.50 Mam jednak wspaniały pomysł, hehe. #8.30 Chcesz go usłyszeć?"
+wanst_pipefitter_intro_1_5,Sure!,Jasne!
+wanst_pipefitter_intro_1_6,"We could tap into the tower's pipe system, #2.30 so it can be used to send goods outside! #4.80 But the pipes in the tower are all wrecked, #7.50 and we need someone to fix them from the inside...","Mogłybyśmy podpiąć się do systemu rur w wieży, #2.30 żeby wysyłać towary na zewnątrz! #4.80 Ale rury w wieży są całe rozwalone, #7.50 i potrzebujemy kogoś, kto naprawi je od środka..."
+wanst_pipefitter_intro_1_7,They call me the plumber's helper!,Mówią na mnie pomocnik hydraulika!
+wanst_pipefitter_intro_1_8,"Marvelous, sir! Thank you, hehe. #3.50 Once you're done, we'll make a delicious profit from the tower!","Cudownie, panie! Dziękujemy, hehe. #3.50 Gdy skończysz, zbijemy na tej wieży przepyszny zysk!"
+wanst_pipefitter_intro_1_9,Let's turn this pipe dream into a pipe scheme!,Zmieńmy to rurowe marzenie w rurowy przekręt!
+wanst_pipefitter_intro_1_10,Take this gasket to fix the first pipe — #2.70 and come back when you need more.,"Weź tę uszczelkę, żeby naprawić pierwszą rurę — #2.70 i wróć, kiedy będziesz potrzebował więcej."
+wanst_pipefitter_gasketreturn_1_1_a,Any luck fixing the pipes yet?,Jakieś postępy z naprawą rur?
+wanst_pipefitter_gasketreturn_1_1_b,Do you need directions? #1.80 You can see the tower from basically anywhere...,Potrzebujesz wskazówek? #1.80 Wieżę widać właściwie z każdego miejsca...
+wanst_pipefitter_gasketreturn_1_1_c,Maybe a drink at the tavern #1.70 will boost your confidence to go back in?,"Może drink w tawernie #1.70 doda ci odwagi, żeby wrócić do środka?"
+wanst_pipefitter_gasketreturn_1_2_a,"Take good care of that gasket, though.",Tylko dobrze dbaj o tę uszczelkę.
+wanst_pipefitter_gasketreturn_1_2_b,We gave you the tools. #1.80 Now it's your turn.,Dałyśmy ci narzędzia. #1.80 Teraz twoja kolej.
+wanst_pipefitter_gasketreturn_1_2_c,"As for that gasket, #1.70 I think it's pretty obvious how it works...","Co do tej uszczelki, #1.70 myślę, że jej działanie jest dość oczywiste..."
+wanst_pipefitter_gasketsuccess_1_1_a,One pipe down! #1.30 I need another ringy thingy.,Jedna rura z głowy! #1.30 Potrzebuję kolejnej okrągłej rzeczy.
+wanst_pipefitter_gasketsuccess_1_1_b,Okay! #0.90 I need another gasket #2.20 for the adventure basket!,Okej! #0.90 Potrzebuję kolejnej uszczelki #2.20 do przygodowej sakiewki!
+wanst_pipefitter_gasketsuccess_1_1_c,"I have been successful! #2.00 Awesome, right? #3.20 Let's level up!","Odniosłem sukces! #2.00 Wspaniale, prawda? #3.20 Przechodzimy poziom wyżej!"
+wanst_pipefitter_gasketsuccess_1_2_a,Marvelous. #1.40 Here you go!,Cudownie. #1.40 Proszę bardzo!
+wanst_pipefitter_gasketsuccess_1_2_b,Okaaaay! #1.80 Way to go.,Okeeej! #1.80 Tak trzymaj.
+wanst_pipefitter_gasketsuccess_1_2_c,Alright. #1.20 Keep it up!,Dobrze. #1.20 Oby tak dalej!
+wanst_pipefitter_gasketfail_1_1_a,Ummm... #0.80 that gasket jumped the basket. #2.70 Can I get another one?,Ummm... #0.80 ta uszczelka wyskoczyła z koszyczka. #2.70 Mogę dostać kolejną?
+wanst_pipefitter_gasketfail_1_1_b,"Erm, I need another gasket. #2.20 Sorry!","Eee, potrzebuję kolejnej uszczelki. #2.20 Wybaczcie!"
+wanst_pipefitter_gasketfail_1_1_c,"For unknown reasons, #1.60 I was not successful. #3.50 Still got those rings?","Z nieznanych przyczyn, #1.60 nie odniosłem sukcesu. #3.50 Macie jeszcze te krążki?"
+wanst_pipefitter_gasketfail_1_2_a,"Luckily, my sister just finished a new one! #3.20 Here you go.",Na szczęście moja siostra właśnie skończyła nową! #3.20 Proszę.
+wanst_pipefitter_gasketfail_1_2_b,"These don't grow on trees, sir. #2.10 My sister has to craft them with her teeth.","One nie rosną na drzewach, panie. #2.10 Moja siostra musi je wyrabiać zębami."
+wanst_pipefitter_gasketfail_1_2_c,"You're supposed to fix the pipes, #2.20 not hoolahoop into certain death.","Miałeś naprawiać rury, #2.20 a nie hula-hopować prosto w pewną śmierć."
+wanst_pipefitter_repairintro_1_1_a,Great success! #1.30 I finished my part!,Wielki sukces! #1.30 Skończyłem swoją część!
+wanst_pipefitter_repairintro_1_1_b,Alright! #1.20 The pipe is ripe!,Dobra! #1.20 Rura jest dojrzała!
+wanst_pipefitter_repairintro_1_1_c,"So, I've done what I did do!","A więc zrobiłem to, co zrobiłem!"
+wanst_pipefitter_repairintro_1_2_a,"Amazing! #1.20 Now we can extend the pipe system from the tower to our shop. #5.20 Rather... we could, #6.80 if we had the funds to do so. #9.00 Pay up, #10.0 and we can start getting the best out of the tower!","Niesamowite! #1.20 Teraz możemy przedłużyć system rur z wieży do naszego sklepu. #5.20 To znaczy... mogłybyśmy, #6.80 gdybyśmy miały na to fundusze. #9.00 Zapłać, #10.0 a zaczniemy wyciągać z wieży to, co najlepsze!"
+wanst_pipefitter_repairintro_1_3_a,What? #0.80 Good thing I didn't know I'd have to work #2.40 AND pay from the start...,"Co? #0.80 Dobrze, że od początku nie wiedziałem, że będę musiał pracować #2.40 I płacić..."
+wanst_pipefitter_repairintro_1_4_a,"Well, let us know if you're up for the deal...","Cóż, daj nam znać, jeśli wchodzisz w ten układ..."
+wanst_pipefitter_repairintro_1_5_a,"If you have enough money in your bank account, #3.30 we'd be very happy to deduct it for... #5.80 the greater good.","Jeśli masz dość pieniędzy na koncie, #3.30 z wielką radością potrącimy je dla... #5.80 większego dobra."
+wanst_pipefitter_repairintro_1_5_b,"If you've got enough funds in your account, #2.50 I'll have my sister get to work right away!","Jeśli masz wystarczające środki na koncie, #2.50 od razu wyślę siostrę do pracy!"
+wanst_pipefitter_repairintro_1_5_c,"We'll nibble the coins right off your bank account, #3.20 if you're up for it.","Obgryziemy monety prosto z twojego konta, #3.20 jeśli masz na to ochotę."
+wanst_pipefitter_payrepair_1_1_a,Okay! #1.00 I'll invest in this pest!,Dobra! #1.00 Zainwestuję w tego szkodnika!
+wanst_pipefitter_payrepair_1_1_b,"Sure, take my money! #1.60 That doesn't sound shady at all.","Jasne, bierzcie moje pieniądze! #1.60 To wcale nie brzmi podejrzanie."
+wanst_pipefitter_payrepair_1_1_c,Putting the fiscal back into beneficial!,Wkładam fiskalność z powrotem w pożyteczność!
+wanst_pipefitter_payrepairsuccess_1_1_a,"Swell! #1.00 I'll send my sister in right away, #3.00 so she can set up the apparatus.","Świetnie! #1.00 Zaraz wyślę siostrę do środka, #3.00 żeby rozstawiła aparaturę."
+wanst_pipefitter_payrepairsuccess_1_1_b,"Okay, sister! #1.40 We got ourselves a project. #3.00 In you go!","Dobra, siostro! #1.40 Mamy projekt. #3.00 Wchodzisz!"
+wanst_pipefitter_payrepairsuccess_1_1_c,"Alright, almost there! #2.00 My sister will get to building right away. #4.70 When you're in next time, #6.20 she'll take care of your transportation needs.","Dobra, prawie gotowe! #2.00 Moja siostra zaraz zabierze się za budowę. #4.70 Gdy następnym razem wejdziesz do środka, #6.20 zadba o twoje potrzeby transportowe."
+wanst_pipefitter_payrepairsuccess_1_2_a,Hot! #0.80 I'm hyped for the pipes!,Gorąco! #0.80 Jestem nakręcony na rury!
+wanst_pipefitter_payrepairsuccess_1_2_b,Nice! #0.60 I'll never have to work again.,Super! #0.60 Już nigdy nie będę musiał pracować.
+wanst_pipefitter_payrepairsuccess_1_2_c,Neat. #1.00 Pipe is my favourite shape.,Zgrabnie. #1.00 Rura to mój ulubiony kształt.
+wanst_pipefitter_payrepairdecline_1_1_a,I suddenly object to the presence of pipes. #2.60 Sorry.,Nagle sprzeciwiam się obecności rur. #2.60 Przepraszam.
+wanst_pipefitter_payrepairdecline_1_1_b,I have bad memories about pipes. #2.20 I need to give this a second thought.,Mam złe wspomnienia z rurami. #2.20 Muszę to jeszcze przemyśleć.
+wanst_pipefitter_payrepairdecline_1_1_c,These pipes have started feeling like a money drain.,Te rury zaczęły wyglądać jak odpływ pieniędzy.
+wanst_pipefitter_payrepairdecline_1_2_a,"Okay, as you please. #2.00 I have a nagging feeling it'd be of #4.30 great mutual benefit to everyone involved, though.","Dobrze, jak sobie życzysz. #2.00 Mam jednak natrętne wrażenie, że byłoby to #4.30 z wielką wzajemną korzyścią dla wszystkich zainteresowanych."
+wanst_pipefitter_payrepairdecline_1_2_b,You just don't know what's best for you... #2.50 let us know if you change your mind.,"Po prostu nie wiesz, co jest dla ciebie najlepsze... #2.50 daj nam znać, jeśli zmienisz zdanie."
+wanst_pipefitter_payrepairdecline_1_2_c,"Is it really such a tough decision? #2.50 You know where to find us, #4.10 if you come to your senses...","Czy to naprawdę taka trudna decyzja? #2.50 Wiesz, gdzie nas znaleźć, #4.10 jeśli odzyskasz rozsądek..."
+wanst_pipefitter_payrepairfail_1_1_a,"We'd love to get to it, #1.50 but it seems you're out of money...","Chętnie byśmy się tym zajęły, #1.50 ale wygląda na to, że skończyły ci się pieniądze..."
+wanst_pipefitter_payrepairfail_1_1_b,"Umm, #1.00 looks like you'll need to save up some more coins first...","Umm, #1.00 wygląda na to, że najpierw musisz odłożyć więcej monet..."
+wanst_pipefitter_payrepairfail_1_1_c,We appreciate your initiative. #2.40 But it looks like you don't have enough #4.20 money in your account right now.,"Doceniamy twoją inicjatywę. #2.40 Ale wygląda na to, że nie masz teraz dość #4.20 pieniędzy na koncie."
+wanst_pipefitter_repair_1_1_a,So... #0.90 about paying for that pipe system...,Więc... #0.90 co do zapłaty za ten system rur...
+wanst_pipefitter_repair_1_1_b,"Hey, I did some contemplating #1.90 about you ripping me off...","Hej, trochę rozmyślałem #1.90 o tym, jak mnie zdzieracie..."
+wanst_pipefitter_repair_1_1_c,"Umm, are you still charging #2.00 a huge pile of money #3.30 for building pipes?","Umm, czy nadal liczycie sobie #2.00 wielką kupę pieniędzy #3.30 za budowanie rur?"
+wanst_pipefitter_repair_1_2_a,...yes. #1.50 Would you like to invest?,...tak. #1.50 Chcesz zainwestować?
+wanst_pipefitter_repair_1_2_b,Sure. #1.20 Ready to put your money where our pipes are?,"Jasne. #1.20 Gotów położyć pieniądze tam, gdzie nasze rury?"
+wanst_pipefitter_repair_1_2_c,Welcome back. #1.40 Did you make up your mind?,Witaj ponownie. #1.40 Podjąłeś decyzję?
+wanst_pipefitter_item_1_1_a,New arrival!,Nowa dostawa!
+wanst_pipefitter_item_1_1_b,This is what came through the pipe today.,To dzisiaj przyszło rurą.
+wanst_pipefitter_item_1_1_c,Look what came in today.,"Zobacz, co dziś wpadło."
+wanst_pipefitter_item_1_1_d,This just came in.,To właśnie przyszło.
+wanst_pipefitter_item_1_1_e,Fresh delivery!,Świeża dostawa!
+wanst_pipefitter_item_1_1_f,Hot off the pipe!,Prosto z rury!
+wanst_pipefitter_item_1_2_a,Want to purchase this beaut?,Chcesz kupić tę ślicznotkę?
+wanst_pipefitter_item_1_2_b,Want it?,Chcesz to?
+wanst_pipefitter_item_1_2_c,Is it yours?,Twoje?
+wanst_pipefitter_item_1_2_d,Care to claim this one?,Masz ochotę to odebrać?
+wanst_pipefitter_item_1_2_e,Interested?,Zainteresowany?
+wanst_pipefitter_item_1_2_f,Could this be yours?,Czy to może być twoje?
+wanst_pipefitter_noitem_1_1_a,I got nothing new for you.,Nie mam dla ciebie nic nowego.
+wanst_pipefitter_noitem_1_1_b,"No new arrivals right now, sir.","Na razie brak nowych dostaw, panie."
+wanst_pipefitter_noitem_1_1_c,"Throw an item down the pipe in the tower, #2.50 and my sister will retrieve it.","Wrzuć przedmiot do rury w wieży, #2.50 a moja siostra go odzyska."
+wanst_pipefitter_noitem_1_1_d,Threw anything down the drain lately?,Ostatnio wrzucałeś coś do odpływu?
+wanst_pipefitter_noitem_1_1_e,"If you throw something down the pipes in the tower, #3.00 I'll have it ready for you here.","Jeśli wrzucisz coś do rur w wieży, #3.00 przygotuję ci to tutaj."
+wanst_pipefitter_payitem_1_1_a,Deal!,Umowa!
+wanst_pipefitter_payitem_1_1_b,Gimme that!,Dawaj to!
+wanst_pipefitter_payitem_1_1_c,Yuss!,Jeeest!
+wanst_pipefitter_payitemsuccess_1_1_a,You got it!,Masz to!
+wanst_pipefitter_payitemsuccess_1_1_b,Enjoy!,Miłego używania!
+wanst_pipefitter_payitemsuccess_1_1_c,Here you go!,Proszę bardzo!
+wanst_pipefitter_payitemsuccess_1_1_d,You're welcome!,Nie ma za co!
+wanst_pipefitter_payitemsuccess_1_1_e,Here’s your stuff!,Oto twoje rzeczy!
+wanst_pipefitter_payitemsuccess_1_1_f,It’s all yours!,Wszystko twoje!
+wanst_pipefitter_payitemfail_1_1_a,"It's hard work for my sister, #2.50 crawling in those pipes... #4.50 come back when you can afford our services.","To ciężka praca dla mojej siostry, #2.50 pełzać w tych rurach... #4.50 wróć, kiedy będzie cię stać na nasze usługi."
+wanst_pipefitter_payitemfail_1_1_b,"Sorry, sir. #1.30 You need to be able to cover the fee...","Przykro mi, panie. #1.30 Musi cię być stać na opłatę..."
+wanst_pipefitter_payitemfail_1_1_c,"Mmm, #0.80 it looks like you're short on funds. #3.20 We need to be able to stay afloat, sir. #5.50 Sorry.","Mmm, #0.80 wygląda na to, że brakuje ci środków. #3.20 Musimy utrzymać się na powierzchni, panie. #5.50 Przykro mi."
+wanst_pipefitter_payitemdecline_1_1_a,"Uhhh sorry, #1.00 I don't buy items from the pipe.","Uch, przepraszam, #1.00 nie kupuję przedmiotów z rury."
+wanst_pipefitter_payitemdecline_1_1_b,No thanks. #0.90 I decided I need to purchase fewer from the sewer.,"Nie, dzięki. #0.90 Uznałem, że muszę mniej kupować z kanału."
+wanst_pipefitter_payitemdecline_1_1_c,I don't trust pipes. #1.50 Sorry.,Nie ufam rurom. #1.50 Przepraszam.
+wanst_pipefitter_payitemdecline_1_2_a,Okay. #1.00 Let me know if you change your mind.,"Dobrze. #1.00 Daj znać, jeśli zmienisz zdanie."
+wanst_pipefitter_payitemdecline_1_2_b,Alright. #0.90 As you please.,W porządku. #0.90 Jak sobie życzysz.
+wanst_pipefitter_payitemdecline_1_2_c,"Well, why did you send it here #1.90 in the first place then?","Cóż, to po co w ogóle #1.90 przysłałeś to tutaj?"
+wanst_bard_first_1_1,Do I smell a struggling musician?,Czy czuję woń zmagającego się muzyka?
+wanst_bard_first_1_2,"If you smell, you can tell! #3.50 Sadly I don't have an instrument anymore. #6.00 The folks in my old town didn't like the sound my trumpet, #9.00 so they fed it to a donkey and chased me off.","Jeśli czujesz, to wiesz! #3.50 Niestety nie mam już instrumentu. #6.00 Ludziom w moim starym mieście nie podobał się dźwięk mojej trąbki, #9.00 więc nakarmili nią osła i mnie przegonili."
+wanst_bard_first_1_3,I'll let you know when I come across #1.50 some toottoots or bingbangs.,"Dam ci znać, gdy natknę się #1.50 na jakieś tu-tu albo bim-bam."
+wanst_bard_first_1_4,Alas! #1.30 My savior!,Niestety! #1.30 Mój wybawca!
+wanst_bard_smalltalk_1_1_a,So how's the music biz?,Jak tam muzyczny biznes?
+wanst_bard_smalltalk_1_1_b,"How's the jams, my fellow troubadour?","Jak tam dżemy, mój współtrubadurze?"
+wanst_bard_smalltalk_1_1_c,"Hey buddy, is free jazz legal now?","Hej, kolego, czy free jazz jest już legalny?"
+wanst_bard_smalltalk_1_2_a,This city has a very sophisticated crowd. #3.50 I'll need to win them over with something #6.00 they've never heard before.,"To miasto ma bardzo wyrafinowaną publikę. #3.50 Muszę podbić ją czymś, #6.00 czego nigdy wcześniej nie słyszała."
+wanst_bard_smalltalk_1_2_b,"I am willing to starve for my art... #3.50 although some food would be nice, #6.00 from time to time.","Jestem gotów głodować dla sztuki... #3.50 choć trochę jedzenia byłoby miłe, #6.00 od czasu do czasu."
+wanst_bard_smalltalk_1_2_c,There used to be way more people out in the streets. #3.50 I wonder if the plague is slowly suffocating this town...,"Kiedyś na ulicach było znacznie więcej ludzi. #3.50 Ciekawe, czy zaraza powoli dusi to miasto..."
+wanst_bard_drop_1_1,Here's a tool for your tune!,Oto narzędzie dla twojej melodii!
+wanst_bard_drop_2_1,"Here you go, troubadourman!","Proszę bardzo, trubadurowieku!"
+wanst_bard_drop_3_1,Want to give this a try?,Chcesz tego spróbować?
+wanst_bard_newinstrument_1_1,How delightful— #1.50 my gratitude is yours!,Jakże rozkosznie— #1.50 moja wdzięczność należy do ciebie!
+wanst_bard_newinstrument_2_1,"Truly, you are a champion of artistry and grace!","Zaprawdę, jesteś czempionem artyzmu i gracji!"
+wanst_bard_newinstrument_3_1,You are a true supporter of the arts!,Jesteś prawdziwym mecenasem sztuki!
+//anim break,Bard plays a little.,Bard gra przez chwilę.
+row158,"A window nearby opens, someone throws an item at the bard. The bard is startled. Someone shouts:","W pobliżu otwiera się okno, ktoś rzuca przedmiotem w barda. Bard się wzdryga. Ktoś krzyczy:"
+wanst_bard_windowthrow_1_1,Stop this ruckus! #1.50 Shush!,Przestań z tym hałasem! #1.50 Cicho!
+wanst_bard_windowthrow_2_1,Bugger off!,Spadaj!
+wanst_bard_windowthrow_3_1,I hate jazz!,Nienawidzę jazzu!
+wanst_bard_windowthrow_4_1,Have mercy on my eardrums!,Zlituj się nad moimi bębenkami!
+//anim break?,Bard hides the instrument in his home,Bard chowa instrument w swoim domu
+wanst_bard_wrapup_1_1,"What a tough crowd. #2.00 Perhaps they want something more avant-garde? #5.50 If you happen to find a different instrument, #7.50 I'd love to give it another try.","Co za trudna publiczność. #2.00 Może chcą czegoś bardziej awangardowego? #5.50 Jeśli znajdziesz inny instrument, #7.50 chętnie spróbuję jeszcze raz."
+wanst_bard_wrapup_2_1,"Umm, #1.00 seems like they don't enjoy the dulcet tones of this one. #4.50 I will need something else... #6.00 an instrument that will please their acquired taste.","Umm, #1.00 wygląda na to, że nie podobają im się słodkie tony tego instrumentu. #4.50 Będę potrzebował czegoś innego... #6.00 instrumentu, który zadowoli ich wyrobiony gust."
+wanst_bard_wrapup_3_1,"I'm starting to feel that is not the sound of this city. #4.50 If you come across a different instrument, #7.50 they'll surely enjoy it more.","Zaczynam czuć, że to nie jest brzmienie tego miasta. #4.50 Jeśli natkniesz się na inny instrument, #7.50 na pewno spodoba im się bardziej."
+row167,Bard wanders off. You may collect the thrown item as reward.,Bard odchodzi. Możesz zebrać rzucony przedmiot jako nagrodę.
+wanst_bard_oldinstrument_1_1,"This one didn't win over the crowd, remember? #3.00 I'd much rather try a different one... #5.30 something that will truly make my tunes shine.","Ten nie podbił publiczności, pamiętasz? #3.00 Wolałbym spróbować innego... #5.30 czegoś, co naprawdę rozświetli moje melodie."
+wanst_bard_oldinstrument_2_1,"Um, I tried that one before. #3.00 The crowd hated it... #5.00 it was probably an outdated sound.","Um, próbowałem już tego. #3.00 Publiczność tego nienawidziła... #5.00 to pewnie przestarzałe brzmienie."
+wanst_bard_oldinstrument_3_1,I almost got killed for playing that one. #3.00 This crowd wants something fresh and new.,Prawie mnie zabili za granie na tym. #3.00 Ta publiczność chce czegoś świeżego i nowego.
+wanst_bard_finalinstrument_1_1,"Ooooh, I just had an idea!","Ooooch, właśnie wpadłem na pomysł!"
+wanst_bard_finalinstrument_1_2,Nice... #0.70 I like ideas!,Ładnie... #0.70 Lubię pomysły!
+//anim break,Bard assembles masterinstrument.,Bard składa arcyinstrument.
+wanst_bard_masterstart_1_1,Look at this: #1.20 I assembled it from all the other instruments! #4.00 Now we'll play the true avant-garde sounds #7.00 this city craves.,"Spójrz na to: #1.20 złożyłem go ze wszystkich innych instrumentów! #4.00 Teraz zagramy prawdziwie awangardowe dźwięki, #7.00 których pragnie to miasto."
+//anim break?,"Plays a note. It sounds ""intense"".",Gra nutę. Brzmi „intensywnie”.
+row187,"A window nearby opens, someone throws an item at the bard. The bard is startled. Someone shouts:","W pobliżu otwiera się okno, ktoś rzuca przedmiotem w barda. Bard się wzdryga. Ktoś krzyczy:"
+wanst_bard_windowmaster_1_1,This is the worst one yet!,To najgorszy z dotychczasowych!
+wanst_bard_leave_1_1,"If that didn't do the trick, #1.90 this city is no place for me anymore. #4.40 Tell me, #5.20 where did you find these instruments?","Jeśli to nie pomogło, #1.90 to miasto nie jest już dla mnie. #4.40 Powiedz mi, #5.20 gdzie znalazłeś te instrumenty?"
+wanst_bard_leave_1_2,"Well, from that tower over yonder... #2.40 you can teleport into it from the tavern's toilet, for some reason. #5.00 There's a band playing there, but...","Cóż, w tamtej wieży... #2.40 z jakiegoś powodu można się do niej teleportować z toalety w tawernie. #5.00 Gra tam zespół, ale..."
+wanst_bard_leave_1_3,"A band? #1.10 I need to join them! #2.50 Thanks for helping me out, #3.70 but now I have to split. #5.00 Farewell!","Zespół? #1.10 Muszę do nich dołączyć! #2.50 Dzięki za pomoc, #3.70 ale teraz muszę się zmywać. #5.00 Żegnaj!"
+//anim break,"Bard wanders off, playing his new instrument. If you follow his path to the tavern, you'll find a trail of items people threw at him.","Bard odchodzi, grając na swoim nowym instrumencie. Jeśli pójdziesz jego śladem do tawerny, znajdziesz szlak przedmiotów, które ludzie w niego rzucali."
+wanst_bard_windowfinal_1_1,"Finally, some peace. #1.50 Jeez.",Wreszcie trochę spokoju. #1.50 Rany.
+wanst_bard_final_1_1,My ears are still ringing...,Wciąż dzwoni mi w uszach...
+wanst_bard_final_1_2,I hope he will be happy in the tower. #2.50 Although a reward would have been nice...,"Mam nadzieję, że będzie szczęśliwy w wieży. #2.50 Chociaż nagroda byłaby miła..."
+wanst_snogly_1_1,Snogly,Snogly
+wanst_snoffles_1_1,Snoffles,Snoffles
+wanst_snobbles_1_1,Snobbles,Snobbles
+wanst_snowy_1_1,Snowy,Snowy
+wanst_snoddles_1_1,Snoddles,Snoddles
+wanst_pugly_1_1,Pugly,Pugly
+wanst_puffles_1_1,Puffles,Puffles
+wanst_pubbles_1_1,Pubbles,Pubbles
+wanst_puwy_1_1,Puwy,Puwy
+wanst_puddles_1_1,Puddles,Puddles
+wanst_bugly_1_1,Bugly,Bugly
+wanst_buffles_1_1,Buffles,Buffles
+wanst_bubbles_1_1,Bubbles,Bubbles
+wanst_buwy_1_1,Buwy,Buwy
+wanst_buddles_1_1,Buddles,Buddles
+wanst_snugly_1_1,Snugly,Snugly
+wanst_snuffles_1_1,Snuffles,Snuffles
+wanst_snubbles_1_1,Snubbles,Snubbles
+wanst_snuwy_1_1,Snuwy,Snuwy
+wanst_snuddles_1_1,Snuddles,Snuddles
+wanst_snigly_1_1,Snigly,Snigly
+wanst_sniffles_1_1,Sniffles,Sniffles
+wanst_snibbles_1_1,Snibbles,Snibbles
+wanst_sniwy_1_1,Sniwy,Sniwy
+wanst_sniddles_1_1,Sniddles,Sniddles
+row239,//see trap,//zobacz pułapkę
+wanst_encounter_snowypuffles_1_1,Hmmm I think I've seen these names #2.10 somewhere before...,"Hmmm, chyba już gdzieś widziałem te imiona #2.10 wcześniej..."
+wanst_encounter_snowypuffles_2_1,These are some odd names for doors.,To dość dziwne imiona dla drzwi.
+wanst_encounter_snowypuffles_3_1,"Three oddly named doors, #2.30 seems like I have a decision to make.","Troje dziwnie nazwanych drzwi, #2.30 wygląda na to, że muszę podjąć decyzję."
+wanst_encounter_snowypuffles_4_1,Whoever named these doors must've hated them...,"Ktokolwiek nazwał te drzwi, musiał ich nienawidzić..."
+wanst_encounter_snowypuffles_5_1,"These doors won't lead to anything good, #2.00 judging by those crude names...","Te drzwi nie prowadzą do niczego dobrego, #2.00 sądząc po tych topornych nazwach..."
+wanst_encounter_snowypuffles_6_1,My first pets' name was muggly.,Mój pierwszy zwierzak miał na imię Muggly.
+row246,//enter room,//wejdź do pokoju
+wanst_snowypuffles_1_1,What's with the straw on the floor?,Co z tą słomą na podłodze?
+wanst_snowypuffles_2_1,Mmm I expected worse from that name.,"Mmm, spodziewałem się po tej nazwie czegoś gorszego."
+wanst_snowypuffles_3_1,What an ugly creature!,Co za paskudne stworzenie!
+wanst_snowypuffles_4_1,What is this abomination?,Co to za wynaturzenie?
+wanst_snowypuffles_5_1,He lives up to his name.,Dorasta do swojego imienia.
+wanst_snowypuffles_6_1,"Actually, this creature seems kind of cute.",Właściwie to stworzenie wydaje się całkiem urocze.
+wanst_snowypuffles_7_1,What twisted experiment created this monstrosity?,Jaki pokręcony eksperyment stworzył tę potworność?
+wanst_snowypuffles_8_1,"Awww, isn't he cute?","Awww, czyż on nie jest słodki?"
+row257,//see item,//zobacz przedmiot
+wanst_encounter_bardcorpse_1_1,"The world has lost a poet, #2.00 but your death will not be in vain. #3.80 I'll make sure of that!","Świat stracił poetę, #2.00 ale twoja śmierć nie pójdzie na marne. #3.80 Dopilnuję tego!"
+wanst_encounter_bardcorpse_2_1,Mmm I guess he was rejected from the band. #2.70 Must have been a killer performance.,"Mmm, chyba odrzucili go z zespołu. #2.70 To musiał być zabójczy występ."
+wanst_encounter_bardcorpse_3_1,"I'm sorry, bard. #1.50 You were just born into the wrong generation.","Przykro mi, bardzie. #1.50 Po prostu urodziłeś się w złym pokoleniu."
+wanst_encounter_bardcorpse_4_1,"The world may have silenced you, #1.90 but it will never silence the tinnitus #4.00 you left in our ears.","Świat może cię uciszył, #1.90 ale nigdy nie uciszy szumu w uszach, #4.00 który nam zostawiłeś."
+wanst_encounter_bardcorpse_5_1,"Art like yours should have lived forever, #2.30 but the tune was cut short.","Sztuka taka jak twoja powinna żyć wiecznie, #2.30 ale melodia została przerwana."
+wanst_encounter_bardcorpse_6_1,"You sang of legends, bard. #1.80 And now you are one of them.","Śpiewałeś o legendach, bardzie. #1.80 A teraz sam jesteś jedną z nich."
+wanst_encounter_bardcorpse_7_1,Your music will live on. #1.80 At least it's still ringing in my ear.,Twoja muzyka przetrwa. #1.80 Przynajmniej wciąż dzwoni mi w uchu.
+row266,//grab item,//podnieś przedmiot
+wanst_pickup_bardcorpse_1_1,Let's get the band back together.,Zbierzmy zespół z powrotem.
+row270,//attack with item,//atak przedmiotem
+wanst_attack_bardcorpse_1_1,Avant-garde!,Awangarda!
+wanst_attack_bardcorpse_2_1,Breakdown!,Przełom!
+wanst_attack_bardcorpse_3_1,Encore!,Bis!
+wanst_attack_bardcorpse_4_1,This will be your first hit!,To będzie twój pierwszy przebój!
+row277,//drop item,//upuść przedmiot
+wanst_drop_bardcorpse_1_1,Dropping the bard.,Upuszczam barda.
+wanst_headroom_anyinst_1_1,An instrument.,Instrument.
+row284,A tuba.,Tuba.
+row285,//see item,//zobacz przedmiot
+wanst_encounter_anyinst_1_1,I could play that. #1.00 If I wanted to...,Mógłbym na tym zagrać. #1.00 Gdybym chciał...
+wanst_encounter_anyinst_2_1,That's music to my eyes.,To muzyka dla moich oczu.
+wanst_encounter_anyinst_3_1,"If played without skill, #1.50 these instruments can do a lot of #3.00 ""harm.""","Grane bez umiejętności, #1.50 te instrumenty mogą wyrządzić sporo #3.00 „krzywdy”."
+wanst_encounter_lute_4_1,Is this loot or... #1.50 lute?,"Czy to łup, czy... #1.50 lutnia?"
+wanst_encounter_luteviolin_1_1,This loot has some strings attached.,Ten łup ma dołączone struny.
+row294,//grab item,//podnieś przedmiot
+wanst_pickup_anyinst_1_1,I used to play the Drumselstick as a kid.,Jako dziecko grałem na Bębnokiju.
+wanst_pickup_anyinst_2_1,Time to bring the band back together.,Czas zebrać zespół z powrotem.
+wanst_pickup_anyinst_3_1,Putting the bad back in troubadour.,Przywracam złe brzmienie trubadurowi.
+wanst_pickup_anyinst_4_1,"One smashing solo, coming right up!",Jedna miażdżąca solówka już nadchodzi!
+wanst_pickup_violin_5_1,Vile and lean.,"Skrzypce, co skrzypią ze zgryzoty."
+wanst_pickup_violin_6_1,"I used to be against violins, #1.80 but you have to make ends meet somehow. #3.60 Right?","Kiedyś byłem przeciw skrzypcom, #1.80 ale jakoś trzeba związać koniec z końcem. #3.60 Prawda?"
+wanst_pickup_violin_7_1,Don’t fret— #1.00 I’ve got this!,Bez obaw— #1.00 mam to!
+row308,//attack with item,//atak przedmiotem
+wanst_attack_anyinst_1_1,Hard jams!,Twarde jamy!
+wanst_attack_anyinst_2_1,Melody melee!,Melodyjna młócka!
+wanst_attack_anyinst_3_1,I'll take you to chord!,Zaprowadzę cię przed akord!
+wanst_attack_anyinst_4_1,Hits only!,Same hity!
+wanst_attack_anyinst_5_1,Note this!,Zanotuj to!
+wanst_attack_violin_6_1,Strings attached!,Ze strunami w pakiecie!
+row316,//drop item,//upuść przedmiot
+wanst_drop_anyinst_1_1,Too flat for my taste.,Za płaskie jak na mój gust.
+wanst_drop_anyinst_2_1,I’m more into percussion.,Wolę perkusję.
+wanst_drop_anyinst_3_1,It was out of tune.,Było rozstrojone.
+wanst_drop_anyinst_4_1,Not my tempo.,Nie moje tempo.
+wanst_drop_violin_5_1,No more violins.,Koniec przemocy skrzypiec.
+wanst_drop_lute_5_1,I'm not that much of a luter.,Nie jestem aż takim lutniarzem.
+wanst_headroom_gasket_1_1,A gasket.,Uszczelka.
+row327,//see item,//zobacz przedmiot
+wanst_encounter_gasket_1_1,Prepare the gasket basket!,Przygotować koszyk na uszczelkę!
+wanst_encounter_gasket_2_1,No finger will ever fit this ring...,Żaden palec nigdy nie zmieści się w tym pierścieniu...
+wanst_encounter_gasket_3_1,The humble gasket is a symbol of friendship.,Skromna uszczelka to symbol przyjaźni.
+row333,//grab item,//podnieś przedmiot
+wanst_pickup_gasket_1_1,Alright. #0.60 Now where are those pipes?,Dobra. #0.60 A teraz gdzie są te rury?
+wanst_pickup_gasket_2_1,Let's fix some pipes.,Naprawmy trochę rur.
+wanst_pickup_gasket_3_1,I hope those pipes are nearby...,"Mam nadzieję, że te rury są gdzieś blisko..."
+row339,//attack with item,//atak przedmiotem
+wanst_attack_gasket_1_1,You gasket for it!,Uszczelkuj się na to!
+wanst_attack_gasket_2_1,Fix this!,Napraw to!
+wanst_attack_gasket_3_1,From the gasket to the casket!,Od uszczelki do trumienki!
+row345,//drop item,//upuść przedmiot
+wanst_drop_gasket_1_1,I'm not a plumber.,Nie jestem hydraulikiem.
+wanst_drop_gasket_2_1,Not in a plumbing mood today...,Nie mam dziś nastroju na hydraulikę...
+wanst_drop_gasket_3_1,Guess it'll stay a pipe dream for now...,Chyba na razie zostanie to rurowym marzeniem...

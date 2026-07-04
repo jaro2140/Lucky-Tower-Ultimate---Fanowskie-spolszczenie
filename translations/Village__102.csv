@@ -1,0 +1,538 @@
+key,en,pl
+wanst_banker_first_1_1,"Welcome to the bank, sire! #2.20 You look like you just escaped the tower. #4.10 Let me open an account for you, so you can lighten your load.","Witamy w banku, panie! #2.20 Wygląda na to, że właśnie uciekłeś z wieży. #4.10 Pozwól, że założę ci konto, byś mógł odciążyć kieszenie."
+wanst_banker_first_1_2,Ok. #1.00 Let's put them coins behind bars.,Dobra. #1.00 Zamknijmy te monety za kratkami.
+wanst_banker_first_contd_1_1,"Et voilà. #1.00 You can leave all your riches with me, sir. #3.50 There's a very handsome interest rate here, too. #6.70 Just let the money work for you.","Et voilà. #1.00 Możesz zostawić u mnie całe swoje bogactwo, panie. #3.50 Mamy tu też bardzo przyzwoite oprocentowanie. #6.70 Niech pieniądze pracują za ciebie."
+wanst_banker_first_contd_1_2,"Free money! #1.20 Mmm, that's nice for a change.","Darmowa forsa! #1.20 Mmm, miła odmiana."
+wanst_banker_first_contd_1_3,Adventurers like you are our best customers! #3.50 All that gold from the tower really helps us to control inflation.,Tacy poszukiwacze przygód jak ty to nasi najlepsi klienci! #3.50 Całe to złoto z wieży naprawdę pomaga nam kontrolować inflację.
+wanst_banker_first_contd_1_4,That's reassuring. #1.20 My belly has been making a lot of weird sounds lately.,To pocieszające. #1.20 Mój brzuch ostatnio wydaje dziwne odgłosy.
+wanst_banker_first_contd_1_5,We also sell real estate to our best clients. #3.50 Talk to me if you're interested.,"Sprzedajemy też nieruchomości naszym najlepszym klientom. #3.50 Daj znać, jeśli jesteś zainteresowany."
+wanst_banker_open_1_1_a,"We are very happy to have you as a customer, sir. #2.40 But this is neither a prison cell nor a hotel room. #5.00 I'd like to inspire you to deposit some cash soon...","Bardzo się cieszymy, że jesteś naszym klientem, panie. #2.40 Ale to ani cela więzienna, ani pokój hotelowy. #5.00 Chciałbym cię zachęcić, żebyś wkrótce coś wpłacił..."
+wanst_banker_open_1_1_b,"You have to fill up that account in order to earn interest. #3.00 You know that, right?","Musisz zasilić to konto, żeby zarabiać na odsetkach. #3.00 Wiesz o tym, prawda?"
+wanst_banker_open_1_1_c,Don't you trust us? #1.50 You still don't have anything in your bank account. #3.50 Let us know what we're doing wrong...,"Nie ufasz nam? #1.50 Wciąż nie masz nic na koncie. #3.50 Daj znać, co robimy źle..."
+wanst_banker_open_1_2_a,I never rush my investments.,Nigdy się nie spieszę z inwestycjami.
+wanst_banker_open_1_2_b,"Not sure how I feel about money yet, though.","Chociaż wciąż nie wiem, co czuję do pieniędzy."
+wanst_banker_open_1_2_c,Are you a fugger or a mugger?,Sknera czy złodziej?
+wanst_banker_interest_1_1_a,"Hey pal. Here's your interest earnings. #2.50 Interesting, eh?","Hej kolego. Oto twoje odsetki. #2.50 Interesujące, co?"
+wanst_banker_interest_1_1_b,"Welcome back, sir. #1.50 This is how your earnings grew since your last visit.","Witaj z powrotem, panie. #1.50 Tak urosły twoje zyski od ostatniej wizyty."
+wanst_banker_interest_1_1_c,"We added some coins to your account. #2.30 Because who got some will get some, right?","Dodaliśmy trochę monet do twojego konta. #2.30 Bo kto ma trochę, ten dostanie więcej, prawda?"
+wanst_banker_interest_1_1_d,"Welcome, sire. Here's your interest.","Witaj, panie. Oto twoje odsetki."
+wanst_banker_interest_1_2_a,Nice! #1.00 I'll never have to work again.,Super! #1.00 Już nigdy nie będę musiał pracować.
+wanst_banker_interest_1_2_b,I only invest in the best.,"Inwestuję tylko w to, co najlepsze."
+wanst_banker_interest_1_2_c,"Finally, I can pay back that trombone rental.",Nareszcie mogę oddać dług za wypożyczenie puzonu.
+wanst_banker_interest_1_2_d,I'll rate that interest a whoppin' bling! out of ka-ching!,Oceniam te odsetki na solidne bling! w skali ka-ching!
+wanst_banker_interest_1_2_e,Call me the bling king!,Możecie mnie zwać królem blichtru!
+wanst_banker_interest_2_1,Welcome back good sir. #1.50 Here's what you earned. #3.00 Deposit or withdraw?,"Witaj z powrotem, dobry panie. #1.50 Oto, co zarobiłeś. #3.00 Wpłacić czy wypłacić?"
+wanst_banker_interest_2_2_a,"Sorry, I'm not an artist. I can't draw.","Przepraszam, nie jestem artystą. Nie umiem rysować."
+wanst_banker_introendgame_1_1,I congratulate you to your great success! #3.30 The bank really profited from the shortening of the tower. #7.20 We had a feeling it would be a bearish season.,"Gratuluję ci wielkiego sukcesu! #3.30 Bank naprawdę zyskał na skróceniu wieży. #7.20 Mieliśmy przeczucie, że to będzie sezon bessy."
+wanst_banker_introendgame_1_2,Aha... I need to careful out in the woods then.,Aha... W takim razie muszę uważać w lesie.
+wanst_banker_introendgame_1_3,At least the inflation of gold is now finally under control.,Przynajmniej inflacja złota jest teraz wreszcie pod kontrolą.
+wanst_banker_introendgame_1_4,"The inflation of my golden 'do will never stop though, my good man.","Za to inflacja mojej złotej fryzury nigdy się nie zatrzyma, mój drogi."
+wanst_banker_introendgame_1_5,The barber will be pleased!,Fryzjer będzie zachwycony!
+wanst_banker_randomendgame_1_1,Well so much for the economic value of that tower... #4.00 Coins will be coins though.,"Cóż, tyle w kwestii wartości ekonomicznej tej wieży... #4.00 Ale moneta monetą pozostanie."
+wanst_banker_randomendgame_2_1,Your money is still safe with us.,Twoje pieniądze wciąż są u nas bezpieczne.
+wanst_banker_randomendgame_3_1,"Keep an eye on your coins, mind you? #2.00 Now that the tower is gone...","Miej oko na swoje monety, dobrze? #2.00 Teraz, kiedy wieży już nie ma..."
+wanst_banker_house_1_1_a,"Sir, do you have any real estate vacancies around here?","Panie, czy macie tu jakieś wolne nieruchomości?"
+wanst_banker_house_1_1_b,I need a house. #1.00 Got any?,Potrzebuję domu. #1.00 Macie jakiś?
+wanst_banker_house_1_1_c,Hey buddy. #0.80 Got any spare houses in the area?,"Hej, kolego. #0.80 Macie tu jakieś wolne domy?"
+wanst_banker_house_1_2_a,I have a little shack in a very good area... #3.00 ...near the village entrance for you.,Mam dla ciebie małą chatkę w bardzo dobrej okolicy... #3.00 ...tuż przy wejściu do wioski.
+wanst_banker_house_1_2_b,There's a little hut down the road #1.90 at the start of the village.,Jest taka chatka przy drodze #1.90 na początku wioski.
+wanst_banker_house_1_2_c,"In fact, #0.80 there's been an opening #1.90 right next to the village entrance.",Właściwie #0.80 zwolniło się miejsce #1.90 tuż przy wejściu do wioski.
+wanst_banker_house_1_3_a,Interested?,Zainteresowany?
+wanst_banker_house_1_3_b,Deal?,Umowa stoi?
+wanst_banker_house_1_3_c,How does that sound?,Jak ci się to podoba?
+wanst_banker_upgrade_1_1_a,"I need a bigger house, sir.","Potrzebuję większego domu, panie."
+wanst_banker_upgrade_1_1_b,I am ready to expand. #2.00 Got any realer estate?,Jestem gotów się rozwijać. #2.00 Macie coś porządniejszego z nieruchomości?
+wanst_banker_upgrade_1_1_c,Any new vacancies? #1.40 I need a bigger crib.,Jakieś nowe wolne lokum? #1.40 Potrzebuję większej chaty.
+wanst_banker_upgrade_1_1_d,Do you have a bigger place for me to stay?,Macie dla mnie coś większego do mieszkania?
+wanst_banker_upgrade_1_1_e,I'm tired of my house. #2.00 Got a bigger one?,Mam dość mojego domu. #2.00 Macie coś większego?
+wanst_banker_upgrade_1_1_f,I need more space! #1.50 Got a bigger place?,Potrzebuję więcej przestrzeni! #1.50 Macie coś większego?
+wanst_banker_upgrade_1_2_a,We can upgrade your house easily #2.00 by building another one on top of it.,"Możemy łatwo ulepszyć twój dom, #2.00 dobudowując na nim kolejne piętro."
+wanst_banker_upgrade_1_2_b,We gladly assist you in your journey to the top.,Chętnie pomożemy ci w drodze na szczyt.
+wanst_banker_upgrade_1_2_c,"Yes. #0.60 I can fix you up with #2.00 a literal palace, my friend!","Tak. #0.60 Mogę ci załatwić #2.00 dosłowny pałac, przyjacielu!"
+wanst_banker_upgrade_1_2_d,A great man needs a great house!,Wielki człowiek potrzebuje wielkiego domu!
+wanst_banker_upgrade_1_2_e,No need to move out. #1.30 Our construction company will provide some extra room.,Nie musisz się wyprowadzać. #1.30 Nasza firma budowlana zapewni ci trochę dodatkowej przestrzeni.
+wanst_banker_house_accept_1_1,Gimme that!,Dawaj to!
+wanst_banker_house_accept_2_1,I'll take it!,Biorę!
+wanst_banker_house_accept_3_1,"Moving in, moving up!",Wprowadzam się i awansuję!
+wanst_banker_house_accept_4_1,Take my money!,Weźcie moje pieniądze!
+wanst_banker_house_accept_5_1,Hand over that house!,Dawajcie ten dom!
+wanst_banker_house_accept_6_1,Fee real estate!,"Płatna nieruchomość, ale i tak biorę!"
+wanst_banker_house_success_1_1,A good choice. #1.50 You can go right to your place. #3.20 Our work is done!,Dobry wybór. #1.50 Możesz od razu udać się do swojego lokum. #3.20 Nasza robota skończona!
+wanst_banker_house_success_2_1,Well chosen. #1.50 You can enter your new place right away.,Dobrze wybrane. #1.50 Możesz od razu wejść do swojego nowego lokum.
+wanst_banker_house_success_3_1,Alas! A palace! #1.70 Enjoy your new home.,A niech mnie! Pałac! #1.70 Ciesz się nowym domem.
+wanst_banker_house_decline_1_1_a,What... me? No!,Co... ja? Nie!
+wanst_banker_house_decline_1_1_b,I have to think about it.,Muszę to przemyśleć.
+wanst_banker_house_decline_1_1_c,Noooo. Uhm. Nope. #2.50 I... don't think so. No. Definitely not. #5.50 No no no. Uh uh.,"Nieeee. Uhm. Nie ma mowy. #2.50 Ja... chyba nie. Nie. Zdecydowanie nie. #5.50 Nie, nie, nie. E, e."
+wanst_banker_house_decline_1_2_a,Alright. #1.00 Let me know once you change your mind.,"W porządku. #1.00 Daj znać, gdy zmienisz zdanie."
+wanst_banker_house_decline_1_2_b,You know where to find me.,"Wiesz, gdzie mnie znaleźć."
+wanst_banker_house_decline_1_2_c,"Very well, sir. Your call.","Bardzo dobrze, panie. Twoja decyzja."
+wanst_banker_nomoney_1_1_a,But it looks like you don't have enough money in your account right now. #3.10 Sorry.,"Ale wygląda na to, że nie masz teraz wystarczająco pieniędzy na koncie. #3.10 Przykro mi."
+wanst_banker_nomoney_1_1_b,But looks like you'll need to save up some... #2.20 Come back when you can afford it.,"Ale wygląda na to, że musisz jeszcze trochę zaoszczędzić... #2.20 Wróć, gdy będzie cię na to stać."
+wanst_banker_nomoney_1_1_c,"But you got insufficient funds, my friend. #2.30 Sorry.","Ale masz za mało środków, przyjacielu. #2.30 Przykro mi."
+wanst_banker_maxhouse_1_1_a,"Sorry, it seems like our construction company is currently out of resources. #4.70 You can try at a later time!","Przykro mi, wygląda na to, że nasza firma budowlana chwilowo nie ma materiałów. #4.70 Spróbuj ponownie później!"
+wanst_banker_maxhouse_1_1_b,"I'm real sorry, sire. #2.00 We cannot offer you a bigger house than this...","Naprawdę mi przykro, panie. #2.00 Nie możemy ci zaoferować większego domu niż ten..."
+wanst_banker_maxhouse_1_1_c,There's no bigger place we can give you. #2.00 I'm very sorry. #3.50 But what do you need all that space for anyway?,Nie mamy dla ciebie nic większego. #2.00 Bardzo mi przykro. #3.50 Ale po co ci właściwie tyle miejsca?
+wanst_barber_introfirst_1_1,"Hey there, buddy! #1.70 Need a hand? I can fix you up with a new 'do and also: #3.70 Amateur surgeries.","Hej, kolego! #1.70 Pomóc ci? Mogę załatwić ci nową fryzurę, a także: #3.70 amatorskie operacje."
+wanst_barber_intro_1_1,"Good day, pal. Need a new haircut?","Dzień dobry, kolego. Potrzebujesz nowej fryzury?"
+wanst_barber_intro_2_1,You look like you can use a makeover!,"Wyglądasz, jakbyś potrzebował metamorfozy!"
+wanst_barber_intro_3_1,New hairdo? #1.50 Or maybe some kind of uncertain surgery?,Nowa fryzura? #1.50 A może jakaś podejrzana operacja?
+wanst_barber_introendgame_1_1,Now that the tower is gone... #1.50 ...I expect new 'dos are coming back in style...,"Teraz, gdy wieży już nie ma... #1.50 ...spodziewam się powrotu mody na nowe fryzury..."
+wanst_barber_introendgame_2_1,"I don't mind the tower crashing down. #2.00 As long as you are here, I have work... I guess. #5.00 What can I do for you today?","Nie mam nic przeciwko temu, że wieża runęła. #2.00 Dopóki tu jesteś, mam robotę... chyba. #5.00 Co mogę dla ciebie dziś zrobić?"
+wanst_barber_introendgame_3_1,"Well you caused quite the hullabaloo out there, didn't you? #3.00 Shall we fix up that mess on your head there?","No, narobiłeś tam niezłego zamieszania, co? #3.00 Zajmijmy się tym bałaganem na twojej głowie."
+wanst_barber_introendgame_4_1,Even with the tower gone... #1.30 I'm still doing haircuts and amateur surgeries. #4.00 Just wanted to let you know...,Nawet gdy wieży już nie ma... #1.30 nadal robię fryzury i amatorskie operacje. #4.00 Chciałem tylko dać ci znać...
+wanst_barber_pick_1_1,You seem certified to touch my hair. #2.50 Let's see... I want...,"Wyglądasz na kogoś, komu można zaufać przy moich włosach. #2.50 Zobaczmy... Chcę..."
+wanst_barber_pick_2_1,"Mmm, let's see what I like...","Mmm, zobaczmy, co mi się podoba..."
+wanst_barber_pick_3_1,Let me think of a haircut...,Niech pomyślę nad fryzurą...
+wanst_barber_random_1_1,I want an amazing haircut!,Chcę niesamowitą fryzurę!
+wanst_barber_random_2_1,Make me pretty!,Zrób mnie ślicznym!
+wanst_barber_random_3_1,Time for a change!,Czas na zmianę!
+wanst_barber_haircut00_1_1,Give my my OG cut. Huzzah!,Zrób mi moją oryginalną fryzurę. Hurra!
+wanst_barber_haircut01_1_1,I want a mustache on my forehead. #2.20 Yes. #2.70 That will look classy.,Chcę wąsy na czole. #2.20 Tak. #2.70 Będzie wytwornie.
+wanst_barber_haircut02_1_1,"Make it wavy. #1.10 Suavemente, please.","Zrób to falowane. #1.10 Suavemente, proszę."
+wanst_barber_haircut05_1_1,"Business in the front, #1.00 party in the pond, #2.20 my fellow homefry!","Interesy z przodu, #1.00 impreza na stawie, #2.20 mój drogi ziomeczku!"
+wanst_barber_haircut06_1_1,I want that heap on the edge for a #2.00 leap from the ledge.,"Chcę ten kok na krawędzi, gotowy na #2.00 skok z parapetu."
+wanst_barber_haircut07_1_1,"As a grand admirer of the birdies, #2.00 gimme your best nest!","Jako wielki wielbiciel ptaszków, #2.00 dawaj najlepsze gniazdo!"
+wanst_barber_pay_1_1_a,"Alright, this is the price. #2.00 Pay up and we'll give your golden gardens a trim to the brim!","Dobra, oto cena. #2.00 Płać, a przystrzyżemy twoje złote ogrody po sam brzeg!"
+wanst_barber_pay_1_1_b,"Okay. #0.70 Give me some coins, and I'll make sure not to cut your ear.","Dobra. #0.70 Daj mi trochę monet, a postaram się nie uciąć ci ucha."
+wanst_barber_pay_1_1_c,Ok. #0.80 Only thing left is to hand over some gold.,Ok. #0.80 Zostało tylko oddać trochę złota.
+wanst_barber_picknew_1_1_b,Let me think about that again.,Niech jeszcze raz to przemyślę.
+wanst_barber_picknew_1_1_c,Change of plans!,Zmiana planów!
+wanst_barber_buyfail_1_1_a,"Oh, whoops. #1.20 I forgot my purse at home.","O, ups. #1.20 Zapomniałem sakiewki w domu."
+wanst_barber_buyfail_1_1_b,"Out of funds, sorry.","Brak środków, przykro mi."
+wanst_barber_buyfail_1_1_c,"Can't afford that right now, I'm afraid.","Obawiam się, że teraz mnie na to nie stać."
+wanst_barber_buyfail_1_2_a,Okay. #0.90 Let me know when you can afford to be stylish.,"Dobra. #0.90 Daj znać, gdy będzie cię stać na elegancję."
+wanst_barber_buyfail_1_2_b,"Yeah, we all went through tough times...","Tak, wszyscy przechodziliśmy ciężkie chwile..."
+wanst_barber_buyfail_1_2_c,Alright. #0.80 Let me know when you come into some money.,"Dobrze. #0.80 Daj znać, gdy wpadną ci jakieś pieniądze."
+wanst_barber_buyfail_1_2_d,"No biggie. #1.30 But services cost money, you know? #3.50 Sorry, son.","Nic wielkiego. #1.30 Ale usługi kosztują, wiesz? #3.50 Wybacz, synu."
+wanst_barber_buysuccess_1_1_a,Let's do the 'do!,Zabierajmy się za fryzurę!
+wanst_barber_buysuccess_1_1_b,We got ourselves a deal!,Mamy umowę!
+wanst_barber_buysuccess_1_1_c,I believe in you! #1.50 Go go go!,"Wierzę w ciebie! #1.50 Dawaj, dawaj, dawaj!"
+wanst_barber_dontbuy_1_1_a,Uhmmm. Did I say I want a new haircut? #2.50 I wanted to say I love my haircut. Sorry.,"Uhmmm. Czy ja powiedziałem, że chcę nową fryzurę? #2.50 Chciałem powiedzieć, że kocham swoją obecną. Przepraszam."
+wanst_barber_dontbuy_1_1_b,No trim is worth such bling!,Żadna strzyżka nie jest warta takiego blichtru!
+wanst_barber_dontbuy_1_1_c,"Uuuuuuuh, changed my mind. #2.50 Sorry.","Uuuuuuuh, zmieniłem zdanie. #2.50 Przepraszam."
+wanst_barber_dontbuy_1_2_a,"Ok. #1.00 You could use a new style... #3.00 ...if you ask me, though...","Ok. #1.00 Przydałby ci się nowy styl... #3.00 ...tak w ogóle, gdybyś pytał..."
+wanst_barber_dontbuy_1_2_b,Alright. You know where to find me.,"Dobrze. Wiesz, gdzie mnie znaleźć."
+wanst_barber_dontbuy_1_2_c,Fine.,Dobra.
+wanst_barber_random_3_1,Time for a change!,Czas na zmianę!
+row133,after barbershop sequence?,po sekwencji u fryzjera?
+wanst_barber_finish_1_1_a,Et voilà!,Et voilà!
+wanst_barber_finish_1_1_b,Say hello to the new you!,Przywitaj się z nowym sobą!
+wanst_barber_finish_1_1_c,Here we are!,Oto i jesteśmy!
+wanst_barber_finish_1_2_a,Guess I will need a hat.,Chyba będę potrzebował kapelusza.
+wanst_barber_finish_1_2_b,Hot. #0.80 I'm back to my gorgeous self again!,Gorąco. #0.80 Znów jestem swoim przepięknym ja!
+wanst_barber_finish_1_2_c,I didn't know I could look... #2.00 EVEN MORE HANDSOME!,"Nie wiedziałem, że mogę wyglądać... #2.00 JESZCZE PRZYSTOJNIEJ!"
+wanst_barber_finish_1_2_d,The birds will like it.,Ptaki to polubią.
+wanst_barber_finish_1_2_e,"Hey there, handsome!","Witaj, przystojniaku!"
+wanst_barber_finish_1_3_a,Shall I throw in a phlebotomy for free?,Może dorzucę gratis upuszczanie krwi?
+wanst_barber_finish_1_3_b,A lobotomy might go well with that.,Lobotomia mogłaby do tego pasować.
+wanst_barber_finish_1_3_c,Want a mastectomy as a bonus?,Chcesz mastektomię gratis?
+wanst_barber_finish_1_4_a,"Uuhhhm, I'm good. #1.70 Thanks though.","Uuhhhm, dam sobie radę. #1.70 Ale dzięki."
+wanst_barber_finish_1_4_b,"Er, not today.","Eee, nie dzisiaj."
+wanst_barber_finish_1_4_c,Next time.,Następnym razem.
+wanst_barber_fail_1_1_a,I... can't decide.,Ja... nie mogę się zdecydować.
+wanst_barber_fail_1_1_b,What was I supposed to do again?,Co ja miałem znowu zrobić?
+wanst_barber_fail_1_1_c,"Uh, where were we?","Eee, na czym skończyliśmy?"
+wanst_pawnshop_entershop_1_1_a,"Why hello there, young man. #1.60 Can I interest you in a little bargaining?","Ojej, witaj, młodzieńcze. #1.60 Może zainteresowałaby cię odrobina targowania?"
+wanst_pawnshop_entershop_1_1_b,"Good day, sir. #1.00 Looking to make a bargain? #2.50 I'm known for making the best deals in town.","Dzień dobry, panie. #1.00 Szukasz dobrej okazji? #2.50 Znany jestem z najlepszych transakcji w mieście."
+wanst_pawnshop_entershop_1_1_c,"Goededag, mijn jongen! #1.30 Interested in turning property into prosperity?","Goededag, mijn jongen! #1.30 Chcesz zamienić majątek w dobrobyt?"
+wanst_pawnshop_entershop_1_1_d,"Hey there, boy. #0.70 In here, we value the value of your valuables. #4.00 You can trust me on that one.","Hej, chłopcze. #0.70 U nas cenimy wartość twoich kosztowności. #4.00 Możesz mi zaufać."
+wanst_pawnshop_entershop_1_1_e,Hello and welcome to my humble shop! #2.50 I offer the best value for anything you got. #5.50 No questions asked.,"Witaj w moim skromnym sklepiku! #2.50 Oferuję najlepszą cenę za wszystko, co masz. #5.50 Bez zbędnych pytań."
+wanst_pawnshop_sellintro_1_1_a,"Let me see your precious items, and #2.00 I'll let you know what they are worth!","Pokaż mi swoje cenne przedmioty, a #2.00 powiem ci, ile są warte!"
+wanst_pawnshop_sellintro_1_1_b,"Wanna sell something? #1.50 Put your goods here, and I'll propose a deal.","Chcesz coś sprzedać? #1.50 Połóż tu swój towar, a zaproponuję ci umowę."
+wanst_pawnshop_sellintro_1_1_c,Do you have any items for me?,Masz dla mnie jakieś przedmioty?
+wanst_pawnshop_sellintro_1_1_d,Looking to sell?,Chcesz sprzedać?
+wanst_pawnshop_sellprice_1_1_a,Very well... #1.20 This is what I can spare.,Bardzo dobrze... #1.20 Tyle mogę dać.
+wanst_pawnshop_sellprice_1_1_b,Deal?,Umowa stoi?
+wanst_pawnshop_sellprice_1_1_c,Can we agree on this?,Możemy się na to zgodzić?
+wanst_pawnshop_sellprice_1_1_d,How about this?,Co powiesz na to?
+wanst_pawnshop_sellaccept_1_1_a,Deal!,Umowa stoi!
+wanst_pawnshop_sellaccept_1_1_b,Gimme some guilder!,Dawaj te guldeny!
+wanst_pawnshop_sellaccept_1_1_c,"Make it rain, pal!","Niech leje się złoto, koleś!"
+wanst_pawnshop_sellaccept_1_2_a,Pleasure doing business with you.,Miło się z tobą robiło interesy.
+wanst_pawnshop_sellaccept_1_2_b,"Don't spend it all at once, young fellow!","Nie wydaj tego wszystkiego naraz, młodzieńcze!"
+wanst_pawnshop_sellaccept_1_2_c,"Alright! #0.80 Dank je wel, mijn liefste!","Świetnie! #0.80 Dank je wel, mijn liefste!"
+wanst_pawnshop_sellaccept_1_2_d,A great deal for both of us...,Świetny interes dla nas obu...
+wanst_pawnshop_buyintro_1_1_a,Looking to buy something?,Chcesz coś kupić?
+wanst_pawnshop_buyintro_1_1_b,Need anything?,Potrzebujesz czegoś?
+wanst_pawnshop_buyintro_1_1_c,I only sell quality equipment.,Sprzedaję tylko sprzęt najwyższej jakości.
+wanst_pawnshop_buyintro_1_1_d,Tell me what you'd like.,"Powiedz, na co masz ochotę."
+wanst_pawnshop_buyprice_1_1_a,"Alright, here it is.","Dobra, oto ono."
+wanst_pawnshop_buyprice_1_1_b,Okay. #1.10 Look at this beauty:,Dobra. #1.10 Spójrz na tę piękność:
+wanst_pawnshop_buyprice_1_1_c,"This can easily be yours, son.","To może łatwo stać się twoje, synu."
+wanst_pawnshop_buyprice_1_1_d,Et voilà! Now what do you say to that?,Et voilà! Co ty na to?
+wanst_pawnshop_buyprice_1_1_e,"Gorgeous, isn't it?","Piękne, prawda?"
+wanst_pawnshop_buyprice_1_1_f,Great choice. #1.30 Want to buy it?,Świetny wybór. #1.30 Chcesz to kupić?
+wanst_pawnshop_buyfail_1_1_a,Uhmm... #0.70 I don't have enough cash with me right now...,Uhmm... #0.70 Nie mam teraz przy sobie wystarczająco gotówki...
+wanst_pawnshop_buyfail_1_1_b,Jeez Louise! #1.50 I wish I could afford that...,"O rety! #1.50 Chciałbym, żeby było mnie na to stać..."
+wanst_pawnshop_buyfail_1_1_c,I'll take it if you give me a 50% discount. #2.70 'cause I'm so handsome.,"Wezmę to, jeśli dasz mi 50% zniżki. #2.70 Bo jestem taki przystojny."
+wanst_pawnshop_buyfail_1_2_a,"I didn't have much money at your age, either. #3.00 Don't worry, son.","W twoim wieku też nie miałem dużo pieniędzy. #3.00 Nie martw się, synu."
+wanst_pawnshop_buyfail_1_2_b,"Well, I'm afraid I can't help you, then...","Cóż, w takim razie obawiam się, że nie mogę ci pomóc..."
+wanst_pawnshop_buyfail_1_2_c,"Easy, son. #1.20 Let me know when you come into some money.","Spokojnie, synu. #1.20 Daj znać, gdy wpadną ci jakieś pieniądze."
+wanst_pawnshop_sellaccept_1_1_a,Deal!,Umowa stoi!
+wanst_pawnshop_buysuccess_2_1,Gimme that!,Dawaj to!
+wanst_pawnshop_buysuccess_3_1,Huzzah!,Hurra!
+wanst_pawnshop_buywrapup_1_1_a,"Take good care of that, son.","Dbaj o to dobrze, synu."
+wanst_pawnshop_buywrapup_1_1_b,Here you go. #1.30 Pleasure doing business with you.,Proszę bardzo. #1.30 Miło się z tobą robiło interesy.
+wanst_pawnshop_buywrapup_1_1_c,So the deal is sealed.,A więc umowa przypieczętowana.
+wanst_pawnshop_buywrapup_1_1_d,If you don't need it anymore... #1.50 Feel free to sell it again.,Jeśli już tego nie potrzebujesz... #1.50 Możesz to śmiało odsprzedać z powrotem.
+wanst_pawnshop_buywrapup_1_2_a,Enjoy your coins.,Ciesz się swoimi monetami.
+wanst_pawnshop_buywrapup_1_2_b,I love to support local businesses.,Uwielbiam wspierać lokalne biznesy.
+wanst_pawnshop_buywrapup_1_2_c,I'll never give that back.,Nigdy tego nie oddam.
+wanst_pawnshop_buywrapup_1_2_d,Money well spent!,Dobrze wydane pieniądze!
+wanst_pawnshop_buywrapup_1_2_e,Aaaand quality of life goes up up up!,"I jakość życia rośnie, rośnie, rośnie!"
+wanst_pawnshop_dontbuy_1_1_a,Uhm. #1.50 Changed my mind. #2.50 Sorry.,Uhm. #1.50 Zmieniłem zdanie. #2.50 Przepraszam.
+wanst_pawnshop_dontbuy_1_1_b,Noooot today.,Nieee dzisiaj.
+wanst_pawnshop_dontbuy_1_1_c,I choose not to buy this item.,Postanawiam nie kupować tego przedmiotu.
+wanst_pawnshop_dontbuy_1_2_a,Alright.,W porządku.
+wanst_pawnshop_dontbuy_1_2_b,"Your call, son.","Twoja decyzja, synu."
+wanst_pawnshop_dontbuy_1_2_c,As you wish.,Jak sobie życzysz.
+wanst_pawnshop_pickitem_1_1,I'd like a...,Chciałbym...
+wanst_pawnshop_pickitem_2_1,Can I get a...,Czy mogę dostać...
+wanst_pawnshop_pickitem_3_1,Do you have a...,Czy masz...
+wanst_pawnshop_picknewitem_1_1_a,I need to reconsider.,Muszę to jeszcze przemyśleć.
+wanst_pawnshop_picknewitem_1_1_b,"Nopes, #0.70 not it. #1.40 Let's see.","Nie, #0.70 nie to. #1.40 Zobaczmy."
+wanst_pawnshop_picknewitem_1_1_c,Hold on! #0.70 Change of plans.,Czekaj! #0.70 Zmiana planów.
+wanst_pawnshop_pickitemfail_1_1,I'm very sorry. #1.30 These are unavailable right now.,Bardzo mi przykro. #1.30 Teraz są niedostępne.
+wanst_pawnshop_pickitemfail_2_1,"Sorry, my dear. #1.30 We don't have that at the moment.","Przykro mi, drogi panie. #1.30 Nie mamy tego w tej chwili."
+wanst_pawnshop_pickitemfail_3_1,We just sold our last one. #2.00 Fancy anything else?,Właśnie sprzedaliśmy ostatnią sztukę. #2.00 Może coś innego?
+wanst_mayor_first_1_1,"Good day good sir. #1.50 Welcome to this prosperous town! #3.50 We like adventurers, like you, who bring their hard-earned loot into our economy. #8.00 I would gladly grant a handsome feller like you citizenship. #11.5 But only if you prove yourself worthy, that is. #13.5 In the form of money.","Dzień dobry, dobry panie. #1.50 Witaj w tym dostatnim miasteczku! #3.50 Lubimy poszukiwaczy przygód takich jak ty, którzy wprowadzają swój ciężko zdobyty łup do naszej gospodarki. #8.00 Chętnie nadałbym przystojnemu chłopakowi takiemu jak ty obywatelstwo. #11.5 Ale tylko jeśli udowodnisz, że jesteś tego wart. #13.5 W formie pieniędzy."
+wanst_mayor_first_1_2,I already feel a strong alliance with this place.,Już czuję silną więź z tym miejscem.
+wanst_mayor_paysome_1_1,We're getting somewhere...,Robimy postępy...
+wanst_mayor_paysome_2_1,Swell. #1.00 You are slowly becoming one of us.,Wspaniale. #1.00 Powoli stajesz się jednym z nas.
+wanst_mayor_paysome_3_1,Keep it coming!,"Płyń dalej, złoto!"
+wanst_mayor_monster_killed_1_1_a,I heard you eradicated the vermin! #2.50 Thanks for keeping our lovely village safe. #5.00 Here's your reward:,"Słyszałem, że wytępiłeś to robactwo! #2.50 Dzięki, że dbasz o bezpieczeństwo naszej uroczej wioski. #5.00 Oto twoja nagroda:"
+wanst_mayor_monster_killed_1_1_b,Good job hunting down these foul beasts in their cave! #3.50 Here's your bounty:,Dobra robota z upolowaniem tych plugawych bestii w jaskini! #3.50 Oto twoja nagroda:
+wanst_mayor_monster_killed_1_1_c,Look at you. #1.50 Didn't take you for a monster slayer. #3.50 But here we are. #4.70 Take this:,"Popatrz na siebie. #1.50 Nie sądziłem, że jesteś pogromcą potworów. #3.50 A jednak. #4.70 Masz, weź to:"
+wanst_mayor_monster_killed_1_2_a,It's not personal. #1.40 It's profitable.,To nic osobistego. #1.40 To po prostu opłacalne.
+wanst_mayor_monster_killed_1_2_b,That's a legit business now. #2.20 Nice.,To teraz legalny biznes. #2.20 Nieźle.
+wanst_mayor_monster_killed_1_2_c,Coins for the loins! #2.10 Radical!,Moneta za robotę! #2.10 Ekstra!
+wanst_mayor_no_monster_1_1,"You look like a capable bloke. #2.00 If you see any monsters near the city that escaped the tower, kill 'em. #6.00 And I'll pay a fine bounty for each critter sent to the litter.","Wyglądasz na zdolnego gościa. #2.00 Jeśli zobaczysz w pobliżu miasta jakieś potwory, które uciekły z wieży, zabij je. #6.00 A ja wypłacę sowitą nagrodę za każde stworzenie wysłane do piachu."
+wanst_mayor_no_monster_1_2,Alright. #1.20 Slappy pappy's ready for the job.,Dobra. #1.20 Twój tatuś jest gotowy do roboty.
+wanst_mayor_no_monster_1_3,Great thinking! But there have been no sightings recently.,Świetne myślenie! Ale ostatnio nikt niczego nie widział.
+wanst_mayor_no_monster_1_4,Mmm. #1.00 I wonder what would make those foul beasts break out from there.,"Mmm. #1.00 Ciekawe, co skłoniłoby te plugawe bestie do ucieczki stamtąd."
+wanst_mayor_monster_found_1_1_a,My men report sightings of some nasty creatures that escaped the tower. #4.50 Go get 'em for me and I'll make you rich.,"Moi ludzie donoszą o paskudnych stworach, które uciekły z wieży. #4.50 Załatw je dla mnie, a uczynię cię bogatym."
+wanst_mayor_monster_found_1_1_b,"I have received reports of abominations escaping the tower and settling down in the east. #5.50 Slay them for the safety of our people, and you will be rewarded!","Dotarły do mnie doniesienia o potworach, które uciekły z wieży i osiedliły się na wschodzie. #5.50 Zgładź je dla bezpieczeństwa naszych ludzi, a zostaniesz nagrodzony!"
+wanst_mayor_monster_found_1_1_c,I hear there's some nasty pinkies loitering about the caves. #3.50 Take care of them and I'll pay up good.,"Słyszałem, że w jaskiniach kręcą się jakieś paskudne różowe stwory. #3.50 Zajmij się nimi, a dobrze zapłacę."
+wanst_mayor_monster_found_1_2_a,I'll take the job. #1.40 And the money.,Biorę tę robotę. #1.40 I pieniądze.
+wanst_mayor_monster_found_1_2_b,Consider it done!,Uważaj sprawę za załatwioną!
+wanst_mayor_monster_found_1_2_c,"Alright! Off to do some roughhousing, my man.","Dobra! Idę zrobić trochę zamieszania, koleś."
+wanst_mayor_newcitizen_1_1,"Very well, good man! Congratulations! #3.00 This will surely boost the economy. #5.50 You can now call yourself a proud citizen of our humble place.","Bardzo dobrze, mój drogi! Gratulacje! #3.00 To z pewnością pobudzi naszą gospodarkę. #5.50 Możesz teraz nazywać się dumnym obywatelem naszego skromnego miasteczka."
+wanst_mayor_newcitizen_1_2,Citizen Wanst!,Obywatel Wanst!
+wanst_mayor_newcitizen_1_3,And here's a gift to show our gratitude: #2.50 A free haircut at the barber!,A oto prezent na dowód wdzięczności: #2.50 Darmowa fryzura u fryzjera!
+wanst_mayor_stranger_1_1,So. Are you ready to become a noble citizen? #3.50 Put your coins on the table and we have a deal.,"A więc. Jesteś gotów zostać szlachetnym obywatelem? #3.50 Połóż monety na stole, a mamy umowę."
+wanst_mayor_stranger_2_1,Let me know if you want to become one of us. #2.50 That's the price right there...,"Daj znać, jeśli chcesz zostać jednym z nas. #2.50 Oto właśnie cena..."
+wanst_mayor_stranger_3_1,"So, pay up and we'll be friends forever.","Więc płać, a będziemy przyjaciółmi na zawsze."
+wanst_mayor_stranger_4_1,"Our town doesn't thrive on good intentions and smiles. #3.50 Gold is the currency of prosperity, son.","Nasze miasto nie żyje z dobrych intencji i uśmiechów. #3.50 Złoto to waluta dobrobytu, synu."
+wanst_mayor_firstfortune_1_1,"Thanks for saving us! #1.50 I guess, since all monsters are gone now... #3.50...and a lot of people are abandoning their homes and lost their jobs... #7.00 It's time for me to call it quits. #9.00 I am now a fortune teller, and this is my shop. Welcome!","Dzięki, że nas uratowałeś! #1.50 Skoro teraz wszystkie potwory zniknęły... #3.50 ...a mnóstwo ludzi porzuca domy i traci pracę... #7.00 Czas, żebym i ja się poddał. #9.00 Jestem teraz wróżbitą, a to mój sklep. Witaj!"
+wanst_mayor_fortune_1_1,"So, what's my fortune?","No więc, co mi wróżysz?"
+wanst_mayor_fortune_1_2,"Mmm, let me guess. #1.90 5000 gold?","Mmm, niech zgadnę. #1.90 5000 złota?"
+wanst_mayor_fortune_1_3,I think you still need to practice a bit.,"Myślę, że musisz jeszcze trochę poćwiczyć."
+wanst_mayor_fortune_1_4,Darn it!,A niech to!
+wanst_villageguard_first_1_1,"Hey there, unknown guy. #1.50 Behave or be brave, will ya?","Hej, ty tam, nieznajomy. #1.50 Zachowuj się albo bądź odważny, dobra?"
+wanst_villageguard_first_2_1,Look at this! A new face. #2.00 Welcome.,Patrzcie no! Nowa twarz. #2.00 Witaj.
+wanst_villageguard_king_1_1,All hail the chosen one!,Chwała wybrańcowi!
+wanst_villageguard_king_2_1,Why look. #0.90 It's the chosen one. #2.40 Huzzah!,A niech mnie. #0.90 To wybraniec. #2.40 Hurra!
+wanst_villageguard_king_3_1,"Phew, the chosen one! #2.00 He's back!","Fiu, wybraniec! #2.00 Wrócił!"
+wanst_villageguard_citizen_1_1,"Welcome to the village, citizen.","Witaj w wiosce, obywatelu."
+wanst_villageguard_citizen_2_1,"Welcome home, fellow townsman.","Witaj w domu, mieszczaninie."
+wanst_villageguard_citizen_3_1,"Welcome to our village, citizen.","Witaj w naszej wiosce, obywatelu."
+wanst_villageguard_nude_1_1,"Ugh, please get dressed!","Ugh, ubierz się, proszę!"
+wanst_villageguard_nude_2_1,Ever heard of clothes?,Słyszałeś kiedyś o ubraniach?
+wanst_villageguard_nude_3_1,"Nice pants, freak.","Ładne spodnie, dziwaku."
+wanst_villageguard_regular_1_1,You again? #1.00 Please don't cause any trouble.,"Znowu ty? #1.00 Proszę, nie rób kłopotów."
+wanst_villageguard_regular_2_1,Welcome back.,Witaj z powrotem.
+wanst_villageguard_regular_3_1,Oh hey. #1.00 I remember you.,"O, hej. #1.00 Pamiętam cię."
+monster_villageguard_monster_1_1,You look like a troublemaker. #1.80 No attacks inside the village!,"Wyglądasz na kogoś, kto szuka kłopotów. #1.80 Żadnych ataków w obrębie wioski!"
+wanst_castleguard_regular_1_1,"Only citizens of the town are allowed in this area. #3.30 Go talk to the mayor, if you want to attain citizenship. #6.50 His house is right at the front of town.","Tylko obywatele miasta mogą wchodzić na ten teren. #3.30 Porozmawiaj z burmistrzem, jeśli chcesz uzyskać obywatelstwo. #6.50 Jego dom stoi tuż przy wjeździe do miasta."
+wanst_castleguard_regular_2_1,"We can only let citizens pass through here. #2.70 Go find the mayor, and see what he can do about that.","Możemy przepuścić tędy tylko obywateli. #2.70 Znajdź burmistrza i zobacz, co da się z tym zrobić."
+wanst_castleguard_regular_3_1,You need to citizen up first in order to acces this area. #3.50 The mayor might help you with that...,"Musisz najpierw zdobyć obywatelstwo, żeby wejść na ten teren. #3.50 Burmistrz może ci w tym pomóc..."
+wanst_castleguard_citizen_1_1,"In you go, citizen!","Wchodź śmiało, obywatelu!"
+wanst_castleguard_citizen_2_1,Enjoy your citizenship!,Ciesz się swoim obywatelstwem!
+wanst_castleguard_citizen_3_1,"Welcome, noble citizen!","Witaj, szlachetny obywatelu!"
+wanst_throneguard_sobu_1_1,"This entry is closed, sir. #2.50 The king's counsel disappeared...","To wejście jest zamknięte, panie. #2.50 Doradca króla zaginął..."
+wanst_throneguard_sobu_2_1,We can't let you in without the King's counsel present. #3.00 Sorry.,Nie możemy cię wpuścić bez obecności doradcy króla. #3.00 Przykro mi.
+wanst_throneguard_sobu_3_1,"You'll have to wait for the King's counsel to return. #3.00 Sorry, sir.","Musisz poczekać na powrót doradcy króla. #3.00 Przykro mi, panie."
+wanst_throneguard_prophecy_1_1,"We are awaiting the chosen one and have instructions on how he looks. #4.50 But you do not fit the bill, sorry...","Czekamy na wybrańca i mamy opis tego, jak wygląda. #4.50 Ale ty do niego nie pasujesz, przykro mi..."
+wanst_throneguard_prophecy_2_1,Only the chosen one shall enter. #2.30 And you're clearly not it...,Tylko wybraniec może tu wejść. #2.30 A ty najwyraźniej nim nie jesteś...
+wanst_throneguard_prophecy_3_1,"Uhm, you don't look like the chosen one. #2.50 No offense.","Uhm, nie wyglądasz na wybrańca. #2.50 Bez obrazy."
+wanst_throneguard_king_1_1,It's the chosen one!,To wybraniec!
+wanst_throneguard_king_2_1,"Welcome back, chosen one.","Witaj z powrotem, wybrańcu."
+wanst_throneguard_king_3_1,Look! The chosen one!,Patrzcie! Wybraniec!
+wanst_barkeeper_first_1_1_a,"Hey there, handsome traveler. #2.30 Want a drink?","Hej, przystojny wędrowcze. #2.30 Napijesz się czegoś?"
+wanst_barkeeper_first_1_1_b,You look exhausted. #2.00 Can I fix you up with a drink?,Wyglądasz na wykończonego. #2.00 Mogę postawić ci drinka?
+wanst_barkeeper_first_1_1_c,You've done enough adventuring today. #2.50 Want a drink?,Napodróżowałeś się dziś dosyć. #2.50 Napijesz się?
+wanst_barkeeper_first_1_1_d,Today's special: #1.30 Adventurer's delight. #3.00 Want a sip?,Dzisiejszy specjał: #1.30 Rozkosz poszukiwacza przygód. #3.00 Chcesz łyk?
+wanst_barkeeper_first_1_1_e,"Having a drink here will get you to places, you know? #3.00 Want one?","Drink stąd zaprowadzi cię w różne miejsca, wiesz? #3.00 Chcesz jeden?"
+wanst_barkeeper_first_1_1_f,Fancy a drink? #1.50 You've come to just the place!,Masz ochotę na drinka? #1.50 Trafiłeś w idealne miejsce!
+wanst_barkeeper_acceptdrink_1_1_a,Alright! I'm ready.,Dobra! Jestem gotowy.
+wanst_barkeeper_acceptdrink_1_1_b,Yes! Drink it is!,Tak! Niech będzie drink!
+wanst_barkeeper_acceptdrink_1_1_c,I don't hear myself saying no!,"Nie słyszę, żebym mówił nie!"
+wanst_barkeeper_acceptdrink_1_1_d,Let's end the day with an ale.,Zakończmy dzień piwem.
+wanst_barkeeper_acceptdrink_1_1_e,Yuss!,Tasss!
+wanst_barkeeper_acceptdrink_1_2_a,"Very well. #1.10 Let me get you our house special, hehe.","Bardzo dobrze. #1.10 Przyniosę ci nasz specjał firmowy, hehe."
+wanst_barkeeper_acceptdrink_1_2_b,"Oui oui! But of course! #1.50 This one's on the house, hehe.","Oui oui! Ależ oczywiście! #1.50 Ten jest na koszt firmy, hehe."
+wanst_barkeeper_acceptdrink_1_2_c,"Let's see where this tasty thing gets you, pal. #3.30 Ho ho ho!","Zobaczmy, dokąd zaprowadzi cię ten smakołyk, koleś. #3.30 Ho ho ho!"
+wanst_barkeeper_acceptdrink_1_2_d,Cheers mate!,"Na zdrowie, koleś!"
+wanst_barkeeper_rejectdrink_1_1_a,I... need to take care of some businesses first.,Ja... muszę najpierw załatwić parę spraw.
+wanst_barkeeper_rejectdrink_1_1_b,I only drink on the job.,Piję tylko w pracy.
+wanst_barkeeper_rejectdrink_1_1_c,I am not thirsty.,Nie chce mi się pić.
+wanst_barkeeper_rejectdrink_1_2_a,As you please.,Jak sobie życzysz.
+wanst_barkeeper_rejectdrink_1_2_b,I see you're not into fun. #2.30 Very well.,"Widzę, że nie jesteś typem imprezowicza. #2.30 Bardzo dobrze."
+wanst_barkeeper_rejectdrink_1_2_c,Okay. No drink it is!,Dobra. Niech będzie bez drinka!
+wanst_alva_basic_1_1_a,Okayyy. #0.90 So this is you. #2.50 Nice.,Okeeej. #0.90 Więc tu mieszkasz. #2.50 Miło.
+wanst_alva_basic_1_1_b,You live here? #1.00 Impressive.,Tu mieszkasz? #1.00 Imponujące.
+wanst_alva_basic_1_1_c,"Ooof. #0.70 For a second there, I thought I was #2.00 back in the tower...","Ufff. #0.70 Przez sekundę myślałam, że znów jestem #2.00 w wieży..."
+wanst_alva_basic_1_1_d,Mmm. #0.50 You're into cottagecore. #2.00 I'd never have guessed...,Mmm. #0.50 Lubisz klimat wiejskiej chatki. #2.00 Nigdy bym się nie domyśliła...
+wanst_alva_basic_1_2_a,This is my comfort zone. #2.00 I can brew anything from here. #4.30 Lovely.,To moja strefa komfortu. #2.00 Mogę stąd uwarzyć wszystko. #4.30 Cudownie.
+wanst_alva_basic_1_2_b,I love this place. #2.00 This cauldron gives me peace.,Uwielbiam to miejsce. #2.00 Ten kocioł daje mi spokój ducha.
+wanst_alva_basic_1_2_c,I use this place to unwind. #2.70 And to create the world's deadli- #4.50 I mean... #5.50 dandiest potions.,Odpoczywam tutaj. #2.70 I tworzę najbardziej śmiercio- #4.50 to znaczy... #5.50 wyśmienite mikstury.
+wanst_alva_explode_1_1_a,"What is this evil sorcery? #2.50 I just saw myself #4.00 exploding violently, #5.50 right in front of me.","Co to za złowroga magia? #2.50 Właśnie widziałam samą siebie, #4.00 jak gwałtownie wybucham #5.50 tuż przed moimi oczami."
+wanst_alva_explode_1_1_b,"Jeez, #0.90 this isn't right. #2.50 A doppelgänger of me just came here #4.70 and burst into flames. #6.50 We really should do something about this...","Rety, #0.90 coś tu jest nie tak. #2.50 Mój sobowtór właśnie tu przybył #4.70 i stanął w płomieniach. #6.50 Naprawdę powinniśmy coś z tym zrobić..."
+wanst_alva_explode_1_1_c,Holy cannoli! #1.50 The oddest thing just occured. #3.00 A copy of me #4.50 appeared in here #5.80  and exploded. #7.00 Just like that. #8.00 This nonsense needs to stop!,"Święte słowa! #1.50 Właśnie zdarzyła się najdziwniejsza rzecz. #3.00 Moja kopia #4.50 pojawiła się tutaj #5.80 i eksplodowała. #7.00 Ot tak, po prostu. #8.00 Ten absurd musi się skończyć!"
+wanst_alva_explode_1_2_a,Fake it 'til you make it.,"Udawaj, aż ci się uda."
+wanst_alva_explode_1_2_b,Well... #0.60 Let's hope for the best.,Cóż... #0.60 Miejmy nadzieję na najlepsze.
+wanst_alva_explode_1_2_c,Looks like a bad case of explotivitis.,Wygląda na poważny przypadek eksplozjozy.
+wanst_hubertsmom_allsick_1_1,"Hullo there. #1.50 Sorry we cannot offer you great hospitality, dear adventurer. #6.00 We are very sick.","Witaj. #1.50 Wybacz, że nie możemy cię ugościć jak należy, drogi poszukiwaczu przygód. #6.00 Jesteśmy bardzo chorzy."
+wanst_hubertsmom_allsick_2_1,"Don't come too close, sir. #2.00 We are very ill.","Nie podchodź zbyt blisko, panie. #2.00 Jesteśmy bardzo chorzy."
+wanst_hubertsmom_allsick_3_1,"Nothing to see here, boy. #3.00 Just a bunch of sick parents.","Nie ma tu nic do oglądania, chłopcze. #3.00 Tylko garstka chorych rodziców."
+wanst_hubertsmom_manysick_1_1,Ufff. We are still pretty sick. #2.20 Can't offer you much right now.,Ufff. Wciąż jesteśmy dość chorzy. #2.20 Nie możemy teraz wiele zaoferować.
+wanst_hubertsmom_manysick_2_1,Cough ugh. This place is a mess and so are we. #4.00 Conditions are improving though...,"Kaszl, ugh. Tu jest bałagan, tak jak i z nami. #4.00 Chociaż sytuacja się poprawia..."
+wanst_hubertsmom_manysick_3_1,"I would offer you some tea, but we can barely move from this illness. #4.50 It's better than yesterday though...","Poczęstowałabym cię herbatą, ale ledwo się ruszamy z powodu tej choroby. #4.50 Chociaż jest lepiej niż wczoraj..."
+wanst_hubertsmom_fewsick_1_1,"Hey there. #1.00 We've been sick for quite a while, but we're almost back to normal again...","Witaj. #1.00 Chorowaliśmy przez dłuższy czas, ale prawie wróciliśmy do normy..."
+wanst_hubertsmom_fewsick_2_1,Hello young man. #1.30 We're almost back to our world famous hospitality. #5.00 Just waiting out for the remainders of this nasty cough to clear off.,"Witaj, młodzieńcze. #1.30 Prawie wróciliśmy do naszej słynnej na cały świat gościnności. #5.00 Czekamy tylko, aż resztki tego paskudnego kaszlu miną."
+wanst_hubertsmom_fewsick_3_1,Hello! #1.00 Other than a little rusty feeling in the throat... #4.00 ...we're on our way to healthy living again.,Witaj! #1.00 Poza lekką chrypką w gardle... #4.00 ...wracamy na drogę zdrowego życia.
+wanst_hubertsmom_allsick_end_1_1,We are waiting for our son Hubert to send help...,"Czekamy, aż nasz syn Hubert przyśle pomoc..."
+wanst_hubertsmom_allsick_end_2_1,Our son is out there to help... #2.50 Hope he comes back soon.,"Nasz syn wyruszył, by pomóc... #2.50 Mam nadzieję, że wkrótce wróci."
+wanst_hubertsmom_allsick_end_3_1,Our son Hubert went into the tower to earn some money. #3.50 He needs to return quick. #5.50 Or we will be soup...,"Nasz syn Hubert poszedł do wieży, żeby zarobić trochę pieniędzy. #3.50 Musi szybko wrócić. #5.50 Albo będzie z nami krucho..."
+wanst_hubertsmom_manysick_end_1_1,Our son's been out there for quite some time. #3.00 We really need his help...,Nasz syn jest tam już od dłuższego czasu. #3.00 Naprawdę potrzebujemy jego pomocy...
+wanst_hubertsmom_manysick_end_2_1,Have you seen our son Hubert? #2.00 He went to seek help.,Widziałeś naszego syna Huberta? #2.00 Poszedł szukać pomocy.
+wanst_hubertsmom_manysick_end_3_1,We need our son. #1.50 He went out to get supplies...,Potrzebujemy naszego syna. #1.50 Poszedł po zaopatrzenie...
+wanst_hubertsmom_fewsick_end_1_1,Our son is out to get help. #2.50 Have you seen him?,Nasz syn poszedł po pomoc. #2.50 Widziałeś go?
+wanst_hubertsmom_fewsick_end_2_1,Our son went into the tower to earn some money to cure our illness.,"Nasz syn poszedł do wieży, żeby zarobić na lekarstwo dla nas."
+wanst_hubertsmom_fewsick_end_3_1,Our boy Hubert is out to loot that nasty tower. #4.50 Hopefully he'll come back.,"Nasz chłopak Hubert poszedł łupić tę paskudną wieżę. #4.50 Mam nadzieję, że wróci."
+wanst_hubertsmom_endhubert_1_1,Don't worry! #0.80 I will go right back to the tower to get us some money!,"Nie martwcie się! #0.80 Zaraz wrócę do wieży, żeby zdobyć dla nas trochę pieniędzy!"
+wanst_hubertsmom_endhubert_2_1,I'm off to the tower! #1.30 Help is on its way!,Idę do wieży! #1.30 Pomoc już w drodze!
+wanst_hubertsmom_endhubert_3_1,Off I go! #1.00 It kills me to see you suffer like this. #3.50 I'll go back to the tower to find some gold!,"No to jestem w drodze! #1.00 Serce mi pęka, gdy widzę wasze cierpienie. #3.50 Wrócę do wieży poszukać złota!"
+wanst_hubertsmom_healed_1_1,"Remember that time we were terminally ill? #3.00 Well, we made it! Huzzah!","Pamiętasz, jak byliśmy śmiertelnie chorzy? #3.00 Cóż, udało się! Hurra!"
+wanst_hubertsmom_healed_2_1,We really learned to appreciate the small things in life. #3.30 Now that we're back among the living.,"Naprawdę nauczyliśmy się doceniać drobne przyjemności życia. #3.30 Teraz, gdy znów jesteśmy wśród żywych."
+wanst_hubertsmom_healed_3_1,Feels good to be healthy again! #2.00 We choose not to be sick ever again!,Miło znów być zdrowym! #2.00 Postanawiamy już nigdy nie chorować!
+wanst_hubertsmom_healedhubert_1_1,I am so glad my mom and pop are back in the juice. #3.00 So cool.,"Tak się cieszę, że mama i tata wrócili do formy. #3.00 Super sprawa."
+wanst_hubertsmom_healedhubert_2_1,"Phew. #0.80 I'm so glad you made it, mom and dad. #2.90 Your health is my happiness.","Fiu. #0.80 Tak się cieszę, że daliście radę, mamo i tato. #2.90 Wasze zdrowie to moje szczęście."
+wanst_hubertsmom_healedhubert_3_1,Feels great that our happy home is now back to its original glory. #3.50 Cheers.,"Miło, że nasz szczęśliwy dom wrócił do dawnej świetności. #3.50 Na zdrowie."
+wanst_hubertsmom_angry_1_1_a,Leave!,Wynocha!
+wanst_hubertsmom_angry_1_1_b,Go away!,Odejdź!
+wanst_hubertsmom_angry_1_1_c,Nothing to see here! Get lost!,Nic tu do oglądania! Spadaj!
+row401,"Ready for another adventure, #1.60 Hubert?","Gotowy na kolejną przygodę, #1.60 Hubercie?"
+row402,Sorry. #0.80 I've left my life of violence #2.50 and clubbing behind me.,Wybacz. #0.80 Zostawiłem za sobą życie przemocy #2.50 i maczugowania.
+row403,You're missing out on so much fun!,Tyle zabawy cię omija!
+row405,Hey Bert! #1.00 Let's go kick some butts.,"Hej, Bert! #1.00 Chodźmy komuś nakopać."
+row406,"Sorry, I've entered a new phase in life. #2.00 A phase devoid of kicking butts.","Wybacz, wszedłem w nowy etap życia. #2.00 Etap bez kopania komukolwiek."
+row407,It's just a phase...,To tylko taki etap...
+row410,"Oh wow, what happened? #2.50 I ran into an imposter who looked just like me. #5.00 Luckily, he went out in flames. #7.00 So that problem solved itself. #9.00 Haha hahaha!","O rety, co się stało? #2.50 Natknąłem się na oszusta, który wyglądał zupełnie jak ja. #5.00 Na szczęście spłonął żywcem. #7.00 Więc problem rozwiązał się sam. #9.00 Haha hahaha!"
+wanst_hubert_eva_start_perfect_1_1_a,Oh lord! #0.90 What an amazing team we are!,O rety! #0.90 Ale z nas świetny zespół!
+wanst_hubert_eva_start_perfect_1_1_b,Success! #1.20 Too bad this amazing adventure is over already.,"Sukces! #1.20 Szkoda, że ta wspaniała przygoda już się kończy."
+wanst_hubert_eva_start_perfect_1_1_c,I will remember this as one heck of a time! #2.10 Yeah!,Zapamiętam to jako niesamowity czas! #2.10 Tak!
+wanst_hubert_eva_start_great_1_1_a,This was quite the adventure.,To była niezła przygoda.
+wanst_hubert_eva_start_great_1_1_b,We made it! #1.30 This was fun.,Udało się! #1.30 Było fajnie.
+wanst_hubert_eva_start_great_1_1_c,Look at us! #1.00 What a good time we had.,Patrz na nas! #1.00 Ale mieliśmy niezły czas.
+wanst_hubert_eva_start_good_1_1_a,"At last, we're free. #1.80 Who would've thought.",Nareszcie jesteśmy wolni. #1.80 Kto by pomyślał.
+wanst_hubert_eva_start_good_1_1_b,I almost stopped believing in us. #2.00 Almost...,Prawie przestałem w nas wierzyć. #2.00 Prawie...
+wanst_hubert_eva_start_good_1_1_c,Our adventure ended well after all. #2.00 Thank god.,Nasza przygoda w końcu skończyła się dobrze. #2.00 Dzięki Bogu.
+wanst_hubert_eva_start_medium_1_1_a,Phew. #0.80 How did we even manage to get out?,Fiu. #0.80 Jak my w ogóle udało nam się stamtąd wydostać?
+wanst_hubert_eva_start_medium_1_1_b,Uh Finally. #1.00 I'm on my own again.,"Eee, nareszcie. #1.00 Znów jestem na swoim."
+wanst_hubert_eva_start_medium_1_1_c,"It's quite the miracle we made it. #2.00 But here we are, I guess...","To istny cud, że nam się udało. #2.00 Ale jesteśmy tu, jak widać..."
+wanst_hubert_eva_start_bummed_1_1_a,This is a lovely meadow. #1.50 But I'm having a hard time trying to enjoy it.,Ta łąka jest urocza. #1.50 Ale trudno mi się nią cieszyć.
+wanst_hubert_eva_start_bummed_1_1_b,Freedom at last. #2.00 But at what cost? #3.50 Ugh.,Wreszcie wolność. #2.00 Ale jakim kosztem? #3.50 Ugh.
+wanst_hubert_eva_start_bummed_1_1_c,Uff. I'm not asking how we got here. #2.00 But I'll pretend to be happy.,"Uff. Nie będę pytał, jak się tu znaleźliśmy. #2.00 Ale udam, że jestem szczęśliwy."
+wanst_hubert_eva_start_angry_1_1_a,Uh finally. #1.30 I thought this torture would never end.,"Eee, nareszcie. #1.30 Myślałem, że ta udręka nigdy się nie skończy."
+wanst_hubert_eva_start_angry_1_1_b,Am I glad we're alive... #1.30 ...or glad to finally be rid of you?,"Czy cieszę się, że żyjemy... #1.30 ...czy że wreszcie się ciebie pozbędę?"
+wanst_hubert_eva_start_angry_1_1_c,This was a total scam! #1.80 At least we're out.,To było totalne oszustwo! #1.80 Przynajmniej jesteśmy na wolności.
+wanst_hubert_eva_end_perfect_1_1_a,Let's see how my family is doing.,"Zobaczmy, jak radzi sobie moja rodzina."
+wanst_hubert_eva_end_perfect_1_1_b,"Oh, right! My family! #1.50 I'm so excited, I almost forgot them. #3.50 Ciao!","A no tak! Moja rodzina! #1.50 Tak się cieszę, że prawie o nich zapomniałem. #3.50 Ciao!"
+wanst_hubert_eva_end_perfect_1_1_c,Can't wait to see my family again!,"Nie mogę się doczekać, żeby znów zobaczyć rodzinę!"
+wanst_hubert_eva_end_great_1_1_a,"I have to go and look after my family now, though.",Muszę już jednak iść zająć się rodziną.
+wanst_hubert_eva_end_great_1_1_b,"I'd love to stay, but my family needs me. #3.00 Byebye!","Chętnie bym został, ale rodzina mnie potrzebuje. #3.00 Pa pa!"
+wanst_hubert_eva_end_great_1_1_c,"Goodbye, my friend. #1.30 I must run to family now.","Żegnaj, przyjacielu. #1.30 Muszę już biec do rodziny."
+wanst_hubert_eva_end_good_1_1_a,"Remember I'm doing this for my family, ok?","Pamiętaj, że robię to dla rodziny, dobra?"
+wanst_hubert_eva_end_good_1_1_b,My family is surely missing me right now. #2.20 Gotta split!,Rodzina na pewno teraz za mną tęskni. #2.20 Muszę spadać!
+wanst_hubert_eva_end_good_1_1_c,I'm off to my family! #1.40 Later!,Idę do rodziny! #1.40 Na razie!
+wanst_hubert_eva_end_medium_1_1_a,I wonder how my family is doing...,"Ciekawe, jak radzi sobie moja rodzina..."
+wanst_hubert_eva_end_medium_1_1_b,Can't take care of your sick mind... #2.00 ...and my family. #3.00 Sorry. #3.80 Goodbye!,Nie mogę jednocześnie zajmować się twoim chorym umysłem... #2.00 ...i moją rodziną. #3.00 Przykro mi. #3.80 Żegnaj!
+wanst_hubert_eva_end_medium_1_1_c,I really need to get back to my family quickly. #2.50 Bye.,Naprawdę muszę szybko wrócić do rodziny. #2.50 Pa.
+wanst_hubert_eva_end_bummed_1_1_a,"Can you let me focus on important things, now?",Możesz pozwolić mi teraz skupić się na ważnych sprawach?
+wanst_hubert_eva_end_bummed_1_1_b,Can't wait to get away from you! #2.00 Ugh!,"Nie mogę się doczekać, żeby się od ciebie oddalić! #2.00 Ugh!"
+wanst_hubert_eva_end_bummed_1_1_c,Hope I wasn't gone too long.,"Mam nadzieję, że nie było mnie za długo."
+wanst_hubert_eva_end_angry_1_1_a,Get lost!,Spadaj!
+wanst_hubert_eva_end_angry_1_1_b,I'm out!,Ja spadam!
+wanst_hubert_eva_end_angry_1_1_c,Here's to never meeting again! #2.00 Ciao!,"Za to, żebyśmy nigdy się więcej nie spotkali! #2.00 Ciao!"
+wanst_sobu_eva_start_perfect_1_1_a,Your abilities are astounding! #2.70 You lead us into safety. #4.50 Just as I had foreseen.,"Twoje umiejętności są zdumiewające! #2.70 Doprowadziłeś nas do bezpieczeństwa. #4.50 Dokładnie tak, jak przewidziałem."
+wanst_sobu_eva_start_perfect_1_1_b,I could have never foreseen a greater hero than you to be a part of this legend!,Nigdy nie przewidziałbym większego bohatera niż ty w tej legendzie!
+wanst_sobu_eva_start_perfect_1_1_c,You did it! #1.00 May your name be immortalized in the holy books!,Udało ci się! #1.00 Niech twoje imię zostanie uwiecznione w świętych księgach!
+wanst_sobu_eva_start_great_1_1_a,"You fulfilled your quest, as it was written, long ago.","Wypełniłeś swoją misję, tak jak zapisano, dawno temu."
+wanst_sobu_eva_start_great_1_1_b,"You did well, my son! #2.00 Just as I had foreseen...","Dobrze się spisałeś, synu! #2.00 Dokładnie tak, jak przewidziałem..."
+wanst_sobu_eva_start_great_1_1_c,"Well done, son!","Dobra robota, synu!"
+wanst_sobu_eva_start_good_1_1_a,To be honest: #1.00 I foresaw our death. #2.50 But even the wisest can err somedays.,Szczerze mówiąc: #1.00 przewidziałem naszą śmierć. #2.50 Ale nawet najmędrszy czasem się myli.
+wanst_sobu_eva_start_good_1_1_b,I must confess that I didn't see this good ending coming. #3.50 Seems like a need to revise my prophecies a bit.,"Muszę przyznać, że nie przewidziałem tak dobrego zakończenia. #3.50 Wygląda na to, że muszę nieco zrewidować swoje przepowiednie."
+wanst_sobu_eva_start_good_1_1_c,We got out? #1.00 Huh. #2.00 That's a contradiction to all prophecies ever written by me!,"Udało nam się wyjść? #1.00 Ha. #2.00 To zaprzecza wszystkim przepowiedniom, jakie kiedykolwiek spisałem!"
+wanst_sobu_eva_start_medium_1_1_a,"Phew, finally this can end.","Fiu, wreszcie to może się skończyć."
+wanst_sobu_eva_start_medium_1_1_b,"Whoo, I'm glad we're out of this dumpster fire.","Ho ho, cieszę się, że wydostaliśmy się z tego pogorzeliska."
+wanst_sobu_eva_start_medium_1_1_c,Finally this has come to an end. #2.50 Just like my wisdom.,Wreszcie to się skończyło. #2.50 Podobnie jak moja mądrość.
+wanst_sobu_eva_start_bummed_1_1_a,The magnitude of your mistakes is unrivaled. #3.00 Even in the darkest and most dreadful tales from ancient times.,Skala twoich błędów jest bezkonkurencyjna. #3.00 Nawet w najmroczniejszych i najstraszniejszych opowieściach starożytności.
+wanst_sobu_eva_start_bummed_1_1_b,Your oafishness rewrote the tale. #3.00 Making even the most ancient and dreadful texts pale in comparison to this adventure.,"Twoja niezdarność przepisała tę opowieść na nowo. #3.00 Sprawiając, że nawet najstarsze i najstraszniejsze teksty bledną przy tej przygodzie."
+wanst_sobu_eva_start_bummed_1_1_c,"Against all reason, we made it through. #2.50 Despite your blunders that defied any predictions.","Wbrew wszelkiej logice, przetrwaliśmy. #2.50 Pomimo twoich potknięć, które przeczyły wszelkim przepowiedniom."
+wanst_sobu_eva_start_angry_1_1_a,You exceeded all expectations. #3.00 Negatively. #4.00 Your blunders were unprecedented in all recorded history!,Przerosłeś wszelkie oczekiwania. #3.00 Na minus. #4.00 Twoje potknięcia nie miały precedensu w całej spisanej historii!
+wanst_sobu_eva_start_angry_1_1_b,"It's truly a miracle that we got out, despite...#3.00 ...your bumbling efforts that even the wisest couldn't have foreseen!","To prawdziwy cud, że się stamtąd wydostaliśmy, pomimo...#3.00 ...twoich nieudolnych wysiłków, których nawet najmędrszy nie mógłby przewidzieć!"
+wanst_sobu_eva_start_angry_1_1_c,Even the most ancient and horrific texts...#3.00 ...are nothing compared to what your oafishness offered in this adventure!,"Nawet najstarsze i najstraszniejsze teksty...#3.00 ...są niczym w porównaniu z tym, co zaoferowała twoja niezdarność w tej przygodzie!"
+wanst_sobu_eva_end_perfect_1_1_a,I'll go into the castle to await the coming of the chosen one... #3.50 Maybe it will be you?,"Udam się do zamku, by czekać na przybycie wybrańca... #3.50 Może to będziesz ty?"
+wanst_sobu_eva_end_perfect_1_1_b,I feel like our adventure has just begun! #3.00 May you appear at the castle gates one day to claim the crown!,"Czuję, że nasza przygoda dopiero się zaczyna! #3.00 Obyś pewnego dnia stanął u bram zamku, by odebrać koronę!"
+wanst_sobu_eva_end_great_1_1_a,It is now my duty to enter the castle... #2.50 ...where I shall await the chosen one.,Mój obowiązek każe mi teraz wejść do zamku... #2.50 ...gdzie będę czekał na wybrańca.
+wanst_sobu_eva_end_great_1_1_b,"I will retreat to the castle. #1.50 There, another quest awaits me...",Wycofam się do zamku. #1.50 Tam czeka na mnie kolejne zadanie...
+wanst_sobu_eva_end_great_1_1_c,I will take my leave to the castle. #2.30 I have a feeling that this adventure has just begun!,"Udam się do zamku. #2.30 Mam przeczucie, że ta przygoda dopiero się zaczyna!"
+wanst_sobu_eva_end_good_1_1_a,Anyways. #1.00 I will now retreat to my advisory business. #3.50 See you!,W każdym razie. #1.00 Wracam teraz do mojej doradczej działalności. #3.50 Do zobaczenia!
+wanst_sobu_eva_end_good_1_1_b,"Anyhow, I have some clients that are awaiting my consulting service. #3.70 So, I gotta go. #5.50 Bye!","Tak czy inaczej, mam klientów czekających na moje usługi doradcze. #3.70 Więc muszę iść. #5.50 Pa!"
+wanst_sobu_eva_end_good_1_1_c,My consulting business needs me. #2.00 So I'll return to work now. #3.50 Bye!,Moja firma doradcza mnie potrzebuje. #2.00 Więc wracam teraz do pracy. #3.50 Pa!
+wanst_sobu_eva_end_medium_1_1_a,Your mistakes have a remarkable charm. #3.00 But I think I might retire now. #5.00 Farewell!,Twoje błędy mają niezwykły urok. #3.00 Ale chyba czas na emeryturę. #5.00 Żegnaj!
+wanst_sobu_eva_end_medium_1_1_b,You are a funny guy... #2.00 But I wish not to be near your jestings the next time. #5.50 Farewell!,Jesteś zabawnym gościem... #2.00 Ale wolałbym nie być blisko twoich żartów następnym razem. #5.50 Żegnaj!
+wanst_sobu_eva_end_medium_1_1_c,"Our adventure would make for a good book. #2.00 That way, society will find some harsh lessons on what NOT to do in life. #6.50 I'll send you a copy, once I'm finished. Farewell!","Nasza przygoda nadawałaby się na dobrą książkę. #2.00 Dzięki temu ludzie poznaliby dosadną lekcję, czego NIE robić w życiu. #6.50 Wyślę ci egzemplarz, jak skończę. Żegnaj!"
+wanst_sobu_eva_end_bummed_1_1_a,But at least it's all over now. #2.00 Farewell!,Ale przynajmniej to już koniec. #2.00 Żegnaj!
+wanst_sobu_eva_end_bummed_1_1_b,I'll now try to raise my spirits. #2.50 Farewell!,Spróbuję teraz podnieść się na duchu. #2.50 Żegnaj!
+wanst_sobu_eva_end_bummed_1_1_c,Maybe I will retire and start a new life as a gardener. #3.50 Farewell!,Może przejdę na emeryturę i zacznę nowe życie jako ogrodnik. #3.50 Żegnaj!
+wanst_sobu_eva_end_angry_1_1_a,May our stars never align again!,Obyśmy nigdy więcej nie mieli tych samych gwiazd!
+wanst_sobu_eva_end_angry_1_1_b,May the gods have mercy. #2.00 And prevent any further meeting of you!,Niech bogowie się zlitują. #2.00 I zapobiegną kolejnemu spotkaniu z tobą!
+wanst_sobu_eva_end_angry_1_1_c,At least my prophetic vision tells me we will not cross paths again.,"Przynajmniej moja prorocza wizja mówi mi, że nasze drogi się więcej nie skrzyżują."
+wanst_alva_eva_start_perfect_1_1_a,Free as a bumblebee! #2.40 You proved to be a real knight!,Wolna jak trzmiel! #2.40 Okazałeś się prawdziwym rycerzem!
+wanst_alva_eva_start_perfect_1_1_b,By grandmother's beard! #2.20 You truly managed the impossible.,Na brodę mojej babci! #2.20 Naprawdę dokonałeś niemożliwego.
+wanst_alva_eva_start_perfect_1_1_c,Finally! #1.20 The taste of freedom! #2.80 You were just the right ingredient for this adventure!,"Nareszcie! #1.20 Smak wolności! #2.80 Byłeś dokładnie tym składnikiem, jakiego potrzebowała ta przygoda!"
+wanst_alva_eva_start_great_1_1_a,You got us out! #1.50 How wonderful.,Wyciągnąłeś nas stamtąd! #1.50 Jak cudownie.
+wanst_alva_eva_start_great_1_1_b,"Good job, friend. #2.00 Feels great to be outside again.","Dobra robota, przyjacielu. #2.00 Miło znów być na zewnątrz."
+wanst_alva_eva_start_great_1_1_c,We made it! #1.50 Thanks to your honour and bravery. #4.00 Cheers!,Udało się! #1.50 Dzięki twojemu honorowi i odwadze. #4.00 Na zdrowie!
+wanst_alva_eva_start_good_1_1_a,Oh my! Fresh air. #2.20 Who would've thought we'd experience that #4.40 ever again.,"O rety! Świeże powietrze. #2.20 Kto by pomyślał, że jeszcze kiedyś #4.40 tego doświadczymy."
+wanst_alva_eva_start_good_1_1_b,"Hey, hey! #0.90 The grass is greener on the other side. #3.00 We made it!","Hej, hej! #0.90 Trawa jest bardziej zielona po tej stronie. #3.00 Udało się!"
+wanst_alva_eva_start_good_1_1_c,"Thank you, sir. #1.50 Following you did prove #3.20 to be a good idea.","Dziękuję, panie. #1.50 Podążanie za tobą okazało się #3.20 dobrym pomysłem."
+wanst_alva_eva_start_medium_1_1_a,Uff. #1.00 Getting out in one piece is at least #3.00 something...,Uff. #1.00 Wyjście z tego cało to przynajmniej #3.00 coś...
+wanst_alva_eva_start_medium_1_1_b,Glad that's over. #1.30 We almost didn't make it.,"Cieszę się, że to koniec. #1.30 Prawie nam się nie udało."
+wanst_alva_eva_start_medium_1_1_c,"Close call, #1.30 but here we are. #2.50 Phew!","O mało co, #1.30 ale jesteśmy. #2.50 Fiu!"
+wanst_alva_eva_start_bummed_1_1_a,"We left that dreadful tower behind. #3.80 But the memories of you will last forever, #6.30 unfortunately...","Zostawiliśmy tę okropną wieżę za sobą. #3.80 Ale wspomnienia o tobie zostaną na zawsze, #6.30 niestety..."
+wanst_alva_eva_start_bummed_1_1_b,"Ah, phew. #1.00 I couldn't endure another minute with you in that #3.10 awful tower thing.","Ach, fiu. #1.00 Nie wytrzymałabym z tobą ani minuty dłużej w tej #3.10 okropnej wieży."
+wanst_alva_eva_start_bummed_1_1_c,"Well, what do you know? #1.30 For some reason, #2.50 we're still alive.",No proszę. #1.30 Z jakiegoś powodu #2.50 wciąż żyjemy.
+wanst_alva_eva_start_angry_1_1_a,I wish #0.90 to brew a potion that will make me forget #3.20 what's happened since I met you.,"Chciałabym #0.90 uwarzyć miksturę, która sprawi, że zapomnę, #3.20 co się działo, odkąd cię poznałam."
+wanst_alva_eva_start_angry_1_1_b,How did that wild ride #1.90 possibly end in success? #4.20 Well... #4.90 At least it ended..,Jak ta szalona jazda #1.90 w ogóle mogła skończyć się sukcesem? #4.20 Cóż... #4.90 Przynajmniej się skończyła..
+wanst_alva_eva_start_angry_1_1_c,Is this the end? #1.40 Will you let me be... #2.50 At last?,Czy to koniec? #1.40 Zostawisz mnie w spokoju... #2.50 Nareszcie?
+wanst_alva_eva_end_perfect_1_1_a,I'll return to my hut #1.30 and continue the study of #3.00 potion magic. #4.00 Cheers!,Wrócę do swojej chatki #1.30 i będę kontynuować naukę #3.00 magii mikstur. #4.00 Na zdrowie!
+wanst_alva_eva_end_perfect_1_1_b,I shall now return to my homey cauldron. #3.50 Farewell!,Wrócę teraz do mojego przytulnego kotła. #3.50 Żegnaj!
+wanst_alva_eva_end_perfect_1_1_c,"Off I go to brew in peace! #2.50 Stop by, if you're ever in town!","Idę warzyć w spokoju! #2.50 Wpadnij, jeśli kiedyś będziesz w okolicy!"
+wanst_alva_eva_end_great_1_1_a,Can't wait to brew some #1.70 potion without any commotion. #3.70 My home sweet home awaits!,"Nie mogę się doczekać, żeby warzyć #1.70 miksturę bez żadnego zamieszania. #3.70 Czeka na mnie mój przytulny dom!"
+wanst_alva_eva_end_great_1_1_b,Off to my home I go! #1.80 You're welcome any time.,"Idę do domu! #1.80 Możesz wpaść, kiedy zechcesz."
+wanst_alva_eva_end_great_1_1_c,Can't wait to dust off my #1.90 olde cauldron. #3.90 How long were we trapped inside that mess?,"Nie mogę się doczekać, żeby odkurzyć mój #1.90 stary kocioł. #3.90 Jak długo byliśmy uwięzieni w tym bałaganie?"
+wanst_alva_eva_end_good_1_1_a,I am in dire need of #1.40 home and some rest. #3.50 Farewell.,Rozpaczliwie potrzebuję #1.40 domu i odrobiny odpoczynku. #3.50 Żegnaj.
+wanst_alva_eva_end_good_1_1_b,I thought I'd never see my home again. #2.00 Curious if it's still all in one piece.,"Myślałam, że już nigdy nie zobaczę swojego domu. #2.00 Ciekawe, czy wciąż stoi w całości."
+wanst_alva_eva_end_good_1_1_c,I have to get going. #1.60 Thanks for everything.,Muszę już iść. #1.60 Dzięki za wszystko.
+wanst_alva_eva_end_medium_1_1_a,Let's put this all behind us #1.50 and head home.,Zostawmy to wszystko za sobą #1.50 i wracajmy do domu.
+wanst_alva_eva_end_medium_1_1_b,I'm going home to brew some potions and #2.50 keep my mind off things. #4.50 Take care.,"Idę do domu, żeby warzyć mikstury i #2.50 oderwać myśli od tego wszystkiego. #4.50 Trzymaj się."
+wanst_alva_eva_end_medium_1_1_c,Can I go now?,Mogę już iść?
+wanst_alva_eva_end_bummed_1_1_a,I need some time to calm down. #2.00 At home. #2.90 With my potions. #4.00 Please stay away for now...,"Potrzebuję czasu, żeby się uspokoić. #2.00 W domu. #2.90 Z moimi miksturami. #4.00 Proszę, trzymaj się teraz z daleka..."
+wanst_alva_eva_end_bummed_1_1_b,I think we should part ways here...,"Myślę, że tutaj powinniśmy się rozstać..."
+wanst_alva_eva_end_bummed_1_1_c,"Let's go our separate ways now, though.",Rozejdźmy się jednak teraz w swoje strony.
+wanst_alva_eva_end_angry_1_1_a,Can't wait to stay home for quite a while #2.10 to put all this behind me...,"Nie mogę się doczekać, żeby zostać w domu na dłuższy czas #2.10 i zostawić to wszystko za sobą..."
+wanst_alva_eva_end_angry_1_1_b,"I better get going, before you decide #1.60 to mess it all up again...","Lepiej już pójdę, zanim zdążysz #1.60 znów wszystko popsuć..."
+wanst_alva_eva_end_angry_1_1_c,I thought I'd never get rid of you...,"Myślałam, że nigdy się ciebie nie pozbędę..."
+wanst_excito_eva_start_perfect_1_1_a,You lead us into safety! #1.50 I love you man!,"Doprowadziłeś nas do bezpieczeństwa! #1.50 Kocham cię, stary!"
+wanst_excito_eva_start_perfect_1_1_b,You saved me! #1.20 I'll forever be in your debt!,Uratowałeś mnie! #1.20 Będę ci wiecznie dłużny!
+wanst_excito_eva_start_perfect_1_1_c,You are my hero! #1.50 We are free at last!,Jesteś moim bohaterem! #1.50 Nareszcie jesteśmy wolni!
+wanst_excito_eva_start_great_1_1_a,We are free! #1.30 Thanks man!,"Jesteśmy wolni! #1.30 Dzięki, stary!"
+wanst_excito_eva_start_great_1_1_b,"I like the smell of sweet, sweet freedom!","Uwielbiam zapach słodkiej, słodkiej wolności!"
+wanst_excito_eva_start_great_1_1_c,We made it out of the tower! Hooray!,Wydostaliśmy się z wieży! Hurra!
+wanst_excito_eva_start_good_1_1_a,I never thought we would make it.,"Nigdy nie sądziłem, że nam się uda."
+wanst_excito_eva_start_good_1_1_b,"At last, we survived!",Nareszcie przeżyliśmy!
+wanst_excito_eva_start_good_1_1_c,We... are free? #2.00 I almost can't believe it.,My... jesteśmy wolni? #2.00 Prawie nie mogę w to uwierzyć.
+wanst_excito_eva_start_medium_1_1_a,"I am surprised we made it, but I guess we were lucky!","Jestem zaskoczony, że nam się udało, ale chyba mieliśmy szczęście!"
+wanst_excito_eva_start_medium_1_1_b,We survived? #1.40 Phew...,Przeżyliśmy? #1.40 Fiu...
+wanst_excito_eva_start_medium_1_1_c,"Oh, we are free?","O, jesteśmy wolni?"
+wanst_excito_eva_start_bummed_1_1_a,We're out? #1.00 I kind of wish we didn't survive.,"Jesteśmy na zewnątrz? #1.00 Chyba wolałbym, żebyśmy nie przeżyli."
+wanst_excito_eva_start_bummed_1_1_b,We got out despite your worst efforts?,Wydostaliśmy się mimo twoich najgorszych starań?
+wanst_excito_eva_start_bummed_1_1_c,We're out. #0.80 But I think I will only feel safe once I'm away from you.,"Jesteśmy na zewnątrz. #0.80 Ale chyba poczuję się bezpiecznie dopiero, gdy będę od ciebie daleko."
+wanst_excito_eva_start_angry_1_1_a,"Finally, this can end!",Nareszcie to może się skończyć!
+wanst_excito_eva_start_angry_1_1_b,This was the worst adventure. Ever.,To była najgorsza przygoda. W historii.
+wanst_excito_eva_start_angry_1_1_c,There's not much left to say.,Niewiele już zostało do powiedzenia.
+wanst_excito_eva_end_perfect_1_1_a,"I'll go to the tavern and wait for you there, friend!","Idę do karczmy i czekam tam na ciebie, przyjacielu!"
+wanst_excito_eva_end_perfect_1_1_b,"I sense a tavern nearby. #2.00 So see you there, bestie! #3.40 Drinks on me!","Czuję, że karczma jest gdzieś blisko. #2.00 Więc do zobaczenia tam, przyjacielu! #3.40 Drinki na mój koszt!"
+wanst_excito_eva_end_perfect_1_1_c,I'll order some drinks for us at the bar friendo! #2.50 You're invited!,"Zamówię nam drinki przy barze, ziomeczku! #2.50 Jesteś zaproszony!"
+wanst_excito_eva_end_great_1_1_a,"I'll see you around at the tavern, buddy!","Do zobaczenia w karczmie, kolego!"
+wanst_excito_eva_end_great_1_1_b,I'll go to the tavern and start the escape party for us!,Idę do karczmy zacząć naszą imprezę z okazji ucieczki!
+wanst_excito_eva_end_great_1_1_c,"Now it's time for a fresh, cool ale at the tavern. #3.00 See you there bud!","Teraz czas na świeże, zimne piwo w karczmie. #3.00 Do zobaczenia tam, kolego!"
+wanst_excito_eva_end_good_1_1_a,"See you around! #1.00 Take care, big boy!","Do zobaczenia! #1.00 Trzymaj się, wielkoludzie!"
+wanst_excito_eva_end_good_1_1_b,"Well, it's been... interesting knowing you. #3.00 Goodbye for now!","Cóż, znajomość z tobą była... interesująca. #3.00 Na razie żegnaj!"
+wanst_excito_eva_end_good_1_1_c,"Guess it's goodbye, then! #1.40 Farewell, knight!","No to chyba żegnaj! #1.40 Bywaj, rycerzu!"
+wanst_excito_eva_end_medium_1_1_a,"So, that's that then. #1.50 I wish I could stay longer, but I need to go to the toilet real bad. #5.00 So... bye then!","No to tyle. #1.50 Chciałbym zostać dłużej, ale strasznie muszę do toalety. #5.00 Więc... pa!"
+wanst_excito_eva_end_medium_1_1_b,"I wish I could stay longer, but I have to... #2.50 Return some old-timey drapes.","Chciałbym zostać dłużej, ale muszę... #2.50 oddać jakieś staroświeckie zasłony."
+wanst_excito_eva_end_medium_1_1_c,"Sadly, the demands of my bladder require immediate attention. #3.50 Thus, I must take my leave. #5.00 Toodle-oo!","Niestety, potrzeby mojego pęcherza wymagają natychmiastowej uwagi. #3.50 Dlatego muszę się pożegnać. #5.00 Do zobaczyska!"
+wanst_excito_eva_end_medium_1_1_d,"I wish I could linger... but nature is calling, and I must answer. #3.50 Bye!","Chciałbym jeszcze zostać... ale natura woła, a ja muszę odpowiedzieć. #3.50 Pa!"
+wanst_excito_eva_end_bummed_1_1_a,I'm off to drown my sorrows at the local tavern. #2.50 With a drink that will weep alongside me.,"Idę zatopić smutki w miejscowej karczmie. #2.50 Przy trunku, który będzie płakał razem ze mną."
+wanst_excito_eva_end_bummed_1_1_b,I'll go to the tavern where I'll sit in a corner... #2.30 ...have a sad drink to forget this adventure.,"Pójdę do karczmy, usiądę w kącie... #2.30 ...i wypiję smutnego drinka, żeby zapomnieć o tej przygodzie."
+wanst_excito_eva_end_bummed_1_1_c,"I'll retire at the next pub, weary and defeated. #3.00 Embodying the essence of a man undone by the challenges of life.","Osiądę w najbliższej karczmie, zmęczony i pokonany. #3.00 Uosabiając człowieka złamanego przez trudy życia."
+wanst_excito_eva_end_angry_1_1_a,"Goodbye, and good riddance!",Żegnaj i obyśmy się nie spotkali!
+wanst_excito_eva_end_angry_1_1_b,I hope to never see your face again!,"Mam nadzieję, że nigdy więcej nie zobaczę twojej twarzy!"
+wanst_excito_eva_end_angry_1_1_c,All I want to say is: #1.30 I hope you die in a fire.,Chcę powiedzieć tylko jedno: #1.30 obyś spłonął żywcem.
+wanst_eva_leave_1_1,I need this gold for myself,Potrzebuję tego złota dla siebie
+wanst_townsfolk_smalltalk_1_1_a,"Good day, sir!","Dzień dobry, panie!"
+wanst_townsfolk_smalltalk_1_1_b,Hey citizen. #0.90 What's crankin'?,"Hej, obywatelu. #0.90 Co słychać?"
+wanst_townsfolk_smalltalk_1_1_c,Hey there.,Cześć.
+wanst_townsfolk_smalltalk_1_1_d,A very fine day today. #1.80 Right?,Piękny dziś dzień. #1.80 Prawda?
+wanst_townsfolk_smalltalk_1_1_e,"Great work, my friend!","Świetna robota, przyjacielu!"
+wanst_townsfolk_smalltalk_1_2_a,Cheers mate.,"Na zdrowie, koleś."
+wanst_townsfolk_smalltalk_1_2_b,"All the best, sir.","Wszystkiego dobrego, panie."
+wanst_townsfolk_smalltalk_1_2_c,"Way to go, #0.60 my fellow homefry!","Tak trzymać, #0.60 mój drogi ziomeczku!"
+wanst_townsfolk_smalltalk_1_2_d,"Keep it up, buddy.","Nie zwalniaj tempa, kolego."
+wanst_townsfolk_smalltalk_2_1,Hey there. #0.80 I'm new here. #1.60 Can you point me towards the tavern?,Cześć. #0.80 Jestem tu nowy. #1.60 Możesz wskazać mi drogę do karczmy?
+wanst_townsfolk_smalltalk_2_2,"All the way down the road, sir. #1.50 Can't miss it.","Cały czas prosto drogą, panie. #1.50 Nie da się przegapić."
+wanst_townsfolk_smalltalk_2_3,"Okay. #0.60 Thanks, random stranger.","Dobra. #0.60 Dzięki, przypadkowy nieznajomy."
+wanst_townsfolk_smalltalk_2_4,"Sure thing, #0.80 new guy.","Jasna sprawa, #0.80 nowy."
+wanst_townsfolk_smalltalk_3_1,Hey pal! #0.80 What's new?,"Hej, koleś! #0.80 Co nowego?"
+wanst_townsfolk_smalltalk_3_2,Not much. #0.60 Just minding my own business.,Niewiele. #0.60 Pilnuję swojego nosa.
+wanst_townsfolk_smalltalk_3_3,Oh neat. #0.80 What kind of business are you in?,"O, fajnie. #0.80 A czym się zajmujesz?"
+wanst_townsfolk_smalltalk_3_4,"My company is called #1.20 ""Get lost, freak!""","Moja firma nazywa się #1.20 ""Spadaj, dziwaku!"""
+wanst_townsfolk_smalltalk_3_5,You might want to work on the name. #1.70 I think I have some ideas...,Może popracuj nad nazwą. #1.70 Mam chyba kilka pomysłów...
+wanst_townsfolk_smalltalk_4_1,"How are you feeling today, #1.40 my pleasant peasant?","Jak się dziś czujesz, #1.40 mój przyjemny wieśniaku?"
+wanst_townsfolk_smalltalk_4_2,"Swell, my man. #1.30 Very swell.","Wspaniale, koleś. #1.30 Bardzo wspaniale."
+wanst_townsfolk_smalltalk_4_3,Right on. #0.90 Enjoy your joy.,No i super. #0.90 Ciesz się swoją radością.
+wanst_townsfolk_smalltalk_5_1,Hey there.,Cześć.
+wanst_townsfolk_smalltalk_5_2,Heya. #0.60 Nice to meet you.,Hej. #0.60 Miło cię poznać.
+wanst_townsfolk_smalltalk_5_3,"Whoa, slow it down, pal.","Ojej, zwolnij trochę, koleś."
+wanst_townsfolk_smalltalk_6_1,"Hey pal, #0.60 ever been to that #1.30 tower over yonder?","Hej, koleś, #0.60 byłeś kiedyś w tej #1.30 wieży tam dalej?"
+wanst_townsfolk_smalltalk_6_2,"Yeah, it's a tedious place. #2.00 Can't recommend.","Tak, to nużące miejsce. #2.00 Nie polecam."
+wanst_townsfolk_smalltalk_6_3,No biggie. #0.70 I like tedious. #1.90 They call me Tedious Tadeus.,Nic złego. #0.70 Lubię nudę. #1.90 Mówią na mnie Nudny Ludwik.
+wanst_townsfolk_smalltalk_6_4,"Well then. #0.80 As you please, sir.","No to dobra. #0.80 Jak sobie życzysz, panie."
+wanst_townsfolk_smalltalk_7_1,Citizen! #0.70 I highly appreciate your work for the community. #3.30 Keep it up.,Obywatelu! #0.70 Bardzo doceniam twoją pracę dla społeczności. #3.30 Tak trzymać.
+wanst_townsfolk_smalltalk_7_2,I got busted for stealing #1.50 the King's golden goblets...,Przyłapano mnie na kradzieży #1.50 złotych pucharów króla...
+wanst_townsfolk_smalltalk_7_3,Uhm. #0.60 Without mischief #1.60 there can't be goodwill.,Uhm. #0.60 Bez odrobiny psot #1.60 nie ma dobrej woli.
+wanst_townsfolk_smalltalk_7_4,I... #0.70 guess so.,Ja... #0.70 chyba tak.
+wanst_townsfolk_idle_1_1,If you say so...,Jeśli tak mówisz...
+wanst_townsfolk_idle_2_1,"Could be, but who cares?","Może i tak, ale kogo to obchodzi?"
+wanst_townsfolk_idle_3_1,I'd rather stay out of it...,Wolałbym się w to nie mieszać...
+wanst_townsfolk_idle_4_1,That really isn't my problem...,To naprawdę nie mój problem...
+wanst_townsfolk_idle_5_1,Why does this keep happening?,Czemu to się ciągle powtarza?
+wanst_townsfolk_idle_6_1,You shouldn't believe everything you hear...,"Nie powinieneś wierzyć we wszystko, co słyszysz..."
+wanst_townsfolk_idle_7_1,Same old story...,Stara śpiewka...
+wanst_townsfolk_idle_8_1,Some people just never learn...,Niektórzy nigdy się nie uczą...
+wanst_townsfolk_idle_9_1,Let's talk about something else instead...,Porozmawiajmy lepiej o czymś innym...
+wanst_townsfolk_idle_10_1,I thought that was settled a long time ago...,"Myślałem, że to dawno już załatwione..."
+wanst_townsfolk_idle_11_1,There's a lot of talk...,Dużo się o tym mówi...
+wanst_townsfolk_idle_12_1,Turnips are the best kind of vegetable...,Rzepa to najlepsze warzywo...
+wanst_townsfolk_idle_13_1,Have you met that guy that sells #1.50 rats on a stick?,"Poznałeś już tego gościa, co sprzedaje #1.50 szczury na patyku?"
+wanst_townsfolk_idle_14_1,There's a freak running around town naked...,Po mieście biega jakiś goły dziwak...
+wanst_townsfolk_idle_15_1,The bubonic plague will take care of that...,Dżuma się tym zajmie...
+wanst_townsfolk_idle_16_1,I made some gold from that tower once.,Kiedyś zarobiłem trochę złota na tej wieży.
+wanst_townsfolk_idle_17_1,"Hey man, your fly is open.","Hej, koleś, masz rozpięty rozporek."
+wanst_townsfolk_idle_18_1,Have you seen the potbelly on that guy?,Widziałeś ten brzuch tamtego gościa?
+wanst_townsfolk_idle_19_1,I'm jealous...,Zazdroszczę...
+wanst_townsfolk_idle_20_1,"No, can't be!","Nie, to niemożliwe!"
+wanst_townsfolk_idle_21_1,"Yeah, totally!","Tak, no jasne!"
+wanst_townsfolk_idle_22_1,We should go to the tavern to settle this...,"Powinniśmy pójść do karczmy, żeby to rozstrzygnąć..."
+wanst_townsfolk_idle_23_1,Is this a joke?,To jakiś żart?
+wanst_townsfolk_idle_24_1,Yuck!,Fuj!
+wanst_townsfolk_door_1_1,Nobody's home!,Nikogo nie ma w domu!
+wanst_townsfolk_door_2_1,Get lost!,Spadaj!
+wanst_townsfolk_door_3_1,"This is a very bad time, sorry.","To bardzo zły moment, wybacz."
+wanst_townsfolk_door_4_1,I'm busy!,Jestem zajęty!
+wanst_townsfolk_door_5_1,"I think you got the wrong door, sir.","Chyba trafiłeś pod złe drzwi, panie."
+wanst_townsfolk_door_6_1,I'm in the middle of something. Bugger off!,Jestem w środku czegoś ważnego. Spadaj!

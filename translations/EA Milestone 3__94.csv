@@ -1,0 +1,361 @@
+key,en,pl
+wanst_encounter_tooth_1_1,A tooth is basically #1.50 a bone with a lisp.,Ząb to w zasadzie #1.50 kość z seplenieniem.
+wanst_encounter_tooth_2_1,Teeth are the poor man's money.,Zęby to pieniądze biedaka.
+wanst_encounter_tooth_3_1,A wonderful pearl.,Cudowna perła.
+wanst_encounter_tooth_4_1,Someone drop their smile?,Komuś wypadł uśmiech?
+wanst_encounter_goldtooth_1_1,Gold makes teeth more robust. #2.50 Nice.,Złoto wzmacnia zęby. #2.50 Miło.
+wanst_encounter_goldtooth_2_1,This tooth is a bit yellow.,Ten ząb jest trochę żółty.
+wanst_encounter_goldtooth_3_1,Someone did not brush.,Ktoś nie szczotkował.
+wanst_encounter_diamondtooth_1_1,That diamond tooth is basically indestructible.,Ten diamentowy ząb jest w zasadzie niezniszczalny.
+wanst_encounter_diamondtooth_2_1,"Better not lose that diamond tooth. #2.00 I'll keep it safe in my tooth jar. #4.00 My mouth, that is...",Lepiej nie zgubić tego diamentowego zęba. #2.00 Przechowam go bezpiecznie w moim słoiku na zęby. #4.00 Czyli w ustach...
+wanst_attack_tooth_1_1,This punch's got bite!,Ten cios ma zgryz!
+wanst_attack_tooth_2_1,Jaw breaker!,Łamacz szczęk!
+wanst_equip_tooth_1_1,"This is where you belong, #1.50 my dental friend.","Tu jest twoje miejsce, #1.50 mój dentystyczny przyjacielu."
+wanst_equip_tooth_2_1,Gotta put your teeth #0.90 where your mouth is.,"Trzeba wkładać zęby tam, #0.90 gdzie są usta."
+wanst_equip_tooth_3_1,I feel strength flowing through my jaw!,Czuję siłę płynącą przez moją szczękę!
+wanst_equip_tooth_4_1,Let's bite some things!,Pogryźmy trochę rzeczy!
+wanst_equip_tooth_5_1,I feel healthier and more #1.50 gorgeous at the same time!,Czuję się zdrowszy i bardziej #1.50 olśniewający jednocześnie!
+wanst_drop_tooth_1_1,"I keep losing teeth, damn. #2.00 Am I eating healthy?","Ciągle gubię zęby, cholera. #2.00 Czy ja zdrowo jem?"
+wanst_drop_tooth_2_1,That one felt loose anyway. #2.00 Am I getting old?,Ten i tak był luźny. #2.00 Czy ja się starzeję?
+wanst_drop_tooth_3_1,Just can't rely on teeth these days.,W dzisiejszych czasach nie można polegać na zębach.
+wanst_drop_tooth_4_1,Better no teeth than bad teeth!,Lepiej bez zębów niż ze złymi zębami!
+wanst_pickup_tooth_1_1,Now what would I do with a tooth?,I co ja miałbym zrobić z zębem?
+wanst_pickup_tooth_2_1,Come here. #0.75 I treat every tooth fairly.,Chodź tutaj. #0.75 Każdy ząb traktuję uczciwie.
+wanst_pickup_tooth_3_1,I have no problem putting that in my mouth. #2.40 Not gross at all.,Nie mam problemu z włożeniem tego do ust. #2.40 Wcale nie obrzydliwe.
+wanst_pickup_tooth_4_1,Putting a random tooth in your mouth? #2.00 Sounds healthy!,Włożyć losowy ząb do ust? #2.00 Brzmi zdrowo!
+wanst_encounter_brokenpipe_1_1,Someone should fix these pipes.,Ktoś powinien naprawić te rury.
+row93,The plumber must've left early...,Hydraulik musiał wyjść wcześniej...
+wanst_encounter_brokenpipe_2_1,This pipe could use a gasket.,Tej rurze przydałaby się uszczelka.
+wanst_fixpipe_1_1,"Alright, fits like a glove!","Dobra, pasuje jak ulał!"
+wanst_fixpipe_2_1,The pipe is ripe!,Rura jest dojrzała!
+wanst_fixpipe_3_1,Plumbing is a skill that lasts a lifetime.,Hydraulika to umiejętność na całe życie.
+wanst_encounter_pipeactive_1_1,Let's flush some goods down the drain.,Spuśćmy trochę towaru odpływem.
+wanst_encounter_pipeactive_2_1,"The postal business went down the drain, #2.00 I see...","Poczta zeszła na psy... i do odpływu, #2.00 jak widzę..."
+wanst_putiteminpipe_1_1,Let's get you out of here!,Wydostańmy cię stąd!
+wanst_putiteminpipe_2_1,Down you go!,W dół z tobą!
+wanst_putiteminpipe_3_1,See you downstairs!,Do zobaczenia na dole!
+wanst_putiteminpipe_4_1,"Godspeed, thing!","Szerokiej drogi, rzeczy!"
+wanst_putiteminpipe_5_1,Going postal!,Pocztowy odlot!
+wanst_encounter_gemshield_1_1,This shield looks precious. #2.00 It better not get any scratches.,"Ta tarcza wygląda cennie. #2.00 Lepiej, żeby się nie porysowała."
+wanst_encounter_gemshield_2_1,"Why would anyone with such a huge gemstone #2.50 turn it into a shield? #4.00 Hire a bodyguard, moneybags.","Dlaczego ktoś z tak wielkim klejnotem #2.50 przerobiłby go na tarczę? #4.00 Wynajmij ochroniarza, bogaczu."
+wanst_pickup_gemshield_1_1,Protected by incredible wealth!,Chroniony przez niewiarygodne bogactwo!
+wanst_pickup_gemshield_2_1,Pump up the gem.,Podkręć klejnot.
+wanst_encounter_romanshield_1_1,Didn't expect any Romans #1.70 in this grim place...,Nie spodziewałem się żadnych Rzymian #1.70 w tym ponurym miejscu...
+wanst_pickup_romanshield_1_1,The only thing that can really protect you #2.10 is romance.,"Jedyna rzecz, która naprawdę cię ochroni, #2.10 to romans."
+wanst_pickup_romanshield_2_1,Romanes eunt domus!,Romanes eunt domus!
+wanst_pickup_romanshield_3_1,Idonium est!,Idonium est!
+wanst_pickup_romanshield_4_1,Shieldus maximus!,Shieldus maximus!
+wanst_encounter_woodenhammer_1_1,A wooden hammer... #1.30 Guess that's a start.,"Drewniany młot... #1.30 Cóż, od czegoś trzeba zacząć."
+wanst_pickup_woodenhammer_1_1,O'zapft is!,O'zapft is!
+wanst_pickup_woodenhammer_2_1,Time for some carpentry!,Czas na trochę stolarki!
+wanst_drop_woodenhammer_1_1,I knew this wooden't do much damage... #2.50 Ciao.,"Wiedziałem, że to drewno nie wyrządzi zbyt wiele szkód... #2.50 Ciao."
+wanst_encounter_lockengoldpotion_1_1,"Drinking usually doesn't improve your hair... #2.80 in this case, it actually does.",Picie zwykle nie poprawia włosów... #2.80 w tym przypadku naprawdę poprawia.
+wanst_encounter_lockengoldpotion_2_1,The Lockengold Potion is famous #2.20 for its hairy effect.,Mikstura Lockengold słynie #2.20 ze swojego włochatego efektu.
+wanst_encounter_lockengoldpotion_3_1,Dr. Heinrich's Lockengold!,Lockengold doktora Heinricha!
+wanst_pickup_lockengoldpotion_1_1,Barbers hate this trick.,Fryzjerzy nienawidzą tej sztuczki.
+wanst_pickup_lockengoldpotion_2_1,A lot of barbers are lobbying against this liquid... #3.00 I wonder why.,Wielu fryzjerów lobbuje przeciw temu płynowi... #3.00 Ciekawe czemu.
+wanst_encounter_wanstbust_1_1,Is this supposed to look like me?,Czy to ma wyglądać jak ja?
+wanst_encounter_wanstbust_2_1,I wish they made my skin less pale...,"Szkoda, że nie zrobili mojej skóry mniej bladej..."
+wanst_pickup_wanstbust_1_1,I must adjust the bust.,Muszę poprawić to popiersie.
+wanst_pickup_wanstbust_2_1,I am drawn to things that look like me.,"Ciągnie mnie do rzeczy, które wyglądają jak ja."
+wanst_pickup_wanstbust_3_1,"Good job, sculptor.","Dobra robota, rzeźbiarzu."
+wanst_attack_wanstbust_1_1,Busted!,Rozbity!
+wanst_attack_wanstbust_2_1,I'll marble you!,Zamarmuruję cię!
+wanst_attack_wanstbust_3_1,Walhalla awaits!,Walhalla czeka!
+wanst_pickup_table_1_1,Let's refurnish!,Przemeblujmy!
+wanst_pickup_table_2_1,The tables have turned!,Stoły się odwróciły!
+wanst_pickup_table_3_1,For impromptu dinners.,Na improwizowane kolacje.
+hubert_door_balcony_1_1,Oii! It's freezing out there. #1.70 Must be because of the balcony.,Oii! Tam na zewnątrz jest lodowato. #1.70 To musi być przez balkon.
+hubert_door_balcony_2_1,There's an entrance to a balcony through there. #2.10 But I am afraid of heights.,Tam jest wejście na balkon. #2.10 Ale boję się wysokości.
+hubert_door_balcony_3_1,Are you into rock climbing? #1.60 Because the balcony out there will #3.20 require some of that.,Lubisz wspinaczkę skałkową? #1.60 Bo balkon tam na zewnątrz #3.20 będzie jej wymagał.
+excito_door_obstacle_bummed_1_1,If you want some fresh air: This way to the balcony.,Jeśli chcesz świeżego powietrza: tędy na balkon.
+excito_door_obstacle_bummed_1_1,This room looks better from the balcony out there.,Ten pokój wygląda lepiej z tamtego balkonu.
+excito_door_obstacle_bummed_1_1,This tower has an extensive balcony. Who would've thought?,Ta wieża ma rozległy balkon. Kto by pomyślał?
+excito_door_obstacle_bummed_1_1,"Not a fan of balconies, to be honest.","Szczerze mówiąc, nie jestem fanem balkonów."
+excito_door_obstacle_bummed_1_1,This way to the balcons.,Tędy do balkonów.
+wanst_encounter_goopotion_1_1,Not sure if the goo in that bottle #1.80 should be set free...,"Nie jestem pewien, czy maź z tej butelki #1.80 powinna zostać uwolniona..."
+wanst_encounter_goopotion_2_1,Goo in a bottle? #1.30 Let's see how that works out...,"Maź w butelce? #1.30 Zobaczmy, jak to się skończy..."
+wanst_pickup_goopotion_1_1,Goop goop.,Glut glut.
+wanst_pickup_goopotion_2_1,Let's goo for it.,Ruszajmy z glutem.
+wanst_encounter_goldenweapon_1_1,Everything is better in gold.,Wszystko jest lepsze w złocie.
+wanst_encounter_goldenweapon_2_1,Why make jewelery when you can #1.50 turn gold into weapons?,"Po co robić biżuterię, skoro można #1.50 zmienić złoto w broń?"
+wanst_encounter_goldenweapon_3_1,Gold is my favourite color.,Złoto to mój ulubiony kolor.
+wanst_pickup_goldenweapon_1_1,Golden weaponry certainly #1.50 looks nicer on me.,Złota broń zdecydowanie #1.50 wygląda na mnie lepiej.
+wanst_pickup_goldenweapon_2_1,Behold the gold!,Oto złoto!
+hubert_princesseat_generic_1_1,Oooh! #0.60 What a heartless sacrifice!,Oooch! #0.60 Co za bezduszna ofiara!
+hubert_princesseat_generic_2_1,What a price to pay for progress...,Jaką cenę trzeba zapłacić za postęp...
+hubert_princesseat_generic_3_1,Oh no! #1.40 That was my friend!,O nie! #1.40 To był mój przyjaciel!
+hubert_princesseat_generic_4_1,Hope it's not me who's next...,"Mam nadzieję, że nie będę następny..."
+excito_princesseat_generic_1_1,That was brutal! #1.40 Yuck!,To było brutalne! #1.40 Fuj!
+excito_princesseat_generic_2_1,Friends or food? #1.70 I see what you chose...,"Przyjaciele czy jedzenie? #1.70 Widzę, co wybrałeś..."
+excito_princesseat_generic_3_1,Ew! #0.60 I'm glad it wasn't me at least.,"Fuj! #0.60 Cieszę się, że przynajmniej to nie ja."
+excito_princesseat_generic_4_1,"Hey, that was my buddy!","Hej, to był mój kumpel!"
+excito_princesseat_generic_5_1,Okay. #0.80 Better them than me.,Okej. #0.80 Lepiej oni niż ja.
+excito_princesseat_generic_6_1,Ouch! #0.70 That was grim!,Auć! #0.70 To było ponure!
+excito_princesseat_generic_7_1,"Ehh... #0.80 You'd never sacrifice me, right?","Ech... #0.80 Mnie nigdy byś nie poświęcił, prawda?"
+alva_princesseat_generic_1_1,You absolute meanie!,Ty absolutny wredniaku!
+alva_princesseat_generic_2_1,Would have made a far better #1.40 potion ingredient.,Byłby z tego o wiele lepszy #1.40 składnik do mikstury.
+alva_princesseat_generic_3_1,I'd rather be thrown in a cauldron #2.00 than be sacrificed by you. #4.00 Jeez.,"Wolałabym zostać wrzucona do kotła, #2.00 niż zostać poświęcona przez ciebie. #4.00 Rany."
+alva_princesseat_generic_4_1,You seem like a very bad friend.,Wyglądasz na bardzo złego przyjaciela.
+sobu_princesseat_generic_1_1,"Don't try that on me, boy...","Nie próbuj tego na mnie, chłopcze..."
+sobu_princesseat_generic_2_1,Was that really necessary?,Czy to naprawdę było konieczne?
+sobu_princesseat_generic_3_1,Not sure that was in the prophecy...,"Nie jestem pewien, czy to było w przepowiedni..."
+sobu_princesseat_generic_4_1,"Wow, a sacrifice! #1.80 Just like the old days!","Wow, ofiara! #1.80 Zupełnie jak za dawnych czasów!"
+wanst_princesspostal_generic_1_1,"Hey. #0.60 Not interested in being your lunch, #2.50 princess!","Hej. #0.60 Nie jestem zainteresowany byciem twoim obiadem, #2.50 księżniczko!"
+wanst_princesspostal_generic_2_1,Keep your teeth to yourself!,Trzymaj swoje zęby przy sobie!
+wanst_princesspostal_generic_3_1,Uh oh. #0.80 Feeding frenzy.,O nie. #0.80 Szał karmienia.
+wanst_princesspostal_generic_4_1,Aaaaaah. #0.80 No biting!,Aaaaaach. #0.80 Bez gryzienia!
+hubert_princesspostal_generic_1_1,Help! #0.80 I am not lunch!,Pomocy! #0.80 Nie jestem lunchem!
+hubert_princesspostal_generic_2_1,Haven't you eaten enough?,Czy ty już nie zjadłaś dość?
+hubert_princesspostal_generic_3_1,Uh oh. #0.90 I have a bad feeling about this princess....,O nie. #0.90 Mam złe przeczucia co do tej księżniczki....
+hubert_princesspostal_generic_4_1,That lady is dangerous!,Ta pani jest niebezpieczna!
+excito_princesspostal_generic_1_1,"I am not edible, princess!","Nie jestem jadalny, księżniczko!"
+excito_princesspostal_generic_2_1,I always had a hunch #1.20 that princess saw me as lunch!,"Zawsze miałem przeczucie, #1.20 że księżniczka widzi we mnie obiad!"
+excito_princesspostal_generic_3_1,We got ourselves Princess Predator right here! #2.50 Watch out.,Mamy tu Księżniczkę Drapieżcę! #2.50 Uważajcie.
+excito_princesspostal_generic_4_1,"Uh oh. #0.80 If you bite, #1.50 I'll fight.","O nie. #0.80 Jeśli gryźć będziesz, #1.50 to oberwiesz."
+excito_princesspostal_generic_5_1,"Stay away, lady!","Trzymaj się z daleka, pani!"
+alva_princesspostal_generic_1_1,"Aaaah! Stay away, monstrous princess!","Aaaach! Trzymaj się z daleka, potworna księżniczko!"
+alva_princesspostal_generic_2_1,"Ooooh, I don't want to end up as princess food!","Ooooch, nie chcę skończyć jako jedzenie dla księżniczki!"
+alva_princesspostal_generic_3_1,"Think about what you bite at, m'lady!","Pomyśl, w co gryziesz, m'lady!"
+sobu_princesspostal_generic_1_1,"Holy canoli! #1.40 I had a feeling you were trouble, #3.10 princess!","Święte cannoli! #1.40 Czułem, że będą z tobą kłopoty, #3.10 księżniczko!"
+sobu_princesspostal_generic_2_1,Crikey! #0.80 That princess turned foul!,Rety! #0.80 Ta księżniczka zrobiła się paskudna!
+sobu_princesspostal_generic_3_1,"Better keep those chompers #1.50 in your mouth, princess!","Lepiej trzymaj te kłapacze #1.50 w buzi, księżniczko!"
+sobu_princesspostal_generic_4_1,Someone feed that beast!,Niech ktoś nakarmi tę bestię!
+eveliushunter_princess_1_1_a,Hey dear. #1.20 Remember I always fed you well in here?,"Hej, kochanie. #1.20 Pamiętasz, że zawsze dobrze cię tu karmiłem?"
+eveliushunter_princess_1_1_b,I see I have an ally among your friends. #3.10 Hehe...,"Widzę, że mam sojusznika wśród twoich przyjaciół. #3.10 Hehe..."
+eveliushunter_princess_1_1_c,"This princess isn't what you think she is, idiot!","Ta księżniczka nie jest tym, za kogo ją masz, idioto!"
+eveliushunter_princess_1_1_d,The princess is my follower. #2.00 Not yours!,Księżniczka jest moją wyznawczynią. #2.00 Nie twoją!
+eveliushunter_princess_1_2_a,"Show your true allegiance, sweetheart!","Pokaż swoją prawdziwą lojalność, skarbie!"
+eveliushunter_princess_1_2_b,Time to play for the home team!,Czas zagrać dla gospodarzy!
+eveliushunter_princess_1_2_c,Bite away!,Gryź do woli!
+eveliushunter_princess_1_2_d,Go fetch!,Aport!
+wanst_encounter_discus_4_1,That disc is made of stomp.,Ten dysk jest zrobiony z tupnięcia.
+wanst_encounter_discus_1_1,No way to unflatten this plate.,Nie da się odspłaszczyć tego talerza.
+wanst_encounter_discus_2_1,I've seen more lids than #1.40 cans around here.,Widziałem tu więcej pokrywek niż #1.40 puszek.
+wanst_encounter_discus_3_1,That disc should make a #1.50 good throwing weapon.,Ten dysk powinien być #1.50 dobrą bronią miotaną.
+wanst_pickup_discus_1_1,Call me the disc man.,Mów mi człowiek dysk.
+wanst_pickup_discus_2_1,This disc only plays hard hitting beats.,Ten dysk odtwarza tylko mocne bity.
+wanst_pickup_discus_3_1,What do I do with disc?,Co ja zrobię z tym dyskiem?
+wanst_attack_discus_1_1,Eat disc!,Jedz dysk!
+wanst_attack_discus_2_1,Beats from the disc!,Bity z dysku!
+wanst_attack_discus_3_1,Discuss!,Przedyskutujmy to!
+wanst_equip_merchantsshirt_1_1,I am now disguised as a #1.80 regular merchant.,Jestem teraz przebrany za #1.80 zwykłego kupca.
+wanst_equip_merchantsshirt_2_1,This shirt gives me an aura of integrity.,Ta koszula daje mi aurę uczciwości.
+wanst_equip_merchantsshirt_3_1,Call me the Kaufmann.,Mówcie mi Kaufmann.
+wanst_equip_merchantsshirt_4_1,Noble!,Szlachetnie!
+wanst_encounter_keytreasure_1_1,Looks like the key to infinite riches.,Wygląda jak klucz do nieskończonych bogactw.
+wanst_encounter_keytreasure_2_1,That fancy key surely doesn't just open #2.00 a random shack.,Ten elegancki klucz na pewno nie otwiera #2.00 przypadkowej budy.
+wanst_encounter_keytreasure_3_1,What pleasure is a key without the treasure?,Czymże jest przyjemność klucza bez skarbu?
+wanst_pickup_keytreasure_1_1,Is this the key to treasure? #2.00 Or is the key the treasure already?,Czy to klucz do skarbu? #2.00 Czy klucz sam już jest skarbem?
+wanst_pickup_keytreasure_2_1,"Alright, now where's the massive treasure?","Dobra, a teraz gdzie jest ogromny skarb?"
+wanst_townsfolk_f_smalltalk_7_1_a,"Good day, missus!","Dzień dobry, pani!"
+wanst_townsfolk_f_smalltalk_7_1_b,"Hey, citizen. #0.80 How do you do?","Hej, obywatelko. #0.80 Jak się miewasz?"
+wanst_townsfolk_f_smalltalk_7_1_c,Hey there.,Hej tam.
+wanst_townsfolk_f_smalltalk_7_1_d,"A very fine day today, right?","Bardzo piękny dziś dzień, prawda?"
+wanst_townsfolk_f_smalltalk_7_1_e,"Great work, my friend!","Świetna robota, przyjaciółko!"
+wanst_townsfolk_f_smalltalk_7_2_a,"I feel good about today, sir!","Mam dziś dobre przeczucia, panie!"
+wanst_townsfolk_f_smalltalk_7_2_b,Cheers to us. Right?,Wypijmy za nas. Prawda?
+wanst_townsfolk_f_smalltalk_7_2_c,"Keeping up the good vibes, sir.","Trzymamy dobrą energię, panie."
+wanst_townsfolk_f_smalltalk_7_2_d,No reward for mooching around. #2.00 Let's keep our heads up.,Za obijanie się nie ma nagrody. #2.00 Trzymajmy głowy wysoko.
+wanst_townsfolk_f_smalltalk_1_1,Hey there. I'm new here. #1.50 Can you point me towards the tavern?,Hej tam. Jestem tu nowy. #1.50 Wskażesz mi drogę do tawerny?
+wanst_townsfolk_f_smalltalk_1_2,Just follow the stench. #1.80 Or go all the way to the end of the city...,Po prostu idź za smrodem. #1.80 Albo prosto na koniec miasta...
+wanst_townsfolk_smalltalk_2_3,"Okay thanks, random stranger.","Okej, dzięki, przypadkowa nieznajoma."
+wanst_townsfolk_f_smalltalk_1_4,Sure thing! Cheers for beers!,Jasne! Zdrowie za piwo!
+wanst_townsfolk_f_smalltalk_2_1,Hey pal! #0.80 What's new?,"Hej, koleżko! #0.80 Co nowego?"
+wanst_townsfolk_f_smalltalk_2_2,"You... #0.80 you seem to be new around here, yes?","Ty... #0.80 ty jesteś tu chyba nowy, tak?"
+wanst_townsfolk_f_smalltalk_2_3,Nopes! #0.80 Just changed my style.,Niee! #0.80 Po prostu zmieniłem styl.
+wanst_townsfolk_f_smalltalk_2_4,Alright. #0.80 Way to reinvent yourself.,Dobrze. #0.80 Brawo za odkrycie siebie na nowo.
+wanst_townsfolk_f_smalltalk_2_5,Thaaaanks.,Dzięęęki.
+wanst_townsfolk_f_smalltalk_3_1,"How are you feeling today, ma'am?",Jak się pani dziś czuje?
+wanst_townsfolk_f_smalltalk_3_2,Swell. #0.80 Can't you tell?,Świetnie. #0.80 Nie widać?
+wanst_townsfolk_f_smalltalk_3_3,"Very well, very well. #1.50 I believe I can indeed tell...","Bardzo dobrze, bardzo dobrze. #1.50 Wierzę, że faktycznie widzę..."
+wanst_townsfolk_f_smalltalk_3_4,Phew.,Uff.
+wanst_townsfolk_f_smalltalk_4_1,Hey there.,Hej tam.
+wanst_townsfolk_f_smalltalk_4_2,Heya. #0.70 Nice to meet you.,Hejka. #0.70 Miło cię poznać.
+wanst_townsfolk_f_smalltalk_4_3,I agree. #1.00 But now I must split. #2.30 Ciao!,Zgadzam się. #1.00 Ale teraz muszę się rozdzielić. #2.30 Ciao!
+wanst_townsfolk_f_smalltalk_4_4,As you please.,Jak sobie życzysz.
+wanst_townsfolk_f_smalltalk_5_1,Hey ma'am. #1.00 Ever been to that tower over yonder?,"Hej, pani. #1.00 Byłaś kiedyś w tamtej wieży?"
+wanst_townsfolk_f_smalltalk_5_2,"I rather prefer the outdoors, sir.","Wolę raczej świeże powietrze, panie."
+wanst_townsfolk_f_smalltalk_5_3,"Bright light over gloom and doom, eh?","Jasne światło zamiast mroku i zguby, co?"
+wanst_townsfolk_f_smalltalk_5_4,Quite right.,Całkiem słusznie.
+wanst_townsfolk_f_smalltalk_6_1,Oh hey! #0.90 Why the grim look?,"O, hej! #0.90 Czemu taka ponura mina?"
+wanst_townsfolk_f_smalltalk_6_2,I just got some bad news.,Właśnie dostałam złe wieści.
+wanst_townsfolk_f_smalltalk_6_3,"Well, new doesn't always mean bad...#2.50 try staying optimistic.","Cóż, nowe nie zawsze znaczy złe...#2.50 spróbuj zachować optymizm."
+wanst_townsfolk_f_smalltalk_6_4,Eh... okay...,Ech... dobrze...
+wanst_townsfolk_f_idle_1_1,If you say so...,Skoro tak mówisz...
+wanst_townsfolk_f_idle_2_1,"Could be, but who cares?","Możliwe, ale kogo to obchodzi?"
+wanst_townsfolk_f_idle_3_1,I'd rather stay out of it...,Wolałabym się w to nie mieszać...
+wanst_townsfolk_f_idle_4_1,That really isn't my problem...,To naprawdę nie mój problem...
+wanst_townsfolk_f_idle_5_1,I need to make up my mind about that first...,Muszę najpierw wyrobić sobie o tym zdanie...
+wanst_townsfolk_f_idle_6_1,You shouldn't believe everything you hear...,"Nie powinno się wierzyć we wszystko, co się słyszy..."
+wanst_townsfolk_f_idle_7_1,Same old story...,Stara śpiewka...
+wanst_townsfolk_f_idle_8_1,Some people just never learn...,Niektórzy po prostu nigdy się nie uczą...
+wanst_townsfolk_f_idle_9_1,Not my favorite subject...,Nie mój ulubiony temat...
+wanst_townsfolk_f_idle_10_1,I thought that was settled a long time ago...,"Myślałam, że to dawno załatwione..."
+wanst_townsfolk_f_idle_11_1,There's a lot of talk...,Dużo się mówi...
+wanst_townsfolk_f_idle_12_1,What is that vegetable hype all about?,O co chodzi z tą modą na warzywa?
+wanst_townsfolk_f_idle_13_1,Have you met that guy that sells rats on a stick?,"Poznałeś tego gościa, który sprzedaje szczury na patyku?"
+wanst_townsfolk_f_idle_14_1,There's a freak running around town naked...,Po mieście biega jakiś dziwak nago...
+wanst_townsfolk_f_idle_15_1,Do we have to talk about that now?,Musimy o tym teraz rozmawiać?
+wanst_townsfolk_f_idle_16_1,I made some gold from that tower once.,Kiedyś zarobiłam trochę złota na tej wieży.
+wanst_townsfolk_f_idle_17_1,I'm training to become a doctor.,Uczę się na lekarkę.
+wanst_townsfolk_f_idle_18_1,I really enjoy being rich.,Naprawdę lubię być bogata.
+wanst_townsfolk_f_idle_19_1,I'd rephrase that a little...,Ujęłabym to trochę inaczej...
+wanst_townsfolk_f_idle_20_1,"No, can't be!","Nie, to niemożliwe!"
+wanst_townsfolk_f_idle_21_1,"Yeah, totally!","Tak, totalnie!"
+wanst_townsfolk_f_idle_22_1,"Please, choose your words wisely.","Proszę, dobieraj słowa ostrożnie."
+wanst_townsfolk_f_idle_23_1,Is this a joke?,Czy to żart?
+wanst_townsfolk_f_idle_24_1,Yuck!,Fuj!
+wanst_townsfolk_door_7_1,"Come back another time, alright?","Wróć innym razem, dobrze?"
+wanst_townsfolk_door_8_1,"Umm, better move it! #1.60 Ciao!","Umm, lepiej ruszaj! #1.60 Ciao!"
+wanst_townsfolk_door_9_1,Not a good time. #1.30 Sorry!,To nie jest dobry moment. #1.30 Przepraszam!
+wanst_townsfolk_door_10_1,"Not available right now, sir!","Teraz niedostępne, panie!"
+wanst_townsfolk_door_11_1,"Sorry, I don't know you. #1.80 Get lost.","Przepraszam, nie znam cię. #1.80 Spadaj."
+wanst_townsfolk_door_12_1,"Sir, make like a tree. #1.50 And leave...","Panie, bądź jak drzewo. #1.50 I zmykaj..."
+wanst_encounter_princessprettycorpse_4_1,"The princess died in vain, #2.00 but at least well fed...","Księżniczka zginęła na próżno, #2.00 ale przynajmniej najedzona..."
+wanst_encounter_princessprettycorpse_5_1,Guess she bit the dust...,Chyba ugryzła piach...
+wanst_encounter_princessprettycorpse_6_1,Looks like she couldn't digest that.,"Wygląda na to, że nie mogła tego strawić."
+wanst_encounter_princessprettycorpse_7_1,Should've thought more thoroughly about what you eat...,"Trzeba było dokładniej myśleć o tym, co się je..."
+wanst_encounter_princessprettycorpse_3_1,The late princess. #1.50 Tragic.,Świętej pamięci księżniczka. #1.50 Tragiczne.
+wanst_encounter_princessprettycorpse_1_1,We'll remember that princess #1.50 happily munching on corpses forever. #4.00 What a character!,"Na zawsze zapamiętamy tę księżniczkę, #1.50 radośnie chrupiącą zwłoki. #4.00 Co za osobowość!"
+wanst_encounter_princessprettycorpse_2_1,Is the princess dead #1.30 or just taking a digestion nap? #3.70 I'd say dead. #4.50 But food can be a killer.,"Czy księżniczka jest martwa, #1.30 czy tylko ucina trawienną drzemkę? #3.70 Powiedziałbym, że martwa. #4.50 Ale jedzenie potrafi zabić."
+wanst_pickup_princessprettycorpse_2_1,This is not a place for a princess to rest.,To nie miejsce na odpoczynek dla księżniczki.
+wanst_pickup_princessprettycorpse_1_1,From princess to grim mess -- #2.50 let's put that somewhere else.,Od księżniczki do ponurego bałaganu -- #2.50 przenieśmy to gdzie indziej.
+row434,Do you think I'm stupid? #2.00 I'm not eating that!,"Myślisz, że jestem głupi? #2.00 Nie zjem tego!"
+row435,"Nice try, doofus!","Niezła próba, tępaku!"
+row436,"Ahahaha. #1.30 I'm not that easy, smartipants!","Ahahaha. #1.30 Nie tak łatwo mnie podejść, mądralo!"
+row437,You think that's all it takes to do me in? #3.00 Jeez louise!,"Myślisz, że tyle wystarczy, żeby mnie załatwić? #3.00 Rany boskie!"
+row438,I wouldn't touch that if you paid me! #2.50 Get lost!,"Nie tknąłbym tego, nawet gdybyś mi zapłacił! #2.50 Spadaj!"
+row439,Are you really trying to poison me with that? #2.80 I am disappointed.,Naprawdę próbujesz mnie tym otruć? #2.80 Jestem rozczarowany.
+row440,You really thought I'd just drink that?,"Naprawdę myślałeś, że po prostu to wypiję?"
+row441,"Yuck!  #0.80 Why don't you drink that, huh?","Fuj!  #0.80 A czemu ty tego nie wypijesz, co?"
+row442,"Not in the mood for drinking poison right now, sorry.","Nie mam teraz ochoty pić trucizny, wybacz."
+wanst_encounter_gamblercup_1_1,I bet I could put that cup on my head.,"Założę się, że mógłbym założyć ten kubek na głowę."
+wanst_encounter_gamblercup_2_1,A small cup hat would accentuate my glamorous hair.,Mała czapka z kubka podkreśliłaby moje olśniewające włosy.
+wanst_equip_gamblercup_1_1,"Not sure if this is supposed to be worn like this, #2.50 but I feel fancy.","Nie jestem pewien, czy to powinno się nosić w ten sposób, #2.50 ale czuję się szykownie."
+wanst_equip_gamblercup_2_1,Modern headwear is weird.,Nowoczesne nakrycia głowy są dziwne.
+wanst_equip_gamblercup_3_1,Watch closely and tell me #1.20 where the hero went.,"Patrz uważnie i powiedz mi, #1.20 dokąd zniknął bohater."
+wanst_encounter_shovel_1_1,"If this tower were made out of mud, #2.00 I could use that to escape. #3.90 The use, for now, is ""bonk"".","Gdyby ta wieża była z błota, #2.00 mógłbym tym uciec. #3.90 Na razie zastosowanie brzmi: „łup”."
+wanst_encounter_shovel_2_1,Where's the gardener to this shovel?,Gdzie ogrodnik od tej łopaty?
+wanst_encounter_shovel_3_1,I hope this shovel isn't here to dig my grave.,"Mam nadzieję, że ta łopata nie jest tu po to, by kopać mój grób."
+wanst_pickup_shovel_1_1,Call me the shovel knight!,Mów mi Rycerz Łopaty!
+wanst_pickup_shovel_2_1,Let's dig some holes.,Wykopmy trochę dołów.
+wanst_pickup_shovel_3_1,All right. #0.60 Anything ready to be buried?,Dobrze. #0.60 Coś gotowe do pogrzebania?
+wanst_attack_shovel_1_1,Dig this!,Wkop się w to!
+wanst_encounter_undershirt_1_1,Someone forgot their dirty laundry.,Ktoś zapomniał brudnego prania.
+wanst_encounter_undershirt_2_1,Is this the laundromat part of the tower?,Czy to pralniowa część wieży?
+wanst_encounter_undershirt_3_1,Where's the dad to this undershirt?,Gdzie tata od tego podkoszulka?
+wanst_equip_undershirt_1_1,I am now disguised as a regular dad.,Jestem teraz przebrany za zwykłego tatę.
+wanst_equip_undershirt_2_1,This displays my muscles in the brightest light.,To pokazuje moje mięśnie w najjaśniejszym świetle.
+wanst_equip_undershirt_3_1,Mustard stain. #1.00 Nice.,Plama z musztardy. #1.00 Miło.
+wanst_encounter_bataxe_1_1,A bat shaped axe -- #1.90 or an axe shaped bat?,Topór w kształcie nietoperza -- #1.90 czy nietoperz w kształcie topora?
+wanst_pickup_bataxe_1_1,Not sure if bats are that sharp. #1.90 Let's find out.,"Nie jestem pewien, czy nietoperze są aż tak ostre. #1.90 Sprawdźmy."
+wanst_pickup_bataxe_2_1,Not a fan of battery.,Nie jestem fanem baterii.
+wanst_pickup_bataxe_3_1,This weapon is good for battle.,Ta broń nadaje się do bitwy.
+wanst_attack_bataxe_1_1,Say hello to my bat friend!,Przywitaj się z moim nietoperzowym przyjacielem!
+wanst_encounter_katana_1_1,A ka-ta-na fo fanna!,Ka-ta-na fo fana!
+wanst_encounter_katana_2_1,Steel!,Stal!
+wanst_encounter_katana_3_1,This odd sword belongs to the late Sam Ray.,Ten dziwny miecz należał do świętej pamięci Sama Raya.
+wanst_pickup_katana_1_1,Let's slice some fruit.,Pokrójmy trochę owoców.
+wanst_pickup_katana_2_1,This blade will slice through butter #1.80 as if it were cheese.,To ostrze przetnie masło #1.80 jakby było serem.
+wanst_encounter_sorrow_1_1,No surprise to find sorrow here...,"Nie dziwi mnie, że znajduję tu smutek..."
+wanst_encounter_sorrow_2_1,What a weird name for a weapon. #2.20 Blades usually bring me tons of joy.,Co za dziwna nazwa dla broni. #2.20 Ostrza zwykle dają mi mnóstwo radości.
+wanst_pickup_sorrow_1_1,This weapon shall bring me infinite joy!,Ta broń przyniesie mi nieskończoną radość!
+wanst_pickup_sorrow_2_1,I think I'd enjoy this weapon way more #2.40 if I were illiterate...,"Chyba cieszyłbym się tą bronią o wiele bardziej, #2.40 gdybym był analfabetą..."
+wanst_pickup_sorrow_3_1,This sword has someone's name on it. #2.20 But I'm taking it anyway.,Ten miecz ma czyjeś imię. #2.20 Ale i tak go biorę.
+wanst_pickup_sorrow_4_1,Not the most optimistic weapon.,Nie najbardziej optymistyczna broń.
+wanst_attack_sorrow_1_1,Eat sorrow!,Jedz smutek!
+wanst_drop_sorrow_1_1,Enough sorrow for me.,Dość smutku jak dla mnie.
+wanst_drop_sorrow_2_1,"Yeah. I'm more of a #1.00 ""fun"" guy anyway...",Taa. I tak jestem bardziej #1.00 „wesołym” grzybkiem...
+wanst_encounter_trident_1_1,Tri is my favourite number.,Tri to moja ulubiona liczba.
+wanst_encounter_trident_2_1,Trident... #1.00 I wonder what this weapon's got to do with teeth.,"Trójząb... #1.00 Ciekawe, co ta broń ma wspólnego z zębami."
+wanst_encounter_trident_3_1,What was the devil thinking #1.30 when he invented this thing?,"Co diabeł sobie myślał, #1.30 kiedy wynalazł to coś?"
+wanst_encounter_trident_4_1,A pitchfork for the rich.,Widły dla bogatych.
+wanst_pickup_trident_1_1,Call me the tridentist!,Mów mi trójdentysta!
+wanst_pickup_trident_2_1,Everything's worth a tri-dent.,Wszystko jest warte trój-zębu.
+wanst_pickup_trident_3_1,This let's me pick up #1.00 three sausages at once. #2.90 Genius.,To pozwala mi nabić #1.00 trzy kiełbaski naraz. #2.90 Geniusz.
+wanst_attack_trident_1_1,Devil's poke!,Diabelskie ukłucie!
+wanst_attack_trident_2_1,Trident me!,Spróbuj mnie trójzębem!
+wanst_encounter_spear_1_1,Looks like someone's got a #1.40 spear to spare.,"Wygląda na to, że ktoś ma #1.40 włócznię w zapasie."
+wanst_encounter_spear_2_1,Spearing is caring.,Włóczniowanie to troska.
+wanst_encounter_spear_3_1,What an immense toothpick.,Co za ogromna wykałaczka.
+wanst_pickup_spear_1_1,A picky weapon.,Wybredna broń.
+wanst_pickup_spear_2_1,Time for some sparring.,Czas na trochę sparingu.
+wanst_attack_spear_1_1,Spear me the trouble!,Oszczędź mi kłopotu włócznią!
+wanst_attack_spear_2_1,Are you my spearing partner?,Jesteś moim partnerem do włóczniowania?
+wanst_attack_spear_3_1,Here comes de-spair!,Nadchodzi roz-włócz-nienie!
+wanst_attack_spear_4_1,Fear the spear!,Bój się włóczni!
+wanst_encounter_plumbershelper_1_1,A plumber's helper? #1.50 Glad this place has a little bit of dignity...,"Pomocnik hydraulika? #1.50 Miło, że to miejsce ma choć odrobinę godności..."
+wanst_pickup_plumbershelper_1_1,Anybody in need of plumbing?,Ktoś potrzebuje hydrauliki?
+wanst_pickup_plumbershelper_2_1,Clogged toilets no more!,Koniec zatkanych toalet!
+wanst_attack_plumbershelper_1_1,Suction action!,Akcja ssania!
+wanst_attack_plumbershelper_2_1,Rubber slapper!,Gumowy klaps!
+wanst_attack_plumbershelper_3_1,Plump up the jam!,Podkręć ten zator!
+wanst_encounter_tongs_1_1,I like weapons with no function at all.,Lubię bronie zupełnie bez funkcji.
+wanst_encounter_tongs_2_1,How does that piece of hot coal stay in there?,Jak ten kawałek gorącego węgla się tam trzyma?
+wanst_encounter_tongs_3_1,This weapon is completely useless.,Ta broń jest kompletnie bezużyteczna.
+wanst_attack_tongs_1_1,Liars get pliers!,Kłamców łapią szczypce!
+wanst_encounter_bandana_1_1,A bandana. #1.10 Not a banana.,Bandana. #1.10 Nie banan.
+wanst_encounter_bandana_2_1,Bandana fo-fana!,Bandana fo-fana!
+wanst_pickup_bandana_1_1,"I might look like trouble, #1.50 but fear not, #2.30 I have a gentle heart.","Może wyglądam na kłopoty, #1.50 ale bez obaw, #2.30 mam łagodne serce."
+wanst_pickup_bandana_2_1,This bandana instantly puts me #1.90 in the mood for some roughhousing.,Ta bandana natychmiast wprawia mnie #1.90 w nastrój na bijatykę.
+row623,Spikes on a helmet? #1.70 Very daring.,Kolce na hełmie? #1.70 Bardzo śmiało.
+row626,These spikes are an exceptional upgrade #2.10 to my style.,Te kolce to wyjątkowe ulepszenie #2.10 mojego stylu.
+wanst_encounter_blackarmor_1_1,This armor will certainly not make me look like #2.50 a jolly good fellow.,"Ta zbroja z pewnością nie sprawi, że będę wyglądał jak #2.50 wesoły poczciwiec."
+wanst_encounter_blackarmor_2_1,That's the most evil armor I can imagine. #2.50 Neat.,"To najbardziej zła zbroja, jaką mogę sobie wyobrazić. #2.50 Zgrabnie."
+wanst_encounter_blackarmor_3_1,That armor has been spiked.,Ta zbroja została okolcowana.
+wanst_equip_blackarmor_1_1,The black knight is in town.,Czarny rycerz jest w mieście.
+wanst_equip_blackarmor_2_1,This armor spells business.,Ta zbroja mówi: interesy.
+wanst_equip_blackarmor_3_1,Black steel to contrast with my #1.80 golden mane.,Czarna stal jako kontrast dla mojej #1.80 złotej grzywy.
+wanst_equip_blackarmor_4_1,I am now disguised a regular robber knight.,Jestem teraz przebrany za zwykłego rycerza-rabusia.
+wanst_equip_blackarmor_5_1,I hope there are no spikes on the inside.,"Mam nadzieję, że od środka nie ma kolców."
+wanst_encounter_greathelm_1_1,A helmet that covers my entire face? #2.30 Not sure about that.,Hełm zakrywający całą twarz? #2.30 Nie jestem pewien.
+wanst_encounter_greathelm_2_1,Is that a helmet #1.00 or a garbage can?,"Czy to hełm, #1.00 czy kosz na śmieci?"
+wanst_equip_greathelm_1_1,Can you still hear me?,Czy nadal mnie słyszysz?
+wanst_equip_greathelm_2_1,I feel like a tin can.,Czuję się jak puszka.
+wanst_equip_greathelm_3_1,Grim man in a tin can.,Ponury człowiek w puszce.
+wanst_equip_greathelm_4_1,I feel safe in here.,Czuję się tu bezpiecznie.
+wanst_equip_greathelm_5_1,Helloo-o.,Haloo-o.
+wanst_encounter_princesshat_1_1,A princess used to wear that odd cone.,Księżniczka nosiła kiedyś ten dziwny stożek.
+wanst_pickup_princesshat_1_1,What's a cone without some ice cream?,Czym jest rożek bez odrobiny lodów?
+wanst_equip_princesshat_1_1,Look. I'm a princess.,Patrzcie. Jestem księżniczką.
+wanst_equip_princesshat_2_1,Royal after all!,Jednak królewski!
+wanst_equip_princesshat_3_1,Wearing this hat makes me #1.30 hungry for some reason.,"Noszenie tej czapki sprawia, #1.30 że z jakiegoś powodu robię się głodny."
+row662,Call me Prince Harming.,Mów mi Książę Krzywda.
+wanst_attack_pokey_1_1,Pokey pokey!,Kłuj kłuj!
+wanst_attack_stabby_1_1,Stabby stabby!,Dźg dźg!
+wanst_headroom_beartrap_1_1,A bear trap.,Potrzask na niedźwiedzie.
+wanst_headroom_bandana_1_1,A bandana.,Bandana.
+wanst_headroom_sorrow_1_1,"A big sword with ""sorrow"" written on its blade. For whatever reason...",Wielki miecz z napisem „żal” wyrytym na klindze. Nie wiadomo czemu...
+wanst_headroom_spikedshield_1_1,A spiked shield.,Kolczasta tarcza.
+wanst_headroom_princesshat_1_1,A princess hat.,Kapelusz księżniczki.
+wanst_headroom_greathelm_1_1,A great helm.,Wielki hełm.
+wanst_topoftower_peasant_1_1,"What am I, a peasant? #1.50 Oh well.","Kim ja jestem, chłopem? #1.50 No trudno."
+wanst_topoftower_peasant_2_1,Beware the unpleasant peasant!,Strzeż się nieprzyjemnego chłopa!
+wanst_topoftower_peasant_3_1,"No one would hurt a regular guy #1.50 from the streets, right?","Nikt nie skrzywdzi zwykłego gościa #1.50 z ulicy, prawda?"
+wanst_topoftower_peasant_4_1,I am just a peasant. #1.50 But that doesn't mean I can't be a hero. Right?,"Jestem tylko chłopem. #1.50 Ale to nie znaczy, że nie mogę być bohaterem. Prawda?"
+wanst_topoftower_peasant_5_1,Another day in the life of a regular peasant.,Kolejny dzień z życia zwykłego chłopa.
+wanst_topoftower_peasant_6_1,The peasant is present!,Chłop obecny!
+wanst_topoftower_peasant_7_1,"Hmmm, a creepy dark hole... #2.00 I have clothes and even #3.50 a stick to protect me... #5.00 What could possibly go right?","Hmmm, przerażająca ciemna dziura... #2.00 Mam ubrania i nawet #3.50 kij do obrony... #5.00 Co mogłoby pójść dobrze?"
+row726,"He had rescued the princess, who opted for food instead of drinks.","Uratował księżniczkę, która wybrała jedzenie zamiast trunków."
+wanst_princesspretty_village_1_1_a,"Hey, princess!","Hej, księżniczko!"
+wanst_princesspretty_village_1_1_b,Oh princess!,"O, księżniczko!"
+wanst_princesspretty_village_1_1_c,Princess!,Księżniczko!
+wanst_princesspretty_village_1_2_a,Let out your air!,Wypuść powietrze!
+wanst_princesspretty_village_1_2_b,Let's see what you downed!,"Zobaczmy, co połknęłaś!"
+wanst_princesspretty_village_1_2_c,Eaten anything lately?,Jadłaś coś ostatnio?
+wanst_princesspretty_village_1_2_d,What's up?,Co tam?
+wanst_princesspretty_village_1_2_e,What’s cookin’?,Co się pichci?
+row739,"Eh... you won't bite anymore, right?","Ech... już nie będziesz gryźć, prawda?"
+row740,Friend or foe?,Przyjaciel czy wróg?
+row741,You... aren't hangry anymore?,Ty... nie jesteś już głodna i zła?
+row742,Are you well fed now?,Jesteś już najedzona?
+row743,"You didn't have breakfast, I guess.",Chyba nie jadłaś śniadania.
+row744,That was the most expensive dinner I’ve ever paid for.,"To była najdroższa kolacja, za jaką kiedykolwiek zapłaciłem."
+row745,Do you require dessert?,Czy wymagasz deseru?
+row747,Okay then... come along,No dobrze... chodź ze mną.
+row748,I'll give you a chance.,Dam ci szansę.
+row749,It's okay. We all have our little flaws.,W porządku. Wszyscy mamy swoje drobne wady.
+row750,I understand. It's hard to meet people when you eat people.,"Rozumiem. Trudno poznawać ludzi, kiedy się ludzi zjada."
+row751,Glad we found your love language.,"Cieszę się, że znaleźliśmy twój język miłości."
+row752,No hard feelings.,Bez urazy.

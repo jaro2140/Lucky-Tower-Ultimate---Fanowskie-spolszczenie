@@ -1,0 +1,169 @@
+key,en,pl
+wanst_hubert_address_random_1_1,"Well, look at this little guy!","No proszę, a cóż to za maluch!"
+wanst_hubert_address_random_2_1,"Hey, fellow adventurer!","Hej, towarzyszu przygód!"
+wanst_hubert_address_reply_1_1,"Hi there, let's escape together!","Witaj, uciekajmy stąd razem!"
+wanst_hubert_address_reply_2_1,"Hi there, wanna escape together?","Witaj, może uciekniemy stąd razem?"
+wanst_hubert_address_reply_3_1,"Finally, someone else! #1.70 Let's team up!","Nareszcie, ktoś jeszcze! #1.70 Połączmy siły!"
+wanst_hubert_addresscaptive_reply_1_1,I'm so hungry! #1.80 Please help me.,"Jestem strasznie głodny! #1.80 Błagam, pomóż mi."
+wanst_hubert_addresscaptive_reply_2_1,Finally! #1.00 Someone to rescue me!,"Nareszcie! #1.00 Ktoś, kto mnie uratuje!"
+wanst_hubert_addparty_random_1_1,Follow me on my quest!,Chodź ze mną w tę wyprawę!
+wanst_hubert_addparty_random_2_1,"Be my shadow, and follow my lead!",Bądź moim cieniem i idź w moje ślady!
+wanst_hubert_addparty_random_3_1,Follow me on my journey!,Podążaj ze mną w tę podróż!
+wanst_hubert_addparty_reply_1_1,I will follow you everywhere!,Podążę za tobą wszędzie!
+wanst_hubert_addparty_reply_2_1,I will follow you anywhere!,Pójdę za tobą wszędzie!
+wanst_hubert_addparty_reply_3_1,I will follow you anywhere!,Pójdę za tobą wszędzie!
+wanst_hubert_addparty_reply_4_1,"Sure, friend!","Jasne, przyjacielu!"
+wanst_hubert_addparty_reply_5_1,"You got it, friend!","Załatwione, przyjacielu!"
+wanst_hubert_addpartycaptive_reply_1_1,"Sure, you just need to set me free...","Jasne, tylko musisz mnie najpierw uwolnić..."
+wanst_hubert_addpartycaptive_reply_2_1,"Sure, just set me free...","Jasne, po prostu mnie uwolnij..."
+wanst_hubert_addpartycaptive_reply_3_1,"Sure, you just need to set me free!","Jasne, wystarczy, że mnie uwolnisz!"
+wanst_hubert_askjoin_1_1,Can I be your companion?,Czy mogę być twoim towarzyszem?
+wanst_hubert_askjoin_2_1,Can I be your companion?,Czy mogę być twoim towarzyszem?
+wanst_hubert_askjoin_3_1,Can we team up?,Możemy połączyć siły?
+wanst_hubert_askjoin_4_1,Can we team up?,Możemy połączyć siły?
+wanst_hubert_askjoin_5_1,Can I follow you?,Mogę iść z tobą?
+wanst_hubert_askjoin_6_1,Can I follow you?,Mogę iść z tobą?
+wanst_hubert_askjoin_7_1,Can I follow you?,Mogę iść z tobą?
+wanst_hubert_askjoin_8_1,Hey! #0.60 Let's join forces.,Hej! #0.60 Połączmy siły.
+wanst_hubert_askjoin_9_1,"Hey, let's join forces.","Hej, połączmy siły."
+wanst_hubert_askjoin_10_1,"Hey, let's join forces.","Hej, połączmy siły."
+wanst_hubert_askjoin_11_1,"Hey, let's join forces.","Hej, połączmy siły."
+wanst_hubert_rejectjoin_random_1_1,"It's every man and turtle for themselves, pal.","Każdy człowiek i żółw dla siebie, koleżko."
+wanst_hubert_rejectjoin_random_2_1,"Sorry, but I'm more of a lone warrior.","Wybacz, ale jestem raczej samotnym wojownikiem."
+wanst_hubert_rejectjoin_random_3_1,"Sorry pal, I've got plans.","Wybacz koleżko, mam plany."
+wanst_hubert_rejectjoin_random_4_1,"There's no ""Wanst"" in team. Sorry.","W słowie """"drużyna"""" nie ma """"Wanst"""". Wybacz."
+wanst_hubert_rejectjoin_reply_1_1,I understand. Go alone then.,Rozumiem. W takim razie idź sam.
+wanst_hubert_rejectjoin_reply_2_1,I understand. Go alone then.,Rozumiem. W takim razie idź sam.
+wanst_hubert_rejectjoin_reply_3_1,I... I understand. Go alone then.,Ja... Rozumiem. W takim razie idź sam.
+wanst_hubert_rejectjoin_reply_4_1,"Oh, okay. Nice meeting you, though.","Ach, dobrze. I tak miło było cię poznać."
+wanst_hubert_rejectjoin_reply_5_1,"Oh, okay. Nice meeting you, I guess.","Ach, dobrze. Miło było cię poznać, chyba."
+wanst_hubert_rejectjoin_reply_6_1,That's... that's okay. I'm a strong tortoise.,To... to nic. Jestem silnym żółwiem.
+wanst_hubert_rejectjoin_reply_7_1,That's... that's okay. I'm a strong tortoise. Yeah. Yes I am.,To... to nic. Jestem silnym żółwiem. Tak. Naprawdę.
+wanst_hubert_rejectjoin_reply_8_1,That's... that's okay. I'm a strong tortoise. Yeah. Yes I am.,To... to nic. Jestem silnym żółwiem. Tak. Naprawdę.
+wanst_hubert_rejectjoin_reply_9_1,I'm a strong tortoise. I'm a strong tortoise. I don't... I don't even need you.,Jestem silnym żółwiem. Jestem silnym żółwiem. Wcale... wcale cię nie potrzebuję.
+wanst_hubert_rejectjoin_reply_10_1,Okay... I'll go back into my shell then and work on a plan.,"Dobrze... W takim razie wracam do skorupy, żeby obmyślić plan."
+wanst_hubert_rejectjoin_reply_11_1,Okay... I'll go back into my shell then and work on a plan.,"Dobrze... W takim razie wracam do skorupy, żeby obmyślić plan."
+wanst_hubert_acceptjoin_random_1_1,Alright!,No dobra!
+wanst_hubert_acceptjoin_random_2_1,Yuss!,Tasss!
+wanst_hubert_acceptjoin_reply_1_1,Great!,Świetnie!
+wanst_hubert_acceptjoin_reply_2_1,Great!,Świetnie!
+wanst_hubert_acceptjoin_reply_3_1,Great!,Świetnie!
+wanst_hubert_acceptjoin_reply_4_1,So happy!,Ale jestem szczęśliwy!
+wanst_hubert_acceptjoin_reply_5_1,So happy!,Ale jestem szczęśliwy!
+wanst_hubert_acceptjoin_reply_6_1,So happy!,Ale jestem szczęśliwy!
+wanst_hubert_follow_perfect_1_2,"More like, fol-HIGH!","Raczej PODĄŻ, i to na full gazu!"
+wanst_hubert_follow_good_1_2,I'm a tortoise.,Jestem żółwiem.
+wanst_hubert_follow_good_1_3,"More like, smartoise!",Raczej żółwiedzący!
+wanst_hubert_follow_good_2_1,Can you follow?,Potrafisz iść za mną?
+wanst_hubert_follow_good_2_2,Follow what?,Iść za czym?
+wanst_hubert_follow_good_2_3,"Like, follow me, you know?","No wiesz, iść za mną, kumasz?"
+wanst_hubert_follow_good_2_4,Aaaah! #1.10 Your sentence was missing the object.,Aaaa! #1.10 W twoim zdaniu brakowało dopełnienia.
+wanst_hubert_follow_good_2_5,"Dude, if you don't stop this... #1.80 My next punch won't miss... #4.20 ITS object.","Ziomek, jeśli tego nie przestaniesz... #1.80 mój następny cios nie zabraknie... #4.20 SWOJEGO dopełnienia."
+wanst_hubert_follow_random_1_1,Come on. #0.80 Let's go this way.,Chodź. #0.80 Idziemy tędy.
+wanst_hubert_follow_random_2_1,"Follow me, pal!","Chodź za mną, koleżko!"
+wanst_hubert_follow_random_3_1,Join me.,Dołącz do mnie.
+wanst_hubert_follow_random_4_1,"Follow me, turtleboy.","Chodź za mną, żółwiku."
+wanst_hubert_follow_random_5_1,"This way, friendo!","Tędy, przyjacielu!"
+wanst_hubert_follow_random_6_1,"Ok, follow me!","Dobra, chodź za mną!"
+wanst_hubert_follow_random_7_1,"Ok, follow me!","Dobra, chodź za mną!"
+wanst_hubert_follow_random_8_1,Come with me!,Chodź ze mną!
+wanst_hubert_follow_random_9_1,"Alright, let's go.","No dobra, idziemy."
+wanst_hubert_follow_random_10_1,"Hey, come with me, pal!","Hej, chodź ze mną, koleżko!"
+wanst_hubert_follow_random_11_1,Come follow!,Chodź za mną!
+wanst_hubert_follow_random_12_1,"Come along, pal.","Chodź ze mną, koleżko."
+wanst_hubert_follow_random_13_1,"Come with me, pal!","Chodź ze mną, koleżko!"
+wanst_hubert_follow_random_14_1,Follow me!,Chodź za mną!
+wanst_hubert_follow_random_15_1,Follow me!,Chodź za mną!
+wanst_hubert_follow_random_16_1,Chop chop. Let's go.,"Szybko, szybko. Idziemy."
+wanst_hubert_follow_random_17_1,Come on!,No chodź!
+wanst_hubert_follow_random_18_1,"Let's go, pal!","Idziemy, koleżko!"
+wanst_hubert_follow_reply_perfect_1_1,So happy together!,Ale jesteśmy razem szczęśliwi!
+wanst_hubert_follow_reply_perfect_2_1,So happy together!,Ale jesteśmy razem szczęśliwi!
+wanst_hubert_follow_reply_great_1_1,"Alright, yes!","No dobra, tak!"
+wanst_hubert_follow_reply_great_2_1,"Yeah, alright!","Tak, dobra!"
+wanst_hubert_follow_reply_great_3_1,"Alright, yes Sir!","Tak jest, panie!"
+wanst_hubert_follow_reply_great_4_1,Thank you so much for choosing me.,"Bardzo dziękuję, że mnie wybrałeś."
+wanst_hubert_follow_reply_great_5_1,Nice! #0.80 Thanks for choosing me.,"Super! #0.80 Dzięki, że mnie wybrałeś."
+wanst_hubert_follow_reply_great_6_1,Nice! #1.30 Thanks for choosing me.,"Super! #1.30 Dzięki, że mnie wybrałeś."
+wanst_hubert_follow_reply_great_7_1,Alrightsies!,Dobrziutko!
+wanst_hubert_follow_reply_great_8_1,Yeeees!,Taaak!
+wanst_hubert_follow_reply_good_1_1,Sure!,Jasne!
+wanst_hubert_follow_reply_good_2_1,"Right on, I'm a tortoise... #1.40 That's my special skill.","No jasne, jestem żółwiem... #1.40 To moja specjalna umiejętność."
+wanst_hubert_follow_reply_good_3_1,Oookay.,Nooo dobra.
+wanst_hubert_follow_reply_good_4_1,Alright...,Dobra...
+wanst_hubert_follow_reply_medium_1_1,"Well, you are my friend after all...","Cóż, w końcu jesteś moim przyjacielem..."
+wanst_hubert_follow_reply_medium_2_1,"Well, you are my friend after all...","Cóż, w końcu jesteś moim przyjacielem..."
+wanst_hubert_follow_reply_medium_3_1,"Well, y-y-you are my friend after all...","Cóż, w-w-w końcu jesteś moim przyjacielem..."
+wanst_hubert_follow_reply_medium_4_1,It's not leading to any harm... #2.00 is it?,To nie prowadzi do niczego złego... #2.00 prawda?
+wanst_hubert_follow_reply_medium_5_1,"You're not leading me into harm's way, right?","Nie prowadzisz mnie prosto w niebezpieczeństwo, prawda?"
+wanst_hubert_follow_reply_medium_6_1,"Please be nice, ok?","Bądź dla mnie miły, dobrze?"
+wanst_hubert_follow_reply_bummed_1_1,I'm surprised I'm still doing this... #1.90 but okay.,"Sam się dziwię, że wciąż to robię... #1.90 no ale dobra."
+wanst_hubert_follow_reply_bummed_2_1,Ugh not again... #2.00 Oh well.,"Uch, znowu to... #2.00 No trudno."
+wanst_hubert_follow_reply_bummed_3_1,"Ugh, again!? #1.30 Oh well.","Uch, znowu!? #1.30 No trudno."
+wanst_hubert_follow_reply_bummed_4_1,Uh I can't stand this anymore. #2.10 Whatever.,"Uch, już tego nie zniosę. #2.10 A, mniejsza."
+wanst_hubert_follow_reply_bummed_5_1,I can't stand this anymore. #2.00 But whatever.,"Już tego nie zniosę. #2.00 Ale, mniejsza."
+wanst_hubert_follow_reply_bummed_6_1,Man you demand quite a bit!,Ale z ciebie wymagający typ!
+wanst_hubert_follow_reply_bummed_7_1,"Man you're demanding and demanding, jeez! #3.50 So many demands...","No i wymagasz, i wymagasz, rety! #3.50 Same wymagania..."
+wanst_hubert_follow_reply_angry_1_1,"Alright, whatever. #1.30 Can't get any worse anyway...","No dobra, mniejsza. #1.30 I tak gorzej być nie może..."
+wanst_hubert_follow_reply_angry_2_1,"Alright, whatever. #1.30 Can't get any worse anyway...","No dobra, mniejsza. #1.30 I tak gorzej być nie może..."
+wanst_hubert_follow_reply_angry_3_1,Alright whatever. #1.50 As if this can get any worse.,"No dobra, mniejsza. #1.50 Jakby to mogło być gorsze."
+wanst_hubert_follow_reply_angry_4_1,I'm prepared for the worst.,Jestem przygotowany na najgorsze.
+wanst_hubert_follow_reply_angry_5_1,I'm prepared for the worst.,Jestem przygotowany na najgorsze.
+wanst_hubert_follow_reply_angry_6_1,I'm prepared for the worst.,Jestem przygotowany na najgorsze.
+wanst_hubert_stay_great_1_1,Can you stay here for a bit?,Możesz tu chwilę zostać?
+wanst_hubert_stay_great_1_2,"Sure, I shell stay here, until you say any different.","Jasne, zostanę tu jak murowany, dopóki nie powiesz inaczej."
+wanst_hubert_stay_great_1_3,"Aaaalso, keep the puns down please, ok?","Aaaa, i błagam, przestań z tymi kalamburami, dobra?"
+wanst_hubert_stay_great_1_4,It is the only one I have.,"To jedyna, jaką mam."
+wanst_hubert_stay_great_1_5,Otherwise this place could turn into living shell...,Bo inaczej to miejsce zmieni się w istną skorupę nieszczęścia...
+wanst_hubert_stay_great_1_6,It's also the only one I have...,"To też jedyna, jaką mam..."
+wanst_hubert_stay_good_1_1,Hold it! #0.90 Keep this exact pose right there. #3.00 Only move your fingers.,Czekaj! #0.90 Zachowaj dokładnie tę pozę. #3.00 Ruszaj tylko palcami.
+wanst_hubert_stay_good_1_2,I don't have fingers... #1.30 I'm a tortoise.,Nie mam palców... #1.30 Jestem żółwiem.
+wanst_hubert_stay_good_1_3,"Well, I guess that's gonna make it easier for you. #2.20 Good for you!","No cóż, chyba ułatwi ci to zadanie. #2.20 Gratuluję!"
+wanst_hubert_stay_bummed_1_1,Stop right there!,Stój w miejscu!
+wanst_hubert_stay_bummed_1_2,Right on. #1.00 Just like I stopped believing in you...,No jasne. #1.00 Tak jak ja przestałem w ciebie wierzyć...
+wanst_hubert_stay_bummed_1_3,"Yeah, I didn't tell you to be leaving right now... But you're a free man. Kind of.","No, nie kazałem ci teraz odchodzić... Ale jesteś wolnym człowiekiem. Mniej więcej."
+wanst_hubert_stay_random_1_1,Could you stay here for a sec?,Możesz tu chwilkę zostać?
+wanst_hubert_stay_random_2_1,Stay right there.,Zostań tam.
+wanst_hubert_stay_random_3_1,Stay here!,Zostań tu!
+wanst_hubert_stay_random_4_1,Stop right there.,Stój w miejscu.
+wanst_hubert_stay_random_5_1,Can you stay here for a bit?,Możesz tu chwilkę zostać?
+wanst_hubert_stay_random_6_1,Stay right here!,Zostań dokładnie tutaj!
+wanst_hubert_stay_random_7_1,Please keep this position.,"Proszę, zachowaj tę pozycję."
+wanst_hubert_stay_random_8_1,Stay here. #1.00 Life and death depend on it!,Zostań tu. #1.00 Zależy od tego życie i śmierć!
+wanst_hubert_stay_random_9_1,"Don't move, pal.","Ani drgnij, koleżko."
+wanst_hubert_stay_random_11_1,"Okay, hold this position for a bit, willya?","Dobra, potrzymaj tę pozycję chwilę, dobra?"
+wanst_hubert_stay_random_12_1,Keep this position.,Zachowaj tę pozycję.
+wanst_hubert_stay_random_13_1,"Ok, hold it here.","Dobra, przytrzymaj tu."
+wanst_hubert_stay_random_14_1,"Okay, hold on.","Dobra, poczekaj."
+wanst_hubert_stay_random_15_1,"Ok, hold it.","Dobra, przytrzymaj."
+wanst_hubert_stay_random_16_1,"Stay right there, dude!","Zostań tam, ziomek!"
+wanst_hubert_stay_reply_perfect_1_1,"Yes, absolutely. #1.20 I love staying.","Tak, jak najbardziej. #1.20 Uwielbiam zostawać."
+wanst_hubert_stay_reply_perfect_2_1,"Yeah yeah yeah, I love staying!","Tak, tak, tak, uwielbiam zostawać!"
+wanst_hubert_stay_reply_perfect_3_1,I love staying!,Uwielbiam zostawać!
+wanst_hubert_stay_reply_perfect_4_1,"Yes, great choice! #1.40 Watch me!","Tak, świetny wybór! #1.40 Patrz na mnie!"
+wanst_hubert_stay_reply_perfect_5_1,"Great choice, Sir! #1.10 Watch me stay.","Świetny wybór, panie! #1.10 Patrz, jak zostaję."
+wanst_hubert_stay_reply_great_1_1,"Sure, I shell stay here. #2.30 Until you say otherwise.","Jasne, zostanę tu jak murowany. #2.30 Dopóki nie powiesz inaczej."
+wanst_hubert_stay_reply_great_2_1,"Sure, I shell stay here. #2.30 Until you say any different.","Jasne, zostanę tu jak murowany. #2.30 Dopóki nie powiesz co innego."
+wanst_hubert_stay_reply_great_3_1,"Oh, okay, alright.","Ach, dobra, okej."
+wanst_hubert_stay_reply_great_4_1,Okay... #0.50 #1.80 Alright. Nice.,Dobra... #0.50 #1.80 Okej. Super.
+wanst_hubert_stay_reply_great_5_1,This is a beautiful spot! #1.50 Great decision.,To piękne miejsce! #1.50 Świetna decyzja.
+wanst_hubert_stay_reply_great_6_1,"Okay, I will stay as much as I can.","Dobra, zostanę tak długo, jak się da."
+wanst_hubert_stay_reply_medium_1_1,"I'm gonna wait here, OK?","Poczekam tutaj, dobra?"
+wanst_hubert_stay_reply_medium_2_1,Please don't forget me.,"Proszę, nie zapomnij o mnie."
+wanst_hubert_stay_reply_medium_3_1,Please do not forget me.,"Proszę, nie zapomnij o mnie."
+wanst_hubert_stay_reply_medium_4_1,Don't forget me.,Nie zapomnij o mnie.
+wanst_hubert_stay_reply_medium_5_1,"You're gonna come back, right?","Wrócisz po mnie, prawda?"
+wanst_hubert_stay_reply_bummed_1_1,"Finally, I can be alone again...",Nareszcie znowu mogę być sam...
+wanst_hubert_stay_reply_bummed_2_1,"Ah, finally... #1.50 can't wait to be lonely again.","Ach, nareszcie... #1.50 nie mogę się doczekać, aż znowu będę samotny."
+wanst_hubert_stay_reply_angry_1_1,"I will stay right here... #1.50 and contemplate revenge. #4.00 Or at least I would, if I was that nasty.","Zostanę dokładnie tutaj... #1.50 i będę rozmyślał o zemście. #4.00 A przynajmniej rozmyślałbym, gdybym był aż tak podły."
+wanst_hubert_stay_reply_angry_2_1,"I will stay right here... #1.50 and contemplate my revenge.#3.50 #5.00 Or at least I would, if I was that nasty.","Zostanę dokładnie tutaj... #1.50 i będę rozmyślał o mojej zemście.#3.50 #5.00 A przynajmniej rozmyślałbym, gdybym był aż tak podły."
+wanst_hubert_stay_reply_angry_3_1,Do you know what you're doing at all?,"Czy ty w ogóle wiesz, co robisz?"
+wanst_hubert_stay_reply_angry_4_1,Do you even know what you're doing?,"Czy ty w ogóle masz pojęcie, co robisz?"
+wanst_hubert_addparty_random_4_1,"Alright, let's go!","No dobra, ruszamy!"
+wanst_hubert_addparty_random_5_1,"Okay, this way, pal!","Dobra, tędy, koleżko!"
+wanst_hubert_addparty_random_6_1,Deal. Off we go!,Zgoda. W drogę!
+wanst_hubert_addparty_random_7_1,I'm giving you a chance.,Daję ci szansę.
+wanst_hubert_addparty_random_8_1,Come along with me!,Chodź ze mną!
+wanst_hubert_addparty_random_9_1,Teamwork makes the dream work. Huzzah!,Zgrany zespół to spełnione marzenia. Hura!
+wanst_hubert_addparty_random_10_1,You got my back? Nice!,Pilnujesz moich pleców? Super!
+wanst_hubert_addparty_random_11_1,Ignorance is the mother of all adventures. Let's go!,Niewiedza jest matką wszelkich przygód. Ruszajmy!

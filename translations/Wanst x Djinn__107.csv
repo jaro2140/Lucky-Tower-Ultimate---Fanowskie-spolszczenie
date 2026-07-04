@@ -1,0 +1,78 @@
+key,en,pl
+wanst_djinn_spawn_1_1,Alright! #0.80 Party time!,Dobra! #0.80 Czas na imprezę!
+wanst_djinn_spawn_2_1,Heyyy! #0.70 Who touched my bottle?,Heeej! #0.70 Kto dotknął mojej butelki?
+wanst_djinn_spawn_3_1,Heyyy! #0.60 Who touched my bottle?,Heeej! #0.60 Kto dotknął mojej butelki?
+wanst_djinn_spawn_4_1,Free at last!,Nareszcie wolny!
+wanst_djinn_spawn_5_1,"Aaah, finally.","Aaach, nareszcie."
+wanst_djinn_spawn_repeated_1_1,Do you have a real wish now?,Masz teraz prawdziwe życzenie?
+wanst_djinn_spawn_repeated_2_1,I am getting very angry...,Robię się bardzo zły...
+wanst_djinn_spawn_repeated_3_1,If you do this one more time...,Jeśli zrobisz to jeszcze raz...
+wanst_djinn_spawn_repeated_4_1,If you do this one more time...,Jeśli zrobisz to jeszcze raz...
+wanst_djinn_spawn_repeated_5_1,I hope that's not just wishful thinking!,"Mam nadzieję, że to nie tylko pobożne życzenie!"
+wanst_djinn_spawn_repeated_6_1,Is it now?!,A może teraz?!
+wanst_djinn_spawn_repeated_7_1,YESS??,TAAAK??
+wanst_djinn_address_1_1,Hey purple pal. #1.30 Got any spare wishes?,"Hej, fioletowy kolego. #1.30 Masz jakieś zapasowe życzenia?"
+wanst_djinn_address_1_2,Right on! #1.20 What shall it be?,No proszę! #1.20 Czego sobie życzysz?
+wanst_djinn_address_2_1,You look like a wish-granting ghost thingy.,Wyglądasz jak jakiś duch spełniający życzenia.
+wanst_djinn_address_2_2,What is it that you request?,Czego żądasz?
+wanst_djinn_address_3_1,"Hey, are you the wish-granting type of ghost?","Hej, jesteś tym typem ducha, co spełnia życzenia?"
+wanst_djinn_address_3_2,Yes. I'm listening...,Tak. Słucham...
+wanst_djinn_address_4_1,"Hey, are you of the wish-granting-ghost type?","Hej, jesteś typem ducha spełniającego życzenia?"
+wanst_djinn_address_4_2,I'll grant you ONE wish.,Spełnię ci JEDNO życzenie.
+wanst_djinn_address_5_1,Whoa. How did all of this fit in there?,Ojej. Jak to wszystko się tam zmieściło?
+wanst_djinn_address_5_2,With a lot of pain. #2.00 Now what is your wish?,Z wielkim bólem. #2.00 Więc jakie masz życzenie?
+wanst_djinn_address_6_1,"Hey, I'm looking for the guy with the wishes. #2.30 Is that you?","Hej, szukam gościa od życzeń. #2.30 To ty?"
+wanst_djinn_address_6_2,Yes. Beware and choose wisely.,Tak. Uważaj i wybierz mądrze.
+wanst_djinn_address_7_1,"Hey, I'm looking for the guy with the dishes. #2.30 Is that you?","Hej, szukam gościa od naczyń. #2.30 To ty?"
+wanst_djinn_address_7_2,Nooo. I'm the guy with the wishes.,Nie no. Jestem gościem od życzeń.
+wanst_djinn_address_7_3,Okay. #0.70 That might work as well.,Okej. #0.70 To też może się przydać.
+wanst_djinn_address_8_1,Whoa! #0.90 A genius.,Ojej! #0.90 Geniusz.
+wanst_djinn_address_8_2,It is called a genie...,To się nazywa dżinn...
+wanst_djinn_address_8_3,I was talking about myself.,Mówiłem o sobie.
+wanst_djinn_address_again_1_1,Now I have a real wish!,Teraz mam prawdziwe życzenie!
+wanst_djinn_address_again_2_1,"Ok, here's my actual wish...","Ok, oto moje prawdziwe życzenie..."
+wanst_djinn_address_again_3_1,At last. #0.90 Here goes my serious wish.,Nareszcie. #0.90 Oto moje poważne życzenie.
+wanst_djinn_respawn_1_1,I wish for immortality!,Życzę sobie nieśmiertelności!
+wanst_djinn_respawn_1_2,Immortal I can make you not. #2.10 But you will be reborn inside this pot.,Nieśmiertelnym nie mogę cię uczynić. #2.10 Ale odrodzisz się w tym oto dzbanie.
+wanst_djinn_respawn_2_1,Gimme a second try in case I die.,"Daj mi drugą szansę, gdybym umarł."
+wanst_djinn_respawn_2_2,Keep this in a safe spot. #2.10 And you'll start over from there if you die.,"Trzymaj to w bezpiecznym miejscu. #2.10 A jeśli umrzesz, zaczniesz stamtąd od nowa."
+wanst_djinn_respawn_3_1,I'm too handsome to die. #1.70 What I need is a second try.,"Jestem zbyt przystojny, żeby umrzeć. #1.70 Potrzebuję drugiej szansy."
+wanst_djinn_respawn_3_2,Your adventure will continue in this bottle #2.50 if it ends in pain somewhere else.,"Twoja przygoda potoczy się dalej w tej butelce, #2.50 jeśli gdzie indziej zakończy się bólem."
+wanst_djinn_item_1_1,I could use...,Przydałoby mi się...
+wanst_djinn_item_2_1,I wish for...,Życzę sobie...
+wanst_djinn_item_3_1,I could really use...,Naprawdę przydałoby mi się...
+wanst_djinn_item_4_1,I'll take...,Wezmę...
+wanst_djinn_item_fail_1_1,"Uhm, #0.70 I'm not sure what you mean. #2.30 So take this here.","Yy, #0.70 nie jestem pewien, o co ci chodzi. #2.30 Więc masz to."
+wanst_djinn_item_fail_2_1,Sure... uhm... #1.50 you mean this?,Jasne... yy... #1.50 chodzi ci o to?
+wanst_djinn_item_success_1_1,I got them all!,Mam je wszystkie!
+wanst_djinn_item_success_2_1,Let me check...#1.20 Yeah. #1.80I got some left hehe.,"Sprawdzę...#1.20 Ta. #1.80 Zostało mi trochę, hehe."
+wanst_djinn_item_success_3_1,Your wish is my command!,Twoje życzenie jest dla mnie rozkazem!
+wanst_djinn_item_success_4_1,So it shall be! #2.20 Check this out!,Niech się tak stanie! #2.20 Zobacz to!
+wanst_djinn_item_success_5_1,So it shall be! #1.70 Check this out!,Niech się tak stanie! #1.70 Zobacz to!
+wanst_djinn_item_success_6_1,As you wish!,Jak sobie życzysz!
+wanst_djinn_item_success_7_1,Here you go!,Proszę bardzo!
+wanst_djinn_item_success_8_1,Tadaaa!,Tadaaa!
+wanst_djinn_item_lamp_1_1,Are you kidding me? #1.00 Well. #1.60 Better luck with the new guy...,Żartujesz sobie? #1.00 No cóż. #1.60 Powodzenia z nowym gościem...
+wanst_djinn_item_lamp_2_1,"Ah, the old switcheroo. #2.20 Classic move, buddy!","Ach, stara zamiana. #2.20 Klasyczny numer, kolego!"
+wanst_djinn_item_lamp_3_1,"Alright, another piece for your #1.80 lamp collection.","Dobra, kolejny element do twojej #1.80 kolekcji lamp."
+wanst_djinn_item_locked_1_1,"Errr... I'm sorry, can't give you that. How about this tho?","Yyy... przykro mi, nie mogę ci tego dać. Jak Ci się podoba to?"
+wanst_djinn_item_weird_1_1,Here it is! I'm... #2.00 sure you know what you're doing...,"Proszę bardzo! #2.00 Jestem... pewien, że wiesz, co robisz..."
+wanst_djinn_item_weird_2_1,I'm sure this will... #1.50 Help you... #2.50 In some way...,"Jestem pewien, że to... #1.50 pomoże ci... #2.50 w jakiś sposób..."
+wanst_djinn_item_weird_3_1,You've got a weird sense of humor.,Masz dziwne poczucie humoru.
+wanst_djinn_wish_1_1,I wish for another wish!,Życzę sobie kolejnego życzenia!
+wanst_djinn_wish_1_2,"They always choose the extra wish. #2.40 Ugh, idiot humans!","Zawsze wybierają dodatkowe życzenie. #2.40 Ugh, ludzie idioci!"
+wanst_djinn_wish_2_1,I use my wish to... wish a wish.,"Wykorzystuję moje życzenie, żeby... zażyczyć sobie życzenia."
+wanst_djinn_wish_2_2,Ah no. #1.40 Another human of this sort.,Ach nie. #1.40 Kolejny człowiek tego typu.
+wanst_djinn_wish_3_1,What could I wish? How about... a wish!,Czego mógłbym sobie życzyć? A może... życzenia!
+wanst_djinn_wish_3_2,Didn't they teach you basic math?,Nie uczyli cię podstaw matematyki?
+wanst_djinn_fish_1_2,"What was that? #0.60 Oh... You want a fish? #2.30 Oh. Ok, here you go, bye!","Co to było? #0.60 Aa... chcesz rybę? #2.30 Aa. Ok, proszę, pa!"
+wanst_djinn_leave_1_1,Aaaand I'm gone! Enjoy!,I znikam! Baw się dobrze!
+wanst_djinn_leave_2_1,"Alright! #0.50 Duty done, let's have some fun!","Dobra! #0.50 Obowiązek spełniony, czas na zabawę!"
+wanst_djinn_leave_3_1,"Later, gator!","Na razie, krokodylu!"
+wanst_djinn_leave_4_1,Alright. #1.10 Off I go!,Dobra. #1.10 Idę już!
+wanst_djinn_leave_5_1,"Freedom, finally!","Wolność, nareszcie!"
+wanst_djinn_leave_time_1_1,Ah well. #0.90 Whatever...,"Ech, trudno. #0.90 Jak chcesz..."
+wanst_djinn_leave_time_2_1,Yeah uhm... #1.00 You know where to find me.,"Ta, yy... #1.00 wiesz, gdzie mnie znaleźć."
+wanst_djinn_leave_time_3_1,I see you need some more time.,"Widzę, że potrzebujesz więcej czasu."
+wanst_djinn_leave_time_4_1,What you got me out here for? Pff...,Po co mnie w ogóle wypuściłeś? Pff...
+wanst_djinn_leave_time_5_1,Welll... #1.00 Back to playing the piano I guess.,Noo... #1.00 Wracam chyba do gry na pianinie.

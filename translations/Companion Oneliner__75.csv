@@ -1,0 +1,350 @@
+key,en,pl
+hubert_idle_generic_1_1,Are we out soon? #1.40 I have to get back to my family.,Wyjdziemy już niedługo? #1.40 Muszę wrócić do rodziny.
+hubert_idle_generic_2_1,I wonder how my family is doing... #2.00 They... need me.,"Zastanawiam się, jak radzi sobie moja rodzina... #2.00 Oni... mnie potrzebują."
+hubert_idle_generic_3_1,"I've been in here before, you know.","Byłem tu już wcześniej, wiesz."
+hubert_idle_generic_4_1,"This job'll be the death of me, but... #2.40 My family really needs the gold.","Ta robota mnie kiedyś wykończy, ale... #2.40 moja rodzina naprawdę potrzebuje złota."
+hubert_idle_generic_5_1,Why are we not moving on?,Czemu nie idziemy dalej?
+hubert_idle_generic_6_1,This tower feels like it's still under construction,"Ta wieża sprawia wrażenie, jakby wciąż była w budowie"
+hubert_idle_generic_7_1,This tower is fearsome!,Ta wieża jest przerażająca!
+hubert_idle_generic_8_1,Do we have some kind of plan?,Mamy jakiś plan?
+hubert_encounter_goldcoin_1_1,"Uuuh, I spot some gold!","Uuu, widzę złoto!"
+hubert_encounter_goldcoin_2_1,"Let's collect these coins, shall we?","Zbierzmy te monety, dobra?"
+hubert_encounter_goldcoin_3_1,I could really use a coin or two...,Przydałaby mi się jedna czy dwie monety...
+hubert_encounter_potion_1_1,Be careful with these drinks.,Uważaj z tymi trunkami.
+hubert_encounter_potion_2_1,That juice looks yucky.,Ten sok wygląda obrzydliwie.
+hubert_encounter_potion_3_1,Drinks in funny bottles. #2.30 Odd.,Trunki w zabawnych buteleczkach. #2.30 Dziwne.
+hubert_encounter_eye_1_1,"All eyes on you, pal!","Wszystkie oczy na tobie, kolego!"
+hubert_encounter_eye_2_1,Ever tasted eyes?,Próbowałeś kiedyś oczu?
+hubert_encounter_eye_3_1,Spare eyes. #1.50 How weird is that...,Zapasowe oczy. #1.50 Ale to dziwne...
+hubert_encounter_sword_1_1,I prefer my club over these blades. #3.00 But maybe they'll come in handy for you.,Wolę swoją maczugę od tych ostrzy. #3.00 Ale tobie mogą się przydać.
+hubert_encounter_sword_2_1,You're the swordsman. #1.50 I enjoy clubbing.,Ty jesteś fechmistrzem. #1.50 Ja lubię maczugować.
+hubert_encounter_sword_3_1,That sword might help us get further faster.,Ten miecz może pomóc nam iść dalej szybciej.
+hubert_encounter_leek_1_1,Veggies seem to be an important part of the tower.,Warzywa wydają się być ważną częścią tej wieży.
+hubert_encounter_leek_2_1,At least we won't die of vitamin deficiency.,Przynajmniej nie umrzemy z niedoboru witamin.
+hubert_encounter_leek_3_1,"Did you know tortoise are descendants of leek? #3.00 The color gives it away, you know...","Wiedziałeś, że żółwie pochodzą od pora? #3.00 Kolor to zdradza, wiesz..."
+hubert_encounter_mushroom_1_1,"Mushrooms really grow anywhere, #1.60 don't they?","Grzyby naprawdę rosną wszędzie, #1.60 prawda?"
+hubert_encounter_mushroom_2_1,Mushrooms are opposite tortoises.,Grzyby to przeciwieństwo żółwi.
+hubert_encounter_mushroom_3_1,Are we trying to escape... #1.10 Or are we collecting ingredients for a soup?,Próbujemy uciec... #1.10 czy zbieramy składniki na zupę?
+hubert_encounter_gianthammer_1_1,There must be a huge nail here somewhere.,Gdzieś tu musi być ogromny gwóźdź.
+hubert_encounter_gianthammer_2_1,I'm afraid of hammers.,Boję się młotów.
+hubert_encounter_gianthammer_3_1,That seems too heavy for me. #2.00 But for you...?,To wydaje się zbyt ciężkie dla mnie. #2.00 Ale dla ciebie...?
+hubert_encounter_bananapeel_1_1,I heard the most nutrition is in the peel.,"Słyszałem, że najwięcej wartości odżywczych jest w skórce."
+hubert_encounter_bananapeel_2_1,Someone really likes bananas. #2.20 Or nasty accidents.,Ktoś naprawdę lubi banany. #2.20 Albo paskudne wypadki.
+hubert_encounter_bananapeel_3_1,"Uh oh, peel alert!","O nie, alarm skórkowy!"
+hubert_encounter_honkhorn_1_1,The honk horn is such a jolly instrument.,Klakson to taki wesoły instrument.
+hubert_encounter_honkhorn_2_1,These things make quite the sound for their size...,Te rzeczy wydają niezły dźwięk jak na swój rozmiar...
+hubert_encounter_honkhorn_3_1,I wonder how animals react to that sound...,"Zastanawiam się, jak zwierzęta reagują na ten dźwięk..."
+hubert_encounter_mousetrap_1_1,I hope that trap wasn't set for me.,"Mam nadzieję, że ta pułapka nie była zastawiona na mnie."
+hubert_encounter_mousetrap_2_1,Any mouse would outsmart that trap.,Każda mysz by przechytrzyła tę pułapkę.
+hubert_encounter_mousetrap_3_1,"Watch your toes, buddy.","Uważaj na palce, kolego."
+hubert_encounter_rat_1_1,What does the presence of all these rats say about this place?,Co obecność tych wszystkich szczurów mówi o tym miejscu?
+hubert_encounter_rat_2_1,Aren't rats just angry mice?,Czy szczury to nie po prostu wściekłe myszy?
+hubert_encounter_rat_3_1,"Aww, a rat. #1.80 Cute.","Aww, szczur. #1.80 Uroczy."
+hubert_encounter_frog_1_1,I wish I could jump like that frog.,Chciałbym umieć skakać jak ta żaba.
+hubert_encounter_frog_2_1,How did that frog end up there?,Jak ta żaba się tam znalazła?
+hubert_encounter_frog_3_1,"When i was little, my best friend #1.50 was a frog.","Kiedy byłem mały, moim najlepszym przyjacielem #1.50 była żaba."
+hubert_encounter_snail_1_1,Hope that snail isn't our spirit animal.,"Mam nadzieję, że ten ślimak to nie nasze zwierzę totemiczne."
+hubert_encounter_snail_2_1,"I feel sympathy for snails. #2.00 Not sure why, though.",Współczuję ślimakom. #2.00 Chociaż nie wiem czemu.
+hubert_encounter_snail_3_1,Before you ask: #1.50 We're not related.,Zanim zapytasz: #1.50 nie jesteśmy spokrewnieni.
+hubert_encounter_anvil_1_1,What a heavy object.,Ale ciężki przedmiot.
+hubert_encounter_anvil_2_1,I won't be able to lift that.,Nie dam rady tego podnieść.
+hubert_encounter_anvil_3_1,Lots of anvils around here...,Sporo tu kowadeł...
+hubert_encounter_beehive_1_1,Unlike tortoise shells... #1.80 Bee hives fit more than one bee.,W przeciwieństwie do żółwich skorup... #1.80 w ulu mieści się więcej niż jedna pszczoła.
+hubert_encounter_beehive_2_1,Five hives for a high five.,Pięć uli na piątkę.
+hubert_encounter_beehive_3_1,Bees have an odd taste in archtecture.,Pszczoły mają dziwny gust architektoniczny.
+hubert_encounter_metalspikes_1_1,My shell's useless against these spikes.,Moja skorupa jest bezużyteczna przeciwko tym kolcom.
+hubert_encounter_metalspikes_2_1,I don't want to end up as a turtle on a stick.,Nie chcę skończyć jako żółw na patyku.
+hubert_encounter_metalspikes_3_1,May I point out these spikes look... #2.00 quite dangerous?,"Czy mogę zauważyć, że te kolce wyglądają... #2.00 dość niebezpiecznie?"
+hubert_encounter_woodspikes_1_1,There's toothpicks coming out of the floor!,Z podłogi wystają wykałaczki!
+hubert_encounter_woodspikes_2_1,These wooden spikes are less dangerous but still nasty.,"Te drewniane kolce są mniej niebezpieczne, ale wciąż paskudne."
+hubert_encounter_metalpendulum_1_1,Let's try not to lose our heads over these.,Postarajmy się nie stracić przez nie głów.
+hubert_encounter_metalpendulum_2_1,I'd give you my shell to protect your head against these blades. #3.00 But it won't come off. Sorry.,"Oddałbym ci swoją skorupę, żeby ochronić twoją głowę przed tymi ostrzami. #3.00 Ale nie da się jej zdjąć. Wybacz."
+hubert_encounter_gunpowderfuse_1_1,Uh-oh. #1.30 That fuse is moving quickly.,O nie. #1.30 Ten lont pali się szybko.
+hubert_encounter_gunpowderfuse_2_1,Why would they blow up their own tower?,Czemu mieliby wysadzić własną wieżę?
+hubert_encounter_gunpowderfuse_3_1,Explosion incoming!,Nadchodzi wybuch!
+hubert_encounter_monsterinwall_1_1,The walls have eyes. #2.00 Yikes!,Ściany mają oczy. #2.00 Ojej!
+hubert_encounter_monsterinwall_2_1,This thing in the wall's got quite the mischievous spirit.,To coś w ścianie ma dość psotnego ducha.
+hubert_encounter_monsterinwall_3_1,Better not leave anything close to that crack in the wall.,Lepiej nie zostawiać niczego blisko tej szczeliny w ścianie.
+hubert_encounter_enemycorpse_1_1,"Sleep well, beast.","Śpij dobrze, bestio."
+hubert_encounter_enemycorpse_2_1,Monstrously wasted.,Potwornie zmarnowany.
+hubert_encounter_enemycorpse_3_1,That monster looks way less fearsome now.,Ten potwór wygląda teraz dużo mniej przerażająco.
+hubert_encounter_traphook_1_1,I'd rather it not be my meat that's hanging from these hooks.,"Wolałbym, żeby to nie moje mięso wisiało na tych hakach."
+hubert_encounter_traphook_2_1,These hooks look determined.,Te haki wyglądają na zdeterminowane.
+hubert_encounter_traphook_3_1,"Oh, no! #0.90 Hook!",O nie! #0.90 Hak!
+hubert_encounter_bee_1_1,These bees make me uneasy.,Te pszczoły mnie niepokoją.
+hubert_encounter_bee_2_1,"Buzz off, insect!","Odbzycz się, owadzie!"
+hubert_encounter_bee_3_1,Who knew six feet could be so tiny and dangerous...,"Kto by pomyślał, że sześć nóżek może być tak małych i niebezpiecznych..."
+hubert_encounter_monster_1_1,These monstrous meanies ain't got nothing on us!,Te potworne złośliwce nic nam nie zrobią!
+hubert_encounter_monster_2_1,Monster alert!,Alarm potworowy!
+hubert_encounter_monster_3_1,Those nasties are onto us! #2.00 Beware!,Te ohydztwa nas namierzyły! #2.00 Uważaj!
+hubert_encounter_monster_4_1,Uh-oh! #0.90 Those folks look like trouble.,O nie! #0.90 Ci goście wyglądają na kłopoty.
+hubert_encounter_witch_1_1,These ladies ain't here to have a chat!,Te panie nie przyszły tu na pogawędkę!
+hubert_encounter_witch_2_1,These ladies ain't here for tea!,Te panie nie przyszły tu na herbatkę!
+hubert_encounter_witch_3_1,These hardcore hoodlums don't tease!,Te twarde chuliganki nie żartują!
+hubert_encounter_bigband_1_1,"Well, ain't that a jolly beat.","No proszę, ale wesoły rytm."
+hubert_encounter_bigband_2_1,I used to listen to that jam when I was young.,"Słuchałem tego kawałka, jak byłem młody."
+hubert_encounter_bigband_3_1,"Uh, they sure got rhythm.","Yy, na pewno mają poczucie rytmu."
+hubert_encounter_bigband_4_1,What's the name of that song?,Jak się nazywa ta piosenka?
+hubert_encounter_automat_1_1,"Let's not spend it all at once, ok?","Nie wydajmy tego wszystkiego naraz, ok?"
+hubert_encounter_automat_2_1,Remember to save some for later. #2.00 For... me.,"Pamiętaj, żeby zostawić coś na później. #2.00 Dla... mnie."
+hubert_encounter_automat_3_1,Think hard about whether you really need to spend money on that...,"Zastanów się dobrze, czy naprawdę musisz wydawać na to pieniądze..."
+row134,//1,//1
+wanst_hubert_address_random_1_1,Well look at this little guy!,"No proszę, a to co za mały gagatek!"
+wanst_hubert_address_medium_1_2_a,I'm lost! #1.00 D-d-do you know the way?,"Zgubiłem się! #1.00 W-w-wiesz, którędy?"
+wanst_hubert_address_medium_1_2_b,C-can I join you?,M-mogę się przyłączyć?
+row138,//2,//2
+wanst_hubert_address_random_2_1,Hey fellow adventurer!,"Hej, drogi poszukiwaczu przygód!"
+wanst_hubert_address_medium_2_2_a,"You're not a baddie, are you?","Nie jesteś złoczyńcą, prawda?"
+wanst_hubert_address_medium_2_2_b,"Y-You're a good guy, right? #2.00 You're smiling and everything...","J-jesteś dobrym facetem, prawda? #2.00 Uśmiechasz się i w ogóle..."
+row142,//3,//3
+wanst_hubert_addparty_random_3_1,Follow me on my journey!,Podążaj za mną w mej podróży!
+wanst_hubert_acceptjoin_medium_1_2,"Ok, you seem confident!","Ok, wydajesz się pewny siebie!"
+wanst_hubert_addparty_random_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
+wanst_hubert_acceptjoin_medium_2_2,"Ok, I-I trust you!","Ok, u-ufam ci!"
+wanst_hubert_acceptjoin_medium_3_2,Ok. #0.80 I-I'll be your companion!,Ok. #0.80 B-będę twoim towarzyszem!
+row150,//1,//1
+wanst_hubert_address_random_1_1,Well look at this little guy!,"No proszę, a to co za mały gagatek!"
+wanst_hubert_address_bummed_1_2,If you want to end me... #1.80 ...do it quick.,Jeśli chcesz mnie dobić... #1.80 ...zrób to szybko.
+row153,//2,//2
+wanst_hubert_address_random_2_1,Hey fellow adventurer!,"Hej, drogi poszukiwaczu przygód!"
+wanst_hubert_address_bummed_2_2,I'm just a lost tortoise.,Jestem tylko zagubionym żółwiem.
+row156,//3,//3
+wanst_hubert_addparty_random_3_1,Follow me on my journey!,Podążaj za mną w mej podróży!
+wanst_hubert_acceptjoin_bummed_1_2,I was hoping to die alone. #1.80 But as you wish...,"Miałem nadzieję umrzeć samotnie. #1.80 Ale niech będzie, jak chcesz..."
+wanst_hubert_addparty_random_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
+wanst_hubert_acceptjoin_bummed_2_2,Alright. It cannot get much worse.,Dobra. Gorzej już chyba być nie może.
+row163,//1,//1
+wanst_hubert_address_random_1_1,Well look at this little guy!,"No proszę, a to co za mały gagatek!"
+wanst_hubert_address_angry_1_2,Little guy?,Mały gagatek?
+row166,//2,//2
+wanst_hubert_address_random_2_1,Hey fellow adventurer!,"Hej, drogi poszukiwaczu przygód!"
+wanst_hubert_address_angry_2_2,Hey.,Hej.
+row169,//3,//3
+wanst_hubert_addparty_random_3_1,Follow me on my journey!,Podążaj za mną w mej podróży!
+wanst_hubert_acceptjoin_angry_1_2,"Ok, but you go first!","Ok, ale ty idziesz pierwszy!"
+wanst_hubert_addparty_random_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
+wanst_hubert_acceptjoin_angry_2_2,I'll keep a safe distance to you...,Będę trzymał się od ciebie z bezpiecznej odległości...
+excito_idle_generic_1_1,Dum di dum.,Pam pam pam.
+excito_idle_generic_2_1,A-hem. #0.70 Did you say something?,A-hem. #0.70 Coś mówiłeś?
+excito_idle_generic_3_1,Sometimes you have to close a window to open a door.,"Czasem trzeba zamknąć okno, żeby otworzyć drzwi."
+excito_idle_generic_4_1,These walls are depressing. #1.50 Ever heard of paint?,Te ściany są przygnębiające. #1.50 Słyszałeś kiedyś o farbie?
+excito_idle_generic_5_1,Who wants to live in a litterbox like this?,Kto chciałby mieszkać w takiej kuwecie?
+excito_idle_generic_6_1,I just had an amazing thought... #1.90 But I lost it. #3.00 Damn.,Właśnie wpadłem na genialną myśl... #1.90 Ale ją zgubiłem. #3.00 Cholera.
+excito_encounter_goldcoin_1_1,"Ah, coins! #1.20 Let's get rich!","Ach, monety! #1.20 Wzbogaćmy się!"
+excito_encounter_goldcoin_2_1,There's money on the floor.,Na podłodze leżą pieniądze.
+excito_encounter_goldcoin_3_1,See that coin?,Widzisz tę monetę?
+excito_encounter_mushroom_1_1,"I dont know why, #1.00 but this tower always seems to have more veggies #3.00 than monsters.","Nie wiem czemu, #1.00 ale ta wieża zawsze ma chyba więcej warzyw #3.00 niż potworów."
+excito_encounter_mushroom_2_1,"If I were a mushroom, #1.00 I wouldn't choose this kind of hat style.","Gdybym był grzybem, #1.00 nie wybrałbym takiego stylu kapelusza."
+excito_encounter_mushroom_3_1,Mushrooms really grow everywhere. #1.80 Don't they?,Grzyby naprawdę rosną wszędzie. #1.80 Prawda?
+excito_encounter_teeth_1_1,Teeth here. #0.80 If you happen to be missing any!,Tu są zęby. #0.80 Gdyby jakiegoś przypadkiem brakowało!
+excito_encounter_teeth_2_1,"You can put that tooth back in #1.90 to regain your beautiful smile, you know?","Możesz sobie z powrotem włożyć ten ząb, #1.90 żeby odzyskać swój piękny uśmiech, wiesz?"
+excito_encounter_teeth_3_1,"Teeth are a sign of health. #1.70 If you got 'em, you got 'em.","Zęby są oznaką zdrowia. #1.70 Jak się je ma, to się je ma."
+excito_encounter_rat_1_1,Rodents. Ew.,Gryzonie. Fuj.
+excito_encounter_rat_2_1,I'm team mouse. #1.50 Rats are gross.,Jestem team mysz. #1.50 Szczury są obrzydliwe.
+excito_encounter_rat_3_1,Rats!,Szczury!
+excito_encounter_frog_1_1,"I do a great frog imitation, check it out: #2.70 Woof woof.","Świetnie naśladuję żaby, patrz: #2.70 Hau hau."
+excito_encounter_frog_2_1,I really didn't expect amphibians in here.,Naprawdę nie spodziewałem się tu płazów.
+excito_pickup_frog_1_1,"Let me show you around, #1.00 my amphibian friend.","Pozwól, że oprowadzę cię, #1.00 mój płazi przyjacielu."
+excito_encounter_snail_1_1,"I used to carry my house around on my back, too. #2.50 But I'm too old for that now.",Ja też kiedyś nosiłem dom na plecach. #2.50 Ale jestem już na to za stary.
+excito_encounter_snail_2_1,That snail is probably a reminder that we should hurry up...,"Ten ślimak to pewnie przypomnienie, że powinniśmy się pospieszyć..."
+excito_pickup_snail_1_1,Ew. Why'd I touch that?,Fuj. Czemu ja to dotknąłem?
+excito_pickup_snail_2_1,What made me pick up this gross fella?,"Co mnie podkusiło, żeby podnieść tego obślizgłego gościa?"
+excito_encounter_leek_1_1,Leek is just boring broccoli.,Por to po prostu nudny brokuł.
+excito_encounter_leek_2_1,Is leek just broccoli with a haircut?,Czy por to po prostu brokuł po fryzjerze?
+excito_encounter_leek_3_1,Leek is a vegetable better eaten alive.,"Por to warzywo, które lepiej zjeść na żywca."
+excito_encounter_pickup_1_1,I'm taking a leek.,Idę urwać sobie pora.
+excito_encounter_helmet_1_1,Something to hide my bald spot.,"Coś, czym zakryję łysinę."
+excito_encounter_helmet_2_1,"Headgear, nice.","Nakrycie głowy, miło."
+excito_encounter_helmet_3_1,Fits my skull perfectly.,Pasuje idealnie do mojej czaszki.
+excito_encounter_gianthammer_1_1,This hammer can take care of the biggest nails.,Ten młot poradzi sobie z największymi gwoźdźmi.
+excito_encounter_gianthammer_2_1,Where's the giant carpenter to that massive hammer?,Gdzie jest olbrzymi cieśla od tego ogromnego młota?
+excito_encounter_gianthammer_3_1,Giant hammer for a decent slammer.,Ogromny młot na porządne walnięcie.
+excito_encounter_mace_1_1,We'll have a smashin' time with that mace.,Będziemy się miażdżąco dobrze bawić z tą buławą.
+excito_encounter_mace_2_1,Mace. Nice. #1.50 I'm tired of these junk weapons.,Buława. Miło. #1.50 Mam dość tych szmelcowych broni.
+excito_encounter_mace_3_1,Let me get that mace.,Wezmę sobie tę buławę.
+excito_pickup_mace_1_1,That's what I call a weapon.,Otóż to nazywam bronią.
+excito_pickup_mace_2_1,"Guide me to bliss, #1.20 pointy ball on a stick!","Poprowadź mnie ku szczęściu, #1.20 kolczasta kulko na patyku!"
+excito_pickup_mace_3_1,This shall be my final form.,To będzie moja ostateczna forma.
+excito_encounter_beehive_1_1,Isn't honey just bee vomit?,Czy miód to nie po prostu pszczeli wymiociny?
+excito_encounter_beehive_2_1,I feel honey played a big part #1.80 in getting me into this mess.,"Czuję, że miód odegrał sporą rolę #1.80 w wpakowaniu mnie w ten bajzel."
+excito_encounter_beehive_3_1,Honey is a metaphor: #1.50 The worst things stick.,Miód to metafora: #1.50 najgorsze rzeczy się lepią.
+excito_encounter_bananapeel_1_1,That peel will let you slide into certain doom.,Ta skórka pozwoli ci się poślizgnąć prosto w zgubę.
+excito_encounter_bananapeel_2_1,Someone dropped their banana.,Ktoś zgubił swojego banana.
+excito_encounter_bananapeel_3_1,Banana peel. #1.00 Watch your step.,Skórka od banana. #1.00 Uważaj na krok.
+excito_encounter_hamerguycorpse_1_1,That's what I call flatlined.,Otóż to nazywam płaskim EKG.
+excito_encounter_hamerguycorpse_2_1,I always wondered how I'd look after running face first into a wall...,"Zawsze się zastanawiałem, jak bym wyglądał po wbiegnięciu twarzą w ścianę..."
+excito_encounter_hamerguycorpse_3_1,Flat as a mat.,Płaski jak naleśnik.
+excito_encounter_honkhorn_1_1,Did you know bees hate honk horns?,"Wiedziałeś, że pszczoły nienawidzą klaksonów?"
+excito_encounter_honkhorn_2_1,Where's the bike to that horn?,Gdzie jest rower do tego klaksonu?
+excito_encounter_honkhorn_3_1,The sound of the honk horn is a cry for help.,Dźwięk klaksonu to wołanie o pomoc.
+excito_encounter_stool_1_1,Doesn't seem like a good time to sit.,"Nie wygląda to na dobry moment, żeby usiąść."
+excito_encounter_stool_2_1,A stool can come in handy in many ways.,Stołek może się przydać na wiele sposobów.
+excito_encounter_stool_3_1,"Urgh, stool!","Fuj, stołek!"
+excito_encounter_enemycorpse_1_1,This fella has seen better days...,Ten gość miał już lepsze dni...
+excito_encounter_enemycorpse_2_1,"Look where being awful got you, monster!","Patrz, gdzie zaprowadziło cię bycie okropnym, potworze!"
+excito_encounter_enemycorpse_3_1,"Not so frightening now, eh?","Już nie taki straszny, co?"
+excito_encounter_bone_1_1,A bone. #0.90 Weird. #1.80 Looks like somebody died here.,"Kość. #0.90 Dziwne. #1.80 Wygląda na to, że ktoś tu zginął."
+excito_encounter_bone_2_1,Anyone got a bone to pick?,Ktoś ma z kimś na pieńku?
+excito_encounter_bone_3_1,Any skeleton missing a bone? #2.00Anyone?,Jakiemuś szkieletowi brakuje kości? #2.00 Ktoś?
+excito_encounter_rake_1_1,Rake it 'til you make it.,"Grabkuj, aż ci się uda."
+excito_encounter_rake_2_1,Time for some gardening.,Czas na trochę ogrodnictwa.
+excito_encounter_rake_3_1,This rake is better for smacking than stepping on.,Te grabie lepiej się nadają do walnięcia niż do nadepnięcia.
+excito_encounter_club_1_1,This club can deliver a good bonk.,Ta maczuga potrafi solidnie zdzielić.
+excito_encounter_club_2_1,Aren't these kind of clubs a bit old-timey?,Czy takie maczugi nie są trochę staroświeckie?
+excito_encounter_sword_1_1,This blade will seal our fate!,To ostrze przypieczętuje nasz los!
+excito_pickup_sword_1_1,Look at me wielding this iron companion.,"Spójrz na mnie, władającego tym żelaznym towarzyszem."
+excito_pickup_sword_2_1,Nice. #0.80 This goes well with my muscular physique.,Miło. #0.80 Świetnie pasuje do mojej muskularnej sylwetki.
+excito_encounter_broom_1_1,Time to CLEAN UP.,Czas na SPRZĄTANIE.
+excito_encounter_broom_2_1,Let's get sweepin'.,Zabierzmy się za zamiatanie.
+excito_encounter_broom_3_1,Now you can call me a broomer.,Teraz możesz nazywać mnie miotłomistrzem.
+excito_encounter_brains_1_1,Can't go wrong with a second brain.,Z drugim mózgiem nic złego się nie stanie.
+excito_encounter_brains_2_1,Brains! #0.80 Good to have one.,Mózg! #0.80 Dobrze jest jakiś mieć.
+excito_encounter_brains_3_1,Spare brains anyone?,Zapasowy mózg ktoś potrzebuje?
+excito_equip_ironarmor_1_1,Now I feel like a proper knight.,Teraz czuję się jak prawdziwy rycerz.
+excito_equip_ironarmor_2_1,I'm inside a tin can!,Jestem w środku puszki!
+excito_equip_ironarmor_3_1,This only fits because I'm not a slippery eel.,"To pasuje tylko dlatego, że nie jestem śliskim węgorzem."
+excito_equip_peasantarmor_1_1,Alright. Back to being a regular fellow.,Dobra. Wracam do bycia zwykłym gościem.
+excito_equip_peasantarmor_2_1,"Peasant armor. #1.30 Well, I am a peasant after all.","Chłopska zbroja. #1.30 Cóż, w końcu jestem chłopem."
+excito_equip_peasantarmor_3_1,So this is what folks on the streets like to sport.,Więc to lubią nosić ludzie z ulicy.
+excito_equip_sackarmor_1_1,It's better than being nude I guess.,Chyba lepsze to niż nagość.
+excito_equip_sackarmor_2_1,This is 'itchin!,Ale swędzi!
+excito_equip_sackarmor_3_1,This sack smells like potatoes. #1.90 Mmmm.,Ten worek pachnie ziemniakami. #1.90 Mmmm.
+excito_equip_monsterarmor_1_1,A little tight around the belly!,Trochę ciasno w okolicy brzucha!
+excito_equip_monsterarmor_2_1,Okay. Interesting fashion.,Okej. Ciekawa moda.
+excito_equip_monsterarmor_3_1,How does this look on me?,Jak mi w tym?
+excito_equip_goldarmor_1_1,See me shine.,"Patrz, jak lśnię."
+excito_equip_goldarmor_2_1,Seems like a lotta gold to waste. #1.80 But I do feel well-protected.,Wygląda na sporo zmarnowanego złota. #1.80 Ale czuję się dobrze chroniony.
+excito_equip_goldarmor_3_1,This golden knight is outta sight!,Ten złoty rycerz jest niesamowity!
+excito_equip_strawhat_1_1,Adding a little vacay vibe.,Dodaję sobie trochę wakacyjnego klimatu.
+excito_equip_strawhat_2_1,Vacation escalation!,Eskalacja wakacyjności!
+excito_equip_strawhat_3_1,"I might look relaxed, #1.20 but I'm still on punch duty.","Może wyglądam na rozluźnionego, #1.20 ale wciąż jestem na służbie walenia w mordę."
+excito_encounter_halberd_1_1,Halberd. #0.90 Isn't that the name of the tortoise fellow?,Halabarda. #0.90 Czy to nie imię tego żółwiowego gościa?
+excito_encounter_halberd_2_1,I feel worthy of this oversized poker.,Czuję się godny tego przewymiarowanego pogrzebacza.
+excito_pickup_generic_1_1,"Alright, level up!","Dobra, awans poziomu!"
+excito_pickup_generic_2_1,This will make me stronger.,To uczyni mnie silniejszym.
+excito_pickup_generic_3_1,I feel more powerful with this.,Czuję się z tym potężniejszy.
+excito_pickup_generic_4_1,This will be my breakthrough.,To będzie mój przełom.
+excito_pickup_generic_5_1,"Okay, doing the old switcheroo.","Okej, robię starą zamianę."
+excito_pickup_generic_6_1,Let's gear up!,Uzbrójmy się!
+excito_pickup_generic_7_1,Dibs!,Moje!
+excito_pickup_generic_8_1,Let me take this.,Wezmę to sobie.
+excito_pickup_generic_9_1,Picking up a thing!,Podnoszę coś!
+excito_pickup_generic_10_1,This looks helpful. #1.10 I'm taking it.,To wygląda przydatnie. #1.10 Biorę to.
+excito_encounter_monsterwall_1_1,Someone should fix these holes in the walls.,Ktoś powinien naprawić te dziury w ścianach.
+excito_encounter_monsterwall_2_1,There's something in the wall!,Coś jest w ścianie!
+excito_encounter_monsterwall_3_1,There's some kinda kleptomaniac lurking in that wall.,W tej ścianie czai się jakiś kleptoman.
+excito_encounter_metalspikes_1_1,I'd like to direct your attention to those dangerous spikes.,Chciałbym zwrócić twoją uwagę na te niebezpieczne kolce.
+excito_encounter_metalspikes_2_1,Spikes! #1.00 Holy macaroni!,Kolce! #1.00 Święte makarony!
+excito_encounter_metalspikes_3_1,Watch out with these spikes.,Uważaj na te kolce.
+excito_encounter_woodspikes_1_1,Are those for training?,Czy to do treningu?
+excito_encounter_woodspikes_2_1,These wooden sticks can still smack you good.,Te drewniane patyki wciąż potrafią solidnie zdzielić.
+excito_encounter_gap_1_1,"Mind the gap, pal.","Uważaj na przerwę, kolego."
+excito_encounter_gap_2_1,That part of the room is missing some floor.,Tej części pokoju brakuje trochę podłogi.
+excito_encounter_gap_3_1,A well-timed jump will get us past that hole.,Dobrze wyczekany skok przeniesie nas przez tę dziurę.
+excito_encounter_metalpendulum_1_1,Let's not lose our heads over that!,Nie traćmy przez to głów!
+excito_encounter_metalpendulum_2_1,They sure know how to sharpen their blades.,"Na pewno wiedzą, jak naostrzyć ostrza."
+excito_encounter_metalpendulum_3_1,They do make quite the effort to threaten us. #2.00 But fear not. #3.00 A little skill will do the drill.,"Naprawdę się starają, żeby nas zastraszyć. #2.00 Ale się nie bój. #3.00 Odrobina umiejętności załatwi sprawę."
+excito_encounter_hook_1_1,These hooks will give you a good view from up above. #2.50 But it comes at a price...,Te haki dadzą ci dobry widok z góry. #2.50 Ale to ma swoją cenę...
+excito_encounter_hook_2_1,"I'd use those hooks for fishing, #1.50 but what do I know?","Użyłbym tych haków do wędkowania, #1.50 ale co ja tam wiem?"
+excito_encounter_hook_3_1,"These hooks'll give you one nasty poke, I'd say.","Te haki dadzą ci nieźle w kość, powiedziałbym."
+excito_encounter_bigband_1_1,"When I'm clapping, it won't be applause! #2.20 This is not music!","Jak będę klaskał, to nie będą brawa! #2.20 To nie jest muzyka!"
+excito_encounter_bigband_2_1,They sound like they got their skills from the farmer's market.,"Brzmią, jakby swoje umiejętności zdobyli na targu warzywnym."
+excito_encounter_bigband_3_1,Practice makes perfect doesn't work for everyone I guess...,Ćwiczenie czyni mistrza chyba nie u każdego działa...
+excito_encounter_hammerguy_1_1,AAAAAAAAAAAAHHHHH!,AAAAAAAAAAAAHHHHH!
+excito_encounter_hammerguy_2_1,LET'S BEAT IT!,SPADAJMY STĄD!
+excito_encounter_hammerguy_3_1,RUUUUN!,UCIEKAJMYYY!
+excito_encounter_monster_1_1,Watch out! #1.00 Monsters!,Uważaj! #1.00 Potwory!
+excito_encounter_monster_2_1,These foes can eat my toes!,Ci wrogowie mogą zjeść mi palce u nóg!
+excito_encounter_monster_3_1,"Up for trouble, fiend!?","Szukasz kłopotów, bestio!?"
+excito_encounter_witch_1_1,Reveal yourselves! #1.30 Hooded hoodlums!,Pokażcie się! #1.30 Zakapturzone chuliganki!
+excito_encounter_witch_2_1,Witches don't negotiate. #1.40 I suggest brute force.,Czarownice nie negocjują. #1.40 Sugeruję brutalną siłę.
+excito_encounter_witch_3_1,"They're not cleaning with those brooms, #1.50 I can tell ya that much.","Na pewno nie sprzątają tymi miotłami, #1.50 tyle ci powiem."
+excito_encounter_wizard_1_1,Sorcerer schmorcerer!,"Czarodziej, szmarodziej!"
+excito_encounter_wizard_2_1,"Time to retire, old man!","Czas na emeryturę, staruszku!"
+excito_encounter_wizard_3_1,"How do you spell PUNCH, wizzy?","Jak się pisze CIOS, czarusiu?"
+excito_encounter_bat_1_1,Bats! #0.90 I prefer the sporty type.,Nietoperze! #0.90 Wolę te sportowe.
+excito_encounter_bat_2_1,"Can't stand bats, man!","Nie znoszę nietoperzy, stary!"
+excito_encounter_bat_3_1,Bats are my least favorite bird.,Nietoperze to mój najmniej ulubiony ptak.
+excito_encounter_blob_1_1,I remember the days when squids stayed in the ocean...,"Pamiętam czasy, kiedy kałamarnice siedziały w oceanie..."
+excito_encounter_blob_2_1,Those are some gummy bears gone AWOL.,"To jakieś żelki, które zdezerterowały."
+excito_encounter_blob_3_1,Pain is the only flavor these gummy bears come in. #3.00 And punch.,Ból to jedyny smak tych żelków. #3.00 I cios.
+excito_encounter_automat_1_1,"Alright, let's spend some money.","Dobra, wydajmy trochę kasy."
+excito_encounter_automat_2_1,I love shopping.,Uwielbiam zakupy.
+excito_encounter_automat_3_1,Okay. #1.10 Let's support local business.,Okej. #1.10 Wspierajmy lokalny biznes.
+excito_encounter_automat_4_1,"A bit of shoppin', to keep it poppin'!","Trochę zakupów, dla samych smaczków!"
+row389,This room is made for someone more simpleminded. I was thinking about you.,Ten pokój jest stworzony dla kogoś nieco prostszego umysłowo. Myślałem o tobie.
+alva_idle_generic_1_1,This place has surely seen better times...,To miejsce na pewno pamięta lepsze czasy...
+alva_idle_generic_2_1,Throwing around some potions will surely #2.00 give this grey hell a makeover.,Rzucanie miksturami na pewno #2.00 odmieni to szare piekło.
+alva_idle_generic_3_1,I hope I can be of some help here. #2.00 I'm less about brute force. #4.00 I'm more of a liquid liquidation lady.,"Mam nadzieję, że się tu na coś przydam. #2.00 Nie jestem od brutalnej siły. #4.00 Jestem bardziej od płynnej likwidacji."
+alva_idle_generic_4_1,I used to be excited about dirty dungeons like this one. #3.50 But I rather crave some fresh air right now.,Kiedyś ekscytowały mnie takie brudne lochy. #3.50 Ale teraz wolałabym trochę świeżego powietrza.
+alva_encounter_goldcoin_1_1,See that coin over there?,Widzisz tę monetę tam?
+alva_encounter_goldcoin_2_1,"Oh look, money. #1.50 I don't have much use for that though...","O, patrz, pieniądze. #1.50 Chociaż niewiele mi się przydają..."
+alva_encounter_goldcoin_3_1,Who sprinkles coins all over this tower?,Kto rozsypuje monety po całej tej wieży?
+alva_encounter_eye_1_1,Eyes are way tastier than you might think. #3.20 And they help cure sickness.,"Oczy są dużo smaczniejsze, niż mogłoby się wydawać. #3.20 I pomagają leczyć choroby."
+alva_encounter_eye_2_1,Two eyes are enough right now.,Dwoje oczu na razie wystarczy.
+alva_encounter_eye_3_1,"Look at those silly eyes, #2.00 rolling around like that...","Spójrz na te głupiutkie oczy, #2.00 tak się tocząc..."
+alva_encounter_sword_1_1,That sharp blade might assist you. #2.30 I'll stick to liquid doom for now...,To ostre ostrze może ci się przydać. #2.30 Ja na razie zostanę przy płynnej zagładzie...
+alva_encounter_sword_2_1,"I'll let you have that sword. #1.80 I'm good, thanks.","Zostawię ci ten miecz. #1.80 Ja dziękuję, nie trzeba."
+alva_encounter_sword_3_1,"I'm good, thanks. #1.00 You can have the sword. #2.40 Use it for good.","Dziękuję, nie trzeba. #1.00 Możesz wziąć miecz. #2.40 Użyj go w dobrej sprawie."
+alva_encounter_leek_1_1,Always eat your leek! #1.70 It makes for strong nostril hair.,Zawsze jedz swój por! #1.70 Wzmacnia włoski w nosie.
+alva_encounter_leek_2_1,Leek heals many things. #2.50 Except foolishness.,Por leczy wiele rzeczy. #2.50 Oprócz głupoty.
+alva_encounter_leek_3_1,Waving a leek around is known to cure depression.,"Wiadomo, że machanie porem leczy depresję."
+alva_encounter_mushroom_1_1,Mushroom! #1.10 Classic ingredient.,Grzyb! #1.10 Klasyczny składnik.
+alva_encounter_mushroom_2_1,Why is every mushroom wearing such a silly hat?,Czemu każdy grzyb nosi taki głupi kapelusz?
+alva_encounter_mushroom_3_1,They must love mushroom soup around here.,Tutaj chyba uwielbiają zupę grzybową.
+alva_encounter_bananapeel_1_1,Bananas make for good nutrition. #2.30 And fast travel.,Banany to dobre odżywianie. #2.30 I szybka podróż.
+alva_encounter_bananapeel_2_1,"You can still regain some health #1.80 from this peel, you know?","Ta skórka nadal może przywrócić trochę zdrowia, #1.80 wiesz?"
+alva_encounter_bananapeel_3_1,Bananas provide the best natural peeling...,Banany zapewniają najlepszy naturalny peeling...
+alva_encounter_honkhorn_1_1,"Don't step on these horns, please. #2.00 That sound makes my ears itch.","Nie nadeptuj na te klaksony, proszę. #2.00 Ten dźwięk swędzi mnie w uszach."
+alva_encounter_honkhorn_2_1,Honk horns are an insult to nature.,Klaksony to obraza dla natury.
+alva_encounter_honkhorn_3_1,The inventor of honk horns led a very sad life...,Wynalazca klaksonu wiódł bardzo smutne życie...
+alva_encounter_mousetrap_1_1,I hope no mouse ever gets caught here.,"Mam nadzieję, że żadna mysz nigdy się tu nie złapie."
+alva_encounter_mousetrap_2_1,I feel sorry for mice #1.50 that end up in traps like these.,"Żal mi myszy, #1.50 które kończą w takich pułapkach."
+alva_encounter_mousetrap_3_1,It's a trap!,To pułapka!
+alva_encounter_rat_1_1,I loved rat soup as a kid.,Uwielbiałam zupę szczurzą jako dziecko.
+alva_encounter_rat_2_1,Rats are smarter than you might think.,"Szczury są mądrzejsze, niż mogłoby się wydawać."
+alva_encounter_rat_3_1,Rats with hats have chats 'bout bats. #3.00 I'm a part time poet. #4.50 Can you tell?,Szczury w kapeluszach gadają o dachach na poddaszach. #3.00 Jestem poetką na pół etatu. #4.50 Widać to?
+alva_encounter_rat_4_1,I can tell.,Widać.
+alva_encounter_frog_1_1,Frogs taste better than you think.,"Żaby smakują lepiej, niż myślisz."
+alva_encounter_frog_2_1,Do frogs mean bad luck?,Czy żaby oznaczają pecha?
+alva_encounter_snail_1_1,Snails are one of the few folks #2.00 not affected by the housing crisis...,"Ślimaki to jedni z niewielu, #2.00 których nie dotyka kryzys mieszkaniowy..."
+alva_encounter_snail_2_1,Aw look at this cute snail!,"Aw, spójrz na tego uroczego ślimaka!"
+alva_encounter_snail_3_1,Who will make it outside first? #2.20 Us or the snail?,Kto pierwszy wydostanie się na zewnątrz? #2.20 My czy ślimak?
+alva_encounter_anvil_1_1,I heard you lift.,Podobno trenujesz siłowo.
+alva_encounter_anvil_2_1,I'd use magic to lift that. #1.70 But... not today.,"Użyłabym magii, żeby to podnieść. #1.70 Ale... nie dzisiaj."
+alva_encounter_rake_1_1,Let's not rake our back here.,Nie nadwyrężajmy sobie tu pleców grabiami.
+alva_encounter_rake_2_1,This rake is missing the garden part.,Tym grabiom brakuje ogrodu.
+alva_encounter_rake_3_1,A rake. #0.70 In a tower. #1.50 Without trees. #2.50 That makes sense.,Grabie. #0.70 W wieży. #1.50 Bez drzew. #2.50 To ma sens.
+alva_encounter_beehive_1_1,Did you know honey is the healthiest of foods?,"Wiedziałeś, że miód to najzdrowsze jedzenie?"
+alva_encounter_beehive_2_1,Bees work really hard to make the best #2.50 product they can come up with. #4.00 I find that inspiring.,"Pszczoły ciężko pracują, żeby stworzyć najlepszy #2.50 możliwy produkt. #4.00 Uważam to za inspirujące."
+alva_encounter_beehive_3_1,Honey is basically a forever young potion.,Miód to w zasadzie mikstura wiecznej młodości.
+alva_encounter_enemycorpse_1_1,They look kind of peaceful now.,Wyglądają teraz dość spokojnie.
+alva_encounter_enemycorpse_2_1,There was no other way. #1.50 Sorry.,Nie było innego wyjścia. #1.50 Przykro mi.
+alva_encounter_enemycorpse_3_1,I wish there was another way #1.30 to get rid of these meanies...,"Szkoda, że nie było innego sposobu, #1.30 żeby pozbyć się tych złośliwców..."
+alva_encounter_metalspikes_1_1,Uuuh. #0.80 These things are sharp.,Uuu. #0.80 Te rzeczy są ostre.
+alva_encounter_metalspikes_2_1,Where's the thread to these needles?,Gdzie nitka do tych igieł?
+alva_encounter_metalspikes_3_1,These tiny holes have a horrible secret.,Te maleńkie dziurki kryją okropną tajemnicę.
+alva_encounter_metalpendulum_1_1,That pendulum isn't here to tell time!,"To wahadło nie jest tu po to, żeby mierzyć czas!"
+alva_encounter_metalpendulum_2_1,Let's not get hypnotized here. #2.00 These blades are nasty!,Nie dajmy się zahipnotyzować. #2.00 Te ostrza są paskudne!
+alva_encounter_gunpowderfuse_1_1,That keg exceeds the power #1.70 of my explosion potion by far.,Ta beczka znacznie przewyższa moc #1.70 mojej mikstury wybuchowej.
+alva_encounter_gunpowderfuse_2_1,Uh oh! #0.90 Someone's trying to blow up the tower.,O nie! #0.90 Ktoś próbuje wysadzić wieżę.
+alva_encounter_gunpowderfuse_3_1,Someone must've just lit that fuse. #2.00 We might want to take care of that.,Ktoś musiał właśnie podpalić ten lont. #2.00 Może powinniśmy się tym zająć.
+alva_encounter_monsterinwall_1_1,Peek-a-boo!,A kuku!
+alva_encounter_monsterinwall_2_1,"Stay in your wall, fiend!","Zostań w swojej ścianie, bestio!"
+alva_encounter_monsterinwall_3_1,I bet that monster lives in there #1.80 rent-free!,"Założę się, że ten potwór mieszka tam #1.80 za darmo!"
+alva_encounter_bigband_1_1,These ones surely didn't go to music school.,Ci na pewno nie chodzili do szkoły muzycznej.
+alva_encounter_bigband_2_1,Avant-garde jazz has gotten out of hand...,Awangardowy jazz wymknął się spod kontroli...
+alva_encounter_bigband_3_1,This music is a fraud!,Ta muzyka to oszustwo!
+alva_encounter_traphook_1_1,Ewww. Is this an abattoir?,Fuj. Czy to rzeźnia?
+alva_encounter_traphook_2_1,I surely don't want to hang from that.,Na pewno nie chcę na tym wisieć.
+alva_encounter_traphook_3_1,Who's controlling these hooks?,Kto kontroluje te haki?
+alva_encounter_monster_1_1,Hey monster! #1.00 Want a drink?,"Hej, potworze! #1.00 Chcesz drinka?"
+alva_encounter_monster_2_1,Monstrous! #1.30 Ugh!,Potworne! #1.30 Ugh!
+alva_encounter_monster_3_1,Monster shmonster!,"Potwór, szmotwór!"
+alva_encounter_monster_4_1,More fools to test my aim on.,"Więcej głupców, na których przetestuję swoją celność."
+alva_encounter_witch_1_1,"Same profession, wrong team, witch!","Ten sam zawód, zła drużyna, czarownico!"
+alva_encounter_witch_2_1,"I feel bad going against these witches. #2.60 But everybody's gotta live, right?","Czuję się źle, walcząc z tymi czarownicami. #2.60 Ale każdy musi jakoś żyć, prawda?"
+alva_encounter_witch_3_1,I feel bad fighting my sister witches. #2.70 But my cauldron's calling!,"Czuję się źle, walcząc z siostrami czarownicami. #2.70 Ale mój kocioł wzywa!"
+alva_encounter_automat_1_1,You can buy premixed potions. #2.50 But the best ones are handmade...,Możesz kupić gotowe mikstury. #2.50 Ale te najlepsze są robione ręcznie...
+alva_encounter_automat_2_1,Everybody's trying to make a little money these days. #2.30 Aren't they?,Każdy dziś próbuje zarobić trochę grosza. #2.30 Prawda?
+alva_encounter_automat_3_1,"Where's the joy in finding treasure, #2.00 if you can buy everything here? Pfff...","Gdzie radość ze znalezienia skarbu, #2.00 skoro tu wszystko można kupić? Pfff..."

@@ -1,0 +1,225 @@
+key,en,pl
+alva_idlecaptive_1_1,Hey! You! #0.90 Can pull that lever?,Hej! Ty! #0.90 Możesz pociągnąć tę dźwignię?
+alva_idlecaptive_2_1,Hullo! #1.00 Over here!,Halo! #1.00 Tutaj!
+alva_idlecaptive_3_1,I could need some help over here!,Przydałaby mi się tu pomoc!
+alva_idlecaptive_4_1,Can you get me out of here? #1.80 I'll be of great help!,Możesz mnie stąd wyciągnąć? #1.80 Bardzo się przydam!
+alva_liberated_1_1,Phew. #0.90 Thank you so much.,Uff. #0.90 Bardzo dziękuję.
+alva_liberated_2_1,Thanks! #0.80 That's very kind of you.,Dzięki! #0.80 To bardzo miłe z twojej strony.
+alva_liberated_3_1,Woo-hoo! #1.00 Free as a berry bee!,Ju-hu! #1.00 Wolna jak pszczoła w jagodowym gaju!
+alva_newfloor_perfect_1_1,Wowee! #1.50 We are unstoppable!,O rety! #1.50 Jesteśmy nie do zatrzymania!
+alva_newfloor_perfect_2_1,I sense the witching hour nearing!,"Czuję, że zbliża się czarownicza godzina!"
+alva_newfloor_perfect_3_1,Ace! #0.80 Who knew escaping was as easy #2.50 as turning a doorknob?,"Super! #0.80 Kto by pomyślał, że ucieczka jest tak prosta #2.50 jak przekręcenie klamki?"
+alva_newfloor_great_1_1,One more door - #1.30 closer to the ground floor!,Jeszcze jedne drzwi - #1.30 bliżej parteru!
+alva_newfloor_great_2_1,"Eyyy, we're actually doing this. #2.50 Nice.","Ejże, naprawdę nam to wychodzi. #2.50 Miło."
+alva_newfloor_great_3_1,Alright! #1.50 This is the harvest of team work!,Dobra! #1.50 To owoc pracy zespołowej!
+alva_newfloor_good_1_1,From mess to a little progress. #2.50 Way to go.,Z bałaganu do odrobiny postępu. #2.50 Tak trzymać.
+alva_newfloor_good_2_1,"Ufff, this must be the right way. #3.20 Good.","Uff, to musi być właściwa droga. #3.20 Dobrze."
+alva_newfloor_good_3_1,Okay... okay. #1.85 We're getting somewhere.,Okej... okej. #1.85 Dokądś zmierzamy.
+alva_newfloor_medium_1_1,So many floors and doors... puh!,Tyle pięter i drzwi... puh!
+alva_newfloor_medium_1_2,Ok. #1.00 Lucky guess. #2.30 Let's keep it up.,Ok. #1.00 Szczęśliwe zgadnięcie. #2.30 Trzymajmy tak dalej.
+alva_newfloor_medium_2_1,Okay at least we're getting somewhere.,"Okej, przynajmniej dokądś zmierzamy."
+alva_newfloor_bummed_1_1,Aaaand another door to the ground floor...,I znoowu drzwi do parteru...
+alva_newfloor_bummed_1_2,Can't keep pretending... #1.50 this is neverending...,Nie mogę już udawać... #1.50 to się nigdy nie kończy...
+alva_newfloor_bummed_2_1,"Jiminy Crickets, this tower never ends.","O w mordę, ta wieża nigdy się nie kończy."
+alva_looted_angry_1_1,What are you doing!?,Co ty robisz!?
+alva_looted_angry_2_1,This means death!!,To oznacza śmierć!!
+alva_looted_angry_3_1,I will not tolerate this!!,Nie będę tego tolerować!!
+alva_looted_good_1_1,What are you doing!?,Co ty robisz!?
+alva_looted_good_2_1,This means death!!,To oznacza śmierć!!
+alva_looted_good_3_1,I will not tolerate this!!,Nie będę tego tolerować!!
+alva_looted_angry_1_1,What are you doing!?,Co ty robisz!?
+alva_looted_angry_2_1,This means death!!,To oznacza śmierć!!
+alva_looted_angry_3_1,I will not tolerate this!!,Nie będę tego tolerować!!
+alva_wanst_died_trap_perfect_1_1,Ohwow. You were doing so well...,O rety. Tak dobrze ci szło...
+alva_wanst_died_trap_great_1_1,Ouch! Sadly there's no potion to fix this...,"Au! Niestety nie ma mikstury, która by to naprawiła..."
+alva_wanst_died_trap_good_1_1,Oh my. This took a quick turn to the worse...,O rety. Szybko obróciło się to na gorsze...
+alva_wanst_died_trap_medium_1_1,That looks horrible.,To wygląda okropnie.
+alva_wanst_died_trap_bummed_1_1,This is not a surprise...,To nie zaskoczenie...
+alva_wanst_died_trap_angry_1_1,There was no cure for this amount of stupid.,Nie było lekarstwa na taką ilość głupoty.
+alva_wanst_died_enemy_perfect_1_1,It's sad to see you go.,"Smutno mi patrzeć, jak odchodzisz."
+alva_wanst_died_enemy_great_1_1,I'm gonna avenge you!,Zemszczę się za ciebie!
+alva_wanst_died_enemy_good_1_1,Monstrous!,Potworne!
+alva_wanst_died_enemy_medium_1_1,You overdid yourself.,Przeholowałeś.
+alva_wanst_died_enemy_bummed_1_1,Guess they were too much for you...,Widać byli dla ciebie zbyt wiele...
+alva_wanst_died_enemy_angry_1_1,That saved me some energy...,To zaoszczędziło mi trochę energii...
+alva_wanst_died_alva_perfect_1_1,"That didn't feel right, sorry.","To nie wydawało się słuszne, przepraszam."
+alva_wanst_died_alva_great_1_1,"That's it, pal. Rest in peace.","I już, kolego. Spoczywaj w pokoju."
+alva_wanst_died_alva_good_1_1,It was for the best... for everyone.,Tak było najlepiej... dla wszystkich.
+alva_wanst_died_alva_medium_1_1,"Sorry, I had to make sure you would do no harm.","Przepraszam, musiałam się upewnić, że nie wyrządzisz krzywdy."
+alva_wanst_died_alva_bummed_1_1,"Sorry, but you looked so ugly.","Przepraszam, ale wyglądałeś tak brzydko."
+alva_wanst_died_alva_angry_1_1,Good riddance!,"Dobrze, że sobie poszedłeś!"
+alva_wanst_died_alva_postal_1_1,Enouuuugh!,Dosyyyć!
+alva_wanst_died_alva_postal_2_1,Huuuuerghhh!,Huuuurgh!
+alva_wanst_transform_monster_perfect_1_1,Holy hell you shouldn't have drank that!,"Cholera, nie powinieneś był tego pić!"
+alva_wanst_transform_monster_great_1_1,Whoa dude watch out with these drinks!,"Ojej, stary, uważaj z tymi trunkami!"
+alva_wanst_transform_monster_good_1_1,"Uhmmm, I know it's you. But stay back!","Yyy, wiem, że to ty. Ale trzymaj się z daleka!"
+alva_wanst_transform_monster_medium_1_1,Uuuuh here comes danger.,"Uuuh, nadchodzi niebezpieczeństwo."
+alva_wanst_transform_monster_bummed_1_1,I'm surprised you can actually turn into even more of a monster...,"Dziwi mnie, że da się zamienić w jeszcze większego potwora..."
+alva_wanst_transform_monster_angry_1_1,Well that suits you!,"Cóż, to do ciebie pasuje!"
+alva_wanst_transform_wanst_perfect_1_1,"Phew, welcome back!","Uff, witaj z powrotem!"
+alva_wanst_transform_wanst_great_1_1,Whooo. You're back in one piece.,Ooo. Wróciłeś cały.
+alva_wanst_transform_wanst_good_1_1,Hey pal. Can we continue now?,"Hej, kolego. Możemy już kontynuować?"
+alva_wanst_transform_wanst_medium_1_1,Not sure if that's better or worse.,"Nie jestem pewna, czy to lepiej, czy gorzej."
+alva_wanst_transform_wanst_bummed_1_1,Oh hi. Guess we all lose our beauty over time...,"O, cześć. Chyba wszyscy z czasem tracimy urodę..."
+alva_wanst_transform_wanst_angry_1_1,Not sure if I want to slap you more or less now? Ah well...,"Nie wiem, czy chcę cię teraz spoliczkować bardziej, czy mniej? Ech, trudno..."
+alva_transformback_perfect_1_1,Wee-heee. #1.20 I used to do this alot as a kid.,Ii-hi. #1.20 Robiłam to często jako dziecko.
+alva_transformback_great_1_1,Who would've thought it's like that inside a monster's head.,"Kto by pomyślał, że tak wygląda wnętrze głowy potwora."
+alva_transformback_good_1_1,"Phew, I'm glad that's over!","Uff, cieszę się, że to koniec!"
+alva_transformback_medium_1_1,Ufff that was intense...,"Uff, to było intensywne..."
+alva_transformback_bummed_1_1,Ooookay. Back to... this...,Noo dobra. Wracamy do... tego...
+alva_transformback_angry_1_1,Ugh this stinks!,"Ugh, ale to śmierdzi!"
+alva_attack_perfect_1_1_a,Catch this!,Łap to!
+alva_attack_perfect_1_1_b,Danger from afar!,Niebezpieczeństwo z oddali!
+alva_attack_perfect_1_1_c,Duck and cover!,Padnij i osłoń się!
+alva_attack_great_1_1_a,Aaa-hup!,Aaa-hop!
+alva_attack_great_1_1_b,"My toss, your loss.","Mój rzut, twoja strata."
+alva_attack_great_1_1_c,Love from above.,Miłość z góry.
+alva_attack_great_1_1_d,This potion's for you!,Ta mikstura jest dla ciebie!
+alva_attack_good_1_1_a,Just dropping this here...,Tylko to tu upuszczam...
+alva_attack_good_1_1_b,Juices for bruises!,Sok na siniaki!
+alva_attack_good_1_1_c,Medicate to detonate!,"Lecz, by zdetonować!"
+alva_attack_good_1_1_d,I hope you're thirsty!,"Mam nadzieję, że jesteś spragniony!"
+alva_attack_medium_1_1_a,Incoming!,Nadlatuje!
+alva_attack_medium_1_1_b,Hope this helps!,"Mam nadzieję, że to pomoże!"
+alva_attack_medium_1_1_c,I got only so many left...,Zostało mi ich tak niewiele...
+alva_attack_bummed_1_1_a,This is tedious.,To żmudne.
+alva_attack_bummed_1_1_b,"Goodbye, precious.","Żegnaj, skarbie."
+alva_attack_bummed_1_1_c,What a waste...,Co za marnotrawstwo...
+alva_attack_angry_1_1_a,Taking out the trash...,Wynoszę śmieci...
+alva_attack_angry_1_1_b,One more,Jeszcze jeden
+alva_attack_angry_1_1_c,"Yeah, whatever.","Ta, jak chcesz."
+alva_scared_1_1,Ooohweee! #1.00 That thing is hideous!,Ooo-łiii! #1.00 Ta rzecz jest ohydna!
+alva_scared_2_1,Stay away from me!,Trzymaj się ode mnie z daleka!
+alva_scared_3_1,No touching!,Bez dotykania!
+alva_scared_4_1,Ahhh. #0.70 Don't wanna be your dinner!,Aaach. #0.70 Nie chcę być twoim obiadem!
+alva_gethit_1_1,Eeew.,Fuuuj.
+alva_gethit_2_1,Ow!,Au!
+alva_gethit_3_1,Aah!,Aach!
+alva_death_1_1,Aaaah!,Aaaach!
+alva_death_2_1,Oh god!,O Boże!
+alva_death_3_1,Aaaah god!,"Aaaach, Boże!"
+alva_death_4_1,Sorry!,Przepraszam!
+alva_weird_perfect_1_1,That was a classic sport back in the day.,To był klasyczny sport za dawnych czasów.
+alva_weird_good_1_1,I see your potion craft has advanced. Congrats!,"Widzę, że twoja sztuka warzenia mikstur poszła naprzód. Gratulacje!"
+alva_weird_great_1_1,"Fun with colors, huh?","Zabawa kolorami, co?"
+alva_weird_medium_1_1,Anyone can brew that potion.,Każdy potrafi uwarzyć tę miksturę.
+alva_weird_bummed_1_1,This is the world's oldest lab joke.,To najstarszy żart laboratoryjny świata.
+alva_weird_angry_1_1,We don't have time for that you fool!,"Nie mamy na to czasu, głupcze!"
+alva_anti_perfect_1_1,"Thanks, but I don't really need that.","Dzięki, ale właściwie tego nie potrzebuję."
+alva_anti_great_1_1,"Uhm, might want to use that for something else?","Yy, może lepiej użyć tego na coś innego?"
+alva_anti_good_1_1,"Please, that's precious stuff...","Proszę, to cenna rzecz..."
+alva_anti_medium_1_1,You're wasting that stuff.,Marnujesz to.
+alva_anti_bummed_1_1,"Come on, that's foolish.","No dawaj, to głupie."
+alva_anti_angry_1_1,"Idiot, someone might need that for good!","Idioto, ktoś może tego naprawdę potrzebować!"
+alva_speed_1_1,Speed potion. Classic.,Mikstura szybkości. Klasyk.
+alva_strong_1_1,I don't really need this. But feels good to be buff as a cuff.,Właściwie tego nie potrzebuję. Ale miło jest być silnym jak wół.
+row198,MISSING!,BRAK!
+row200,MISSING!,BRAK!
+alva_enter_kitchen_perfect_1_1,He-heyyy!#1.30 Look at this place. #2.80 I used to spend half my childhood cooking up... #5.40...crazy stuff in one of those.,"He-heej!#1.30 Spójrz na to miejsce. #2.80 Pół dzieciństwa spędziłam, warząc... #5.40...szalone rzeczy w czymś takim."
+alva_enter_kitchen_perfect_2_1,Mmmm you can brew almost any potion here. #3.00 Impressive.,"Mmmm, można tu uwarzyć prawie każdą miksturę. #3.00 Imponujące."
+alva_enter_kitchen_perfect_3_1,The potions we can brew here... #1.60 ...might help us with all kinds of things.,"Mikstury, które możemy tu uwarzyć... #1.60 mogą pomóc nam w najróżniejszych sprawach."
+alva_enter_kitchen_great_1_1,This cauldron is wild. #2.50 They know how they make their potions. #4.30 I must say.,"Ten kocioł to szaleństwo. #2.50 Wiedzą, jak robić swoje mikstury. #4.30 Muszę przyznać."
+alva_enter_kitchen_great_2_1,This place is quite well equipped. #2.00 It'll get us almost every kind of potion.,To miejsce jest całkiem dobrze wyposażone. #2.00 Zdobędziemy tu prawie każdy rodzaj mikstury.
+alva_enter_kitchen_great_3_1,Ah! #1.00 It's potion time!,Ach! #1.00 Czas na miksturę!
+alva_enter_kitchen_great_1_1,This cauldron is wild. #2.50 They know how they get to their potions. #4.30 I must say.,"Ten kocioł to szaleństwo. #2.50 Wiedzą, jak dobrać się do swoich mikstur. #4.30 Muszę przyznać."
+alva_enter_kitchen_great_2_1,This place is quite well equipped. #2.00 It'll get us almost every kind of potion.,To miejsce jest całkiem dobrze wyposażone. #2.00 Zdobędziemy tu prawie każdy rodzaj mikstury.
+alva_enter_kitchen_great_3_1,Ah! #1.00 It's potion time!,Ach! #1.00 Czas na miksturę!
+alva_enter_kitchen_medium_1_1,This place brings up memories. #2.80 Ah well.,"To miejsce budzi wspomnienia. #2.80 Ech, trudno."
+alva_enter_kitchen_medium_2_1,Careful. #0.60 The things created here can wreck us for good.,Ostrożnie. #0.60 Rzeczy tworzone tutaj mogą nas zrujnować na dobre.
+alva_enter_kitchen_bummed_1_1,Uh oh. #1.20 I'm already aftraid of the mess you'll cook up here.,"O nie. #1.20 Już się boję bałaganu, jaki tu nawarzysz."
+alva_enter_kitchen_angry_1_1,Better stay out of here. #1.20 Who knows what miserable cocktail you might come up with.,"Lepiej trzymaj się stąd z daleka. #1.20 Kto wie, jaki nędzny koktajl mógłbyś tu wymyślić."
+alva_comment_recipe_two_perfect_1_1,Did you know that drinking two potions one after another...#2.85 makes the effect permanent? #4.50 My grandmother sure didn't when she colored herself purple for a few centuries.,"Wiedziałeś, że wypicie dwóch mikstur jedna po drugiej...#2.85 sprawia, że efekt staje się trwały? #4.50 Moja babcia na pewno nie wiedziała, kiedy zafarbowała się na fioletowo na kilka stuleci."
+alva_comment_recipe_two_perfect_2_1,Sip one potion:#2.00 fleeting sway. #3.90 Sip two: #5.20 forever it'll stay.,Łyk jednej mikstury:#2.00 chwilowa zmiana. #3.90 Łyk dwóch: #5.20 zostanie na zawsze.
+alva_comment_recipe_two_perfect_3_1,A single brew: a moment's grace. #2.25 A double sip: time can't erase.,Jeden wywar: chwilowy urok. #2.25 Podwójny łyk: czasu nie zmaże żaden krok.
+alva_comment_recipe_eat_perfect_1_1,"When poisoned, it's best to eat as much as possible. #2.50 Non-poisonous things, that is...","Gdy jesteś zatruty, najlepiej jeść jak najwięcej. #2.50 Rzeczy niezatrutych, rzecz jasna..."
+alva_comment_recipe_eat_perfect_2_1,"Feast away, green's hue will sway.","Ucztuj śmiało, zieleń zblednie mało po mało."
+alva_comment_recipe_eat_perfect_3_1,"To undo poison's cruel chore, #3.00 Eating aids the cure in store.","By odwrócić trucizny okrutny trud, #3.00 jedzenie wspomaga lek, niczym cud."
+alva_wanst_died_trap_medium_1_1,That looks horrible.,To wygląda okropnie.
+alva_wanst_transform_monster_medium_1_1,Uuuuh here comes danger.,"Uuuh, nadchodzi niebezpieczeństwo."
+alva_wanst_died_alva_great_1_1,"That's it, pal. Rest in peace.","I już, kolego. Spoczywaj w pokoju."
+Alva_comment_WeirdPotion_perfect_1_1,"When too many ingredients come together, you get a harmless brown soup like this one.","Kiedy zbyt wiele składników się połączy, wychodzi taka nieszkodliwa brązowa zupa jak ta."
+Alva_comment_WeirdPotion_great_1_1,This potion just gives things a weird color.,Ta mikstura po prostu nadaje rzeczom dziwny kolor.
+Alva_comment_WeirdPotion_good_1_1,This is just a muddled mixture.,To po prostu mętna mieszanka.
+Alva_comment_WeirdPotion_medium_1_1,This doesn't do any harm.,To nie robi żadnej krzywdy.
+Alva_comment_WeirdPotion_bummed_1_1,Another useless drink.,Kolejny bezużyteczny trunek.
+Alva_comment_WeirdPotion_angry_1_1,Only amateurs mix that drink.,Tylko amatorzy mieszają taki trunek.
+Alva_comment_TransformationPotion_perfect_1_1,"With this potion, men's forms amend, But for monsters brooms join the trend.","Ta mikstura ludzkie formy zmienia, lecz u potworów w miotły się zamienia."
+Alva_comment_TransformationPotion_perfect_2_1,This elixir will transform men to beasts and beasts to brooms!,"Ten eliksir zamieni ludzi w bestie, a bestie w miotły!"
+Alva_comment_TransformationPotion_great_1_1,This turns the living into unpleasant forms. So...maybe don't use it on yourself.,To zamienia żywych w nieprzyjemne formy. Więc... może nie używaj tego na sobie.
+Alva_comment_TransformationPotion_great_2_1,"With this, you can become a monster and trick the others. But this prank can be more successful than you'd have hoped.","Dzięki temu możesz stać się potworem i oszukać innych. Ale ten kawał może się udać lepiej, niż byś chciał."
+Alva_comment_TransformationPotion_good_1_1,This potion will transform living beings into wild stuff.,Ta mikstura zamieni żywe istoty w dzikie stwory.
+Alva_comment_TransformationPotion_good_2_1,Handle this with care! it turns you into a beast.,Obchodź się z tym ostrożnie! Zamienia w bestię.
+Alva_comment_TransformationPotion_medium_1_1,"This transforms you into a bad guy. So... nothing will change, probably.",To zamienia cię w złego typa. Więc... pewnie nic się nie zmieni.
+Alva_comment_TransformationPotion_medium_2_1,This turns you into an even weaker being.,To zamienia cię w jeszcze słabszą istotę.
+Alva_comment_TransformationPotion_bummed_1_1,This might turn you into a better person.,To może zamienić cię w lepszego człowieka.
+Alva_comment_TransformationPotion_bummed_1_2,Even better?,Jeszcze lepszego?
+Alva_comment_TransformationPotion_angry_1_1,Time to be the monster that you really are!,"Czas stać się potworem, którym naprawdę jesteś!"
+Alva_comment_TransformationPotion_angry_1_2,No juice can further enhance my monstrous beauty.,Żaden sok nie poprawi już mojej potwornej urody.
+Alva_comment_StrongPotion_perfect_1_1,"This brew right here, it ain't no jest, Giant strength, put to the test!","Ten wywar to nie żarty wcale, olbrzymią siłę wystawi na próby, wspaniale!"
+Alva_comment_StrongPotion_perfect_2_1,Alright! This is your chance to enhance!,"Dobra! To twoja szansa, by się wzmocnić!"
+Alva_comment_StrongPotion_perfect_2_2,Neat!,Nieźle!
+Alva_comment_StrongPotion_great_1_1,Alright! This will juice up your strength!,Dobra! To doda ci siły!
+Alva_comment_StrongPotion_great_1_2,More hustle for the muscle!,Więcej zapału dla muskułów!
+Alva_comment_StrongPotion_good_1_1,"Okay, more power will surely get us somewhere.","Okej, więcej mocy na pewno nas gdzieś zaprowadzi."
+Alva_comment_StrongPotion_good_1_2,See me brawl!,"Patrz, jak się tłukę!"
+Alva_comment_StrongPotion_good_2_1,With great power comes great responsibility...,Z wielką mocą przychodzi wielka odpowiedzialność...
+Alva_comment_StrongPotion_good_2_2,We'll crush them with our responsibility!,Zmiażdżymy ich naszą odpowiedzialnością!
+Alva_comment_StrongPotion_medium_1_1,Use your strength wisely ok?,"Używaj swojej siły mądrze, ok?"
+Alva_comment_StrongPotion_medium_2_1,Precisely nicely and wisely.,"Precyzyjnie, miło i mądrze."
+Alva_comment_StrongPotion_bummed_1_1,Here comes the buff boy.,Oto nadchodzi umięśniony chłopak.
+Alva_comment_StrongPotion_bummed_1_2,Rough tough and buff.,"Szorstki, twardy i umięśniony."
+Alva_comment_StrongPotion_angry_1_1,You could use some more strength up there too...,Przydałoby ci się też trochę więcej siły w głowie...
+Alva_comment_StrongPotion_angry_1_2,I train my brain every day. It is my strongest muscle.,Trenuję mój mózg codziennie. To mój najsilniejszy mięsień.
+Alva_comment_SpeedPotion_perfect_1_1,"The drink will grant you a turbo boost, zooming forward like a caffeinated moose.","Ten trunek da ci turbo doładowanie, pomkniesz jak łoś na kofeinowym paliwie."
+Alva_comment_SpeedPotion_perfect_2_1,"Time to speed up our esape, right?","Czas przyspieszyć naszą ucieczkę, co?"
+Alva_comment_SpeedPotion_perfect_2_2,We'll be outta here in a jiffy!,Wyniesiemy się stąd w mig!
+Alva_comment_SpeedPotion_great_1_1,This will make you move super quick.,"To sprawi, że będziesz poruszać się superszybko."
+Alva_comment_SpeedPotion_great_1_2,Finally my moves can match my thinking.,Nareszcie moje ruchy dorównają myśleniu.
+Alva_comment_SpeedPotion_great_2_1,"Ayy, this will make you go fast!","Ejże, to sprawi, że będziesz szybki!"
+Alva_comment_SpeedPotion_great_2_2,Fast at last!,Szybki nareszcie!
+Alva_comment_SpeedPotion_good_1_1,This will boost your moves.,To przyspieszy twoje ruchy.
+Alva_comment_SpeedPotion_medium_1_1,"Uhmmm, do you need all that speed?","Yyy, czy potrzebujesz aż tyle prędkości?"
+Alva_comment_SpeedPotion_medium_1_2,It's never a question of need.,To nigdy nie jest kwestia potrzeby.
+Alva_comment_SpeedPotion_bummed_1_1,"You can't wait to boost outta here no matter what, right?","Nie możesz się doczekać, żeby stąd zwiać, bez względu na wszystko, prawda?"
+Alva_comment_SpeedPotion_angry_1_1,"This won't speed up your death, sadly.",To niestety nie przyspieszy twojej śmierci.
+Alva_comment_PoisonPotion_perfect_1_1,You can use this to poison yer weapons!,"Możesz tego użyć, żeby zatruć swoją broń!"
+Alva_comment_PoisonPotion_perfect_2_1,"A poison brew, a weapon's boon, don't sip, just coat, or you'll meet your doom!","Trujący wywar, broni dar, nie pij, tylko posmaruj, bo czeka cię koszmar!"
+Alva_comment_PoisonPotion_great_1_1,This elixir will poison everything you hit with it.,"Ten eliksir zatruje wszystko, co nim uderzysz."
+Alva_comment_PoisonPotion_great_2_1,The color green is not a positive thing here.,Zielony kolor nie jest tu dobrym znakiem.
+Alva_comment_PoisonPotion_good_1_1,"Make sure to hit others with that, alright?","Upewnij się, że uderzysz nim innych, dobra?"
+Alva_comment_PoisonPotion_good_2_1,Careful where you throw that!,"Uważaj, gdzie to rzucasz!"
+Alva_comment_PoisonPotion_medium_1_1,Uhm. That's poison. What yu do next is up to you.,"Yy. To trucizna. Co zrobisz dalej, zależy od ciebie."
+Alva_comment_PoisonPotion_bummed_1_1,"I'd not take a sip of that. But I'm not your mom, so...","Ja bym tego nie łyknęła. Ale nie jestem twoją mamą, więc..."
+Alva_comment_PoisonPotion_bummed_1_2,...I will be drinking it.,...ja to wypiję.
+Alva_comment_PoisonPotion_angry_1_1,This is good medicine for you.,To dla ciebie dobre lekarstwo.
+Alva_comment_GoldPotion_perfect_1_1,With this you can become the ultimate golden knight.,Dzięki temu możesz stać się ostatecznym złotym rycerzem.
+Alva_comment_GoldPotion_great_1_1,This will gild yourself or your items.,To pozłoci ciebie albo twoje przedmioty.
+Alva_comment_GoldPotion_good_1_1,This potion seems to turn things golden.,Ta mikstura zdaje się zmieniać rzeczy w złoto.
+Alva_comment_GoldPotion_medium_1_1,This is a rather meaningless elixir.,To dość bezsensowny eliksir.
+Alva_comment_GoldPotion_bummed_1_1,You should use your gold better.,Powinieneś lepiej wykorzystać swoje złoto.
+Alva_comment_GoldPotion_angry_1_1,You wasted your gold on this drink instead of giving your companions some?,"Zmarnowałeś złoto na ten trunek, zamiast dać coś towarzyszom?"
+Alva_comment_DeathPotion_perfect_1_1,"Save this drink for those you fight, in enemies' path, unleash its might.","Zachowaj ten trunek na tych, z którymi walczysz, na drodze wrogów wyzwól jego moc."
+Alva_comment_DeathPotion_perfect_2_1,This evil elixir will end most life.,Ten zły eliksir zakończy niemal każde życie.
+Alva_comment_DeathPotion_great_1_1,This is powerful. #1.50 Let's use it where it hits.,"To potężne. #1.50 Użyjmy tego tam, gdzie zaboli."
+Alva_comment_DeathPotion_great_2_1,This liquid kills. #1.50 Watch out!,Ten płyn zabija. #1.50 Uważaj!
+Alva_comment_DeathPotion_good_1_1,Careful! #1.00 You might hurt yourself.,Ostrożnie! #1.00 Możesz zrobić sobie krzywdę.
+Alva_comment_DeathPotion_good_2_1,I'd advise against drinking this one.,Odradzałabym picie tego.
+Alva_comment_DeathPotion_medium_1_1,"Still playing with danger, eh?","Wciąż bawisz się niebezpieczeństwem, co?"
+Alva_comment_DeathPotion_medium_1_2,I'm no stranger to imminent danger!,Nieobce mi jest bliskie niebezpieczeństwo!
+Alva_comment_DeathPotion_bummed_1_1,Whoa stop playing with the tough stuff.,"Ojej, przestań bawić się tym mocnym świństwem."
+Alva_comment_DeathPotion_bummed_1_2,I... can handle the bruise juice.,Ja... poradzę sobie z tym siniaczącym sokiem.
+Alva_comment_DeathPotion_angry_1_1,Why not take a sip of that one?,Czemu nie łykniesz tego?
+Alva_comment_AntiPotion_perfect_1_1,"Sip this brew, all woes will flee, #3.30 monsters to men, it's magic, you'll see!","Łyknij ten wywar, a troski znikną w lot, #3.30 potwory w ludzi, to magia, ot co!"
+Alva_comment_AntiPotion_perfect_2_1,You can use this to transform those who were turned into monsters #4.00 back into humans again.,"Możesz tego użyć, żeby zamienić tych, którzy stali się potworami, #4.00 z powrotem w ludzi."
+Alva_comment_AntiPotion_great_1_1,This potion heals everything!,Ta mikstura leczy wszystko!
+Alva_comment_AntiPotion_great_2_1,Use this to cure poisoning or transformations!,"Użyj tego, żeby wyleczyć zatrucie albo przemianę!"
+Alva_comment_AntiPotion_good_1_1,This is an antidote.,To antidotum.
+Alva_comment_AntiPotion_medium_1_1,You can use this to heal.,"Możesz tego użyć, żeby się uleczyć."
+Alva_comment_AntiPotion_bummed_1_1,I don't think you need this.,"Nie sądzę, żebyś tego potrzebował."
+Alva_comment_AntiPotion_angry_1_1,This antidote would be wasted on you.,To antidotum byłoby na ciebie zmarnowane.
+Alva_comment_AlcoholPotion_perfect_1_1,"This will not do much, except... #2.30 turn you drunk.","To niewiele zdziała, poza tym, że... #2.30 cię upije."
+Alva_comment_AlcoholPotion_great_1_1,This will turn you into a drunkard.,To zamieni cię w pijaka.
+Alva_comment_AlcoholPotion_good_1_1,Please don't drink on the job.,"Proszę, nie pij w pracy."
+Alva_comment_AlcoholPotion_medium_1_1,This will turn you into even more of a noodlebrain.,To zamieni cię w jeszcze większego pustaka.
+Alva_comment_AlcoholPotion_bummed_1_1,This will make you an even clumsier fool.,To zrobi z ciebie jeszcze bardziej niezdarnego głupca.
+Alva_comment_AlcoholPotion_angry_1_1,"If you want to enhance your bumbling idiocy, #2.70 this is the drink for you.","Jeśli chcesz spotęgować swoją niezdarną głupotę, #2.70 to jest trunek dla ciebie."

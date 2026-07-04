@@ -1,0 +1,133 @@
+key,en,pl
+wanst_hubert_enterdoor_start_1_1,I'd like for you to go into that door.,"Chciałbym, żebyś wszedł w te drzwi."
+wanst_hubert_enterdoor_start_2_1,"Hey pal, go in that door.","Hej, kolego, wejdź w te drzwi."
+wanst_hubert_enterdoor_start_3_1,I want you to go into that door.,"Chcę, żebyś wszedł w te drzwi."
+wanst_hubert_enterdoor_start_4_1,"Alright buddy, let's go!","Dobra, ziomek, ruszamy!"
+wanst_hubert_enterdoor_start_5_1,I have chosen a door for you: #2.00 Voilá!,Wybrałem dla ciebie drzwi: #2.00 Voilà!
+wanst_hubert_enterdoor_start_6_1,Why don't you have a look at what's behind that door?,"Może zerkniesz, co jest za tymi drzwiami?"
+wanst_hubert_enterdoor_start_7_1,Go into that door!,Wejdź w te drzwi!
+wanst_hubert_enterdoor_start_8_1,"Ok. #0.60 Go into that door, smash everything to bits... #3.20 Disable the traps and steal all of the loot. #6.00 Go go go! I believe in you!","Ok. #0.60 Wejdź w te drzwi, roztrzaskaj wszystko na kawałki... #3.20 Rozbrój pułapki i ukradnij cały łup. #6.00 Dawaj, dawaj, dawaj! Wierzę w ciebie!"
+wanst_hubert_enterdoor_start_sceptical_1_1,It looks dangerous!,Wygląda niebezpiecznie!
+wanst_hubert_enterdoor_start_sceptical_2_1,That looks dangerous...,To wygląda niebezpiecznie...
+wanst_hubert_enterdoor_start_sceptical_3_1,I'm not sure.,Nie jestem pewien.
+wanst_hubert_enterdoor_start_reply_1_1,"Trust me, pal!","Zaufaj mi, kolego!"
+wanst_hubert_enterdoor_start_reply_2_1,It's just a door!,To tylko drzwi!
+wanst_hubert_enterdoor_success_perfect_1_1,Alrightsies! Yay! #1.60 Excitement!,Dobrzutko! Hurra! #1.60 Ekscytacja!
+wanst_hubert_enterdoor_success_perfect_2_1,Alrightsies! Yeah! #1.60 Excitement!,Dobrzutko! Tak! #1.60 Ekscytacja!
+wanst_hubert_enterdoor_success_perfect_3_1,"Hot new loot, coming up! #2.00 Hold on a sec!","Gorący nowy łup, już się robi! #2.00 Chwileczkę!"
+wanst_hubert_enterdoor_success_perfect_4_1,Hot new loot incoming! #2.00 Hold on a sec!,Nadciąga gorący nowy łup! #2.00 Chwileczkę!
+wanst_hubert_enterdoor_success_perfect_5_1,"Anything for you, friend!","Wszystko dla ciebie, przyjacielu!"
+wanst_hubert_enterdoor_success_perfect_6_1,Shell yeah! #1.00 I want me to go into that door! #3.50 Watch this!,Skorupa tak! #1.00 Sam chcę wejść w te drzwi! #3.50 Patrz na to!
+wanst_hubert_enterdoor_success_great_1_1,I always had a thing for doors.,Zawsze miałem słabość do drzwi.
+wanst_hubert_enterdoor_success_great_2_1,"Okay, hold on. #1.10 Be right back!","Okej, czekaj. #1.10 Zaraz wracam!"
+wanst_hubert_enterdoor_success_great_3_1,Sure thing!,Jasna sprawa!
+wanst_hubert_enterdoor_success_great_4_1,Now that was motivational! #1.80 Here I come.,To było motywujące! #1.80 Już idę.
+wanst_hubert_enterdoor_success_good_1_1,I'm on my way.,Już idę.
+wanst_hubert_enterdoor_success_good_2_1,Okay.,Okej.
+wanst_hubert_enterdoor_success_good_3_1,As you say!,Jak sobie życzysz!
+wanst_hubert_enterdoor_success_good_4_1,That seems reasonable.,To wydaje się rozsądne.
+wanst_hubert_enterdoor_success_medium_1_1,Really!? #1.00 Okay...,Naprawdę!? #1.00 Okej...
+wanst_hubert_enterdoor_success_medium_2_1,I'll do it. #1.00 But with a bummed face.,Zrobię to. #1.00 Ale z ponurą miną.
+wanst_hubert_enterdoor_success_medium_3_1,I'll do it. #1.00 But I'll be bummed about it.,Zrobię to. #1.00 Ale będę z tego powodu przybity.
+wanst_hubert_enterdoor_success_medium_4_1,I'll do it. #1.00 But I'm not happy about it.,Zrobię to. #1.00 Ale nie jestem z tego zadowolony.
+wanst_hubert_enterdoor_success_medium_5_1,I'll do it. #0.50 But my face will remain sad.,Zrobię to. #0.50 Ale moja mina zostanie smutna.
+wanst_hubert_enterdoor_success_medium_6_1,Seems like I have to... #1.60 Ugh!,"Wygląda na to, że muszę... #1.60 Ugh!"
+wanst_hubert_enterdoor_success_medium_7_1,Do I really have a choice?,Czy naprawdę mam wybór?
+wanst_hubert_enterdoor_sceptical_bummed_1_1,It looks scary...,Wygląda strasznie...
+wanst_hubert_enterdoor_sceptical_bummed_2_1,It looks scary...,Wygląda strasznie...
+wanst_hubert_enterdoor_sceptical_bummed_3_1,"That looks scary, no.","To wygląda strasznie, nie."
+wanst_hubert_enterdoor_sceptical_bummed_4_1,I don't want to. #1.00 I'm scared!,Nie chcę. #1.00 Boję się!
+wanst_hubert_enterdoor_sceptical_bummed_5_1,I don't want to. #0.90 I'm scared!,Nie chcę. #0.90 Boję się!
+wanst_hubert_enterdoor_sceptical_bummed_6_1,I don't want to. #1.20 I'm scared!,Nie chcę. #1.20 Boję się!
+wanst_hubert_enterdoor_sceptical_bummed_7_1,I don't want to go in!,Nie chcę wchodzić!
+wanst_hubert_enterdoor_sceptical_bummed_8_1,"No way dude, I'm sorry.","W życiu, stary, przykro mi."
+wanst_hubert_enterdoor_sceptical_bummed_9_1,"No way dude, sorry.","W życiu, stary, sorry."
+wanst_hubert_enterdoor_sceptical_bummed_10_1,"Nooo, man, no!","Nieee, stary, nie!"
+wanst_hubert_enterdoor_sceptical_bummed_11_1,"Uhm, I'm not sure!","Yy, nie jestem pewien!"
+wanst_hubert_enterdoor_sceptical_bummed_12_1,I'm not sure about this.,Nie jestem tego pewien.
+wanst_hubert_enterdoor_sceptical_bummed_13_1,"Uhhh, I don't think so...","Yyy, nie sądzę..."
+wanst_hubert_enterdoor_sceptical_bummed_14_1,Uhm. #1.00 I am not convinced...,Yy. #1.00 Nie jestem przekonany...
+wanst_hubert_enterdoor_sceptical_bummed_15_1,I am not convinced...,Nie jestem przekonany...
+wanst_hubert_enterdoor_sceptical_bummed_16_1,I am not convinced...,Nie jestem przekonany...
+wanst_hubert_enterdoor_sceptical_bummed_17_1,I don't wanna...,Nie chcę...
+wanst_hubert_enterdoor_sceptical_bummed_18_1,Not today.,Nie dzisiaj.
+wanst_hubert_enterdoor_sceptical_bummed_19_1,No!,Nie!
+wanst_hubert_enterdoor_sceptical_angry_1_1,"Nah, sorry. #1.00 Not feeling it.","Nie, sorry. #1.00 Coś mi nie pasuje."
+wanst_hubert_enterdoor_sceptical_angry_2_1,Maybe we'll find someone else...,Może znajdziemy kogoś innego...
+wanst_hubert_enterdoor_sceptical_angry_3_1,Maybe we'll find someone else...,Może znajdziemy kogoś innego...
+wanst_hubert_enterdoor_sceptical_angry_4_1,No.,Nie.
+wanst_hubert_enterdoor_sceptical_angry_5_1,No!,Nie!
+wanst_hubert_enterdoor_sceptical_angry_6_1,I don't want to. #1.00 You're mean...,Nie chcę. #1.00 Jesteś wredny...
+wanst_hubert_enterdoor_sceptical_angry_7_1,I don't want to. #1.20 You're mean...,Nie chcę. #1.20 Jesteś wredny...
+wanst_hubert_enterdoor_sceptical_angry_8_1,Not here to serve you. At least say please...,"Nie jestem tu, żeby ci służyć. Powiedz chociaż proszę..."
+wanst_hubert_enterdoor_sceptical_angry_9_1,No waysies!,W żadnym wypadku!
+wanst_hubert_enterdoor_sceptical_angry_10_1,Nope.,Nie ma mowy.
+wanst_hubert_enterdoor_sceptical_angry_11_1,You decline being nice... #1.30 I decline carrying out your orders.,Ty odmawiasz bycia miłym... #1.30 ja odmawiam wykonywania twoich rozkazów.
+wanst_hubert_enterdoor_sceptical_angry_11_3,Boop beep boop. #1.50 Okay Mr. Robot!,"Bip buup bip. #1.50 Okej, Panie Robocie!"
+wanst_hubert_enterdoor_shrug_1_1,"Ain't no cracking this shell, eh? #2.00 Whatever then...","Tej skorupy się nie złamie, co? #2.00 No to trudno..."
+wanst_hubert_enterdoor_shrug_2_1,Well. #1.00 Let's never talk about it again...,No cóż. #1.00 Nigdy więcej o tym nie rozmawiajmy...
+wanst_hubert_enterdoor_shrug_3_1,Well. #0.80 Let's never talk about it again...,No cóż. #0.80 Nigdy więcej o tym nie rozmawiajmy...
+wanst_hubert_enterdoor_shrug_4_1,"Yeah, ok... #1.50 I'll take care of it myself.","Tak, ok... #1.50 sam się tym zajmę."
+wanst_hubert_enterdoor_persuade_1_1,"Come on buddy, you can do it!","No dawaj, ziomek, dasz radę!"
+wanst_hubert_enterdoor_persuade_2_1,"If you really loved me, you'd do it!","Gdybyś naprawdę mnie kochał, zrobiłbyś to!"
+wanst_hubert_enterdoor_persuade_3_1,"It's just a door, pal!","To tylko drzwi, kolego!"
+wanst_hubert_enterdoor_persuade_4_1,"Maybe in German? #1.50 Bitte, kleiner Hubert!","Może po niemiecku? #1.50 Bitte, kleiner Hubert!"
+wanst_hubert_enterdoor_persuade_5_1,There's sexy turtles in there!,Tam w środku są seksowne żółwie!
+wanst_hubert_enterdoor_order_1_1,"Just do it! #1.00 When the cake talks, #2.50 the crumb has to walk.","Po prostu to zrób! #1.00 Jak ciacho gada, #2.50 to okruszek się nie sprzecza."
+wanst_hubert_enterdoor_order_2_1,Enough! #1.00 This isn't a quiz!,Dość! #1.00 To nie quiz!
+wanst_hubert_enterdoor_order_3_1,Go in there now!,Wejdź tam natychmiast!
+wanst_hubert_enterdoor_order_4_1,I'll say it again for your turtle ears: #2.80 GO INTO THE DOOR!,Powtórzę to dla twoich żółwich uszu: #2.80 WEJDŹ W TE DRZWI!
+wanst_hubert_enterdoor_success_bummed_1_1,"Alright alright, I'll go!","Dobra, dobra, idę!"
+wanst_hubert_enterdoor_success_bummed_2_1,"Alright, I'll go!","Dobra, idę!"
+wanst_hubert_enterdoor_success_bummed_3_1,"Ok, you convinced me...","Ok, przekonałeś mnie..."
+wanst_hubert_enterdoor_success_bummed_4_1,I'll do it. #1.00 But I don't like it.,Zrobię to. #1.00 Ale mi się to nie podoba.
+wanst_hubert_enterdoor_success_bummed_5_1,I'll do it. #0.90 But I don't like it.,Zrobię to. #0.90 Ale mi się to nie podoba.
+wanst_hubert_enterdoor_success_bummed_6_1,Okay. #1.00 In memory of better times...,Okej. #1.00 Ku pamięci lepszych czasów...
+wanst_hubert_enterdoor_ordersuccess_bummed_1_1,"Alright, man. #1.40 Calm down!","Dobra, stary. #1.40 Uspokój się!"
+wanst_hubert_enterdoor_ordersuccess_bummed_2_1,"Alright, man. #1.20 Calm down!","Dobra, stary. #1.20 Uspokój się!"
+wanst_hubert_enterdoor_ordersuccess_bummed_3_1,"Alright, but... #1.00 Calm down!","Dobra, ale... #1.00 uspokój się!"
+wanst_hubert_enterdoor_ordersuccess_bummed_4_1,Okay okay!,"Okej, okej!"
+wanst_hubert_enterdoor_ordersuccess_bummed_5_1,"Okay, jeez!","Okej, no proszę cię!"
+wanst_hubert_enterdoor_ordersuccess_bummed_6_1,"Ugh, okay... Don't shout. #1.50 I'll get to it.","Ugh, okej... #1.50 nie krzycz. Zajmę się tym."
+wanst_hubert_enterdoor_ordersuccess_bummed_7_1,"Okay okay, don't shout. #2.00 I'll get to it.","Okej, okej, nie krzycz. #2.00 Zajmę się tym."
+wanst_hubert_enterdoor_success_angry_1_1,Alright alright alright!,"Dobra, dobra, dobra!"
+wanst_hubert_enterdoor_success_angry_2_1,Okay okay okay!,"Okej, okej, okej!"
+wanst_hubert_enterdoor_success_angry_3_1,"Alright. Alright, okay!","Dobra. Dobra, okej!"
+wanst_hubert_enterdoor_success_angry_4_1,"Okay, shut it. Enough! #1.80 Whatever!","Okej, zamknij się. #1.80 Dość! Jak chcesz!"
+wanst_hubert_enterdoor_success_angry_5_1,"Okay okay, shut up! #1.40 I get it, okay!","Okej, okej, zamilcz! #1.40 Rozumiem, okej!"
+wanst_hubert_enterdoor_success_angry_6_1,"Okay, shut it. Enough! #2.00 Whatever, I'll do it...","Okej, zamknij się. #2.00 Dość! Jak chcesz, zrobię to..."
+wanst_hubert_enterdoor_success_angry_7_1,"Ugh, I will if it'll make you stop!","Ugh, zrobię to, jeśli to cię uciszy!"
+wanst_hubert_enterdoor_success_angry_8_1,"Ugh, if it'll make it stop!","Ugh, jeśli to to zatrzyma!"
+wanst_hubert_enterdoor_success_angry_9_1,Okay okay I'll do it if you stop!,"Okej, okej, zrobię to, jeśli przestaniesz!"
+wanst_hubert_enterdoor_ordersuccess_angry_1_1,This is the last time you're getting away with this!,"To ostatni raz, kiedy ci to uchodzi na sucho!"
+wanst_hubert_enterdoor_ordersuccess_angry_2_1,This is the last time you're getting away with this!,"To ostatni raz, kiedy ci to uchodzi na sucho!"
+wanst_hubert_enterdoor_ordersuccess_angry_3_1,"Okay, one very last time!","Okej, ten jeden, ostatni raz!"
+wanst_hubert_enterdoor_ordersuccess_angry_4_1,"Okay, one very last time!","Okej, ten jeden, ostatni raz!"
+wanst_hubert_enterdoor_ordersuccess_angry_5_1,"Okay, but I'm fed up with this!","Okej, ale mam tego dość!"
+wanst_hubert_enterdoor_ordersuccess_angry_6_1,"Okay, but I'm fed up with this!","Okej, ale mam tego dość!"
+wanst_hubert_enterdoor_again_perfect_1_1,I've been in there before... #1.50 But I'll gladly take another look.,Byłem tam już wcześniej... #1.50 ale z chęcią zerknę jeszcze raz.
+wanst_hubert_enterdoor_again_perfect_2_1,I've been in there before... #1.80 But I'll gladly take another look.,Byłem tam już wcześniej... #1.80 ale z chęcią zerknę jeszcze raz.
+wanst_hubert_enterdoor_again_perfect_3_1,I've been in there before... #1.50 But I'll gladly take another look.,Byłem tam już wcześniej... #1.50 ale z chęcią zerknę jeszcze raz.
+wanst_hubert_enterdoor_again_perfect_4_1,I've been there before... #1.40 But I'll take another look.,Byłem tam wcześniej... #1.40 ale zerknę jeszcze raz.
+wanst_hubert_enterdoor_again_great_1_1,I've been here before... #1.50 You sure this is right?,Byłem tu już wcześniej... #1.50 na pewno to dobre miejsce?
+wanst_hubert_enterdoor_again_great_2_1,I've been here before... #1.40 You sure this is right?,Byłem tu już wcześniej... #1.40 na pewno to dobre miejsce?
+wanst_hubert_enterdoor_again_great_3_1,I've been here before... #1.50 You sure this is right?,Byłem tu już wcześniej... #1.50 na pewno to dobre miejsce?
+wanst_hubert_enterdoor_again_great_4_1,I've been here before... #1.50 You sure this is the right place?,Byłem tu już wcześniej... #1.50 na pewno to właściwe miejsce?
+wanst_hubert_enterdoor_again_good_1_1,"You know I've been in here before, right?","Wiesz, że byłem tu już wcześniej, prawda?"
+wanst_hubert_enterdoor_again_good_2_1,"You know I've been in here before, right?","Wiesz, że byłem tu już wcześniej, prawda?"
+wanst_hubert_enterdoor_again_good_3_1,"You know I've been in here before, right?","Wiesz, że byłem tu już wcześniej, prawda?"
+wanst_hubert_enterdoor_again_good_4_1,"You know I've been in here before, right?","Wiesz, że byłem tu już wcześniej, prawda?"
+wanst_hubert_enterdoor_again_medium_1_1,Ugh. Into the same room again?,Ugh. Znowu do tego samego pokoju?
+wanst_hubert_enterdoor_again_medium_2_1,Uhm... into the same room again?,Yy... znowu do tego samego pokoju?
+wanst_hubert_enterdoor_again_medium_3_1,Ugh. Into the same room? #2.00 Again?,Ugh. Do tego samego pokoju? #2.00 Znowu?
+wanst_hubert_enterdoor_again_medium_4_1,Uh... Into the same room again?,Yy... znowu do tego samego pokoju?
+wanst_hubert_enterdoor_again_medium_5_1,Into the same room? #1.30 Again?,Do tego samego pokoju? #1.30 Znowu?
+wanst_hubert_enterdoor_again_bummed_1_1,Did you even notice me going into that door before?,"Czy w ogóle zauważyłeś, że już wcześniej wchodziłem w te drzwi?"
+wanst_hubert_enterdoor_again_bummed_2_1,Did you even notice me going into that door before?,"Czy w ogóle zauważyłeś, że już wcześniej wchodziłem w te drzwi?"
+wanst_hubert_enterdoor_again_bummed_3_1,Did you even notice me going into that door before?,"Czy w ogóle zauważyłeś, że już wcześniej wchodziłem w te drzwi?"
+wanst_hubert_enterdoor_again_bummed_4_1,Did you even notice me going into that door before?,"Czy w ogóle zauważyłeś, że już wcześniej wchodziłem w te drzwi?"
+wanst_hubert_enterdoor_again_angry_1_1,No. Already went into that one...,Nie. Już tam wchodziłem...
+wanst_hubert_enterdoor_again_angry_2_1,No. I already went into that one...,Nie. Już tam wchodziłem...
+wanst_hubert_enterdoor_again_angry_3_1,"No, I already went into that one...","Nie, już tam wchodziłem..."
+wanst_hubert_enterdoor_again_angry_4_1,"No, I already went into that one...","Nie, już tam wchodziłem..."
+wanst_hubert_enterdoor_again_angry_5_1,No. #0.70 I already went into that one...,Nie. #0.70 Już tam wchodziłem...

@@ -1,0 +1,57 @@
+key,en,pl
+wanst_alva_givepotion_start_1_1,"Hey, can I get some medicine?","Hej, mogę dostać jakieś lekarstwo?"
+wanst_alva_givepotion_start_2_1,Got a potion?,Masz miksturę?
+wanst_alva_givepotion_start_3_1,Got more of that brawl brew or quick quit liquid?,Masz jeszcze tego naparu na mięśnie albo płynu na szybką ucieczkę?
+wanst_alva_givepotion_start_4_1,I... need some potion help. Got anything for me?,Ja... potrzebuję pomocy w postaci mikstury. Masz coś dla mnie?
+wanst_alva_givepotion_start_5_1,"Psst, got something for me?","Pssst, masz coś dla mnie?"
+wanst_alva_givepotion_start_5_2,I want your strongest potions!,Chcę twoich najsilniejszych mikstur!
+wanst_alva_givepotion_success_perfect_1_1,I got just the thing for us!,"Mam właśnie to, czego nam trzeba!"
+wanst_alva_givepotion_success_perfect_2_1,Sure! #1.20 This will be of great help.,Jasne! #1.20 To się bardzo przyda.
+wanst_alva_givepotion_success_perfect_3_1,Peekaboo!,A kuku!
+wanst_alva_givepotion_success_great_1_1,"Alright, try this.","Dobra, spróbuj tego."
+wanst_alva_givepotion_success_great_2_1,I got this one left.,Zostało mi to.
+wanst_alva_givepotion_success_great_3_1,"Here, found this in my pocket.","Proszę, znalazłam to w kieszeni."
+wanst_alva_givepotion_success_great_4_1,Take this one from my secret stash.,Weź to z mojej tajnej skrytki.
+wanst_alva_givepotion_success_good_1_1,Uhm... #1.10 here's something.,Yy... #1.10 masz coś.
+wanst_alva_givepotion_success_good_2_1,I hope you can handle it.,"Mam nadzieję, że sobie z tym poradzisz."
+wanst_alva_givepotion_success_good_3_1,Drink responsibly.,Pij odpowiedzialnie.
+wanst_alva_givepotion_success_good_4_1,No warranties provided.,Bez gwarancji.
+wanst_alva_givepotion_success_medium_1_1,You're demanding quite a lot...,Sporo wymagasz...
+wanst_alva_givepotion_success_medium_2_1,"Ooof. #0.80 Okay, here.","Uff. #0.80 Dobra, masz."
+wanst_alva_givepotion_success_medium_3_1,Here. #0.60 But this is the last one.,Masz. #0.60 Ale to ostatnia.
+wanst_alva_givepotion_success_medium_4_1,Ok. #1.00 Last one though.,Ok. #1.00 Ale to ostatnia.
+wanst_alva_givepotion_sceptical_bummed_1_1,"Can't help you right now, pal.","Nie mogę ci teraz pomóc, kolego."
+wanst_alva_givepotion_sceptical_bummed_2_1,Uh-uh. #1.50 Not feeling it right now.,Uh-uh. #1.50 Nie mam teraz na to nastroju.
+wanst_alva_givepotion_sceptical_bummed_3_1,This isn't the time...,To nie jest odpowiedni moment...
+wanst_alva_givepotion_sceptical_bummed_4_1,Iiii don't think so.,"Nieee, nie sądzę."
+wanst_alva_givepotion_sceptical_bummed_5_1,I don't think you can handle my potions.,"Nie sądzę, żebyś poradził sobie z moimi miksturami."
+wanst_alva_givepotion_sceptical_angry_1_1,Seriously?,Poważnie?
+wanst_alva_givepotion_sceptical_angry_2_1,No. #0.70 No you can't.,"Nie. #0.70 Nie, nie poradzisz."
+wanst_alva_givepotion_sceptical_angry_3_1,"You got some nerve, knight...","Masz tupet, rycerzu..."
+wanst_alva_givepotion_sceptical_angry_4_1,Get lost.,Spadaj.
+wanst_alva_givepotion_sceptical_angry_5_1,You are not worthy of my potions!,Nie jesteś godny moich mikstur!
+wanst_alva_givepotion_shrug_1_1,I should quit drinking anyways.,I tak powinnam przestać pić.
+wanst_alva_givepotion_shrug_2_1,"Okay, then.",No dobrze.
+wanst_alva_givepotion_shrug_3_1,"Ah, oh well.","Ech, trudno."
+wanst_alva_givepotion_persuade_1_1,"You're sabotaging our adventure, #1.80 come on.","Sabotujesz naszą wyprawę, #1.80 no dawaj."
+wanst_alva_givepotion_persuade_2_1,Gimme that potion or there'll be emotion!,Daj mi tę miksturę albo będą emocje!
+wanst_alva_givepotion_persuade_3_1,I need a drink or this adventure will stink.,"Potrzebuję drinka, bo ta wyprawa będzie do kitu."
+wanst_alva_givepotion_persuade_4_1,I'm relying on your danger juice.  #1.80 Please?,Liczę na twój niebezpieczny sok. #1.80 Proszę?
+wanst_alva_givepotion_order_1_1,"Aaarghhh, I'm dying!","Aaargh, umieram!"
+wanst_alva_givepotion_order_2_1,You can't do this to me!,Nie możesz mi tego robić!
+wanst_alva_givepotion_order_3_1,Whyyy!?? #1.00 We're doomed!,Dlaczegoooo!?? #1.00 Jesteśmy zgubieni!
+wanst_alva_givepotion_order_4_1,Witch! #0.60 I need your potions!,Czarownico! #0.60 Potrzebuję twoich mikstur!
+wanst_alva_givepotion_success_bummed_1_1,"Okay, so be it!","Dobra, niech tak będzie!"
+wanst_alva_givepotion_success_bummed_2_1,"Alright, this time I'm giving in...","Dobra, tym razem ustępuję..."
+wanst_alva_givepotion_success_bummed_3_1,Fine. But be careful!,Dobrze. Ale uważaj!
+wanst_alva_givepotion_success_bummed_4_1,"You don't deserve it, but I deserve quiet.","Nie zasługujesz na to, ale ja zasługuję na spokój."
+wanst_alva_givepotion_ordersuccess_bummed_1_1,"Okay, here! But I'm not telling what it is.","Dobra, masz! Ale nie powiem ci, co to jest."
+wanst_alva_givepotion_ordersuccess_bummed_2_1,"Alright, take this junk and shut it.","Dobra, weź ten szmelc i się zamknij."
+wanst_alva_givepotion_ordersuccess_bummed_3_1,Don't shout! This is all I got.,"Nie krzycz! To wszystko, co mam."
+wanst_alva_givepotion_success_angry_1_1,Ugh. If this will make you stop being so obnoxious.,"Ugh. Jeśli to sprawi, że przestaniesz być taki nieznośny."
+wanst_alva_givepotion_success_angry_2_1,"Ok ok, behave. Here.","Ok, ok, zachowuj się. Masz."
+wanst_alva_givepotion_success_angry_3_1,"Okay, you bumbling bampot.","Dobra, ty niezdarny durniu."
+wanst_alva_givepotion_ordersuccess_angry_1_1,Argh! Whatever!,Argh! Jak chcesz!
+wanst_alva_givepotion_ordersuccess_angry_2_1,Enough! Here!,Dość! Masz!
+wanst_alva_givepotion_ordersuccess_angry_3_1,"Okay, but I'm DONE.","Dobra, ale mam DOŚĆ."
+wanst_alva_givepotion_sceptical_bummed_1_1,"Can't help you right now, pal.","Nie mogę ci teraz pomóc, kolego."

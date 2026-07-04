@@ -1,0 +1,71 @@
+key,en,pl
+wanst_hubert_enterdoor_start_1_1,I'd like for you to go into that door.,"Chciałbym, żebyś wszedł w te drzwi."
+wanst_hubert_enterdoor_start_2_1,"Hey pal, go in that door.","Hej, kolego, wejdź w te drzwi."
+wanst_hubert_enterdoor_start_3_1,I want you to go into that door.,"Chcę, żebyś wszedł w te drzwi."
+wanst_hubert_enterdoor_start_4_1,"Alright buddy, let's go!","Dobra, ziomek, ruszamy!"
+wanst_hubert_enterdoor_start_5_1,I have chosen a door for you:,Wybrałem dla ciebie drzwi:
+wanst_hubert_enterdoor_start_6_1,Why don't you have a look at what's behind that door?,"Może zerkniesz, co jest za tymi drzwiami?"
+wanst_hubert_enterdoor_start_7_1,Go into that door!,Wejdź w te drzwi!
+wanst_hubert_enterdoor_start_8_1,"Ok, go into that door, ...","Ok, wejdź w te drzwi, ..."
+wanst_excito_enterdoor_start_sceptical_1_1,It looks dangerous...,Wygląda niebezpiecznie...
+wanst_excito_enterdoor_start_sceptical_2_1,I'm not sure...,Nie jestem pewien...
+wanst_hubert_enterdoor_start_reply_1_1,"Trust me, pal!","Zaufaj mi, kolego!"
+wanst_hubert_enterdoor_start_reply_2_1,It's just a door!,To tylko drzwi!
+wanst_excito_enterdoor_success_perfect_1_1,See how I handle this fella!,"Zobacz, jak sobie z tym poradzę!"
+wanst_excito_enterdoor_success_perfect_2_1,Alright! #1.00 Rooms ain't got nothing on me!,Dobra! #1.00 Pokoje nie mają ze mną szans!
+wanst_excito_enterdoor_success_perfect_3_1,Yessies! #1.00 Can't wait to see what's behind that door!,"Tasss! #1.00 Nie mogę się doczekać, co jest za tymi drzwiami!"
+wanst_excito_enterdoor_success_perfect_4_1,I'll clear this room with a strong broom!,Wyczyszczę ten pokój mocną miotłą!
+wanst_excito_enterdoor_success_great_1_1,Okay! #0.70 I'm quite into doors!,Okej! #0.70 Całkiem lubię drzwi!
+wanst_excito_enterdoor_success_great_2_1,Sure. #0.60 See you in a bit!,Jasne. #0.60 Do zobaczenia za chwilę!
+wanst_excito_enterdoor_success_great_3_1,"Okay! #0.80 Be right back, good sir!","Okej! #0.80 Zaraz wracam, dobry panie!"
+wanst_excito_enterdoor_success_great_4_1,"Alright! #0.80 Come at me, stupid door!","Dobra! #0.80 Dawaj, głupie drzwi!"
+wanst_excito_enterdoor_success_good_1_1,Okayyy... #1.10 But I don't feel like a hero right now...,Okeej... #1.10 Ale nie czuję się teraz jak bohater...
+wanst_excito_enterdoor_success_good_2_1,"Uuuuh, these doors give me the heebie jeebies. #3.30 But okay...","Uuuh, te drzwi przyprawiają mnie o dreszcze. #3.30 Ale okej..."
+wanst_excito_enterdoor_success_good_3_1,"Yeah, okay. I... #1.50 #2.00  ...can do it... #2.50 #3.10 Yeah.","Ta, okej. Ja... #1.50 #2.00 ...dam radę... #2.50 #3.10 Ta."
+wanst_excito_enterdoor_success_medium_1_1,"Ooof, okay. #1.40 Can't promise anything though...","Uff, okej. #1.40 Ale nic nie obiecuję..."
+wanst_excito_enterdoor_success_medium_2_1,Okay. #0.70 But I'm not feeling lucky...,Okej. #0.70 Ale nie czuję się szczęśliwie...
+wanst_excito_enterdoor_success_medium_3_1,"Oh gosh, wish me luck.","O rety, życz mi szczęścia."
+wanst_excito_enterdoor_sceptical_bummed_1_1,"No, boy. #1.20 Not right now.","Nie, chłopcze. #1.20 Nie teraz."
+wanst_excito_enterdoor_sceptical_bummed_2_1,I really don't have the nerves for that right now.,Naprawdę nie mam teraz na to nerwów.
+wanst_excito_enterdoor_sceptical_bummed_3_1,I am NOT convinced.,NIE jestem przekonany.
+wanst_excito_enterdoor_sceptical_bummed_4_1,"Sorry, even the best need rest.","Wybacz, nawet najlepsi potrzebują odpoczynku."
+wanst_excito_enterdoor_sceptical_bummed_5_1,"Ordering, schmordering!","Rozkazy, szmozkazy!"
+wanst_excito_enterdoor_sceptical_angry_1_1,Nah man. #1.00 You're not in the position to make demands right now...,"Nie, stary. #1.00 Nie jesteś w pozycji, żeby czegokolwiek żądać..."
+wanst_excito_enterdoor_sceptical_angry_2_1,"Hahaha, are you nuts? #1.50 Get lost!","Hahaha, odbiło ci? #1.50 Spadaj!"
+wanst_excito_enterdoor_sceptical_angry_3_1,"Dude, you got some nerve! #1.50 #2.00 Nope!","Stary, ale masz tupet! #1.50 #2.00 Nie ma mowy!"
+wanst_excito_enterdoor_sceptical_angry_4_1,"You think you're King Cool. #1.50 Ordering everyone around like this? #3.40 No way, pal.","Myślisz, że jesteś Królem Luzu. #1.50 Rozkazujesz tak wszystkim? #3.40 W życiu, kolego."
+wanst_excito_enterdoor_attack_1_1,Raaaagh!,Raaaagh!
+wanst_excito_enterdoor_attack_2_1,I can't take it anymore!,Nie mogę już tego znieść!
+wanst_hubert_enterdoor_shrug_1_1,"Ain't no cracking this shell, eh?","Tej skorupy się nie złamie, co?"
+wanst_hubert_enterdoor_shrug_2_1,"Well, let's never talk about it again...","No cóż, nigdy więcej o tym nie rozmawiajmy..."
+wanst_hubert_enterdoor_shrug_3_1,"Well, let's never talk about it again...","No cóż, nigdy więcej o tym nie rozmawiajmy..."
+wanst_hubert_enterdoor_shrug_4_1,"Yeah, ok...","Ta, ok..."
+wanst_hubert_enterdoor_persuade_1_1,"Come on buddy, you can do it!","No dawaj, ziomek, dasz radę!"
+wanst_hubert_enterdoor_persuade_2_1,"If you really loved me, you'd do it!","Gdybyś naprawdę mnie kochał, zrobiłbyś to!"
+wanst_hubert_enterdoor_persuade_3_1,"It's just a door, pal!","To tylko drzwi, kolego!"
+wanst_hubert_enterdoor_order_1_1,Do I have to untie my belt?,Muszę rozwiązać pasek?
+wanst_hubert_enterdoor_order_2_1,Just do it!,Po prostu to zrób!
+wanst_hubert_enterdoor_order_3_1,Enough! This isn't a quiz!,Dość! To nie quiz!
+wanst_hubert_enterdoor_order_4_1,Go in there now!,Wejdź tam natychmiast!
+wanst_excito_enterdoor_success_bummed_1_1,"Ugh, you got me. #1.50Alright. Be right back.","Ugh, dopadłeś mnie. #1.50Dobra. Zaraz wracam."
+wanst_excito_enterdoor_success_bummed_2_1,"There's no other way, huh? #1.50 Okay.","Nie ma innego wyjścia, co? #1.50 Okej."
+wanst_excito_enterdoor_success_bummed_3_1,"Ok, I'm doing this to enjoy some time on my own.","Ok, robię to, żeby cieszyć się chwilą dla siebie."
+wanst_excito_enterdoor_success_bummed_4_1,"I don't know why, but I'm going. #2.00 If that makes you stop...","Nie wiem czemu, ale idę. #2.00 Jeśli to cię uciszy..."
+wanst_excito_enterdoor_ordersuccess_bummed_1_1,Okay okay. #1.30 But only to restore some harmony.,"Okej, okej. #1.30 Ale tylko po to, żeby przywrócić trochę harmonii."
+wanst_excito_enterdoor_ordersuccess_bummed_2_1,Only to not have this escalate. #2.00 Jeez!,Tylko żeby to nie eskalowało. #2.00 O rety!
+wanst_excito_enterdoor_ordersuccess_bummed_3_1,"Alright, manchild. Calm down.","Dobra, dzieciaku. Uspokój się."
+wanst_excito_enterdoor_ordersuccess_bummed_4_1,"Alright, okay. #1.20 But think about your manners while I'm gone.","Dobra, okej. #1.20 Ale pomyśl o swoich manierach, gdy mnie nie będzie."
+wanst_excito_enterdoor_success_angry_1_1,"Okay, enough! #1.50 Whatever!","Okej, dość! #1.50 Jak chcesz!"
+wanst_excito_enterdoor_success_angry_2_1,"Okayyyy, I'll do it just to make you stop!","Okeeej, zrobię to, byle cię uciszyć!"
+wanst_excito_enterdoor_success_angry_3_1,"Alright man! Before I'm going insane, I'll do it. #3.30 Holy hell!","Dobra, stary! Zanim oszaleję, zrobię to. #3.30 Cholera jasna!"
+wanst_excito_enterdoor_success_angry_4_1,"Well, slap my face and call me a pancake!",No to spoliczkuj mnie i nazwij naleśnikiem!
+wanst_excito_enterdoor_success_angry_5_1,"Well, butter my bottom and call me a biscuit!",No to posmaruj mi tyłek masłem i nazwij ciastkiem!
+wanst_excito_enterdoor_ordersuccess_angry_1_1,ALRIGHT ALRIGHT ALRIGHT! I'll do it. #2.40 But I'll be having VERY sinister thoughts.,"DOBRA, DOBRA, DOBRA! Zrobię to. #2.40 Ale będę mieć BARDZO mroczne myśli."
+wanst_excito_enterdoor_ordersuccess_angry_2_1,I go... #0.80 but pray I don't return!,"Idę... #0.80 ale módl się, żebym nie wrócił!"
+wanst_excito_enterdoor_ordersuccess_angry_3_1,Son of a biscuit eater!,Ty synu zjadacza ciastek!
+wanst_excito_enterdoor_again_perfect_1_1,"Let's see what has changed, haha.","Zobaczmy, co się zmieniło, haha."
+wanst_excito_enterdoor_again_great_1_1,"A second look never hurt the naughty crook, right?","Drugie spojrzenie nigdy nie zaszkodziło łotrzykowi, co nie?"
+wanst_excito_enterdoor_again_good_1_1,"You know I've been in there before, right?","Wiesz, że już tam byłem, prawda?"
+wanst_excito_enterdoor_again_medium_1_1,"Dude, I already told you what's in there!","Stary, już ci mówiłem, co tam jest!"
+wanst_excito_enterdoor_again_bummed_1_1,Are you messing with me? #1.30 I just came from there---,Nabijasz się ze mnie? #1.30 Przecież właśnie stamtąd wróciłem---
+wanst_excito_enterdoor_again_angry_1_1,"What the... are you crazy? #2.00 No way, man.","Co jest... zwariowałeś? #2.00 W życiu, stary."

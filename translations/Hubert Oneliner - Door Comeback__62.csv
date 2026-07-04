@@ -1,0 +1,140 @@
+key,en,pl
+hubert_door_cleared_perfect_1_1,"Alright, I did it! #1.00 But this room doesn't have any reward.","No dobrze, udało się! #1.00 Ale w tym pokoju nie ma żadnej nagrody."
+hubert_door_cleared_perfect_2_1,I did it! #0.80 But this room doesn't have any cool loot.,Udało się! #0.80 Ale w tym pokoju nie ma fajnego łupu.
+hubert_door_cleared_perfect_3_1,"Uff, cleared the room. #1.80 But there's nothing interesting in there.","Uff, pokój oczyszczony. #1.80 Ale nie ma tam nic ciekawego."
+hubert_door_cleared_great_1_1,Turns out this room leads nowhere.,"Okazuje się, że ten pokój prowadzi donikąd."
+hubert_door_cleared_great_2_1,Turns out this room leads nowhere.,"Okazuje się, że ten pokój prowadzi donikąd."
+hubert_door_cleared_great_3_1,Looks like this room doesn't lead anywhere.,"Wygląda na to, że ten pokój nigdzie nie prowadzi."
+hubert_door_cleared_great_4_1,"Phew, I think I'm done. #1.70 Nothing of interest there though...","Uff, chyba skończyłem. #1.70 Nic tam jednak ciekawego nie było..."
+hubert_door_cleared_great_5_1,I think I'm done. #1.20 Nothing of interest in the room though...,Chyba skończyłem. #1.20 W pokoju nic ciekawego jednak nie było...
+hubert_door_cleared_great_6_1,This room is a dead end.,Ten pokój to ślepy zaułek.
+hubert_door_cleared_great_7_1,"This room is a dead end, I think...",Ten pokój to chyba ślepy zaułek...
+hubert_door_cleared_great_8_1,This room is a dead end.,Ten pokój to ślepy zaułek.
+hubert_door_cleared_good_1_1,There's only danger behind that door. For sure!,Za tymi drzwiami czai się tylko niebezpieczeństwo. Na pewno!
+hubert_door_cleared_good_2_1,That was clearly the wrong door...,To zdecydowanie były złe drzwi...
+hubert_door_cleared_good_3_1,That was quite tedious. #1.20 For a pointless room like this.,To było dość żmudne. #1.20 Jak na taki bezsensowny pokój.
+hubert_door_cleared_medium_1_1,That was a harsh task. #1.40 But it lead to nothing.,To było trudne zadanie. #1.40 Ale do niczego nie doprowadziło.
+hubert_door_cleared_medium_2_1,I nearly died in there. #1.90 But I think it's the wrong door...,Prawie tam zginąłem. #1.90 Ale chyba to złe drzwi...
+hubert_door_cleared_medium_3_1,I nearly died in there. #1.75 So I think that's the wrong door.,Prawie tam zginąłem. #1.75 Więc chyba to złe drzwi.
+hubert_door_cleared_bummed_1_1,"Danger cleared, but this leads nowhere.","Niebezpieczeństwo zażegnane, ale to donikąd nie prowadzi."
+hubert_door_cleared_bummed_2_1,"Danger cleared, but this leads nowhere.","Niebezpieczeństwo zażegnane, ale to donikąd nie prowadzi."
+hubert_door_cleared_bummed_3_1,"Here I am, cleaning for you. #1.70 #2.10 What a life.","Oto jestem, sprzątam za ciebie. #1.70 #2.10 Cóż za życie."
+hubert_door_cleared_bummed_4_1,A dead end here. #1.30 #1.70 Just like my existence.,Ślepy zaułek. #1.30 #1.70 Zupełnie jak moje istnienie.
+hubert_door_cleared_bummed_5_1,Another dead end. #1.30 #1.80 Just like my existence.,Kolejny ślepy zaułek. #1.30 #1.80 Zupełnie jak moje istnienie.
+hubert_door_cleared_angry_1_1,Hrmpf...,Hmpf...
+hubert_door_cleared_angry_2_1,Hrmpf...,Hmpf...
+hubert_door_cleared_angry_3_1,Hrmpf...,Hmpf...
+hubert_door_cleared_angry_4_1,Hrmpf...,Hmpf...
+hubert_door_cleared_angry_5_1,Hrmpf...,Hmpf...
+hubert_door_cleared_angry_6_1,Hrmpf...,Hmpf...
+hubert_door_cleared_angry_7_1,Hrmpf...,Hmpf...
+hubert_door_exit_perfect_1_1,I think I found the way to the next floor. #2.00 Yay!,Chyba znalazłem drogę na kolejne piętro. #2.00 Hurra!
+hubert_door_exit_perfect_2_1,"Come, friend. #0.70 I think this is the right door here.","Chodź, przyjacielu. #0.70 Chyba to są te właściwe drzwi."
+hubert_door_exit_perfect_3_1,"Come, friend. #0.70 I think this is the right door here.","Chodź, przyjacielu. #0.70 Chyba to są te właściwe drzwi."
+hubert_door_exit_great_1_1,"Hey, this room leads to the next floor!","Hej, ten pokój prowadzi na kolejne piętro!"
+hubert_door_exit_great_2_1,"Hey, this room leads to the next floor! #2.50 #3.00 I did it.","Hej, ten pokój prowadzi na kolejne piętro! #2.50 #3.00 Udało mi się."
+hubert_door_exit_great_3_1,"Hey, this room leads to the next floor!","Hej, ten pokój prowadzi na kolejne piętro!"
+hubert_door_exit_great_4_1,Alright! #0.80 This is the way further down.,No dobrze! #0.80 To jest droga w dół.
+hubert_door_exit_good_1_1,I think this room leads to the next floor.,Chyba ten pokój prowadzi na kolejne piętro.
+hubert_door_exit_good_2_1,I think this room leads to the next floor.,Chyba ten pokój prowadzi na kolejne piętro.
+hubert_door_exit_good_3_1,"Okay, if we want to move on, #1.60 this is the way.","No dobra, jeśli chcemy iść dalej, #1.60 to jest droga."
+hubert_door_exit_good_4_1,"Okay, if we want to move on, #1.70 this is the way.","No dobra, jeśli chcemy iść dalej, #1.70 to jest droga."
+hubert_door_exit_medium_1_1,"Come on into this room, #1.00 let's leave this floor behind.","Chodź do tego pokoju, #1.00 zostawmy to piętro za sobą."
+hubert_door_exit_medium_2_1,That was harrowing. #1.40 But at least I found the right way.,To było przerażające. #1.40 Ale przynajmniej znalazłem właściwą drogę.
+hubert_door_exit_medium_3_1,That was harrowing. #1.40 #2.00 But at least I found the right way.,To było przerażające. #1.40 #2.00 Ale przynajmniej znalazłem właściwą drogę.
+hubert_door_exit_bummed_1_1,Maybe this room will lead to better times...,Może ten pokój doprowadzi do lepszych czasów...
+hubert_door_exit_bummed_2_1,Maybe this room will lead to better times...,Może ten pokój doprowadzi do lepszych czasów...
+hubert_door_exit_bummed_3_1,It's only a small reward #1.50 that my struggle wasn't in vain.,"To tylko mała nagroda za to, #1.50 że mój trud nie poszedł na marne."
+hubert_door_exit_bummed_4_1,If we really want to continue this... #2.10 we should try this way.,Jeśli naprawdę chcemy to kontynuować... #2.10 powinniśmy spróbować tędy.
+hubert_door_exit_bummed_5_1,If we have to continue this... #1.90 we should try this way.,Jeśli musimy to kontynuować... #1.90 powinniśmy spróbować tędy.
+hubert_door_loot_perfect_1_1,"Alright, check this out.","No dobrze, spójrz na to."
+hubert_door_loot_perfect_2_1,"Alright, check this out.","No dobrze, spójrz na to."
+hubert_door_loot_perfect_3_1,Here's a present for my best friend!,Oto prezent dla mojego najlepszego przyjaciela!
+hubert_door_loot_perfect_4_1,Here's a present for my best friend!,Oto prezent dla mojego najlepszego przyjaciela!
+hubert_door_loot_perfect_5_1,"Okay, this room was nuts! #1.90 #2.40 Look.","No dobra, ten pokój był szalony! #1.90 #2.40 Patrz."
+hubert_door_loot_great_1_1,Look at this. #1.00 Seems precious...,Spójrz na to. #1.00 Wygląda cennie...
+hubert_door_loot_great_2_1,Look at this. #1.50 Seems precious...,Spójrz na to. #1.50 Wygląda cennie...
+hubert_door_loot_great_3_1,It's chest day again!,Znowu dzień treningu skrzyni!
+hubert_door_loot_great_4_1,It's chest day again!,Znowu dzień treningu skrzyni!
+hubert_door_loot_great_5_1,Can't do enough chest workout.,Nigdy dość treningu skrzyni.
+hubert_door_loot_great_6_1,Can't do enough chest workout.,Nigdy dość treningu skrzyni.
+hubert_door_loot_good_1_1,"Ok, I cleared the room forya. #2.00 I'll just leave this here. #4.00 Enjoy.","Okej, oczyściłem dla ciebie pokój. #2.00 Po prostu to tu zostawię. #4.00 Ciesz się."
+hubert_door_loot_good_2_1,"Ok, cleared the room forya. #2.00 I'll just leave this here. #3.00 Enjoy.","Okej, oczyściłem dla ciebie pokój. #2.00 Po prostu to tu zostawię. #3.00 Ciesz się."
+hubert_door_loot_good_3_1,Here's what I got from the room. #1.60 You're welcome.,Oto co zdobyłem w tym pokoju. #1.60 Nie ma za co.
+hubert_door_loot_good_4_1,Here's what I got from the room. #1.60 You're welcome.,Oto co zdobyłem w tym pokoju. #1.60 Nie ma za co.
+hubert_door_loot_good_5_1,Here's what I found in the room. #1.40 #2.00 You're welcome.,Oto co znalazłem w tym pokoju. #1.40 #2.00 Nie ma za co.
+hubert_door_loot_medium_1_1,Check this out: #1.70 Loot!,Spójrz na to: #1.70 Łup!
+hubert_door_loot_medium_2_1,Found some loot.,Znalazłem trochę łupu.
+hubert_door_loot_medium_3_1,"Check this out, some loot.","Spójrz na to, trochę łupu."
+hubert_door_loot_medium_4_1,Et voilà!,Et voilà!
+hubert_door_loot_bummed_1_1,Tadaaa!,Tadaaa!
+hubert_door_loot_bummed_2_1,What am I even collecting this stuff for?,Po co ja w ogóle zbieram te rzeczy?
+hubert_door_loot_bummed_3_1,What do I collect all this stuff for?,Po co zbieram to wszystko?
+hubert_door_loot_bummed_4_1,Why am I collecting all this stuff?,Dlaczego zbieram to wszystko?
+hubert_door_loot_angry_1_1,This place is a dump!,To miejsce to śmietnik!
+hubert_door_loot_angry_2_1,More junk!,Więcej złomu!
+hubert_door_loot_angry_3_1,"Oh great, more junk!","O super, więcej złomu!"
+hubert_door_loot_angry_4_1,Even more junk!,Jeszcze więcej złomu!
+hubert_door_boring_perfect_1_1,This room is lame as shell.,Ten pokój jest nudny jak jasna skorupa!
+hubert_door_boring_perfect_2_1,This room is lame as shell.,Ten pokój jest nudny jak jasna skorupa!
+hubert_door_boring_perfect_3_1,Gotta watch out here. #1.50 'cause this room is SO boring.,Trzeba tu uważać. #1.50 Bo ten pokój jest TAK nudny.
+hubert_door_boring_perfect_4_1,"Gotta watch out here. #1.50 This room is boooooring, haha.","Trzeba tu uważać. #1.50 Ten pokój jest nuuuudny, haha."
+hubert_door_boring_great_1_1,There's only akward silence in this room here...,W tym pokoju panuje tylko niezręczna cisza...
+hubert_door_boring_great_2_1,There's only akward silence in this room here...,W tym pokoju panuje tylko niezręczna cisza...
+hubert_door_boring_great_3_1,This room is pretty dull.,Ten pokój jest dość nudny.
+hubert_door_boring_great_4_1,This room is kinda boring.,Ten pokój jest raczej nudny.
+hubert_door_boring_great_5_1,This room stinks.,Ten pokój śmierdzi.
+hubert_door_boring_great_6_1,This room is pretty dull.,Ten pokój jest dość nudny.
+hubert_door_boring_good_1_1,What a waste. #0.80 There's nothing in there.,Co za strata. #0.80 Nic tam nie ma.
+hubert_door_boring_good_2_1,It wasn't really necessary to go in there.,Wcale nie trzeba było tam wchodzić.
+hubert_door_boring_medium_1_1,This room's tedious. #1.75 You might just die out of boredom in there.,Ten pokój jest żmudny. #1.75 Można tam umrzeć z nudów.
+hubert_door_boring_medium_2_1,This room's tedious. #2.00 You might just die out of boredom in there.,Ten pokój jest żmudny. #2.00 Można tam umrzeć z nudów.
+hubert_door_boring_medium_3_1,Seems like someone already went in there...,"Wygląda na to, że ktoś już tam wszedł..."
+hubert_door_boring_medium_4_1,Seems like someone already went in there...,"Wygląda na to, że ktoś już tam wszedł..."
+hubert_door_boring_bummed_1_1,That was just a lame room.,To był po prostu marny pokój.
+hubert_door_boring_bummed_2_1,Nothing in there. #1.00 #1.50 Just like your heart.,Nic tam nie ma. #1.00 #1.50 Zupełnie jak w twoim sercu.
+hubert_door_boring_bummed_3_1,Nothing in there.#0.80 #1.40 Just like your soul.,Nic tam nie ma.#0.80 #1.40 Zupełnie jak w twojej duszy.
+hubert_door_boring_bummed_4_1,Nothing in there. #1.00 #1.50 Just like your heart.,Nic tam nie ma. #1.00 #1.50 Zupełnie jak w twoim sercu.
+hubert_door_boring_angry_1_1,Oh jeez!,O rany!
+hubert_door_boring_angry_2_1,Oh jeez!,O rany!
+hubert_door_boring_angry_3_1,"Just like you, #1.10 this room sucks!","Zupełnie jak ty, #1.10 ten pokój jest do bani!"
+hubert_door_obstacle_perfect_1_1,It's hard for me to disappoint you. #1.80 But I can't do much in there.,Ciężko mi cię zawieść. #1.80 Ale niewiele mogę tam zdziałać.
+hubert_door_obstacle_perfect_2_1,It's hard for me to disappoint you. #1.60 But I can't do much here.,Ciężko mi cię zawieść. #1.60 Ale niewiele mogę tu zdziałać.
+hubert_door_obstacle_perfect_3_1,"Man, I'm real sorry, #1.70 but there's nothing I can do in there.","Ej, naprawdę mi przykro, #1.70 ale nic nie mogę tam zrobić."
+hubert_door_obstacle_perfect_4_1,"Man, I'm so sorry, #1.30 but there's nothing I can do in there.","Ej, tak mi przykro, #1.30 ale nic nie mogę tam zrobić."
+hubert_door_obstacle_great_1_1,I can't really do anything in there.,Naprawdę nic tam nie mogę zdziałać.
+hubert_door_obstacle_great_2_1,I'm a bit puzzled by this room...,Ten pokój trochę mnie zbija z tropu...
+hubert_door_obstacle_good_1_1,I can't help you with this room...,Nie mogę ci pomóc z tym pokojem...
+hubert_door_obstacle_good_2_1,"Uh, I can't help you with this room...","Uh, nie mogę ci pomóc z tym pokojem..."
+hubert_door_obstacle_good_3_1,This room exceeds the mental capacities of my tortoise brain.,Ten pokój przerasta możliwości umysłowe mojego żółwiego mózgu.
+hubert_door_obstacle_good_4_1,This room exceeds the mental capacities of my tortoise brain.,Ten pokój przerasta możliwości umysłowe mojego żółwiego mózgu.
+hubert_door_obstacle_medium_1_1,I don't know how I can help you with this room...,"Nie wiem, jak mógłbym ci pomóc z tym pokojem..."
+hubert_door_obstacle_medium_2_1,"Nothing in there for me to do. #1.80 Gotta go in yourself, I suppose.",Nie mam tam nic do roboty. #1.80 Chyba musisz wejść sam.
+hubert_door_obstacle_medium_3_1,"Nothing in there for me to do. #1.80 Gotta go in yourself, I suppose.",Nie mam tam nic do roboty. #1.80 Chyba musisz wejść sam.
+hubert_door_obstacle_bummed_1_1,"I didn't expect much in there, #2.00 and I didn't get much.","Nie spodziewałem się tam wiele, #2.00 i wiele nie dostałem."
+hubert_door_obstacle_bummed_2_1,"I didn't expect much in there, #2.00 and I didn't get much.","Nie spodziewałem się tam wiele, #2.00 i wiele nie dostałem."
+hubert_door_obstacle_bummed_3_1,Nothing to do in there for me. #2.20 What a waste...,Nie mam tam nic do roboty. #2.20 Co za strata...
+hubert_door_obstacle_bummed_4_1,I can't do nothin' in there! #1.50 #2.10 What a waste...,Nic tam nie mogę zrobić! #1.50 #2.10 Co za strata...
+hubert_door_obstacle_angry_1_1,Hrmmpf.,Hmpf.
+hubert_door_obstacle_angry_2_1,Hrmmpf.,Hmpf.
+hubert_door_obstacle_angry_3_1,Hrmmpf.,Hmpf.
+hubert_door_obstacle_angry_4_1,Ahh.,Aach.
+hubert_door_obstacle_angry_5_1,Ahh.,Aach.
+hubert_door_obstacle_angry_6_1,Ahh.,Aach.
+hubert_door_cauldron_1_1,There's some strange brew cooking in this room.,W tym pokoju gotuje się jakiś dziwny wywar.
+hubert_door_cauldron_2_1,I think I found a scary witch room...,Chyba znalazłem straszny pokój czarownic...
+hubert_door_cauldron_3_1,I think I found a scary witch room...,Chyba znalazłem straszny pokój czarownic...
+hubert_door_cauldron_4_1,I think there's a kitchen of sorts in there.,Chyba jest tam coś w rodzaju kuchni.
+hubert_door_cauldron_5_1,"Ugh, some nasty ladies tried to cook me in there!","Uch, jakieś wstrętne baby próbowały mnie tam ugotować!"
+hubert_door_doom_1_1,Definitely don't go in this room!,Zdecydowanie nie wchodź do tego pokoju!
+hubert_door_doom_2_1,Definitely don't go in this room!,Zdecydowanie nie wchodź do tego pokoju!
+hubert_door_doom_3_1,This room doesn't even have a floor.,Ten pokój nie ma nawet podłogi.
+hubert_door_doom_4_1,This room doesn't even have a floor.,Ten pokój nie ma nawet podłogi.
+hubert_door_gambler_1_1,There's a monster in there #1.20 that wants to play some sort of game.,"Jest tam potwór, #1.20 który chce zagrać w jakąś grę."
+hubert_door_gambler_2_1,You can win big in there. #1.75 But I didn't want to bet my club...,Można tam wygrać kupę kasy. #1.75 Ale nie chciałem stawiać mojej maczugi...
+hubert_door_doom_1_1,Definitely don't go in this room!,Zdecydowanie nie wchodź do tego pokoju!
+hubert_door_doom_2_1,Definitely don't go in this room!,Zdecydowanie nie wchodź do tego pokoju!
+hubert_door_doom_3_1,This room doesn't even have a floor.,Ten pokój nie ma nawet podłogi.
+hubert_door_doom_4_1,This room doesn't even have a floor.,Ten pokój nie ma nawet podłogi.
+hubert_door_boring_good_1_1,"What a waste, there's nothing in there.","Co za strata, nic tam nie ma."
+hubert_door_boring_good_2_1,It wasn't really necessary to go in there.,Wcale nie trzeba było tam wchodzić.

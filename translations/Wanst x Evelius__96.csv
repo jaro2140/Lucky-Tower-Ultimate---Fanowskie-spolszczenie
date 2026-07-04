@@ -1,0 +1,225 @@
+key,en,pl
+wanst_evelius_interrupt_1_1,Hey!,Hej!
+wanst_evelius_interrupt_2_1,Ow Hey!,"Au, hej!"
+wanst_evelius_interrupt_1_2,I... I thought we're friends?,"Ja... myślałem, że jesteśmy przyjaciółmi?"
+wanst_evelius_interrupt_2_2,"Alright, I'll let you get away this time...","Dobrze, tym razem puszczę ci to płazem..."
+wanst_evelius_interrupt_3_2,Dude. You're taking it too far...,Stary. Przesadzasz...
+wanst_evelius_giveitem_start_generic_1_1,"Here, take this. #1.80 It's dangerous out there... Hehehe.","Proszę, weź to. #1.80 Tam na zewnątrz jest niebezpiecznie... Hehehe."
+wanst_evelius_giveitem_start_generic_2_1,Here weakling: #1.00 You can have this one for free.,"Masz, słabeuszu: #1.00 To możesz dostać za darmo."
+wanst_evelius_giveitem_start_generic_3_1,"Hey, congrats on being alive... #2.40 Here's a gift!","Hej, gratulacje, że żyjesz... #2.40 Masz prezent!"
+wanst_evelius_giveitem_start_generic_4_1,Hey there adventurer. #1.20 Take this with you.,"Hej, poszukiwaczu przygód. #1.20 Weź to ze sobą."
+wanst_evelius_giveitem_comeback_useful_generic_1_1,I feel like I can completely trust this stranger. #3.00 And there's nothing to worry about.,"Czuję, że mogę całkowicie zaufać temu nieznajomemu. #3.00 I nie ma się czym martwić."
+wanst_evelius_giveitem_comeback_useful_generic_2_1,"Man, I'm a lucky guy for sure!","Rany, ale ze mnie szczęściarz!"
+wanst_evelius_giveitem_comeback_useful_generic_3_1,Man! #0.80 I'm a lucky guy for sure!,Rany! #0.80 Ale ze mnie szczęściarz!
+wanst_evelius_giveitem_comeback_useful_generic_4_1,"Nice, this might come in handy. #2.50 Thanks, creep!","Nieźle, to może się przydać. #2.50 Dzięki, dziwaku!"
+wanst_evelius_giveitem_comeback_useful_generic_5_1,#1.00 There's a sudden stench of sulfur in the air. #3.50 I hope that wasn't me...,"#1.00 W powietrzu nagle czuć smród siarki. #3.50 Mam nadzieję, że to nie ja..."
+wanst_evelius_giveitem_comeback_useful_generic_6_1,What a weird guy... #1.70 But he seems nice. #3.00 And trustworthy!,Co za dziwny gość... #1.70 Ale wydaje się miły. #3.00 I godny zaufania!
+wanst_evelius_giveitem_comeback_useful_generic_7_1,"Uhm, where did he go? #2.00 Oh well. #2.80 Free stuff is free stuff!","Uhm, gdzie on poszedł? #2.00 A, nieważne. #2.80 Darmowe rzeczy to darmowe rzeczy!"
+wanst_evelius_giveitem_comeback_silly_generic_1_1,Finally! Something useful!,Wreszcie! Coś przydatnego!
+wanst_evelius_giveitem_comeback_silly_generic_2_1,Finally! Something useful!,Wreszcie! Coś przydatnego!
+wanst_evelius_giveitem_comeback_silly_generic_3_1,Finally!,Wreszcie!
+wanst_evelius_giveitem_comeback_silly_generic_4_1,Is this a metaphor?,Czy to metafora?
+wanst_evelius_giveitem_comeback_silly_generic_5_1,Is this a... puzzle?,Czy to... zagadka?
+wanst_evelius_giveitem_comeback_silly_generic_6_1,"My mom always told me to say thanks. #2.00 So, thanks, creepy weirdo!","Mama zawsze mówiła, żeby dziękować. #2.00 Więc dzięki, upiorny dziwaku!"
+wanst_evelius_giveitem_comeback_silly_generic_7_1,That hooded guy must've mistaken me for a junk collector.,Ten zakapturzony typ musiał pomylić mnie ze zbieraczem śmieci.
+wanst_evelius_giveitem_comeback_silly_generic_8_1,This is the kind of support every hero needs!,"Oto wsparcie, którego potrzebuje każdy bohater!"
+wanst_evelius_smalltalk_01_start_1_1,Hey adventurer! #1.00 What do you think about the weather today?,"Hej, poszukiwaczu przygód! #1.00 Co sądzisz o dzisiejszej pogodzie?"
+wanst_evelius_smalltalk_01_start_2_1,Hey adventurer! #1.10 How about that weather today?,"Hej, poszukiwaczu przygód! #1.10 Jak tam dzisiejsza pogoda?"
+wanst_evelius_smalltalk_01_neutral_1_1,As you wish!,Jak sobie życzysz!
+wanst_evelius_smalltalk_01_neutral_2_1,Meh. #0.70 I just wanted to talk about a way out of the tower. #4.00 Nevermind!,Ech. #0.70 Chciałem tylko pogadać o wyjściu z wieży. #4.00 Nieważne!
+wanst_evelius_smalltalk_01_neutral_3_1,We will meet again...,Jeszcze się spotkamy...
+wanst_evelius_smalltalk_01_neutral_4_1,You seemed so talkative earlier.,Wcześniej wydawałeś się taki rozmowny.
+wanst_evelius_smalltalk_01_neutral_5_1,You will regret your ignorance...,Pożałujesz swojej ignorancji...
+wanst_evelius_smalltalk_01_positive_1_1,I don't mind whether it's good or bad... #3.00 I always make the best of it!,"Nie przeszkadza mi, czy jest dobra, czy zła... #3.00 Zawsze wyciągam z niej to, co najlepsze!"
+wanst_evelius_smalltalk_01_positive_1_2,That's good to hear!,Dobrze to słyszeć!
+wanst_evelius_smalltalk_01_positive_2_2,Yeah. Great.,Tak. Świetnie.
+wanst_evelius_smalltalk_01_positive_3_1,It's just the right thing for my immune system training plan.,To w sam raz do mojego planu treningu odporności.
+wanst_evelius_smalltalk_01_negative_1_1,I prefer sunny weather! #1.40 It makes my hair the shiniest.,Wolę słoneczną pogodę! #1.40 Dzięki niej moje włosy błyszczą najmocniej.
+wanst_evelius_smalltalk_01_negative_1_2,Ugh! I've never even seen the sun.,Ugh! Nigdy nawet nie widziałem słońca.
+wanst_evelius_smalltalk_01_nude_positive_1_1,I love the fresh breeze around my luxurious body.,Uwielbiam świeży wietrzyk wokół mojego luksusowego ciała.
+wanst_evelius_smalltalk_01_nude_positive_1_2,Ugh! That was too much information!,Ugh! To było za dużo informacji!
+wanst_evelius_smalltalk_01_nude_positive_2_1,I love the fresh breeze around my luxurious body.,Uwielbiam świeży wietrzyk wokół mojego luksusowego ciała.
+wanst_evelius_smalltalk_01_nude_negative_1_1,It's freezing cold!,Jest lodowato!
+wanst_evelius_smalltalk_01_nude_negative_1_2,"Then take this, warm-blooded creature!","To weź to, istoto stałocieplna!"
+wanst_evelius_smalltalk_01_nude_negative_2_2,"Then take this, you warm-blooded ape!","To weź to, ciepłokrwista małpo!"
+wanst_evelius_smalltalk_02_start_1_1,"Good day, heroic knight.","Dobrego dnia, bohaterski rycerzu."
+wanst_evelius_smalltalk_02_start_1_2,Want me to tell you which is the right door on this floor?,"Chcesz, żebym powiedział ci, które drzwi na tym piętrze są właściwe?"
+wanst_evelius_smalltalk_02_positive_1_1,Sure!,Jasne!
+wanst_evelius_smalltalk_02_positive_1_2,"Well... #1.00 It's the one with the wooden frame and a knob! #4.50 Hahaha! Good luck, sucker!","Cóż... #1.00 To te z drewnianą ramą i gałką! #4.50 Hahaha! Powodzenia, frajerze!"
+wanst_evelius_smalltalk_02_negative_1_1,No way! #1.30 A true hero loves the surprise.,Nie ma mowy! #1.30 Prawdziwy bohater kocha niespodzianki.
+wanst_evelius_smalltalk_02_negative_first_1_1,"Ah damn! #1.50 I was about to make a joke and not tell you that it's the first one... #5.00 Aach well, nevermind.","A niech to! #1.50 Właśnie miałem zażartować i nie mówić ci, że to pierwsze... #5.00 Ech, nieważne."
+wanst_evelius_smalltalk_02_negative_second_1_1,"Ah damn! #2.00 I was about to make a joke and not tell you that it's the second one. #5.50 Oh well, nevermind.","A niech to! #2.00 Właśnie miałem zażartować i nie mówić ci, że to drugie. #5.50 No cóż, nieważne."
+wanst_evelius_smalltalk_02_negative_third_1_1,Ah damn! #1.30 I was about to make a joke and not tell you that it's totally the third one. #5.00 Ugh nevermind. Damnit.,"A niech to! #1.30 Właśnie miałem zażartować i nie mówić ci, że to zdecydowanie trzecie. #5.00 Ugh, nieważne. Szlag."
+wanst_evelius_smalltalk_03_start_1_1,Hey fella. #1.50 How about you tell me a joke?,"Hej, kolego. #1.50 Może opowiesz mi żart?"
+wanst_evelius_smalltalk_03_neutral_6_1,"Yeah... #0.50 Way to help an old friend get back on track, huh?","Taak... #0.50 Niezły sposób, żeby pomóc staremu przyjacielowi wrócić na tory, co?"
+wanst_evelius_smalltalk_03_neutral_7_1,I thought you were a fun guy!,"Myślałem, że jesteś zabawnym typem!"
+wanst_evelius_smalltalk_03_positive_1_1,What did the robbers do to the beer? #2.50 They mugged it!,Co rabusie zrobili z piwem? #2.50 Ukuflowali je!
+wanst_evelius_smalltalk_03_positive_1_2,I don't get it.,Nie rozumiem.
+wanst_evelius_smalltalk_03_positive_2_1,What has two butts and kills people? #2.70 An ass-ass-in!,Co ma dwa tyłki i zabija ludzi? #2.70 Zabójca z zadu!
+wanst_evelius_smalltalk_03_positive_3_1,"Mmm, let's see... #2.00 Uh, why are tower jokes so good? #4.50 Because they work on so many different levels!","Mmm, zobaczmy... #2.00 Eee, czemu żarty o wieży są takie dobre? #4.50 Bo działają na wielu poziomach!"
+wanst_evelius_smalltalk_03_delayed_1_1,Aaah now I get it! #1.80 So funny!,"Aaach, teraz rozumiem! #1.80 Ale śmieszne!"
+wanst_evelius_smalltalk_03_negative_1_1,Do I look like a joke to you? #2.00 Can't you see the seriousness of my mission?,Czy ja wyglądam ci na żart? #2.00 Nie widzisz powagi mojej misji?
+wanst_evelius_smalltalk_03_negative_1_2,"Hahaha! #4.50 Okay, okay. That one made me laugh. #7.50 Thanks, haha!","Hahaha! #4.50 Dobra, dobra. Ten mnie rozbawił. #7.50 Dzięki, haha!"
+wanst_evelius_smalltalk_03_negative_2_1,I'm sorry. #1.50 A noble knight like me doesn't venture into the inferior realms of humor... #6.00 I recommend you seek fulfillment in the sincerity of life.,Przykro mi. #1.50 Szlachetny rycerz taki jak ja nie zapuszcza się w niższe rejony humoru... #6.00 Polecam szukać spełnienia w szczerości życia.
+wanst_evelius_smalltalk_03_negative_3_1,"I'm sorry. #1.00 A noble knight like me doesn't venture into the inferior realms of ""humor"". #8.00I recommend you seek fulfillment in the sincerity of life.","Przykro mi. #1.00 Szlachetny rycerz taki jak ja nie zapuszcza się w niższe rejony ""humoru"". #8.00Polecam szukać spełnienia w szczerości życia."
+wanst_evelius_smalltalk_04_start_1_1,"Excuse me, Sir... #1.00 We're doing a survey on how folks enjoy their stay in the tower. #4.20 How do you like it here?","Przepraszam, sir... #1.00 Prowadzimy ankietę o tym, jak ludzie oceniają pobyt w wieży. #4.20 Jak ci się tu podoba?"
+wanst_evelius_smalltalk_04_neutral_1_1,"I'll write down, uhm... #1.50 Hates it here. #2.50 Ah, very well!","Zapiszę, uhm... #1.50 Nienawidzi tego miejsca. #2.50 Ach, bardzo dobrze!"
+wanst_evelius_smalltalk_04_positive_1_1,This is my favorite adventure so far!,To moja ulubiona przygoda jak dotąd!
+wanst_evelius_smalltalk_04_positive_1_2,"Don't forget: #1.00 You're gonna die at the end, though. #3.00 Okay?",Nie zapomnij: #1.00 Na końcu i tak umrzesz. #3.00 Dobrze?
+wanst_evelius_smalltalk_04_positive_2_1,This is the most handsome tower #2.50 I've ever walked down!,"To najprzystojniejsza wieża, #2.50 po jakiej kiedykolwiek schodziłem!"
+wanst_evelius_smalltalk_04_negative_1_1,"Not really my kind of tower, to be honest.","Szczerze mówiąc, to nie mój typ wieży."
+wanst_evelius_smalltalk_04_negative_1_2,"Oh, I'm sorry. #1.70 I worked so hard to make it appeal to anybody...","Och, przykro mi. #1.70 Tak ciężko pracowałem, żeby spodobała się każdemu..."
+wanst_evelius_smalltalk_04_negative_1_3,"There's parts I like. #2.00 I mean, it has nice walls.","Są części, które lubię. #2.00 To znaczy, ma ładne ściany."
+wanst_evelius_smalltalk_04_negative_1_4,Mmmmh. #1.00 I had those done by a contractor.,Mmmmh. #1.00 To robili mi wykonawcy.
+wanst_evelius_smalltalk_04_negative_2_1,The exits seem to be missing...,Wyjść jakby brakuje...
+wanst_evelius_smalltalk_04_negative_3_1,"The service, frankly, is rather agressive.","Obsługa, szczerze mówiąc, jest dość agresywna."
+wanst_evelius_smalltalk_04_negative_4_2,Well at least I have been enjoying your stay here... #4.50 Hehehe.,"Cóż, przynajmniej ja cieszyłem się twoim pobytem tutaj... #4.50 Hehehe."
+wanst_evelius_smalltalk_05_start_1_1,"Hey, aren't you Von Wanst? #2.50 The famous hero?","Hej, czy ty nie jesteś Von Wanst? #2.50 Ten słynny bohater?"
+wanst_evelius_smalltalk_05_positive_1_1,"Why, yes my scaly friend. #2.00 Good to know that my reputation always precedes me.","Ależ tak, mój łuskowaty przyjacielu. #2.00 Dobrze wiedzieć, że moja reputacja zawsze mnie wyprzedza."
+wanst_evelius_smalltalk_05_positive_1_2,"Interesting... #2.00 I like a great trophy in my collection, I mean a... #6.00 ...good... coffee in my... injection.","Interesujące... #2.00 Lubię świetne trofea w kolekcji, to znaczy... #6.00 ...dobrą... kawę w iniekcji."
+wanst_evelius_smalltalk_05_positive_1_3,What a funny guy...,Co za zabawny gość...
+wanst_evelius_smalltalk_05_negative_1_1,"No, I'm Hans Heimlich, the... #3.00 unknown guy.","Nie, jestem Hans Heimlich, ten... #3.00 nieznany gość."
+wanst_evelius_smalltalk_05_negative_1_2,"Indeed. #1.00 Never heard of him. #2.00 Well, get on with it then!",Istotnie. #1.00 Nigdy o nim nie słyszałem. #2.00 No to ruszaj dalej!
+wanst_evelius_task_01_start_1_1,Hey there! #0.80 Wanna play a lil' game? #2.40 Go fetch!,Hej tam! #0.80 Chcesz zagrać w małą grę? #2.40 Aport!
+wanst_evelius_task_01_leave_1_1,"I see you're not that into fun, huh? #2.20 Next time it won't be such an easy serve!","Widzę, że nie kręci cię zabawa, co? #2.20 Następnym razem nie będzie tak łatwej zagrywki!"
+wanst_evelius_task_01_drop_1_1,"Awww, who's my little shnucky wuckums?","Awww, kto jest moim małym słodziaczkiem?"
+wanst_evelius_task_01_drop_2_1,Whooo's a good boy?,Ktooo jest grzecznym chłopcem?
+wanst_evelius_task_01_drop_3_1,You make for such an excellent little pet!,Byłby z ciebie znakomity mały zwierzak!
+wanst_evelius_task_01_drop_contd_1_1,Who wants a treat?,Kto chce smakołyk?
+wanst_evelius_task_01_drop_contd_2_1,"Here, have this treat.","Proszę, masz smakołyk."
+wanst_evelius_task_02_start_1_1,Congrats on making it this far. #3.00 Let's drink to the occasion.,"Gratulacje, że dotarłeś tak daleko. #3.00 Wypijmy z tej okazji."
+wanst_evelius_task_02_neutral_6_1,"Okay, way to be thankful there. #2.50 Let's see how much further you make it from here...","Dobra, niezła wdzięczność. #2.50 Zobaczmy, jak daleko zajdziesz od teraz..."
+wanst_evelius_task_02_positive_1_1,Drinks from creepy strangers? #1.70 Count me in!,Napoje od upiornych nieznajomych? #1.70 Wchodzę w to!
+wanst_evelius_task_02_positive_1_2,Cha-ching!,Ka-czing!
+wanst_evelius_task_02_positive_2_1,That's music in my ears!,To muzyka dla moich uszu!
+wanst_evelius_task_02_negative_1_1,I don't drink those inferior imports.,Nie piję tych gorszych importów.
+wanst_evelius_task_02_negative_1_2,Thanks for pooping the party!,Dzięki za zepsucie imprezy!
+wanst_evelius_task_02_negative_2_1,"Sorry, I don't drink.","Wybacz, nie piję."
+wanst_evelius_task_02_drink_1_1,"Tasty, isn't it? Hehehe.","Smaczne, prawda? Hehehe."
+wanst_evelius_task_02_leave_1_1,You thief! #1.00 Stealing party supplies ain't the way of a knight!,Ty złodzieju! #1.00 Kradzież zapasów imprezowych nie jest drogą rycerza!
+wanst_evelius_task_02_break_1_1,You clumsy idiot! #1.80 That was a really good vintage!,Ty niezdarny idioto! #1.80 To był naprawdę dobry rocznik!
+wanst_evelius_trick_01_start_1_1,Hey! Guess what number I'm thinking of.,"Hej! Zgadnij, o jakiej liczbie myślę."
+wanst_evelius_trick_01_neutral_1_1,"Uh, I don't know man.","Eee, nie wiem, stary."
+wanst_evelius_trick_01_neutral_1_2,"Ah, bummer. #1.00 Me neither. #2.00 Well, I was hoping you could help.","Ach, szkoda. #1.00 Ja też nie. #2.00 Liczyłem, że pomożesz."
+wanst_evelius_trick_01_neutral_1_3,"Uh, sorry pal.","Eee, przykro mi, kolego."
+wanst_evelius_trick_01_positive_1_1,"Err, uhm. #1.50 Well, I'm thinking of one, because that's what you are for me. #5.00 Number one.","Err, uhm. #1.50 Cóż, myślę o jedynce, bo tym właśnie dla mnie jesteś. #5.00 Numerem jeden."
+wanst_evelius_trick_01_positive_1_2,Aww. #1.00 Nice try. #2.30 Appreciate the effort.,Aww. #1.00 Niezła próba. #2.30 Doceniam wysiłek.
+wanst_evelius_trick_01_negative_1_1,"I don't care, I'm just thinking of... #1.60 pie.","Nie obchodzi mnie to, myślę tylko o... #1.60 cieście."
+wanst_evelius_trick_01_negative_1_2,Ugh. #0.80 You're here to play along... #2.00 Not to be a smartie.,"Ugh. #0.80 Jesteś tu po to, żeby grać ze mną... #2.00 Nie żeby się wymądrzać."
+wanst_evelius_trick_02_start_1_1,Hey! Can you tell me what your weapon is made of?,"Hej! Powiesz mi, z czego jest twoja broń?"
+wanst_evelius_trick_02_neutral_1_1,Just say it if you don't know.,"Po prostu powiedz, jeśli nie wiesz."
+wanst_evelius_trick_02_positive_1_1,Sure. It's made of tasty steel!,Jasne. Jest z pysznej stali!
+wanst_evelius_trick_02_positive_1_2,Oh rad! #1.50 I love tasty steel!,"O, ekstra! #1.50 Uwielbiam pyszną stal!"
+wanst_evelius_trick_02_positive_1_3,"Uh, uhmmm. #2.00 Enjoy your meal.","Eee, uuum. #2.00 Smacznego."
+wanst_evelius_trick_02_negative_1_1,I don't really know... #1.50 Maybe licorice?,Nie bardzo wiem... #1.50 Może z lukrecji?
+wanst_evelius_trick_02_negative_1_2,"Whoa yuck! #1.60 Uh, that stuff is gross! #4.00 Get going.","Whoa, fuj! #1.60 Eee, to paskudztwo! #4.00 Ruszaj."
+wanst_evelius_demanditem_start_generic_1_1,"Hey, you seem really good at taking things. #2.70 I need...","Hej, całkiem nieźle idzie ci zabieranie rzeczy. #2.70 Potrzebuję..."
+wanst_evelius_demanditem_start_generic_2_1,I'd like a gift. #1.30 Maybe...,Chciałbym prezent. #1.30 Może...
+wanst_evelius_demanditem_start_generic_3_1,There's something I always wanted...,"Jest coś, czego zawsze pragnąłem..."
+wanst_evelius_demanditem_start_bananapeel_1_1,"Uh, I'm feeling a little low on sugar. #2.50 I'd love to have a banana.","Uh, mam mało cukru. #2.50 Chętnie zjadłbym banana."
+wanst_evelius_demanditem_bananapeel_1_1,... a banana.,...banana.
+wanst_evelius_demanditem_honkhorn_1_1,... a honk horn.,...trąbki-klaksonu.
+wanst_evelius_demanditem_eye_1_1,... an eye.,...oka.
+wanst_evelius_demanditem_tooth_1_1,... a tooth.,...zęba.
+wanst_evelius_demanditem_brains_1_1,... a brain.,...mózgu.
+wanst_evelius_demanditem_chestsmall_1_1,... a chest.,...skrzyni.
+wanst_evelius_demanditem_mushroom_1_1,... a mushroom.,...grzyba.
+wanst_evelius_demanditem_rat_1_1,... a rat.,...szczura.
+wanst_evelius_demanditem_pumpkin_1_1,... a pumpkin.,...dyni.
+wanst_evelius_demanditem_wrapup_1_1,Go fetch one for me and I'll pick it up downstairs. #3.50 Ciao!,"Przynieś mi jeden, a odbiorę go na dole. #3.50 Ciao!"
+wanst_evelius_demanditem_wrapup_2_1,Would you be a dear and get one for me? #2.50 I'll meet you on the next floor.,Będziesz kochany i mi przyniesiesz? #2.50 Spotkamy się na następnym piętrze.
+wanst_evelius_demanditem_wrapup_3_1,Can you bring me one? #1.20 I'll be waiting for you downstairs.,Możesz mi jeden przynieść? #1.20 Będę czekał na dole.
+wanst_evelius_demanditem_correct_generic_1_1,"Ah yes! #1.20 I need this for my experiments. #3.50 Hand it over, limpwhistle!","Ach tak! #1.20 Potrzebuję tego do eksperymentów. #3.50 Oddawaj, flakogwizdku!"
+wanst_evelius_demanditem_correct_generic_2_1,I see you have what I need...,"Widzę, że masz to, czego potrzebuję..."
+wanst_evelius_demanditem_correct_bananapeel_1_1,"Hey idiot. #1.50 Did I say to bring me a used banana? #3.50 Ah, I guess I'll slurp the remains out of this peel. #6.50 Thanks for trying.","Hej, idioto. #1.50 Czy mówiłem, żebyś przyniósł mi używanego banana? #3.50 Ach, chyba wyssę resztki z tej skórki. #6.50 Dzięki za starania."
+wanst_evelius_demanditem_correct_bananapeel_2_1,Oh wow you squished it with your smelly feet! #3.00 That's just how I love my bananas. #5.00 Thanks! #6.00,"O wow, rozgniotłeś go swoimi śmierdzącymi stopami! #3.00 Właśnie takie banany lubię najbardziej. #5.00 Dzięki! #6.00"
+wanst_evelius_demanditem_better_generic_1_1,Ah radical! #1.50 That is so generous of you. #3.00 Very flattering.,"Ach, radykalnie! #1.50 To z twojej strony bardzo hojne. #3.00 Bardzo mi schlebia."
+wanst_evelius_demanditem_wrong_generic_1_1,I see you didn't deliver... #2.50 Well well...,"Widzę, że nie dostarczyłeś... #2.50 No, no..."
+wanst_evelius_demanditem_wrong_generic_2_1,I see you didn't deliver... #2.50 Well well...,"Widzę, że nie dostarczyłeś... #2.50 No, no..."
+wanst_evelius_demanditem_drop_generic_1_1,"Here you go, pal.","Proszę, kolego."
+wanst_evelius_demanditem_drop_generic_2_1,Here you go.,Proszę.
+wanst_evelius_demanditem_drop_bananapeel_1_1,Fresh banana! #1.30 Squish squish.,"Świeży banan! #1.30 Mlask, mlask."
+wanst_evelius_demanditem_drop_wrapup_1_1,"Aw, thanks! #1.50 What a good boy. #3.00 Bark bark!","Och, dzięki! #1.50 Co za grzeczny chłopiec. #3.00 Hau, hau!"
+wanst_evelius_demanditem_drop_wrapup_2_1,Thanks. You got it going on!,Dzięki. Masz to coś!
+wanst_evelius_demanditem_drop_fixed_1_1,You're welcome. #1.00 Enoy your toy.,Nie ma za co. #1.00 Baw się dobrze zabawką.
+wanst_evelius_demanditem_drop_fixed_1_2,This isn't a toy. #1.50 It's business! #2.50,To nie zabawka. #1.50 To interes! #2.50
+wanst_evelius_demanditem_leave_generic_1_1,"Sorry, I can't give you that. #2.30 I need it to get outta here.","Wybacz, nie mogę ci tego dać. #2.30 Potrzebuję tego, żeby się stąd wydostać."
+wanst_evelius_demanditem_leave_generic_2_1,Actually... #1.20 I think I might need this later.,Właściwie... #1.20 Chyba może mi się to później przydać.
+wanst_evelius_demanditem_leave_generic_3_1,Sorry man. #1.00 I might need this later for... #2.50 ...something.,"Wybacz, stary. #1.00 Może mi się to później przydać do... #2.50 ...czegoś."
+wanst_evelius_demanditem_leave_generic_4_1,Sorry man. #1.20 I need this for later. #2.50 Got plans.,"Wybacz, stary. #1.20 Potrzebuję tego na później. #2.50 Mam plany."
+wanst_evelius_demanditem_leave_generic_5_1,Sorry man. #1.00 I might need this later for... #2.70...something.,"Wybacz, stary. #1.00 Może mi się to później przydać do... #2.70...czegoś."
+wanst_evelius_demanditem_leave_bananapeel_1_1,No! #1.00 This banana and I have been through so much already. #4.20 You can't tear us apart now!,Nie! #1.00 Ten banan i ja tyle już razem przeszliśmy. #4.20 Nie możesz nas teraz rozdzielić!
+wanst_evelius_demanditem_leave_bananapeel_1_2,"Ahhh, okay. #1.40 We're choosing the tough route I see...","Aaa, dobrze. #1.40 Widzę, że wybieramy trudną drogę..."
+wanst_evelius_demanditem_leave_wrapup_1_1,"Teasing me and leaving me like this? #2.30 Tough stuff, my man!","Drażnisz mnie i tak zostawiasz? #2.30 Twarda sprawa, człowieku!"
+wanst_evelius_demanditem_leave_wrapup_2_1,You just gonna tease me with it? #1.80 You monster!,Będziesz mnie tylko tym drażnił? #1.80 Ty potworze!
+wanst_evelius_demanditem_leave_wrapup_3_1,Hey buddy. #0.80 Let's see where all that greed gets you.,"Hej, kumplu. #0.80 Zobaczmy, dokąd zaprowadzi cię ta chciwość."
+wanst_evelius_demanditem_leave_wrapup_4_1,Let's see where all that greed gets you.,"Zobaczmy, dokąd zaprowadzi cię ta chciwość."
+wanst_evelius_demanditem_leave_wrapup_5_1,Alright. #2.50 Let's see how that goes...,"Dobrze. #2.50 Zobaczymy, jak to pójdzie..."
+wanst_evelius_demanditem_leave_wrapup_6_1,This is very evil. #2.80 And you will definitely regret that.,To bardzo złe. #2.80 I na pewno tego pożałujesz.
+wanst_evelius_offering_armor_generic_1_1,Hand over your armor. #1.80 I'm sure you'll do great without it anyways.,"Oddaj zbroję. #1.80 Jestem pewien, że i tak świetnie sobie bez niej poradzisz."
+wanst_evelius_offering_helmet_generic_1_1,Give me your hat!,Oddaj mi kapelusz!
+wanst_evelius_offering_companion_generic_1_1,Going through the tower as a team is kindasorta considered cheating. #4.50 Hand over your best buddy and let's see how you perform alone. #6.50 Hehehe.,"Przechodzenie przez wieżę drużyną jest tak jakby uznawane za oszustwo. #4.50 Oddaj najlepszego kumpla i zobaczmy, jak radzisz sobie sam. #6.50 Hehehe."
+wanst_evelius_offering_item_generic_1_1,Give me that thing you're holding. #2.20 What're you carrying that around for anyways?,"Daj mi tę rzecz, którą trzymasz. #2.20 Po co ją w ogóle nosisz?"
+wanst_evelius_offering_item_generic_2_1,Give me that thingy in your hand.,Daj mi ten dynks w dłoni.
+wanst_evelius_offering_item_weapon_1_1,Give me your weapon.,Oddaj broń.
+wanst_evelius_offering_item_chest_1_1,Thank god! #1.50 You've come just in time for my chest workout. #4.30 Give me that!,Dzięki bogu! #1.50 Przybyłeś w samą porę na mój trening klatki. #4.30 Dawaj to!
+wanst_evelius_offering_item_leek_1_1,I always had the feeling there was a #2.50 leek in this tower somewhere. #4.60 Give me that!,"Zawsze czułem, że gdzieś w tej wieży #2.50 jest por. #4.60 Dawaj go!"
+wanst_evelius_offering_neutral_1_1,"What goes around, comes around, pal. #2.20 I'll teach you a lesson next time.","Co się odwlecze, to cię dopadnie, kolego. #2.20 Następnym razem dam ci nauczkę."
+wanst_evelius_offering_drop_1_1,Who needs gear when you got #1.50 these guns?,"Kto potrzebuje sprzętu, gdy ma #1.50 takie działa?"
+wanst_evelius_offering_drop_1_2,I...,Ja...
+wanst_evelius_offering_drop_2_1,"Alright, well who needs gear anyways.","No dobrze, kto w ogóle potrzebuje sprzętu."
+wanst_evelius_offering_drop_3_1,I don't need this stuff anyways.,I tak nie potrzebuję tych rzeczy.
+wanst_evelius_offering_drop_4_1,"Just make sure you return it in mint condition, ok?","Tylko dopilnuj, żebyś oddał to w idealnym stanie, ok?"
+wanst_evelius_offering_drop_5_1,Since you asked so nicely... #2.10 I will make an exception.,Skoro tak ładnie prosisz... #2.10 zrobię wyjątek.
+wanst_evelius_offering_drop_6_1,You do look like you can make good use of this.,"Wyglądasz, jakbyś mógł zrobić z tego dobry użytek."
+wanst_evelius_offering_drop_7_1,"You seem like a nice guy, so... #1.60 Why not.","Wyglądasz na miłego gościa, więc... #1.60 Czemu nie."
+wanst_evelius_offering_leave_1_1,I don't want an old man like you to carry even more of a load.,"Nie chcę, żeby staruszek taki jak ty dźwigał jeszcze większy ciężar."
+wanst_evelius_offering_leave_1_2,Hey. #0.80 I'm only 700 years young.,Hej. #0.80 Mam dopiero 700 młodych lat.
+wanst_evelius_offering_leave_2_1,Finders keepers!,Znalezione nie kradzione!
+wanst_evelius_offering_leave_2_2,I'll make sure you regret this.,"Dopilnuję, żebyś tego pożałował."
+wanst_evelius_offering_leave_3_2,"You understand that this is my tower, right?","Rozumiesz, że to moja wieża, prawda?"
+wanst_evelius_offering_leave_4_2,You will suffer for that!,Będziesz za to cierpiał!
+wanst_evelius_offering_leave_5_1,I found it. I keep it.,Znalazłem. Zatrzymuję.
+wanst_evelius_offering_leave_8_1,No way I'm giving you this pricy gear.,"Nie ma mowy, żebym oddał ci ten kosztowny sprzęt."
+wanst_evelius_poison_anti_1_1,"Dude, let's speed this up a little bit. #2.80 Here, I'll fix you up with a handy cure. #5.50 If you survive. #7.00 Hahaha.","Stary, przyspieszmy to trochę. #2.80 Proszę, załatwię ci poręczne lekarstwo. #5.50 Jeśli przeżyjesz. #7.00 Hahaha."
+wanst_evelius_poison_anti_2_1,"Let's play a little game. #2.00 I poison you... #3.20 And you have to reach the next floor to survive. #6.00 Fun, right?","Zagrajmy w małą grę. #2.00 Ja cię zatruwam... #3.20 A ty musisz dotrzeć na następne piętro, żeby przeżyć. #6.00 Zabawne, prawda?"
+wanst_evelius_poison_anti_3_1,Oh Jeez Louise! #2.00 You've been lethally poisoned. #4.50 Meet me on the next floor and I'll see if I can get you a cure.,"O Jezu słodki! #2.00 Zostałeś śmiertelnie otruty. #4.50 Spotkaj się ze mną na następnym piętrze, a zobaczę, czy znajdę lekarstwo."
+wanst_evelius_poison_anti_return_1_1,"Aaaah, what a surprise. #2.20 This calls for a celebration.","Aaaach, co za niespodzianka. #2.20 To wymaga świętowania."
+wanst_evelius_poison_anti_return_2_1,Alright. #1.00 As promised: #2.00 Here's your cure. #3.50 We don't want you to die like this. #5.70 There's far more entertaining ways down here.,"Dobrze. #1.00 Jak obiecałem: #2.00 Oto twoje lekarstwo. #3.50 Nie chcemy, żebyś umarł akurat tak. #5.70 Na dole są znacznie zabawniejsze sposoby."
+wanst_evelius_poison_anti_return_3_1,"Whoa. You seem a little run-down. #2.50 Hehe. #3.20 Here, take this.","Whoa. Wyglądasz na trochę wykończonego. #2.50 Hehe. #3.20 Masz, weź to."
+wanst_evelius_poison_1_1,You're getting quite far. #2.50 Too far! #4.00 Hehehe. #5.50 Enjoy your slow death.,Zachodzisz dość daleko. #2.50 Za daleko! #4.00 Hehehe. #5.50 Miłego powolnego umierania.
+evelius_see_transformation_1_1,"Aaah! #0.90 That kinda behavior is not allowed, pal.","Aaach! #0.90 Takie zachowanie jest niedozwolone, kolego."
+evelius_see_transformation_2_1,Haha! I can do the transforming thing too.,Haha! Ja też potrafię robić tę sztuczkę z przemianą.
+evelius_see_transformation_3_1,"Hey, only I'm allowed to do those tricks.","Hej, tylko ja mogę robić takie numery."
+wanst_evelius_attacked_1_1,Better think this over!,Lepiej to przemyśl!
+wanst_evelius_attacked_2_1,"Hey, you really want to try something?","Hej, naprawdę chcesz czegoś spróbować?"
+wanst_evelius_attacked_3_1,Are you sure you want to fight me?,Na pewno chcesz ze mną walczyć?
+wanst_evelius_attacked_4_1,"This isn't gonna work out for you, pal.","To się dla ciebie dobrze nie skończy, kolego."
+wanst_evelius_attacked_5_1,"You want to get physical, huh!?","Chcesz przejść do rękoczynów, co!?"
+wanst_evelius_spawnmonsters_1_1,Hey look! #1.10 I brought you some friends to play with. #3.50 Have fun. #5.00 Ciao!,"Hej, patrz! #1.10 Przyprowadziłem ci kilku przyjaciół do zabawy. #3.50 Baw się dobrze. #5.00 Ciao!"
+wanst_evelius_spawnmonsters_2_1,I don't see any scratches or wounds on you at all. #4.00 Looks like you could use a makeover.,"Nie widzę na tobie żadnych zadrapań ani ran. #4.00 Wygląda na to, że przydałaby ci się metamorfoza."
+wanst_evelius_spawnmonsters_comeback_1_1,Hey friends! #1.20 How are you doing? #2.30 Have we met before?,"Hej, przyjaciele! #1.20 Jak się macie? #2.30 Czy my się już znamy?"
+wanst_evelius_spawnmonsters_comeback_2_1,What an empathetic fella. #2.50 That guy always knows what I need.,"Co za empatyczny gość. #2.50 Ten typ zawsze wie, czego mi trzeba."
+wanst_evelius_spawnmonsters_comeback_3_1,What an empathetic fella. #2.50 That guy always knows what I need.,"Co za empatyczny gość. #2.50 Ten typ zawsze wie, czego mi trzeba."
+wanst_evelius_transform_start_1_1,"Listen, I can't let you go any further. #3.50 So here's the deal.#5.00 I'll turn you into a monster. #7.00 And then you come work here for me. #9.40 As you can see, many choose this life. #12.8Maybe it was, because they didn't like their boring human form. #16.1 Or, because the other option was devourment. #19.5 Anyways. What's your pick?","Słuchaj, nie mogę puścić cię dalej. #3.50 Więc umowa jest taka.#5.00 Zmienię cię w potwora. #7.00 A potem przyjdziesz tu dla mnie pracować. #9.40 Jak widzisz, wielu wybiera takie życie. #12.8Może dlatego, że nie lubili swojej nudnej ludzkiej postaci. #16.1 Albo dlatego, że drugą opcją było pożarcie. #19.5 W każdym razie. Co wybierasz?"
+wanst_evelius_transform_start_2_1,"I'm impressed that you've come this far. #2.50 I offer all worthy heroes a deal to work here in the tower. #7.00 Alternatively, I can offer you a painful death. #10.5 How do you choose?","Jestem pod wrażeniem, że zaszedłeś tak daleko. #2.50 Wszystkim godnym bohaterom oferuję pracę tutaj, w wieży. #7.00 Alternatywnie mogę zaoferować ci bolesną śmierć. #10.5 Co wybierasz?"
+wanst_evelius_transform_start_3_1,"Okay. I think we've had just about enough fun. #4.30 I usually don't let folks go further than this, but... #8.00 I'll give you one last chance. #10.5 Either become one of us, or #12.5 I'll eat you right here. #14.7 What do you think?","Dobrze. Chyba wystarczy nam już zabawy. #4.30 Zwykle nie pozwalam ludziom iść dalej niż tutaj, ale... #8.00 dam ci ostatnią szansę. #10.5 Albo zostaniesz jednym z nas, albo #12.5 zjem cię tutaj. #14.7 Co ty na to?"
+wanst_evelius_transform_neutral_1_1,Oookay! #2.00 Dinner time!,Dooobrze! #2.00 Pora obiadowa!
+wanst_evelius_transform_positive_1_1,Oh yeah! #0.90 Team Tower all the way!,O tak! #0.90 Drużyna Wieża na całego!
+wanst_evelius_transform_positive_1_2,Neat! #1.30 Any last words?,Świetnie! #1.30 Jakieś ostatnie słowa?
+wanst_evelius_transform_positive_2_1,Mmmh. Guess I'll go with the monster transformation first.,Mmmh. Chyba najpierw wybiorę przemianę w potwora.
+wanst_evelius_transform_positive_2_2,An excellent choice!,Znakomity wybór!
+wanst_evelius_transform_positive_3_1,I'm bad at these quizzes. #1.50 So I normally pick the first thingy.,Jestem słaby w takich quizach. #1.50 Więc zwykle wybieram pierwszą rzecz.
+wanst_evelius_transform_positive_3_2,The transformation?,Przemianę?
+wanst_evelius_transform_positive_3_3,"Yeah, answer A.","Tak, odpowiedź A."
+wanst_evelius_transform_positive_3_4,Let me write that down.,Zapiszę to.
+wanst_evelius_transform_negative_1_1,Do you know how much I work out to achieve this physique? #3.50 Get lost!,"Wiesz, ile ćwiczę, żeby osiągnąć taką sylwetkę? #3.50 Spadaj!"
+wanst_evelius_transform_negative_1_2,Alright. #1.20 Guess I'll have more work to chew on then. #4.10 Yumm!,"Dobrze. #1.20 Wygląda na to, że będę miał więcej pracy do przeżucia. #4.10 Mniam!"
+wanst_evelius_transform_negative_2_1,"I would rather die as a hero with an incredible haircut, #4.00 than live a life as a meagre beast.","Wolałbym umrzeć jako bohater z niesamowitą fryzurą, #4.00 niż żyć jako marna bestia."
+wanst_evelius_transform_negative_2_2,And die you will!,I umrzesz!
+wanst_evelius_transform_negative_3_1,"Sorry dude. #1.00 Thanks for the offer, but... #2.30 I like myself just as I am.","Wybacz, stary. #1.00 Dzięki za ofertę, ale... #2.30 lubię siebie takim, jaki jestem."
+wanst_evelius_transform_negative_3_2,"Yesss, you seem quite tasty.","Taaak, wyglądasz całkiem smakowicie."
+wanst_evelius_poison_comeback_1_1,Mm I do like this green skintone. #2.70 But I'm guessing that might be a trend that dies off quickly.,"Mm, podoba mi się ten zielony odcień skóry. #2.70 Ale zgaduję, że to trend, który szybko umrze."
+wanst_evelius_poison_comeback_2_1,I feel a tickling sensation in my right toe.,Czuję łaskotanie w prawym palcu u nogi.
+wanst_evelius_poison_comeback_3_1,I can feel a harsh venemous poison running through my veins. #4.50 Just like the last time I drank that alcohol-free beer.,"Czuję, jak ostry, jadowity jad płynie w moich żyłach. #4.50 Zupełnie jak ostatnio, gdy wypiłem to piwo bezalkoholowe."
+wanst_evelius_poison_comeback_4_1,Mmm guess I have been poisoned. #2.60 Good thing I know an old recipe from my gran to cure me: #6.00 Take a glass of goat's milk. #7.70 Add a 6-day-old egg... #9.50 Or was it 6 weeks? #11.5 Damnit.,"Mmm, chyba zostałem otruty. #2.60 Dobrze, że znam starą recepturę babci na lekarstwo: #6.00 Weź szklankę koziego mleka. #7.70 Dodaj sześciodniowe jajko... #9.50 A może sześciotygodniowe? #11.5 Cholera."

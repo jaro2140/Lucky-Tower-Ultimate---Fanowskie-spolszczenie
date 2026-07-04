@@ -1,0 +1,104 @@
+key,en,pl
+wanst_riddlemaster_start_1_1,Hold it! #0.90 Only those of greatest wit shall pass!,Stój! #0.90 Tylko najtęższe umysły przejdą tędy!
+wanst_riddlemaster_start_2_1,Not so fast. #2.00 A riddle must be solved to pass!,"Nie tak szybko. #2.00 Musisz rozwiązać zagadkę, by przejść!"
+wanst_riddlemaster_start_3_1,Wait! #0.70 Solve a riddle and you shall proceed.,"Czekaj! #0.70 Rozwiąż zagadkę, a będziesz mógł iść dalej."
+wanst_riddlemaster_start_4_1,"Hey, if you're more than a kiddle, #2.20 you'll solve this riddle:","Hej, jeśli twój łepek to nie pustka gładka, #2.20 poradzisz sobie z tą oto zagadką."
+wanst_riddlemaster_start_5_1,"Hold on! #1.00 Only if you know, you go.","Czekaj! #1.00 Tylko ten, kto wie, ruszy w dalszą drogę."
+wanst_riddlemaster_start_6_1,"Hold on! #1.50 Only if you know, you go.","Czekaj! #1.50 Tylko ten, kto wie, ruszy w dalszą drogę."
+wanst_riddlemaster_start_7_1,Wait! #0.70 You must prove yourself worthy of this path first!,"Czekaj! #0.70 Najpierw musisz udowodnić, że zasługujesz na tę drogę!"
+wanst_riddlemaster_start_8_1,I have a riddle for you. #2.10 Find the answer to pass through.,"Mam dla ciebie zagadkę. #2.10 Znajdź odpowiedź, by przejść dalej."
+wanst_riddlemaster_address_1_1,Alright. #0.70 Give it to me!,Dobra. #0.70 Dawaj tę zagadkę!
+wanst_riddlemaster_address_2_1,Easy! #0.80 What's your riddle?,Łatwizna! #0.80 Jaka to zagadka?
+wanst_riddlemaster_address_3_1,With my enormous wit. #2.20 Of this riddle I'll get... #4.10 rid.,"Dzięki memu ogromnemu sprytowi, #2.20 zagadka nie oprze się... #4.10 mojemu dowcipowi."
+wanst_riddlemaster_address_4_1,"Meet your master, Riddle Blaster!",Poznaj swojego mistrza - Zagadkowego Łomcę!
+wanst_riddlemaster_address_5_1,"Meet your master, Riddle Blaster!",Poznaj swojego mistrza - Zagadkowego Łomcę!
+wanst_riddlemaster_success_1_1,Yesss... Impressive!,Taaak... Imponujące!
+wanst_riddlemaster_success_2_1,Yesss... Impressive!,Taaak... Imponujące!
+wanst_riddlemaster_success_3_1,Well done.,Dobra robota.
+wanst_riddlemaster_success_4_1,Well done.,Dobra robota.
+wanst_riddlemaster_success_5_1,Alright! #1.30 Top dart on the smart chart. #3.90 Cheers.,"Świetnie! #1.30 Strzał w dziesiątkę, sprytna głowo. #3.90 Brawo."
+wanst_riddlemaster_success_6_1,Very well! #1.20 Off you go.,Bardzo dobrze! #1.20 Możesz iść.
+wanst_riddlemaster_fail_1_1,No one has ever given a dumber answer!,Nikt nigdy nie udzielił głupszej odpowiedzi!
+wanst_riddlemaster_fail_2_1,Nooo. #1.00 That is an insult to my riddle.,Nooo. #1.00 To zniewaga dla mojej zagadki.
+wanst_riddlemaster_fail_3_1,Wrong!,Źle!
+wanst_riddlemaster_played_1_1,"Alright, here's another riddle: #1.80 How the hell could you get this far?","Dobra, oto kolejna zagadka: #1.80 Jak, do diabła, udało ci się zajść aż tak daleko?"
+wanst_riddlemaster_played_2_1,Only one try per person!,Jedna próba na osobę!
+wanst_riddlemaster_played_3_1,This is not your place. #2.10 Learn to live with your shame.,To nie jest miejsce dla ciebie. #2.10 Naucz się żyć z tym wstydem.
+wanst_riddlemaster_played_4_1,They say the simple-minded live happier lives. #3.20 Enjoy!,Podobno prostacy żyją szczęśliwiej. #3.20 Ciesz się życiem!
+wanst_riddlemaster_annoyed_1_1,You're still around? #1.50 Get on with it fleshbag!,"Ciągle tu jesteś? #1.50 Rusz się, worku mięsa!"
+wanst_riddlemaster_annoyed_2_1,"You are not the only adventurer in this tower, you know?","Wiesz, że nie jesteś jedynym śmiałkiem w tej wieży?"
+wanst_riddlemaster_annoyed_3_1,"Ok, you won, #1.80 no need to rub it in.","Ok, wygrałeś, #1.80 nie musisz się nad tym tak rozwodzić."
+wanst_riddlemaster_annoyed_4_1,"Move on, #1.00 you are scaring new customers away.","Idź dalej, #1.00 płoszysz mi nowych klientów."
+wanst_riddlemaster_riddle_ironarmor_1_1,"This object sounds like love, but was made for war. How iron-ic, eh? What do I mean?","Brzmię jak coś, czym prasuje się koszule, ale wykuto mnie do wojny. Że-lazny to żart, co? O czym mówię?"
+wanst_riddlemaster_answer_ironarmor_1_1,An iron armor you amorous poet.,"Zbroja z żelaza, ty zakochany poeto."
+wanst_riddlemaster_answer_ironarmor_2_1,An iron armor you amorous poet.,"Zbroja z żelaza, ty zakochany poeto."
+wanst_riddlemaster_riddle_leek_1_1,It's easy to confuse this object with something that drips. What am I?,"Nazywam się tak samo jak dziurka w skórze, przez którą wszystko wycieka. Co to za warzywo?"
+wanst_riddlemaster_answer_leek_1_1,A leaky leek!,Cieknący por!
+wanst_riddlemaster_riddle_key_1_1,"Be it major or minor, most people want to find the right one. What is it?","Bez względu na to, czy szukasz go w miłości, czy w muzyce - każdy chce w końcu trafić na ten właściwy. Co to?"
+wanst_riddlemaster_answer_key_1_1,A key-YYY *horrible singing in the wrong key*,"Klucz-YYY *okropny śpiew, kompletnie nie w tej tonacji*"
+wanst_riddlemaster_riddle_bone_1_1,"I hate to break it to you, but if I do, you’ll certainly know it. I support you throughout your life and once you are gone, I will remain. What am I?","Nie chcę cię tym przybijać, ale jeśli to zrobię, na pewno to poczujesz. Wspieram cię przez całe życie, a kiedy odejdziesz, ja zostanę. Czym jestem?"
+wanst_riddlemaster_answer_bone_1_1,A bone you cone.,"Kość, ty ość."
+wanst_riddlemaster_riddle_frog_1_1,"Out in the foggy hills, I was drinking a grog. All of the sudden, there appeared a...?","Siedziałem sobie we mgle, sącząc grog, kiedy nagle wyskoczyła znienacka jakaś...?"
+wanst_riddlemaster_answer_frog_1_1,...frog?,...żaba?
+wanst_riddlemaster_riddle_mushroom_1_1,"There isn't mush room in here, so we better solve this riddle fast. Do you get it?","Coś tu bierze w grzyba, więc lepiej szybko rozwiążmy tę zagadkę. Łapiesz, o co chodzi?"
+wanst_riddlemaster_answer_mushroom_1_1,"Mushroom, mushroom!","Grzyb, grzyb!"
+wanst_riddlemaster_riddle_bananapeel_1_1,"Enough monkeying around, it's time to solve my riddle! No slipping away until you find the answer. So what is it?","Dość już tych małpich wygłupów, czas rozwiązać moją zagadkę! Nie wywiniesz się, dopóki nie znajdziesz odpowiedzi. Więc, co to?"
+wanst_riddlemaster_answer_bananapeel_1_1,A banana fo fanna.,"Banana, banana, fo-fana!"
+wanst_riddlemaster_riddle_alcoholpotion_1_1,"What is ""the cause of, and solution to, all of life's problems""?",Co jest jednocześnie „przyczyną i rozwiązaniem wszystkich problemów życiowych”?
+wanst_riddlemaster_riddle_alcoholpotion_2_1,Neither antidote nor poison sheer - but to many a companion dear.,"Nie jestem trucizną, nie jestem lekiem, lecz wielu uznaje mnie za przyjaciela z wiekiem."
+wanst_riddlemaster_answer_alcoholpotion_1_1,Alcohol!,Alkohol!
+wanst_riddlemaster_riddle_broccoli_1_1,"Mean, green, full of vitamin, and with a haircut almost as impressive as yours. What do I mean?","Zły, zielony, pełen witamin, a fryzurę ma niemal tak wspaniałą jak twoja. O czym mówię?"
+wanst_riddlemaster_riddle_broccoli_2_1,A sworn enemy to children and adults alike - the green sprouting branches lead to disgust and despise.,Zaprzysięgły wróg dzieci i dorosłych zarazem - zielone pędy budzą wyłącznie odrazę.
+wanst_riddlemaster_answer_broccoli_1_1,Brocoli! Not nearly as impressive as my haircut.,Brokuł! I tak nie ma tak wspaniałej fryzury jak ja.
+wanst_riddlemaster_riddle_brains_1_1,You'll really need to use yours if you want to solve this riddle! What do I mean?,"Będziesz musiał naprawdę go użyć, żeby rozwiązać tę zagadkę! O czym mówię?"
+wanst_riddlemaster_answer_brains_1_1,Surely you must mean my enormous brain.,Z pewnością chodzi ci o mój ogromny mózg.
+wanst_riddlemaster_answer_brains_2_1,Surely you must mean my enormous brain.,Z pewnością chodzi ci o mój ogromny mózg.
+wanst_riddlemaster_answer_brains_3_1,Surely you must mean my enormous brain.,Z pewnością chodzi ci o mój ogromny mózg.
+wanst_riddlemaster_riddle_hubertsclub_1_1,"You look like your head is empty. Welcome to the club...I couldn't even think of a good riddle this time... oh whatever, just tell me the object I mentioned.","Wyglądasz, jakby ci brakowało piątej klepki. Ehh, w tym tygodniu nie wymyśliłem żadnej porządnej zagadki o maczudze... a nieważne, po prostu powtórz przedmiot, o którym wspomniałem."
+wanst_riddlemaster_answer_hubertsclub_1_1,I think you said... club?,Chyba... mówiłeś o maczudze?
+wanst_riddlemaster_answer_hubertsclub_2_1,"You said ""club"".",Powiedziałeś „maczuga”.
+wanst_riddlemaster_riddle_beehive_1_1,Wearing one of these is definitely bad bee-haviour. What do I mean?,Nosić coś takiego na głowie to prawdziwa... kapitulacja przed owadami. O czym mówię?
+wanst_riddlemaster_riddle_beehive_2_1,"As long as plants can propagate, the queen won't have to abdicate - though her palace is what I anticipate!","Dopóki kwiaty będą się zapylać, królowa nie będzie musiała abdykować - choć to właśnie jej pałacu szukam z zapałem!"
+wanst_riddlemaster_answer_beehive_1_1,I'm going with B for beehive.,"Postawię na... U, jak ul."
+wanst_riddlemaster_answer_beehive_2_1,I'm going with B for beehive.,"Postawię na... U, jak ul."
+wanst_riddlemaster_riddle_stool_1_1,"This is either something you like to meet with your butt, or something that's leaving from it. Urgh... what do I mean?","To coś, co albo chętnie przyjmujesz swoim tyłkiem, albo co z niego wychodzi. Fuj... o czym mówię?"
+wanst_riddlemaster_answer_stool_1_1,Stool! Urgh.,Stołek! Fuj.
+wanst_riddlemaster_riddle_broom_1_1,"There better ""b"" enough room for me to clean up. What am I?","Lepiej, żeby starczyło miejsca, bo zaraz wszystko za-miotła. Czym jestem?"
+wanst_riddlemaster_answer_broom_1_1,A broom? Broom!,Miotła? Miotła!
+wanst_riddlemaster_answer_broom_2_1,A b room? Broom.,Za-miotła? Miotła.
+wanst_riddlemaster_riddle_sword_1_1,"I am a ""word"" that starts with ""S"". Only a sharp mind will find this one!","Jestem ostry jak twój dowcip, czyli wcale. Zaczynam na literę „M”. Tylko bystry umysł mnie odnajdzie!"
+wanst_riddlemaster_answer_sword_1_1,You're a sword.,Miecz jestem.
+wanst_riddlemaster_riddle_eye_1_1,I have mine on you and you have yours on mine. What is it that I mean?,"Ja mam swoje na tobie, a ty swoje na mnie. O czym mówię?"
+wanst_riddlemaster_answer_eye_1_1,I have my eyes on you pal!,"Mam cię na oku, przyjacielu!"
+wanst_riddlemaster_riddle_bottle_1_1,Solving this one is gonna be a hard battle. Perhaps you might wanna try switching out one of the letters to make it a more...transparent. What is it?,"Rozwiązanie tej zagadki to będzie prawdziwa bitwa... a może wystarczy zamienić jedną literkę, żeby zrobiło się bardziej... przezroczyste? Co to?"
+wanst_riddlemaster_answer_bottle_1_1,A bottle!,Butelka!
+wanst_riddlemaster_riddle_sack_1_1,"Some people have this.. others don't. Those who have one either fill or empty it. What is it? Answer quick, or you'll be getting IT!","Niektórzy to mają... inni nie. A ci, którzy mają, albo to napełniają, albo opróżniają. Co to? Odpowiadaj szybko, bo oberwiesz!"
+wanst_riddlemaster_answer_sack_1_1,Surely you mean a sack!,Chyba chodzi ci o worek!
+wanst_riddlemaster_riddle_tooth_1_1,Tell me something that has no flavor but you want to keep in your mouth.,"Powiedz mi coś, co nie ma smaku, ale chcesz to zatrzymać w ustach."
+wanst_riddlemaster_answer_tooth_1_1,A tooth! Definitely like to keep 'em in...,Ząb! Zdecydowanie wolę je zatrzymać w buzi...
+wanst_riddlemaster_riddle_coin_1_1,"What has a tail, has a head, is yellow, but has no legs?","Co ma orła, ale nie lata, jest żółte, a nóg nie ma wcale?"
+wanst_riddlemaster_answer_coin_1_1,"Your mom! No, a coin of course.","Twoja mama! A nie, no, oczywiście, że moneta."
+wanst_riddlemaster_riddle_mace_1_1,"You won't get lost in this one, but it can surely give you a headache.","W tym się nie zgubisz, ale z pewnością przyprawi cię o ból głowy."
+wanst_riddlemaster_riddle_mace_2_1,I'll be a-maced if you get this one right.,"Będę zbuławiony, jeśli to zgadniesz."
+wanst_riddlemaster_riddle_mace_3_1,"It may seem hard, but it's actually smashingly easy!","Może się wydawać twarde, ale tak naprawdę to zmiażdżąco proste!"
+wanst_riddlemaster_answer_mace_1_1,"Enough with the puns. It's a mace, alright!?","Wystarczy tych gierek słownych. To buława, jasne!?"
+wanst_riddlemaster_riddle_pumpkin_1_1,"If you want to scare off your kin, pump this one up with a grin!","Jeśli chcesz nastraszyć swoją rodzinę, wyszczerz jej zęby i wydrąż dynię!"
+wanst_riddlemaster_answer_pumpkin_1_1,"A pumpkin, you rhymin' devil!","Dynia, ty rymująca bestio!"
+wanst_riddlemaster_riddle_chest_1_1,It is part of every body and carries your heart and other treasures. What do I mean?,"Każdy to ma, a w środku nosi serce i inne skarby. O czym mówię?"
+wanst_riddlemaster_riddle_chest_2_1,Finish this sentence: I feel best when I rest on my treasure...,"Dokończ zdanie: Najlepiej czuję się, gdy spoczywam na swoim skarbie..."
+wanst_riddlemaster_answer_chest_1_1,Chest! And what a chest I have!,Klata! A ale mam klatę!
+wanst_riddlemaster_riddle_cage_1_1,"What do you call something that confines mass, but doesn't confine gas?","Jak nazwiesz coś, co zamyka ciało, ale nie zamyka zapachu?"
+wanst_headroom_cage_1_1,A cage.,Klatka.
+wanst_riddlemaster_riddle_club_1_1,"I hold a diamond, a heart and a spade. To complete my collection I must seek what?","Nie mam ostrza, nie mam grotu, a i tak potrafię nieźle zdzielić po łbie. Czego szukam?"
+wanst_headroom_hubertsclub_1_1,A club.,Maczuga.
+wanst_riddlemaster_riddle_dagger_1_1,"The nightmare of a king, or anybody that has bling or exaggerated swagger, it is indeed a...","Zmora króla i każdego, kto obwiesza się złotem i pęka od nadętej dumy - to z pewnością..."
+wanst_headroom_dagger_1_1,A dagger.,Sztylet.
+wanst_riddlemaster_riddle_mousetrap_1_1,"I never chase what I catch, yet I catch what I snatch — tiny and big feet meet my latch. What am I?","Nigdy nie gonię tego, co łapię, a jednak łapię to, co capnę — małe i duże łapki spotykają moją zapadkę. Czym jestem?"
+wanst_riddlemaster_riddle_mousetrap_2_1,"It rhymes with house map, spouse cap and how sad - if you touch it it'll snap. What is it?","Rymuje się z mapką, czapką i łapką - a jak dotkniesz, to zatrzaśnie się z trzaskiem. Co to?"
+wanst_headroom_mousetrap_1_1,A mouse trap.,Pułapka na myszy.
+wanst_riddlemaster_riddle_nothing_1_1,"In the beginning, you were me. In the end, you will become me. What am I?",Na początku byłeś mną. Na końcu znowu się mną staniesz. Czym jestem?
+wanst_headroom_fail_4_1,Nothing!,Nic!
+wanst_riddlemaster_riddle_strawhat_1_1,"You'd think I am used by farmers alike, but that may be just a stereotype. I might not be the best for protection, but you will love me for blocking the Sun's reflection.","Można by pomyśleć, że używają mnie tylko rolnicy, ale to może być tylko stereotyp. Niewiele chronię przed ciosem, ale pokochasz mnie za to, że osłaniam przed słońcem."
+wanst_headroom_strawhat_1_1,A straw hat.,Słomkowy kapelusz.
+wanst_riddlemaster_riddle_eye2_1_1,I am something you exchange for an eye. What am I?,"Jestem tym, co wymienia się za oko. Czym jestem?"
+wanst_headroom_eye_1_1,An eye.,Oko.

@@ -1,0 +1,495 @@
+key,en,pl
+quit,Quit,Zakończ
+frame,Frame,Ramka
+back,Back,Wstecz
+button,ButtOn,Guzik
+language,Language,Język
+subtitles,Subtitles,Napisy
+other,Other,Inne
+main_play,Play,Graj
+main_quickstart,Quickstart,Szybki start
+main_credits,Credits,Twórcy
+main_settings,Settings,Ustawienia
+main_quit,Quit,Zakończ
+main_back,Back,Wstecz
+main_start,Start,Start
+main_tutorial,Tutorial,Samouczek
+main_areyousure,Are you sure?,Czy na pewno?
+main_tutorialfirst,"You might want to check out the tutorial first, if you haven't played the game before.","Jeśli nie grałeś wcześniej, warto najpierw zajrzeć do samouczka."
+main_playtutorial,Play Tutorial,Uruchom samouczek
+main_chooseprofile,Choose a profile,Wybierz profil
+main_runs,Runs,Podejścia
+main_playtime,Playtime,Czas gry
+main_emptyslot,Empty slot,Puste miejsce
+row35,Save file,Zapis gry
+main_deletesave,Delete Save file?,Usunąć zapis gry?
+main_confirm,Confirm,Potwierdź
+main_ok,Ok,Ok
+main_cancel,Cancel,Anuluj
+main_nosave,No active save file,Brak aktywnego zapisu
+row41,Not available,Niedostępne
+row42,Seed,Ziarno
+main_controls,Controls,Sterowanie
+main_graphics,Graphics,Grafika
+main_sound,Sound,Dźwięk
+main_other,Other,Inne
+main_jump,Jump,Skok
+main_attack,Attack,Atak
+main_throw,Throw,Rzut
+main_pickupdrop,Pick up  / Drop,Podnieś / Upuść
+main_switchhand,Switch Hand,Zmień rękę
+main_use,Use,Użyj
+main_down,Down,Dół
+main_up,Up,Góra
+main_right,Right,Prawo
+main_left,Left,Lewo
+main_dialogueop1,Dialogue Option 1,Opcja dialogu 1
+main_dialogueop2,Dialogue Option 2,Opcja dialogu 2
+main_dialogueop3,Dialogue Option 3,Opcja dialogu 3
+main_reset,Reset,Reset
+main_choosecontrolscheme,Choose Control Scheme,Wybierz układ sterowania
+main_keyboardonly,Keyboard Only,Tylko klawiatura
+main_keyboardandmouse,Keyboard and Mouse,Klawiatura i mysz
+main_controller,Controller,Kontroler
+main_resolution,Resolution,Rozdzielczość
+main_keepresolution,Keep Resolution?,Zachować rozdzielczość?
+row70,Confirm,Potwierdź
+row71,Cancel,Anuluj
+main_zoomvalue,Zoom Value,Poziom przybliżenia
+main_brightness,Brightness,Jasność
+main_screenshakeintense,Screenshake Intensity,Intensywność trzęsienia ekranu
+main_ingameonly,Ingame Only,Tylko w grze
+main_mastervolume,Master Volume,Głośność główna
+main_music,Music,Muzyka
+main_soundeffects,Sound Effects,Efekty dźwiękowe
+main_dialogues,Dialogue,Dialogi
+main_mute,Mute,Wycisz
+main_language,Language,Język
+main_frame,Frame,Ramka
+main_subtitles,Subtitles,Napisy
+main_buttonswitch,ButtOn,Włączone
+main_buttoffswitch,ButtOff,Wyłączone
+main_windowed,Windowed,Okno
+row91,Hints,Podpowiedzi
+gameover_restart,Restart,Zacznij od nowa
+gameover_exittomenu,Exit to menu,Wyjdź do menu
+gameover_bugfeedback,Bug / Feedback?,Błąd / Opinia?
+gameover_bug,Bug,Błąd
+gameover_feedback,Feedback,Opinia
+gameover_send,Send,Wyślij
+row99,Thank you for sending feedback!,Dziękujemy za przesłanie opinii!
+gameover_gameover,Game Over,Koniec gry
+gameover_whoopsie,Whoopsie!,Ups!
+gameover_tryagain,Try Again!,Spróbuj ponownie!
+gameover_youdied,You died,Zginąłeś
+gameover_sorry,Sorry!,Przykro nam!
+gameover_oopsie,Oopsie-daisy!,Ojej-ojej!
+gameover_betterluck,Better luck next time!,Następnym razem się uda!
+gameover_rip,R.I.P.,S.P.
+ingame_resume,Resume,Wznów
+ingame_startnewrun,Start New Run,Zacznij nowe podejście
+ingame_discord,Join Our Discord,Dołącz do naszego Discorda
+ingame_backtomain,Back To Main Menu,Powrót do menu głównego
+row115,Are you sure?,Czy na pewno?
+row116,Yes,Tak
+row117,No,Nie
+credits_developed,Developed by,Wyprodukowano przez
+credits_published,Published by,Wydane przez
+credits_QALionbridge,Quality Assurance by,Kontrola jakości
+credits_Loca49,Localization by,Lokalizacja
+credits_LocaNativePrime,Localization and Localization QA by,Lokalizacja i kontrola jakości lokalizacji
+credits_SoundDesignMix,Sound Design and Mix by,Udźwiękowienie i miks
+credits_AdditionalSoundDesign,Additional Sound Design by,Dodatkowe udźwiękowienie
+credits_Music,Music,Muzyka
+credits_LegalCounsel,Legal Counsel,Doradztwo prawne
+credits_Insurance,Insurance Intermediary,Pośrednik ubezpieczeniowy
+credits_Tax,Tax Accountant,Doradca podatkowy
+credits_Evolve,Publicity by,Promocja
+credits_Trailerfarm,Trailer by,Zwiastun
+credits_ArcusKey,Chinese Marketing by,Marketing chiński
+credits_CommunityPlaytesters,Community Playtesters,Testerzy społecznościowi
+credits_Thanks,Thanks to,Podziękowania dla
+credits_MEDIAMFG,Prototype funded with support of the Creative Europe programme - MEDIA and MFG Baden-Württemberg,Prototyp sfinansowany przy wsparciu programu Kreatywna Europa – MEDIA oraz MFG Baden-Württemberg
+credits_BundMFG,Production funded with support of the Federal Ministry for Economic Affairs and Climate Action Germany and MFG Baden-Württemberg,Produkcja sfinansowana przy wsparciu Federalnego Ministerstwa Gospodarki i Ochrony Klimatu Niemiec oraz MFG Baden-Württemberg
+hint_attack,Attack,Atak
+hint_drink,Drink,Pij
+hint_atownrisk,(at own risk),(na własne ryzyko)
+row147,Eat,Jedz
+hint_orpress,Or press,Lub naciśnij
+hint_toskip,to skip,aby pominąć
+hint_drop,Drop,Upuść
+hint_enterdoor,Enter Door,Wejdź przez drzwi
+hint_enteralcove,Enter Alcove,Wejdź do wnęki
+hint_equiparmordir,Equip Armor Directly,Załóż zbroję od razu
+hint_equip,Equip,Załóż
+hint_coininsack,Put Coin in Sack,Włóż monetę do worka
+hint_shakeoutcoin,Shake out coin,Wytrząśnij monetę
+hint_equipdirect,Equip Directly,Załóż od razu
+hint_equiptoothdirect,Equip tooth directly,Załóż ząb od razu
+hint_grabexchange,Grab / Exchange,Chwyć / Zamień
+hint_pickup,Pick Up,Podnieś
+hint_headroom,Grab and place an item on to the tip of the tongue.,Chwyć przedmiot i połóż go na czubku języka.
+hint_pulllever,Pull Lever,Pociągnij dźwignię
+hint_jump,Jump,Skacz
+hint_or,or,lub
+hint_3x,3x quick,3x szybko
+hint_toloot,to loot,aby złupić
+hint_move,Move,Ruch
+hint_open,Open,Otwórz
+hint_swapitems,Swap items,Zamień przedmioty
+hint_talk,to talk to people when you stand close to them,"aby rozmawiać z ludźmi, gdy stoisz blisko nich"
+row176,or,lub
+hint_throwpotion,to throw potion,aby rzucić miksturą
+row179,or,lub
+hint_throwitem,to throw item,aby rzucić przedmiotem
+row182,or,lub
+hint_throwitematlever,to throw item at lever,aby rzucić przedmiotem w dźwignię
+hint_pressor,press /,naciśnij /
+hint_hold,hold,przytrzymaj
+hint_dropor,drop /,upuść /
+hint_unequip2,unequip,zdejmij
+row190,or,lub
+hint_goupstairs,to jump / go upstairs,aby skoczyć / wejść na górę
+row194,Hit lever to withdraw from your account.,"Uderz dźwignię, aby wypłacić z konta."
+row195,No money in your account.,Brak pieniędzy na koncie.
+hint_bank1,Drop or pick up coins here to deposit or withdraw.,"Upuść lub podnieś monety tutaj, aby wpłacić lub wypłacić."
+row199,Put item here you want to sell.,"Połóż tutaj przedmiot, który chcesz sprzedać."
+row201,Place hairdos here to deactivate them.,"Umieść tutaj fryzury, aby je dezaktywować."
+row202,Place hairdos here to activate them.,"Umieść tutaj fryzury, aby je aktywować."
+hint_mayor1,Place coins here to pay for citizenship.,"Umieść tutaj monety, aby zapłacić za obywatelstwo."
+row206,Use the hammer to repair damaged armor.,"Użyj młota, aby naprawić uszkodzoną zbroję."
+tutorial_move,Move,Ruch
+tutorial_jump,Jump,Skok
+tutorial_hit,Hit / Attack,Uderz / Atakuj
+tutorial_enterdoor,Enter Door,Wejdź przez drzwi
+tutorial_grabdrop,Grab / Drop,Chwyć / Upuść
+tutorial_toopenchest,To open chest,Aby otworzyć skrzynię
+tutorial_grab,Grab,Chwyć
+tutorial_equipuse,Equip / Use,Załóż / Użyj
+tutorial_unequip,Unequip,Zdejmij
+tutorial_hold,Hold,Przytrzymaj
+tutorial_pickupitems,Pick Up Items,Podnoś przedmioty
+tutorial_switchitems,Switch Items,Zamień przedmioty
+tutorial_throwitemsinhand,Throw items in hand,Rzucaj przedmiotami w ręce
+tutorial_or,or,lub
+row228,+,+
+tutorial_lootiteminhand,Loot Item in hand (after pick up),Złup przedmiot w ręce (po podniesieniu)
+tutorial_3xquick,3x quick,3x szybko
+tutorial_talkicon,"When you see the talk icon or are close to a character, use these to talk:","Gdy widzisz ikonę rozmowy lub stoisz blisko postaci, użyj tego, aby porozmawiać:"
+tutorial_salary,Salary: your choice of teeth or eyes,Wynagrodzenie: do wyboru zęby albo oczy
+tutorial_workdays,"Workdays: Mo - Sun, 24 hours","Dni robocze: pon.–niedz., 24 godziny"
+tutorial_noinsurance,No insurance for workplace injuries,Brak ubezpieczenia od wypadków przy pracy
+headroom_idea,Idea,Pomysł
+row242,Choice,Wybór
+headroom_braindead,Braindead idea,Pomysł bezmózgi
+headroom_incredibly,Incredibly bad idea,Niewiarygodnie zły pomysł
+headroom_verystupid,Very Stupid idea,Bardzo głupi pomysł
+headroom_embarassing,Embarassing idea,Żenujący pomysł
+headroom_slightly,Slightly stupid idea,Odrobinę głupi pomysł
+headroom_okayish,Okay-ish idea,Pomysł tako-tako
+headroom_good,Good idea,Dobry pomysł
+headroom_brilliant,Brilliant idea,Genialny pomysł
+headroom_nonesense,Nonsense,Bzdura
+headroom_ignorance,Ignorance,Ignorancja
+headroom_brainfart,Brainfart,Zaćmienie umysłu
+headroom_foolishness,Foolishness,Głupota
+headroom_citizensonly,Citizens only!,Tylko dla obywateli!
+row263,Selection,Wybór
+headroom_activehairdos,Active Hairdos,Aktywne fryzury
+headroom_inactivehairdos,Inactive Hairdos,Nieaktywne fryzury
+row267,New Hairdo,Nowa fryzura
+headroom_instanthairdo,Instant Hairdo,Fryzura ekspresowa
+automat_sale,Sale,Wyprzedaż
+automat_outoforder,Out of order,Zepsute
+pawnshop_buy,Buy,Kup
+pawnshop_sell,Sell,Sprzedaj
+row287,Pawn Shop,Lombard
+row289,Interest earned:,Naliczone odsetki:
+mayor_bounty,Bounty,Nagroda
+mayor_citizen,Citizenship,Obywatelstwo
+mayor_goldbounty,20 Gold,20 złota
+mayor_goldcitizen,100 Gold,100 złota
+row301,End the run.,Zakończ podejście.
+tavern_endtherun,This will end the run.,To zakończy podejście.
+row303,OK,OK
+tavern_toilets,Toilets,Toalety
+tavern_start,"And so, our great hero Von Wanst escaped Evelius's tower.","I tak oto nasz wielki bohater, Von Wanst, uciekł z wieży Eveliusa."
+tavern_norescue,"Without any friends, he went on a solitary drinking night in the local tavern.","Bez żadnych przyjaciół, spędził samotny wieczór pijacki w miejscowej karczmie."
+tavern_hubertangry,"He had rescued Hubert, the angry tortoise, who immediately ran away and abandoned Von Wanst.","Uratował Huberta, wściekłego żółwia, który natychmiast uciekł i porzucił Von Wansta."
+tavern_hubertbummed,"He had rescued Hubert, the depressed tortoise, who immediately left for his home to get away from Von Wanst.","Uratował Huberta, przygnębionego żółwia, który od razu pomknął do domu, byle dalej od Von Wansta."
+tavern_hubertmedium,"Von Wanst had rescued Hubert, the tortoise, who went back home to care for his sick parents.","Von Wanst uratował Huberta, żółwia, który wrócił do domu, aby zaopiekować się chorymi rodzicami."
+tavern_hubertgood,He had rescued his friend Hubert the tortoise and they both celebrated at the tavern.,"Uratował swojego przyjaciela Huberta, żółwia, i obaj świętowali w karczmie."
+tavern_hubertgreat,"He had rescued his best friend, Hubert the tortoise and they both had a delightful time recounting their exploits at the tavern.","Uratował swojego najlepszego przyjaciela, żółwia Huberta, i obaj wspaniale spędzili czas, opowiadając w karczmie o swoich wyczynach."
+tavern_hubertperfect,"He had rescued his BFF, Hubert the tortoise and they partied like there was no tomorrow!","Uratował swojego najlepszego przyjaciela na świecie, żółwia Huberta, i imprezowali, jakby jutra miało nie być!"
+tavern_nohubert,He celebrated at the tavern with his buddies:,Świętował w karczmie razem z kumplami:
+tavern_sobu,"He had rescued Sobu, the cunning sage, who started the timeless ritual of libation.","Uratował Sobu, przebiegłego mędrca, który rozpoczął odwieczny rytuał libacji."
+tavern_alva,"He had freed Alva, the witch, who began to examine the local potions.","Uwolnił Alvę, czarownicę, która zabrała się za badanie miejscowych mikstur."
+tavern_rando1,"He had saved a local peasant, who proceeded to drink relentlessly.","Uratował miejscowego chłopa, który zaczął pić bez opamiętania."
+tavern_rando2,"He had saved two local peasants, who began to celebrate loudly.","Uratował dwóch miejscowych chłopów, którzy zaczęli głośno świętować."
+tavern_rando3,"He had saved several local peasants, who gathered to toast their good fortune.","Uratował kilku miejscowych chłopów, którzy zebrali się, by wznieść toast za swój szczęśliwy los."
+tavern_rando5,"He had saved a crowd of local peasants, who erupted into a festive frenzy.","Uratował tłum miejscowych chłopów, którzy wpadli w istny szał zabawy."
+tavern_rando10,"He had saved a horde of local peasants, who initiated a glorious drinking tune.","Uratował hordę miejscowych chłopów, którzy zaintonowali chwalebną pijacką piosenkę."
+tavern_rando15,"He had saved an army of local peasants, who now dominated the tavern.","Uratował armię miejscowych chłopów, która zawładnęła karczmą."
+tavern_rando20,"He had saved a legion of local peasants, who completely emptied the tavern's stock in a single night.","Uratował legion miejscowych chłopów, którzy w jedną noc doszczętnie opróżnili zapasy karczmy."
+tavern_end,"Thus, the story ends...",I tak oto kończy się ta historia...
+tavern_continue,Continue?,Kontynuować?
+row331,But wait...,Ale czekaj...
+monstercave1,"Von Wanst chose a life as a monster. Leading a simple life of cave dwelling and eating travelers, he lived happily ever after.","Von Wanst wybrał życie potwora. Wiodąc proste życie w jaskini i pożerając wędrowców, żył długo i szczęśliwie."
+monstercave2,"Von Wanst joined the monster he had been in a previous life. Together, they lived a simple life of eating rats and occasionally devouring peasants who wandered around outside the village.","Von Wanst dołączył do potwora, którym sam kiedyś był w poprzednim życiu. Razem wiedli proste życie, żywiąc się szczurami, a od czasu do czasu pożerając chłopów, którzy zabłąkali się w pobliżu wsi."
+monstercave3,"Von Wanst joined the shared cave apartment that his monster buddies inhabited. As a group, they could now play card games and hunt for peasants. It was a simple but happy life.","Von Wanst dołączył do wspólnej jaskiniowej ""kawalerki"" zamieszkanej przez jego kumpli-potwory. Razem mogli teraz grać w karty i polować na chłopów. Było to proste, ale szczęśliwe życie."
+earlyaccess_01,"Hey, you've reached the end of the current Early Access version.","Hej, dotarłeś do końca obecnej wersji Early Access."
+earlyaccess_02,Congratulations! This area will be unlocked in the full release of the game!,Gratulacje! Ten obszar zostanie odblokowany w pełnej wersji gry!
+village_underconstruction,Under Construction!,W budowie!
+row345,Coming soon!,Już wkrótce!
+row346,Early Access.,Early Access.
+credits_funded,Funded with the support of:,Sfinansowano przy wsparciu:
+credits_copyright,Copyright notices:,Informacje o prawach autorskich:
+evelius_name,Evelius,Evelius
+skip_anykey,Press any key or button to skip,"Naciśnij dowolny klawisz lub przycisk, aby pominąć"
+skip_anykey2,Press any button or tap to skip,"Naciśnij dowolny przycisk lub dotknij ekranu, aby pominąć"
+ingame_savebacktomain,Save & Exit to menu,Zapisz i wyjdź do menu
+ingame_savequit,Save & Quit,Zapisz i zakończ
+window_mode,Window Mode:,Tryb okna:
+exclusive_fullscreen,Exclusive Fullscreen,Pełny ekran (ekskluzywny)
+max_window,Maximized Window,Zmaksymalizowane okno
+Snogly,Snogly,Snogly
+Snoffles,Snoffles,Snoffles
+Snobbles,Snobbles,Snobbles
+Snowy,Snowy,Snowy
+Snoddles,Snoddles,Snoddles
+Pugly,Pugly,Pugly
+Puffles,Puffles,Puffles
+Pubbles,Pubbles,Pubbles
+Puwy,Puwy,Puwy
+Puddles,Puddles,Puddles
+Bugly,Bugly,Bugly
+Buffles,Buffles,Buffles
+Bubbles,Bubbles,Bubbles
+Buwy,Buwy,Buwy
+Buddles,Buddles,Buddles
+Snugly,Snugly,Snugly
+Snuffles,Snuffles,Snuffles
+Snubbles,Snubbles,Snubbles
+Snuwy,Snuwy,Snuwy
+Snuddles,Snuddles,Snuddles
+Snigly,Snigly,Snigly
+Sniffles,Sniffles,Sniffles
+Snibbles,Snibbles,Snibbles
+Sniwy,Sniwy,Sniwy
+Sniddles,Sniddles,Sniddles
+popup_usekeychange_title,Important change!,Ważna zmiana!
+popup_usekeychange_text,"By default, you can't pick up items with the [USE] key anymore.  You can still equip armor / gold / teeth directly with [USE] though.",Domyślnie nie możesz już podnosić przedmiotów klawiszem [USE]. Nadal możesz jednak od razu zakładać zbroję / złoto / zęby za pomocą [USE].
+popup_usekeychange_settings,"If you want to change it back to the way it was before, use the toggle in the settings menu.","Jeśli chcesz przywrócić dawne działanie, użyj przełącznika w menu ustawień."
+main_autopickupcoin,Automatically pick up coins,Automatycznie podnoś monety
+main_pickupwithuse,Pick up with Use button,Podnoszenie przyciskiem Użyj
+main_autoswaphands,Automatically swap hands,Automatycznie zamieniaj ręce
+headroom_exitdoor,Cancel,Anuluj
+row420,Exit,Wyjście
+hands_update1,You can now decide if you want the player to automatically switch items between hands when you drop items.,"Możesz teraz zdecydować, czy gracz ma automatycznie zamieniać przedmioty między rękami podczas ich upuszczania."
+hands_update2,Go to Settings > Controls to toggle the feature.,"Przejdź do Ustawienia > Sterowanie, aby włączyć lub wyłączyć tę funkcję."
+diff_update1,New Feature: Difficulty Modes,Nowość: Tryby trudności
+diff_update2,Currently there's the default difficulty and an easier Peasant Mode.,Obecnie dostępny jest domyślny poziom trudności oraz łatwiejszy Tryb Chłopski.
+diff_update3,Choose one when you create your profile. You'll be able to switch back and forth any time you wish.,Wybierz jeden podczas tworzenia profilu. Będziesz mógł przełączać się między nimi w dowolnym momencie.
+diff_mode_pleasant,Pleasant Mode,Tryb Przyjemny
+diff_mode_peasant,Peasant Mode,Tryb Chłopski
+diff_mode_unpleasant,Unpleasant Mode,Tryb Nieprzyjemny
+diff_mode_easy,Easy Mode,Tryb Łatwy
+diff_mode_hard,Hard Mode,Tryb Trudny
+diff_mode_normal,Normal Mode,Tryb Normalny
+diff_mode_hero,Hero Mode,Tryb Bohatera
+diff_mode_knight,Knight Mode,Tryb Rycerza
+diff_mode_baboon,Baboon Mode,Tryb Pawiana
+diff_profile,Profile,Profil
+diff_escapes,Escapes,Ucieczki
+diff_chooseplaymode,Choose Play Mode,Wybierz tryb gry
+diff_choosediff,Choose Difficulty,Wybierz poziom trudności
+diff_profilecreated,Profile created,Profil utworzony
+diff_explaineasy_01_easier,The game is easier.,Gra jest łatwiejsza.
+diff_explaineasy_02_equipment,You start each run with basic equipment.,Zaczynasz każde podejście z podstawowym ekwipunkiem.
+diff_explaineasy_03_equipmentgood,You start each run with good equipment.,Zaczynasz każde podejście z dobrym ekwipunkiem.
+diff_explaineasy_04_nospecialach,No special achievements.,Brak specjalnych osiągnięć.
+diff_explaineasy_05_nosteamach,No Steam achievements.,Brak osiągnięć Steam.
+diff_explaineasy_06_towershorter,The tower is shorter.,Wieża jest niższa.
+diff_explainhard_01_normal,Normal difficulty.,Normalny poziom trudności.
+diff_explainhard_02_gameharder,The game is harder.,Gra jest trudniejsza.
+diff_explainhard_03_sepcialach,Special achievements available.,Dostępne specjalne osiągnięcia.
+diff_explainhard_04_steamach,Steam achievements available.,Dostępne osiągnięcia Steam.
+diff_explainhard_05_naked,You start each run naked.,Zaczynasz każde podejście nago.
+diff_explainhard_06_towerlonger,The tower is longer.,Wieża jest wyższa.
+diff_explainchange,You can change the difficulty at the end of every run or in the Settings menu.,Możesz zmienić poziom trudności po zakończeniu każdego podejścia lub w menu ustawień.
+diff_switch,Switch to:,Przełącz na:
+ui_voicelinereg,Voice line regularity,Częstotliwość kwestii głosowych
+tavern_princess,"He had rescued the princess, who opted for food instead of drinks.","Uratował księżniczkę, która zamiast trunków wybrała jedzenie."
+goldenending_intro,"And so, our great hero Von Wanst had destroyed Evelius's tower and finally became king.","I tak oto nasz wielki bohater, Von Wanst, zniszczył wieżę Eveliusa i w końcu został królem."
+goldenending_crowd_01,"The crowd cheered: ""All hail King Wanst, the chosen one!"".","Tłum wiwatował: ""Niech żyje król Wanst, wybraniec!""."
+goldenending_crowd_02,"The crowd cheered and hailed the chosen one, but some began to realize that the tower had been the basis of their whole economy and left the village.","Tłum wiwatował i wychwalał wybrańca, ale niektórzy zaczęli sobie uświadamiać, że wieża była podstawą całej ich gospodarki, i opuścili wioskę."
+goldenending_crowd_03,"The crowd cheered and hailed the chosen one, but many began to realize that the tower had been the basis of their whole economy and left the village.","Tłum wiwatował i wychwalał wybrańca, ale wielu zaczęło sobie uświadamiać, że wieża była podstawą całej ich gospodarki, i opuściło wioskę."
+goldenending_crowd_04,"The crowd cheered and hailed the chosen one, but now almost everyone began to realize that the tower had been the basis of their whole economy and left the village.","Tłum wiwatował i wychwalał wybrańca, ale teraz niemal wszyscy zaczęli sobie uświadamiać, że wieża była podstawą całej ich gospodarki, i opuścili wioskę."
+goldenending_crowd_05,"Unfortunately, the tower had been the basis of the town's one-sided economy, which collapsed entirely. But his true friends would always stay with him.","Niestety wieża była podstawą jednostronnej gospodarki miasteczka, która zupełnie się załamała. Ale jego prawdziwi przyjaciele zawsze mieli przy nim zostać."
+goldenending_ending,"Thus, the story ends...",I tak oto kończy się ta historia...
+funeral_intro,"And so, our great hero Von Wanst had finally gone the way of all flesh and died.","I tak oto nasz wielki bohater, Von Wanst, w końcu podążył drogą wszystkiego, co żywe, i umarł."
+funeral_01,"After ending Evelius' scheme and destroying the tower, he had sacrificed his immortality for the greater good.","Po pokrzyżowaniu planów Eveliusa i zniszczeniu wieży, poświęcił swoją nieśmiertelność dla wyższego dobra."
+funeral_02,"He will forever be remembered as a glorious, valiant knight.","Na zawsze zostanie zapamiętany jako chwalebny, dzielny rycerz."
+funeral_03,R.I.P.,S.P.
+subtitle_size,Subtitle Size,Rozmiar napisów
+subtitle_color,Subtitle Color,Kolor napisów
+subtitle_background,Subtitle Background,Tło napisów
+main_conflict,Some actions are unassigned or conflicting. Please resolve them before exiting.,Niektóre czynności nie są przypisane lub kolidują ze sobą. Rozwiąż to przed wyjściem.
+credits_gamedesignanimation,Game Design & Animation,Projekt gry i animacja
+credits_gamedesignart,Game Design & Art,Projekt gry i grafika
+credits_executiveproducer,Executive Producer,Producent wykonawczy
+credits_productionmanagement,Production Management,Zarządzanie produkcją
+credits_programming,Programming,Programowanie
+credits_technicalart,Technical Art,Grafika techniczna
+credits_starring,Starring,Występują
+credits_voicevonwanst,Von Wanst / Evelius / Monsters / Barkeeper,Von Wanst / Evelius / Potwory / Karczmarz
+credits_voicehubert,Hubert the friendly tortoise,"Hubert, przyjazny żółw"
+credits_voicecupplayer,Cup Player / Genie / Gatekeeper,Gracz w kubki / Dżin / Strażnik bramy
+credits_voicesobu,Sobu the sage / Riddle Master,Sobu mędrzec / Mistrz Zagadek
+credits_voicealva,Alva the witch,Alva czarownica
+credits_voicerandompeasant,Male peasants,Chłopi
+credits_voicehubertsmom,Hubert’s Mom,Mama Huberta
+credits_voicebankclerk,Bank Clerk,Urzędnik bankowy
+credits_voicetheguards,Town Guards,Strażnicy miejscy
+credits_voicebarbara,Barber,Fryzjer
+credits_voicepawnshopclerk,Pawnshop Clerk,Pracownik lombardu
+credits_voicevanwampe,Van Wampe / Sculptor,Van Wampe / Rzeźbiarz
+credits_voicebard,Bard,Bard
+credits_voicepipefitter,Pipefitter,Hydraulik
+credits_voiceprincess,The Princess,Księżniczka
+credits_voicefemalepeasant,Female peasants,Chłopki
+credits_mayor,Mayor Knees / Citizens,Burmistrz Knees / Obywatele
+credits_additionalcode,Additional Code,Dodatkowy kod
+credits_backgroundgraphics,Background Graphics,Grafika tła
+credits_additionalgraphics,Additional Graphics,Dodatkowa grafika
+credits_animation,Animation,Animacja
+credits_additionalanimation,Additional Animation,Dodatkowa animacja
+credits_foleyartist,Foley Artist,Twórca dźwięków Foley
+credits_storyconsultant,Story Consultant,Konsultant fabuły
+credits_interns,Interns,Stażyści
+credits_communitymoderator,Community Moderator,Moderator społeczności
+credits_amcdirector,Director,Dyrektor
+credits_amcmarketingmanager,Marketing Manager,Kierownik marketingu
+credits_amcmarketingconsultant,Marketing Consultant,Konsultant marketingowy
+credits_amcvicepresident,Vice President of Games & Franchise,Wiceprezes ds. gier i marki
+credits_amcgames,AMC Games,AMC Games
+credits_amcchiefcommercialofficer,Chief Commercial Officer,Dyrektor ds. komercyjnych
+credits_amclegalandbusinessaffairs,Legal and Business Affairs,Sprawy prawne i biznesowe
+credits_amcdigitalprojectoperations,Digital Project Operations,Operacje projektów cyfrowych
+credits_amcpublicrelations,Public Relations,Public Relations
+credits_amcriskassessment,Risk Assessment,Ocena ryzyka
+credits_lionbridgetestdirector,Test Director,Dyrektor testów
+credits_lionbridgeglobalaccountdirector,Global Account Director,Globalny dyrektor ds. klientów
+credits_lionbridgetestmanager,Test Manager,Kierownik testów
+credits_lionbridgetestlead,Test Lead,Lider testów
+credits_lionbridgetestassociates,Test Associates,Testerzy
+credits_lionbridgegames,"Lionbridge Games - Warsaw, Poland","Lionbridge Games – Warszawa, Polska"
+credits_49onlocalizationmanagement,Localization Management,Zarządzanie lokalizacją
+credits_49onlocalspecialistspanish,Localization Specialist - Spanish (Spain),Specjalista ds. lokalizacji – hiszpański (Hiszpania)
+credits_49onlocalspecialistfrench,Localization Specialist - French,Specjalista ds. lokalizacji – francuski
+credits_49onlocalspecialistportuguese,Localization Specialist - Portuguese (Brazil),Specjalista ds. lokalizacji – portugalski (Brazylia)
+credits_49onlocalspecialistgerman,Localization Specialist - German,Specjalista ds. lokalizacji – niemiecki
+credits_turkishlocaby,Turkish Localization by Wordarch Studio,Lokalizacja turecka: Wordarch Studio
+credits_turkishlocaleadtranslator,Lead Translator,Główny tłumacz
+credits_turkishlocatranslator,Translator / Editor,Tłumacz / Redaktor
+credits_nativeprimeglobalprojectmanager,Global Project Manager,Globalny kierownik projektu
+credits_nativeprimebackupmanager,Backup Project Manager,Zastępca kierownika projektu
+credits_nativeprimeprojectmanagerchinese,Project Manager - Simplified Chinese,Kierownik projektu – chiński uproszczony
+credits_nativeprimetranslatorchinese,Translator - Simplified Chinese,Tłumacz – chiński uproszczony
+credits_nativeprimeproofreaderchinese,Proofreader - Simplified Chinese,Korektor – chiński uproszczony
+credits_nativeprimetranslatoritalian,Translator - Italian,Tłumacz – włoski
+credits_nativeprimeproofreaderitalian,Proofreader - Italian,Korektor – włoski
+credits_nativeprimeprojectmanagerrussian,Localization Project Manager - Russian,Kierownik projektu lokalizacji – rosyjski
+credits_nativeprimetranslatorrussian,Translator - Russian,Tłumacz – rosyjski
+credits_nativeprimeeditorrussian,Editor - Russian,Redaktor – rosyjski
+credits_nativeprimeproofreaderrussian,Proofreader - Russian,Korektor – rosyjski
+credits_nativeprimelocamanagerchinese,Localisation QA Manager - Simplified Chinese,Kierownik kontroli jakości lokalizacji – chiński uproszczony
+credits_nativeprimelocatesterchinese,Localisation QA Tester - Simplified Chinese,Tester kontroli jakości lokalizacji – chiński uproszczony
+credits_nativeprimelocamanagerrussian,Localisation QA Manager - Russian,Kierownik kontroli jakości lokalizacji – rosyjski
+credits_nativeprimelocaleadrussian,Localisation QA Lead - Russian,Lider kontroli jakości lokalizacji – rosyjski
+credits_nativeprimelocatesterrussian,Localisation QA Tester - Russian,Tester kontroli jakości lokalizacji – rosyjski
+credits_nativeprimetranslatorbrazilian,Translator - Portuguese (Brazil),Tłumacz – portugalski (Brazylia)
+credits_nativeprimeproofbrazilian,Proofreader - Portuguese (Brazil),Korektor – portugalski (Brazylia)
+credits_nativeprimetranslatorfrench,Translator - French,Tłumacz – francuski
+credits_nativeprimeprooffrench,Proofreader - French,Korektor – francuski
+credits_nativeprimetranslatorgerman,Translator - German,Tłumacz – niemiecki
+credits_nativeprimeproofgerman,Proofreader - German,Korektor – niemiecki
+credits_nativeprimetranslatorspanish,Translator - Spanish,Tłumacz – hiszpański
+credits_nativeprimeproofspanish,Proofreader - Spanish,Korektor – hiszpański
+credits_evolveceo,Chief Executive Officer,Dyrektor generalny
+credits_evolvecoo,Chief Operations Officer,Dyrektor operacyjny
+credits_evolveprspecialists,PR Specialists,Specjaliści PR
+credits_evolveseniorresearch,Senior Research Specialist,Starszy specjalista ds. badań
+credits_farmcommercialproducer,Commercial Producer,Producent komercyjny
+credits_farmcreativedirector,Creative Director,Dyrektor kreatywny
+credits_farmcreativelead,Creative Lead,Lider kreatywny
+credits_farmcaptureartist,Capture Artist & Editor,Specjalista nagrań i montażu
+credits_farmmotiongraphics,Motion Graphics,Grafika ruchoma
+credits_farmaudio,Audio,Dźwięk
+credits_farmstudiohead,Studio Head,Szef studia
+credits_farmproductiondirector,Production Director,Dyrektor produkcji
+credits_farmcreativeservicesdirector,Creative Services Director,Dyrektor usług kreatywnych
+credits_farmgroupoperationsdirector,Group Operations Director,Dyrektor operacyjny grupy
+credits_farmgroupcommercialdirector,Group Commercial Director,Dyrektor komercyjny grupy
+credits_arcusceo,Chief Executive Officer,Dyrektor generalny
+credits_arcusglobalclientdirector,Global Client Director,Globalny dyrektor ds. klientów
+credits_arcusprandaccountmanager,PR And Account Manager,Kierownik PR i obsługi klienta
+credits_arcusheadofsocialmediaengagement,Head Of Social Media Engagement,Szef ds. zaangażowania w social media
+credits_arcussenioraccountmanager,Senior Account Manager,Starszy kierownik ds. klienta
+credits_arcuschinesedevbusinessdevelopment,Chinese Dev Business Development,Rozwój biznesu – Chiny
+credits_arcuscommunitymanager,Community Manager,Community Manager
+credits_SwitchPorting,Nintendo Switch Porting,Port na Nintendo Switch
+menu_exitwarning,This will end the run. You will lose your current equipment and start back at the top next time you play.,To zakończy podejście. Stracisz obecny ekwipunek i następnym razem zaczniesz od nowa od góry.
+menu_savemessage,"Outside the tower, your game saves and you can return later to continue.","Poza wieżą gra się zapisuje i możesz później wrócić, aby kontynuować."
+menu_savemessage2,"However, time goes on and certain things will change once you exit or start another run.","Jednak czas płynie dalej i niektóre rzeczy się zmienią, gdy wyjdziesz lub zaczniesz nowe podejście."
+menu_savemessage3,"Items dropped on the ground can get stolen, so only drop them in safe areas. You can buy a house to store items.","Przedmioty upuszczone na ziemi mogą zostać skradzione, więc upuszczaj je tylko w bezpiecznych miejscach. Możesz kupić dom, aby przechowywać przedmioty."
+menu_savemessage4,You can start another run by going to the tavern.,"Możesz rozpocząć kolejne podejście, udając się do karczmy."
+menu_savemessage_all,"Outside the tower, your game saves and you can return later to continue. However, time goes on and certain things will change once you exit or start another run. Items dropped on the ground can get stolen, so only drop them in safe areas. You can buy a house to store items.","Poza wieżą gra się zapisuje i możesz później wrócić, aby kontynuować. Jednak czas płynie dalej i niektóre rzeczy się zmienią, gdy wyjdziesz lub zaczniesz nowe podejście. Przedmioty upuszczone na ziemi mogą zostać skradzione, więc upuszczaj je tylko w bezpiecznych miejscach. Możesz kupić dom, aby przechowywać przedmioty."
+hint_enterteleporter,Enter teleporter,Wejdź do teleportu
+hint_enterteleporteroneway,Enter teleporter  (one way),Wejdź do teleportu (w jedną stronę)
+hint_enterteleportercastle,Enter teleporter  (one way) This will end the run,Wejdź do teleportu (w jedną stronę). To zakończy podejście
+menu_continue,Continue,Kontynuuj
+row620,"And so, our great hero Evelius escaped Evelius's tower.","I tak oto nasz wielki bohater, Evelius, uciekł z wieży Eveliusa."
+row621,"The tavern-goers rejoiced at treating such a rare guest, and, against morals and all good sense, they partied together.","Bywalcy karczmy ucieszyli się, mogąc podjąć tak niezwykłego gościa, i wbrew moralności oraz wszelkiemu rozsądkowi, wspólnie balowali."
+row622,Kitchen,Kuchnia
+row623,Armory,Zbrojownia
+row624,Exit,Wyjście
+switch_hint_001,Drinking a potion twice results in the effect becoming permanent.,"Wypicie tej samej mikstury dwukrotnie sprawia, że jej efekt staje się trwały."
+switch_hint_002,"If you encounter a cauldron, you'll be able to brew almost any potion you need.","Jeśli natkniesz się na kocioł, będziesz mógł uwarzyć niemal każdą potrzebną miksturę."
+switch_hint_003,Blocked by a gate? Try throwing small items directly through it.,Blokuje cię brama? Spróbuj przerzucić przez nią mały przedmiot.
+switch_hint_004,"If you're nice to Evelius, he might let you leave without a fight.","Jeśli będziesz miły dla Eveliusa, może pozwoli ci odejść bez walki."
+switch_hint_005,Things you throw off the balcony can be collected in the village... if you make it out.,Rzeczy zrzucone z balkonu można odebrać w wiosce... jeśli uda ci się stamtąd wydostać.
+switch_hint_006,Sleeping monsters can easily be killed with long range weapons.,Śpiące potwory łatwo zabić bronią dystansową.
+switch_hint_007,You can poison weapons by hitting them with a poison potion.,"Możesz zatruć broń, uderzając ją miksturą trucizny."
+switch_hint_008,You can transform weapons by hitting them with a transformation potion.,"Możesz przemienić broń, uderzając ją miksturą przemiany."
+switch_hint_009,You can gild weapons by hitting them with a gold potion.,"Możesz pozłocić broń, uderzając ją miksturą złota."
+switch_hint_010,Anvils can be used to climb over gates.,"Kowadła można wykorzystać, aby przedostać się przez bramy."
+switch_hint_011,Mousetraps will eliminate monsters in walls that try to grab items.,"Pułapki na myszy wyeliminują potwory w ścianach, które próbują chwytać przedmioty."
+switch_hint_012,There are other ways besides keys to open locked chests...,Istnieją inne sposoby otwierania zamkniętych skrzyń niż klucze...
+switch_hint_013,Running hammermen slip on banana peels.,Biegnący młociarze poślizgną się na skórce od banana.
+switch_hint_014,Wooden cylinders with nails can be destroyed with brute force.,Drewniane walce z gwoźdźmi można zniszczyć samą siłą.
+switch_hint_015,Small slimes can be eaten. Tasty!,Małe szlamy można zjeść. Pycha!
+switch_hint_016,"Drinking or eating will cure poisoning. Except for broccoli, which will make it worse.","Picie lub jedzenie leczy zatrucie. Z wyjątkiem brokuła, który tylko je pogarsza."
+switch_hint_017,Regular monsters and brooms can be transformed back to their human form with an antidote.,Zwykłe potwory i miotły można antidotum przemienić z powrotem w ludzi.
+switch_hint_018,Armor and shields can oftentimes be repaired with a fitting hammer.,Zbroję i tarcze można często naprawić odpowiednim młotem.
+switch_hint_019,You can equip big powderkegs as armor.,Możesz założyć duże beczki prochu jako zbroję.
+switch_hint_020,Peasants will always grab items with the best stats.,Chłopi zawsze chwytają przedmioty o najlepszych statystykach.
+switch_hint_021,There's a hidden treasure somewhere in the caves... can you find (and open) it?,Gdzieś w jaskiniach ukryty jest skarb... czy uda ci się go znaleźć (i otworzyć)?
+switch_hint_022,You can meet a monstrous princess in the tower that can be your companion.,"W wieży możesz spotkać potworną księżniczkę, która może zostać twoją towarzyszką."
+switch_hint_023,You can shake money and gear off enemies... or your companions. They might not like it though.,Możesz wytrząsnąć pieniądze i ekwipunek z wrogów... albo z towarzyszy. Mogą się jednak nie ucieszyć.
+switch_hint_024,"A regular pouch can hold 20 coins, but you can also find a larger one with a capacity of 100.","Zwykły mieszek pomieści 20 monet, ale możesz też znaleźć większy, mieszczący 100."
+switch_hint_025,You can also hold a shield in your offhand to block damage.,"Możesz też trzymać tarczę w drugiej ręce, aby blokować obrażenia."
+switch_hint_026,A lot of monsters are sensitive to loud sounds and can be scared off.,Wiele potworów jest wrażliwych na głośne dźwięki i można je odstraszyć.
+switch_hint_027,You can put corpses on spikes or hooks to dismantle them.,"Możesz nadziewać zwłoki na kolce lub haki, aby je rozłożyć na części."
+switch_hint_028,"Some objects are perfect for throwing, like discs that you get from crushing metal items.","Niektóre przedmioty świetnie nadają się do rzucania, jak dyski, które uzyskasz, miażdżąc metalowe przedmioty."
+switch_hint_029,"If you put food in front of a small hole, a rat will come out.","Jeśli położysz jedzenie przed małą dziurą, wyjdzie z niej szczur."
+switch_hint_030,Furnaces can turn metal items and discs into better variants.,Piece mogą przemienić metalowe przedmioty i dyski w lepsze warianty.
+switch_hint_031,"If the game seems too hard, you can try switching to peasant mode!","Jeśli gra wydaje się zbyt trudna, spróbuj przełączyć się na tryb chłopski!"
+switch_hint_032,"The pawn shop will initially purchase items at full price, but after that sales will only give half value.","Lombard początkowo skupuje przedmioty w pełnej cenie, ale później sprzedaż daje tylko połowę wartości."
+switch_hint_033,Small objects on a floor with three doors give clues about what's inside...,"Małe przedmioty na piętrze z trzema drzwiami dają wskazówki, co jest w środku..."
+barkeep_evelius_ruin_restart,Master! I stole one of these drinks to bring you back to life! Take this!,"Panie! Ukradłem jeden z tych trunków, żeby przywrócić cię do życia! Masz, weź to!"
+barkeep_evelius_ruin_restart2,Hnnnngg! Yesss. I can feel my power returning! Haha!,"Hnnnngg! Tak... Czuję, jak wraca moja moc! Haha!"
+barkeep_evelius_ruin_restart3,Now I'll use my mightiest spell to turn back time and restore the tower to its evil glory!,"Teraz użyję swojego najpotężniejszego zaklęcia, by cofnąć czas i przywrócić wieży jej złowrogą świetność!"
+switch_fpsbutton,Stable Framerate (30 FPS),Stabilna liczba klatek (30 FPS)
+switch_fpsbutton_explanation,Locks the game to 30 FPS for a more consistent experience.,Ogranicza grę do 30 FPS dla bardziej stabilnego działania.
+confirmation_dontask,Don’t ask again,Nie pytaj ponownie
