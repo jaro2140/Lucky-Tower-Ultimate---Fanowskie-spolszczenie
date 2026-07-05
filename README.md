@@ -22,12 +22,13 @@ Lucky Tower Ultimate to absurdalna, czarnohumorystyczna gra roguelite/przygodowa
 ## Postęp
 | Etap | Status |
 |------|--------|
-| Teksty | ✅ 100.0% (8480 / 8480 linii) |
+| Teksty | ⏳ ~90% |
 | Menu i UI | ✅ przetłumaczone |
-| Paczka testowa | ✅ działa w grze |
+| Czcionki | ⏳ ~90% | 
+| Drobne błędy tekstowe (odstępy, literówki) | ⏳ ~80% |
+| Paczka testowa | ✅ dostępna |
 | Polski jako osobny język | ⏳ wariant testowy: polski w slocie `tr` |
 | Osobny przycisk "Polski" w menu | 📋 planowane |
-| Poprawne polskie znaki w kolorowych dialogach | 📋 planowane — naprawa czcionek |
 
 
 ## Jak to działa
@@ -41,8 +42,8 @@ Aktualny wariant testowy używa slotu **tureckiego** (`tr`) jako polskiego.
 
 ## Instalacja
 Paczka z gotowym tłumaczeniem będzie publikowana w zakładce **Releases**,
-gdy patch przejdzie stabilne testy w grze — tłumaczenie tekstów jest ukończone,
-ale projekt nadal wymaga QA i dopracowania fontów.
+gdy patch przejdzie stabilne testy w grze — czcionki i większość tekstów
+działają już poprawnie.
 
 Release będzie dostępny:
 1. Pobierz paczkę z *Releases* i rozpakuj pliki
