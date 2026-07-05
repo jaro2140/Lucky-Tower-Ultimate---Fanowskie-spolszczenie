@@ -3,6 +3,8 @@
 Nieoficjalne spolszczenie gry **Lucky Tower Ultimate** (Studio Seufz).
 Potrzebujesz **legalnie posiadanej kopii** gry (Steam).
 
+## Podoba Ci się to co robie?
+Postaw mi kawe! - https://buymeacoffee.com/jaro2140
 
 ## Po co to jest?
 Lucky Tower Ultimate to absurdalna, czarnohumorystyczna gra roguelite/przygodowa w klimacie średniowiecznego fantasy, ale oficjalnie dostępna jest tylko w kilku językach (bez polskiego). Ten projekt to:
