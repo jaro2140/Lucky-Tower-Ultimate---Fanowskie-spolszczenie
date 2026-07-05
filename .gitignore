@@ -11,6 +11,7 @@ patches/*
 
 # Wewnetrzny glosariusz/wytyczne - nie publikowane w repo
 STYLE_GUIDE.md
+patches/README.md
 
 # Tworzone lokalnie przez instalatory
 backup/
