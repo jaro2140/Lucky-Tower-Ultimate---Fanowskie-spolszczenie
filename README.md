@@ -10,25 +10,28 @@ Postaw mi kawe! - https://buymeacoffee.com/jaro2140
 Lucky Tower Ultimate to absurdalna, czarnohumorystyczna gra roguelite/przygodowa w klimacie średniowiecznego fantasy, ale oficjalnie dostępna jest tylko w kilku językach (bez polskiego). Ten projekt to:
 - **Fanowski patch językowy** — polskie dialogi, opisy przedmiotów i teksty interfejsu
 - **Tłumaczenie z zachowaniem klimatu** — czarny humor, slapstick, ironia, a nie tłumaczenie słowo w słowo
-- **Instalator** — Linux / SteamOS (macOS / Windows w planach)
+- **Instalator** — macOS / Linux / SteamOS / Windows
 
 
 ## Status
-**Wersja ALPHA — tłumaczenie działa w grze, ale projekt nadal jest w trakcie prac**
+**Wersja ALPHA — aktualny build testowy jest przygotowany pod Lucky Tower Ultimate V1.1**
 
 
 ## Skala
-- **8480** unikalnych linii dialogów i tekstów do przetłumaczenia, w **48** tabelach językowych
+- Patch wstawia tłumaczenia do **48** tabel językowych oraz runtime'owej bazy `LocaDatabase.ltu`
+- Aktualny build podmienia **17 867** wpisów tekstowych w slocie `tr`
+- Dodatkowo patchowane są statyczne teksty Unity, które nie siedzą w zwykłych tabelach lokalizacji
 
 
 ## Postęp
 | Etap | Status |
 |------|--------|
-| Teksty | ⏳ ~90% |
+| Teksty główne | ✅ większość przetłumaczona |
 | Menu i UI | ✅ przetłumaczone |
-| Czcionki | ⏳ ~90% | 
-| Drobne błędy tekstowe (odstępy, literówki) | ⏳ ~80% |
-| Paczka testowa | ✅ dostępna |
+| Statyczne teksty Unity | ✅ patchowane |
+| Czcionki PL | ✅ główne fonty i menu po ostatniej poprawce |
+| Drobne błędy tekstowe (odstępy, literówki) | ⏳ testy trwają |
+| Paczka testowa V1.1 | ✅ dostępna |
 | Polski jako osobny język | ⏳ wariant testowy: polski w slocie `tr` |
 | Osobny przycisk "Polski" w menu | 📋 planowane |
 
@@ -43,19 +46,34 @@ Aktualny wariant testowy używa slotu **tureckiego** (`tr`) jako polskiego.
 
 
 ## Instalacja
-Paczka z gotowym tłumaczeniem będzie publikowana w zakładce **Releases**,
-gdy patch przejdzie stabilne testy w grze — czcionki i większość tekstów
-działają już poprawnie.
+Aktualna paczka testowa:
 
-Release będzie dostępny:
-1. Pobierz paczkę z *Releases* i rozpakuj pliki
-2. Uruchom `.\install-pl.sh` (Linux / SteamOS; wykrywa instalację Steam automatycznie,
-   w razie potrzeby wskaż ścieżkę w pliku `game-path.env` — patrz `game-path.env.example`).
+```text
+Lucky_Tower_Ultimate_PL_TR_SLOT_patch.zip
+```
+
+1. Pobierz paczkę z **Releases** i rozpakuj ją w dowolnym folderze.
+2. Uruchom instalator dla swojego systemu:
+   - macOS / Linux / SteamOS: `./install-pl.sh`
+   - Windows: `powershell -ExecutionPolicy Bypass -File install-pl.ps1`
 3. Wybierz w grze język **turecki** — ten slot jest używany jako polski. Przetłumaczone
    linie pojawią się po polsku, reszta zostaje po angielsku (patrz sekcja wyżej).
-4. Weryfikacja: `.\verify-install.sh`. Przywrócenie oryginału: `.\restore-en.sh`.
+4. Weryfikacja:
+   - macOS / Linux / SteamOS: `./verify-install.sh`
+   - Windows: `powershell -ExecutionPolicy Bypass -File verify-install.ps1`
+5. Przywrócenie oryginału:
+   - macOS / Linux / SteamOS: `./uninstall-pl.sh`
+   - Windows: `powershell -ExecutionPolicy Bypass -File uninstall-pl.ps1`
 
 Instalator zawsze robi kopię zapasową oryginalnych plików przed podmianą (folder `backup/`).
+
+
+## Ostatnia aktualizacja
+- Dostosowano patch do Lucky Tower Ultimate **V1.1**.
+- Poprawiono polskie znaki w głównym menu i menu pauzy, m.in. `Zakończ`, `Dźwięk`, `Potwierdź`.
+- Poprawiono deklaracje Unicode/CodePage w fontach PL, żeby Unity nie brało polskich znaków z fallbacku.
+- Dodano patchowanie statycznych tekstów Unity poza zwykłymi tabelami lokalizacji.
+- Paczka ZIP zawiera instalatory dla macOS/Linux/SteamOS oraz Windows.
 
 
 ## Disclaimer
