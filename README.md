@@ -1,7 +1,7 @@
 # Lucky Tower Ultimate - Fanowskie spolszczenie
 
 Nieoficjalne spolszczenie gry **Lucky Tower Ultimate** (Studio Seufz).
-Potrzebujesz **legalnie posiadanej kopii** gry (Steam).
+Potrzebujesz **legalnie posiadanej kopii** gry (Steam/GoG/Pozostałe).
 
 ## Podoba Ci się to co robie?
 Postaw mi kawe! - https://buymeacoffee.com/jaro2140
@@ -29,9 +29,8 @@ Lucky Tower Ultimate to absurdalna, czarnohumorystyczna gra roguelite/przygodowa
 | Teksty główne | ✅ większość przetłumaczona |
 | Menu i UI | ✅ przetłumaczone |
 | Statyczne teksty Unity | ✅ patchowane |
-| Czcionki PL | ✅ główne fonty i menu po ostatniej poprawce |
+| Czcionki PL | ⏳ główne fonty i menu w trakcie naprawy |
 | Drobne błędy tekstowe (odstępy, literówki) | ⏳ testy trwają |
-| Paczka testowa V1.1 | ✅ dostępna |
 | Polski jako osobny język | ⏳ wariant testowy: polski w slocie `tr` |
 | Osobny przycisk "Polski" w menu | 📋 planowane |
 
@@ -65,15 +64,7 @@ Lucky_Tower_Ultimate_PL_TR_SLOT_patch.zip
    - macOS / Linux / SteamOS: `./uninstall-pl.sh`
    - Windows: `powershell -ExecutionPolicy Bypass -File uninstall-pl.ps1`
 
-Instalator zawsze robi kopię zapasową oryginalnych plików przed podmianą (folder `backup/`).
-
-
-## Ostatnia aktualizacja
-- Dostosowano patch do Lucky Tower Ultimate **V1.1**.
-- Poprawiono polskie znaki w głównym menu i menu pauzy, m.in. `Zakończ`, `Dźwięk`, `Potwierdź`.
-- Poprawiono deklaracje Unicode/CodePage w fontach PL, żeby Unity nie brało polskich znaków z fallbacku.
-- Dodano patchowanie statycznych tekstów Unity poza zwykłymi tabelami lokalizacji.
-- Paczka ZIP zawiera instalatory dla macOS/Linux/SteamOS oraz Windows.
+Instalator zawsze robi kopię zapasową oryginalnych plików przed podmianą (folder `backup/)
 
 
 ## Disclaimer
