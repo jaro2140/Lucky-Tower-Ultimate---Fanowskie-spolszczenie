@@ -34,9 +34,9 @@ wanst_banker_cellar_1_1_f,"Hey, are you the cellar seller?","Hej, jesteście spr
 wanst_banker_cellar_1_2_a,Yes. #0.70 We do underground business.,Tak. #0.70 Prowadzimy podziemny interes.
 wanst_banker_cellar_1_2_b,Of course. #0.70 We also do cellaring.,Oczywiście. #0.70 Zajmujemy się też piwnicowaniem.
 wanst_banker_cellar_1_2_c,We also sell cellars. #1.80 Sure!,Sprzedajemy też piwnice. #1.80 Jasne!
-wanst_banker_house_1_3_a,Interested?,Zainteresowany?
-wanst_banker_house_1_3_b,Deal?,Umowa stoi?
-wanst_banker_house_1_3_c,How does that sound?,Jak to brzmi?
+wanst_banker_cellar_1_3_a,Interested?,Zainteresowany?
+wanst_banker_cellar_1_3_b,Deal?,Umowa stoi?
+wanst_banker_cellar_1_3_c,How does that sound?,Jak ci się to podoba?
 wanst_banker_upgrade_cellar_1_1_a,Cellar upgrade please!,Poproszę ulepszenie piwnicy!
 wanst_banker_upgrade_cellar_1_1_b,"Can you dig another dark space below my house, #2.50 so I can make sure I stay pale?","Możecie wykopać jeszcze jedną ciemną przestrzeń pod moim domem, #2.50 żebym mógł zapewnić sobie bladość?"
 wanst_banker_upgrade_cellar_1_1_c,I'm enjoying my cellar space so much. #2.50 Can I get another one?,Tak bardzo cieszy mnie moja piwnica. #2.50 Mogę dostać jeszcze jedną?
@@ -50,9 +50,9 @@ wanst_banker_upgrade_cellar_1_2_d,"We'll dig on your behalf. #1.70 No problem! #
 wanst_banker_cellar_accept_1_1,Okay. #0.60 I cave in!,Okej. #0.60 Poddaję się w jaskini!
 wanst_banker_cellar_accept_2_1,Being a cave man #1.20 turned me into my new self: #3.00 a cave fan!,Bycie jaskiniowcem #1.20 zmieniło mnie w nowego mnie: #3.00 fana jaskiń!
 wanst_banker_cellar_accept_3_1,Down we go!,W dół więc!
-wanst_banker_house_accept_1_1,Gimme that!,Dawaj to!
-wanst_banker_house_accept_2_1,I'll take it!,Wezmę to!
-wanst_banker_house_accept_4_1,Take my money!,Weź moje pieniądze!
+wanst_banker_cellar_accept_4_1,Gimme that!,Dawaj to!
+wanst_banker_cellar_accept_5_1,I'll take it!,Biorę!
+wanst_banker_cellar_accept_6_1,Take my money!,Weźcie moje pieniądze!
 wanst_banker_cellar_success_1_1,Okay! #1.00 Your damp and dark space #3.00 is ready to be enjoyed!,Okej! #1.00 Twoja wilgotna i mroczna przestrzeń #3.00 jest gotowa do użytku!
 wanst_banker_cellar_success_2_1,"Okay my friend, #1.50 it's time to start living! #3.50 Pleasure doing business with you.","Okej, przyjacielu, #1.50 czas zacząć żyć! #3.50 Przyjemnie się z tobą robiło interesy."
 wanst_banker_cellar_success_3_1,"Your cave is ready for you, sire.","Twoja jaskinia jest gotowa, panie."

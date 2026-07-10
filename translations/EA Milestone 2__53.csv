@@ -111,13 +111,13 @@ wanst_bard_drop_3_1,Want to give this a try?,Chcesz tego spróbować?
 wanst_bard_newinstrument_1_1,How delightful— #1.50 my gratitude is yours!,Jakże rozkosznie— #1.50 moja wdzięczność należy do ciebie!
 wanst_bard_newinstrument_2_1,"Truly, you are a champion of artistry and grace!","Zaprawdę, jesteś czempionem artyzmu i gracji!"
 wanst_bard_newinstrument_3_1,You are a true supporter of the arts!,Jesteś prawdziwym mecenasem sztuki!
-//anim break,Bard plays a little.,Bard gra przez chwilę.
+//anim break,Bard plays a little.,"Bard odchodzi, grając na swoim nowym instrumencie. Jeśli pójdziesz jego śladem do tawerny, znajdziesz szlak przedmiotów, które ludzie w niego rzucali."
 row158,"A window nearby opens, someone throws an item at the bard. The bard is startled. Someone shouts:","W pobliżu otwiera się okno, ktoś rzuca przedmiotem w barda. Bard się wzdryga. Ktoś krzyczy:"
 wanst_bard_windowthrow_1_1,Stop this ruckus! #1.50 Shush!,Przestań z tym hałasem! #1.50 Cicho!
 wanst_bard_windowthrow_2_1,Bugger off!,Spadaj!
 wanst_bard_windowthrow_3_1,I hate jazz!,Nienawidzę jazzu!
 wanst_bard_windowthrow_4_1,Have mercy on my eardrums!,Zlituj się nad moimi bębenkami!
-//anim break?,Bard hides the instrument in his home,Bard chowa instrument w swoim domu
+//anim break?,Bard hides the instrument in his home,Gra nutę. Brzmi „intensywnie”.
 wanst_bard_wrapup_1_1,"What a tough crowd. #2.00 Perhaps they want something more avant-garde? #5.50 If you happen to find a different instrument, #7.50 I'd love to give it another try.","Co za trudna publiczność. #2.00 Może chcą czegoś bardziej awangardowego? #5.50 Jeśli znajdziesz inny instrument, #7.50 chętnie spróbuję jeszcze raz."
 wanst_bard_wrapup_2_1,"Umm, #1.00 seems like they don't enjoy the dulcet tones of this one. #4.50 I will need something else... #6.00 an instrument that will please their acquired taste.","Umm, #1.00 wygląda na to, że nie podobają im się słodkie tony tego instrumentu. #4.50 Będę potrzebował czegoś innego... #6.00 instrumentu, który zadowoli ich wyrobiony gust."
 wanst_bard_wrapup_3_1,"I'm starting to feel that is not the sound of this city. #4.50 If you come across a different instrument, #7.50 they'll surely enjoy it more.","Zaczynam czuć, że to nie jest brzmienie tego miasta. #4.50 Jeśli natkniesz się na inny instrument, #7.50 na pewno spodoba im się bardziej."
@@ -127,7 +127,7 @@ wanst_bard_oldinstrument_2_1,"Um, I tried that one before. #3.00 The crowd hated
 wanst_bard_oldinstrument_3_1,I almost got killed for playing that one. #3.00 This crowd wants something fresh and new.,Prawie mnie zabili za granie na tym. #3.00 Ta publiczność chce czegoś świeżego i nowego.
 wanst_bard_finalinstrument_1_1,"Ooooh, I just had an idea!","Ooooch, właśnie wpadłem na pomysł!"
 wanst_bard_finalinstrument_1_2,Nice... #0.70 I like ideas!,Ładnie... #0.70 Lubię pomysły!
-//anim break,Bard assembles masterinstrument.,Bard składa arcyinstrument.
+//anim break,Bard assembles masterinstrument.,"Bard odchodzi, grając na swoim nowym instrumencie. Jeśli pójdziesz jego śladem do tawerny, znajdziesz szlak przedmiotów, które ludzie w niego rzucali."
 wanst_bard_masterstart_1_1,Look at this: #1.20 I assembled it from all the other instruments! #4.00 Now we'll play the true avant-garde sounds #7.00 this city craves.,"Spójrz na to: #1.20 złożyłem go ze wszystkich innych instrumentów! #4.00 Teraz zagramy prawdziwie awangardowe dźwięki, #7.00 których pragnie to miasto."
 //anim break?,"Plays a note. It sounds ""intense"".",Gra nutę. Brzmi „intensywnie”.
 row187,"A window nearby opens, someone throws an item at the bard. The bard is startled. Someone shouts:","W pobliżu otwiera się okno, ktoś rzuca przedmiotem w barda. Bard się wzdryga. Ktoś krzyczy:"

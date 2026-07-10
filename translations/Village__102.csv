@@ -113,7 +113,7 @@ wanst_barber_dontbuy_1_1_c,"Uuuuuuuh, changed my mind. #2.50 Sorry.","Uuuuuuuh, 
 wanst_barber_dontbuy_1_2_a,"Ok. #1.00 You could use a new style... #3.00 ...if you ask me, though...","Ok. #1.00 Przydałby ci się nowy styl... #3.00 ...tak w ogóle, gdybyś pytał..."
 wanst_barber_dontbuy_1_2_b,Alright. You know where to find me.,"Dobrze. Wiesz, gdzie mnie znaleźć."
 wanst_barber_dontbuy_1_2_c,Fine.,Dobra.
-wanst_barber_random_3_1,Time for a change!,Czas na zmianę!
+wanst_mirror_enter_1_1,Time for a change!,Czas na zmianę!
 row133,after barbershop sequence?,po sekwencji u fryzjera?
 wanst_barber_finish_1_1_a,Et voilà!,Et voilà!
 wanst_barber_finish_1_1_b,Say hello to the new you!,Przywitaj się z nowym sobą!
@@ -168,7 +168,7 @@ wanst_pawnshop_buyfail_1_1_c,I'll take it if you give me a 50% discount. #2.70 '
 wanst_pawnshop_buyfail_1_2_a,"I didn't have much money at your age, either. #3.00 Don't worry, son.","W twoim wieku też nie miałem dużo pieniędzy. #3.00 Nie martw się, synu."
 wanst_pawnshop_buyfail_1_2_b,"Well, I'm afraid I can't help you, then...","Cóż, w takim razie obawiam się, że nie mogę ci pomóc..."
 wanst_pawnshop_buyfail_1_2_c,"Easy, son. #1.20 Let me know when you come into some money.","Spokojnie, synu. #1.20 Daj znać, gdy wpadną ci jakieś pieniądze."
-wanst_pawnshop_sellaccept_1_1_a,Deal!,Umowa stoi!
+wanst_pawnshop_buysuccess_1_1,Deal!,Umowa stoi!
 wanst_pawnshop_buysuccess_2_1,Gimme that!,Dawaj to!
 wanst_pawnshop_buysuccess_3_1,Huzzah!,Hurra!
 wanst_pawnshop_buywrapup_1_1_a,"Take good care of that, son.","Dbaj o to dobrze, synu."

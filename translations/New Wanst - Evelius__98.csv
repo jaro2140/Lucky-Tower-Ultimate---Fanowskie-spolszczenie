@@ -80,7 +80,7 @@ wanst_headroom_bycocket_1_1,A bycocket.,Szpiczasty kapelusz.
 wanst_headroom_onion_1_1,An onion.,Cebula.
 wanst_headroom_featheryhat_1_1,A feathery hat.,Pierzasty kapelusz.
 wanst_headroom_propellerhat_1_1,A Propeller Hat.,Czapka ze śmigiełkiem.
-wanst_headroom_peasantcap_1_1,A cap.,Czapka.
+wanst_headroom_cap_1_1,A cap.,Czapka.
 wanst_headroom_fishermanshat_1_1,A fisherman’s hat.,Kapelusz rybaka.
 wanst_headroom_hornedhelmet_1_1,A horned helmet.,Rogaty hełm.
 wanst_headroom_pantsonastick_1_1,Pants on a stick.,Spodnie na patyku.
@@ -184,7 +184,7 @@ evtutorial_interr_yeahwhatever,"Yeah, whatever!","Ta, nieważne!"
 evtutorial_interr_ignoringmyinstructions,Ignoring my instructions? I like your style!,Ignorujesz moje instrukcje? Podoba mi się twój styl!
 evtutorial_interr_alreadyknew,"Alright, well I guess you already knew how to do that.","Dobrze, chyba już wiedziałeś, jak to zrobić."
 wanst_encounter_sobucorpse_1_1,"You were like a grandfather to me, #2.00 bald one.","Byłeś dla mnie jak dziadek, #2.00 łysy."
-wanst_encounter_sobucorpse_2_1,Be assured: #1.10 Your wisdom will live on within me.,Bądź pewien: #1.10 Twoja mądrość będzie żyć we mnie.
+wanst_encounter_sobucorpse_2_1,Be assured: #1.10 Your wisdom will live on within me.,Bądź pewien: #1.10 twoja mądrość będzie żyć we mnie.
 wanst_encounter_sobucorpse_3_1,"Rest in piece, Sage. #1.80 Your shiny head was a reflection of your brilliance.","Spoczywaj w kawałku, mędrcze. #1.80 Twoja lśniąca głowa odbijała twój blask umysłu."
 wanst_attack_sobucorpse_1_1,This bald head is rock-solid!,Ta łysa głowa jest twarda jak skała!
 wanst_attack_sobucorpse_2_1,Headbutt!,Z główki!
@@ -702,42 +702,42 @@ wanst_eat_gross_5_1,This tastes like grandma!,To smakuje jak babcia!
 wanst_potionvillage_generic_1_1,Not in the village...,Nie w wiosce...
 wanst_potionvillage_generic_2_1,Can't do that here... the village code forbids it...,Nie mogę tego tutaj zrobić... kodeks wioski zabrania...
 wanst_potionvillage_generic_3_1,That's against the village rules...,To wbrew zasadom wioski...
-wanst_drop_witchcorpse_2_1,Rest in peace.,Spoczywaj w pokoju.
-wanst_drop_witchcorpse_2_1,Rest in peace.,Spoczywaj w pokoju.
-wanst_drop_randocorpse_1_1,"Good night, sweet prince.","Dobranoc, słodki książę."
-wanst_attack_sobucorpse_1_1,This bald head is rock-solid!,Ta łysa głowa jest twarda jak skała!
-wanst_attack_sobucorpse_2_1,Headbutt!,Z główki!
-wanst_attack_sobucorpse_3_1,Gramps against cramps!,Dziadek kontra skurcze!
-wanst_attack_witchcorpse_1_1,Ding dong!,Ding dong!
-wanst_attack_witchcorpse_3_1,Witch attack!,Atak czarownicą!
-wanst_attack_hubertsshell_1_1,This is a surprisingly resilient weapon.,To zaskakująco wytrzymała broń.
-wanst_attack_hubertsshell_2_1,Turtletack!,Żółwiatak!
-wanst_attack_witchcorpse_1_1,Ding dong!,Ding dong!
-wanst_attack_witchcorpse_3_1,Witch attack!,Atak czarownicą!
-wanst_attack_randocorpse_3_1,Revenge!,Zemsta!
-wanst_encounter_alvacorpse_1_1,My old gal Al...,Moja stara Al...
-wanst_encounter_alvacorpse_2_1,My old drinking buddy Al...,Moja stara kumpela od kielicha Al...
-wanst_encounter_alvacorpse_3_1,Poor Al...,Biedna Al...
-wanst_encounter_randocorpse_2_1,Help! There's a murderer on the loose!,Pomocy! Morderca jest na wolności!
-wanst_encounter_randocorpse_3_1,We need a doctor over here!,Potrzebujemy tu lekarza!
-wanst_encounter_randocorpse_4_1,Medic!,Medyk!
-wanst_pickup_randocorpse_1_1,This means revenge!,To oznacza zemstę!
-wanst_pickup_randocorpse_2_1,What a way to go!,Co za sposób na odejście!
-wanst_pickup_randocorpse_3_1,Buhuhu...,Buhuhu...
-wanst_pickup_randocorpse_4_1,I swear I'll find the person who did that!,"Przysięgam, znajdę osobę, która to zrobiła!"
-wanst_encounter_sobucorpse_1_1,"You were like a grandfather to me, bald one.","Byłeś dla mnie jak dziadek, łysy."
-wanst_encounter_sobucorpse_2_1,Be assured: Your wisdom will live on within me.,Bądź pewien: twoja mądrość będzie żyć we mnie.
-wanst_encounter_sobucorpse_3_1,"Rest in piece, Sage. Your shiny head was a reflection of your brilliance.","Spoczywaj w kawałku, mędrcze. Twoja lśniąca głowa odbijała twój blask umysłu."
-wanst_encounter_randocorpse_2_1,Help! There's a murderer on the loose!,Pomocy! Morderca jest na wolności!
-wanst_encounter_randocorpse_3_1,We need a doctor over here!,Potrzebujemy tu lekarza!
-wanst_encounter_randocorpse_4_1,Medic!,Medyk!
-wanst_pickup_randocorpse_1_1,This means revenge!,To oznacza zemstę!
-wanst_pickup_randocorpse_2_1,What a way to go!,Co za sposób na odejście!
-wanst_pickup_randocorpse_3_1,Buhuhu...,Buhuhu...
-wanst_pickup_randocorpse_4_1,I swear I'll find the person who did that!,"Przysięgam, znajdę osobę, która to zrobiła!"
-wanst_unhide_generic_1_1,I'm back!,Wróciłem!
-wanst_leave_hammerguyhole_1_1,"Hey, I'm back!","Hej, wróciłem!"
-wanst_gambler_playerpoint_3_1,Hell yeah!,No piekielnie!
-wanst_equip_turbotshelmet_1_1,Huzzah!,Hura!
-wanst_headroom_apple_1_1,An apple.,Jabłko.
-wanst_headroom_apple_1_1,An apple.,Jabłko.
+wanst_drop_alvacorpse_1_1,Rest in peace.,Spoczywaj w pokoju.
+wanst_drop_sobucorpse_1_1,Rest in peace.,Spoczywaj w pokoju.
+wanst_drop_sobucorpse_2_1,"Good night, sweet prince.","Dobranoc, słodki książę."
+wanst_attack_sobu_1_1,This bald head is rock-solid!,Ta łysa głowa jest twarda jak skała!
+wanst_attack_sobu_2_1,Headbutt!,Z główki!
+wanst_attack_sobu_3_1,Gramps against cramps!,Dziadek kontra skurcze!
+wanst_attack_alva_1_1,Ding dong!,Ding dong!
+wanst_attack_alva_2_1,Witch attack!,Atak czarownicą!
+wanst_attack_hubert_1_1,This is a surprisingly resilient weapon.,Zaskakująco wytrzymała ta broń.
+wanst_attack_hubert_2_1,Turtletack!,Żółwiatak!
+wanst_attack_alvacorpse_1_1,Ding dong!,Ding dong!
+wanst_attack_alvacorpse_2_1,Witch attack!,Atak czarownicą!
+wanst_attack_alvacorpse_3_1,Revenge!,Zemsta!
+wanst_pickup_alvacorpse_1_1,My old gal Al...,Moja stara Al...
+wanst_pickup_alvacorpse_2_1,My old drinking buddy Al...,Moja stara kumpela od kielicha Al...
+wanst_pickup_alvacorpse_3_1,Poor Al...,Biedna Al...
+wanst_pickup_alvacorpse_4_1,Help! There's a murderer on the loose!,Na pomoc! Morderca na wolności!
+wanst_pickup_alvacorpse_5_1,We need a doctor over here!,Potrzebujemy tu lekarza!
+wanst_pickup_alvacorpse_6_1,Medic!,Medyk!
+wanst_pickup_alvacorpse_7_1,This means revenge!,To oznacza zemstę!
+wanst_pickup_alvacorpse_8_1,What a way to go!,Co za sposób na odejście!
+wanst_pickup_alvacorpse_9_1,Buhuhu...,Buhuhu...
+wanst_pickup_alvacorpse_10_1,I swear I'll find the person who did that!,"Przysięgam, znajdę osobę, która to zrobiła!"
+wanst_pickup_sobucorpse_1_1,"You were like a grandfather to me, bald one.","Byłeś mi jak dziadek, łysolu."
+wanst_pickup_sobucorpse_2_1,Be assured: Your wisdom will live on within me.,Bądź spokojny: twoja mądrość będzie żyła we mnie dalej.
+wanst_pickup_sobucorpse_3_1,"Rest in piece, Sage. Your shiny head was a reflection of your brilliance.","Spoczywaj w pokoju, Mędrcze. Twoja lśniąca głowa była odbiciem twojego geniuszu."
+wanst_pickup_sobucorpse_4_1,Help! There's a murderer on the loose!,Na pomoc! Morderca na wolności!
+wanst_pickup_sobucorpse_5_1,We need a doctor over here!,Potrzebujemy tu lekarza!
+wanst_pickup_sobucorpse_6_1,Medic!,Medyk!
+wanst_pickup_sobucorpse_7_1,This means revenge!,To oznacza zemstę!
+wanst_pickup_sobucorpse_8_1,What a way to go!,Co za sposób na odejście!
+wanst_pickup_sobucorpse_9_1,Buhuhu...,Buhuhu...
+wanst_pickup_sobucorpse_10_1,I swear I'll find the person who did that!,"Przysięgam, znajdę osobę, która to zrobiła!"
+wanst_escapetower_1_1_a,I'm back!,Wróciłem!
+wanst_escapetower_1_1_b,"Hey, I'm back!","Hej, wróciłem!"
+wanst_escapetower_1_2_a,Hell yeah!,"Kurde, tak!"
+wanst_escapetower_1_2_b,Huzzah!,Hura!
+wanst_headroom_apple2_1_1,An apple.,Jabłko.
+wanst_headroom_apple3_1_1,An apple.,Jabłko.

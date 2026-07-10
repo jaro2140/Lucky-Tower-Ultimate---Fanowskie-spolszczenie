@@ -1,13 +1,13 @@
 key,en,pl
-wanst_excito_address_perfect_1_1,Another adventurer?,Kolejny poszukiwacz przygód?
-wanst_sobu_address_perfect_1_2,Why hello there. #1.30 Care to help out an old chum?,"No proszę, witaj. #1.30 Pomożesz staremu druhowi?"
-wanst_excito_address_perfect_2_1,Hello there random person!,"Witaj, przypadkowa osobo!"
-wanst_sobu_address_perfect_2_2,"I might have something for you then, young fop.","W takim razie mam coś dla ciebie, młokosie."
 wanst_sobu_address_perfect_1_1,Another adventurer?,Kolejny poszukiwacz przygód?
-wanst_sobu_address_medium_1_2,"Well, kind of.","Cóż, można tak powiedzieć."
+wanst_sobu_address_perfect_1_2,Why hello there. #1.30 Care to help out an old chum?,"No proszę, witaj. #1.30 Pomożesz staremu druhowi?"
 wanst_sobu_address_perfect_2_1,Hello there random person!,"Witaj, przypadkowa osobo!"
+wanst_sobu_address_perfect_2_2,"I might have something for you then, young fop.","W takim razie mam coś dla ciebie, młokosie."
+wanst_sobu_address_medium_1_1,Another adventurer?,Kolejny poszukiwacz przygód?
+wanst_sobu_address_medium_1_2,"Well, kind of.","Cóż, można tak powiedzieć."
+wanst_sobu_address_medium_2_1,Hello there random person!,"Witaj, przypadkowa osobo!"
 wanst_sobu_address_medium_2_2,"Hello, young fop.","Witaj, młokosie."
-wanst_excito_address_perfect_3_1,"Hey, let's team up!","Hej, połączmy siły!"
+wanst_sobu_address_medium_3_1,"Hey, let's team up!","Hej, połączmy siły!"
 wanst_sobu_address_medium_3_2,With you?,Z tobą?
 wanst_sobu_address_bummed_1_2,"Just what I needed, #1.50 a bumbling idiot.","Tego mi było trzeba, #1.50 niezdarnego idioty."
 wanst_sobu_address_bummed_2_2,"Hello, young twit.","Witaj, młody dureniu."
@@ -26,24 +26,24 @@ wanst_sobu_acceptjoin_perfect_4_2,The stars have aligned!,Gwiazdy się ułożył
 wanst_sobu_acceptjoin_medium_1_2,Ok... let's give this a try.,Dobra... spróbujmy.
 wanst_sobu_acceptjoin_medium_2_2,"Ok, you seem like you could use some wit.","Dobra, wygląda na to, że przydałby ci się rozum."
 wanst_sobu_acceptjoin_medium_3_2,I foresee I might regret this.,"Przeczuwam, że będę tego żałował."
-wanst_sobu_acceptjoin_medium_1_2,Ok... let's give this a try.,Dobra... spróbujmy.
-wanst_sobu_acceptjoin_medium_2_2,"Ok, you seem like you could use some wit.","Dobra, wygląda na to, że przydałby ci się rozum."
-wanst_sobu_acceptjoin_medium_3_2,I foresee I might regret this.,"Przeczuwam, że będę tego żałował."
+wanst_sobu_acceptjoin_medium_4_2,Ok... let's give this a try.,Dobra... spróbujmy.
+wanst_sobu_acceptjoin_medium_5_2,"Ok, you seem like you could use some wit.","Dobra, wygląda na to, że przydałby ci się rozum."
+wanst_sobu_acceptjoin_medium_6_2,I foresee I might regret this.,"Przeczuwam, że będę tego żałował."
 wanst_sobu_acceptjoin_bummed_1_2,This is the worst idea ever. #2.00 But I guess it was written in some ancient text.,To najgorszy pomysł w historii. #2.00 Ale pewnie było to zapisane w jakimś starożytnym tekście.
 wanst_sobu_acceptjoin_bummed_2_2,"Mmm, it seems the stars say that I must do so.","Mhm, wygląda na to, że gwiazdy każą mi tak postąpić."
 wanst_sobu_acceptjoin_bummed_3_2,I hope the gods have a plan...,"Mam nadzieję, że bogowie mają jakiś plan..."
-wanst_sobu_acceptjoin_bummed_1_2,This is the worst idea ever. #2.00 But I guess it was written in some ancient text.,To najgorszy pomysł w historii. #2.00 Ale pewnie było to zapisane w jakimś starożytnym tekście.
-wanst_sobu_acceptjoin_bummed_2_2,"Mmm, it seems the stars say that I must do so.","Mhm, wygląda na to, że gwiazdy każą mi tak postąpić."
-wanst_sobu_acceptjoin_bummed_3_2,I hope the gods have a plan...,"Mam nadzieję, że bogowie mają jakiś plan..."
+wanst_sobu_acceptjoin_bummed_4_2,This is the worst idea ever. #2.00 But I guess it was written in some ancient text.,To najgorszy pomysł w historii. #2.00 Ale pewnie było to zapisane w jakimś starożytnym tekście.
+wanst_sobu_acceptjoin_bummed_5_2,"Mmm, it seems the stars say that I must do so.","Mhm, wygląda na to, że gwiazdy każą mi tak postąpić."
+wanst_sobu_acceptjoin_bummed_6_2,I hope the gods have a plan...,"Mam nadzieję, że bogowie mają jakiś plan..."
 wanst_sobu_acceptjoin_angry_1_2,"Ok, maybe writing a history of your blunders #2.60 will be my retirement plan.","Dobra, może spisanie historii twoich wpadek #2.60 będzie moim planem na emeryturę."
 wanst_sobu_acceptjoin_angry_2_2,Mmm maybe this oaf could be useful...,"Mhm, może ten prostak jednak się przyda..."
 wanst_sobu_acceptjoin_angry_3_2,"Well, if this idiot goes first... #2.40 Maybe I can profit from his foolishness.","Cóż, jeśli ten idiota pójdzie pierwszy... #2.40 może uda mi się skorzystać na jego głupocie."
-wanst_sobu_acceptjoin_angry_1_2,"Ok, maybe writing a history of your blunders #2.60 will be my retirement plan.","Dobra, może spisanie historii twoich wpadek #2.60 będzie moim planem na emeryturę."
-wanst_sobu_acceptjoin_angry_2_2,Mmm maybe this oaf could be useful...,"Mhm, może ten prostak jednak się przyda..."
-wanst_sobu_acceptjoin_angry_3_2,"Well, if this idiot goes first... #2.40 Maybe I can profit from his foolishness.","Cóż, jeśli ten idiota pójdzie pierwszy... #2.40 może uda mi się skorzystać na jego głupocie."
-wanst_sobu_acceptjoin_angry_1_2,"Ok, maybe writing a history of your blunders #2.60 will be my retirement plan.","Dobra, może spisanie historii twoich wpadek #2.60 będzie moim planem na emeryturę."
-wanst_sobu_acceptjoin_angry_2_2,Mmm maybe this oaf could be useful...,"Mhm, może ten prostak jednak się przyda..."
-wanst_sobu_acceptjoin_angry_3_2,"Well, if this idiot goes first... #2.40 Maybe I can profit from his foolishness.","Cóż, jeśli ten idiota pójdzie pierwszy... #2.40 może uda mi się skorzystać na jego głupocie."
+wanst_sobu_acceptjoin_angry_4_2,"Ok, maybe writing a history of your blunders #2.60 will be my retirement plan.","Dobra, może spisanie historii twoich wpadek #2.60 będzie moim planem na emeryturę."
+wanst_sobu_acceptjoin_angry_5_2,Mmm maybe this oaf could be useful...,"Mhm, może ten prostak jednak się przyda..."
+wanst_sobu_acceptjoin_angry_6_2,"Well, if this idiot goes first... #2.40 Maybe I can profit from his foolishness.","Cóż, jeśli ten idiota pójdzie pierwszy... #2.40 może uda mi się skorzystać na jego głupocie."
+wanst_sobu_acceptjoin_angry_7_2,"Ok, maybe writing a history of your blunders #2.60 will be my retirement plan.","Dobra, może spisanie historii twoich wpadek #2.60 będzie moim planem na emeryturę."
+wanst_sobu_acceptjoin_angry_8_2,Mmm maybe this oaf could be useful...,"Mhm, może ten prostak jednak się przyda..."
+wanst_sobu_acceptjoin_angry_9_2,"Well, if this idiot goes first... #2.40 Maybe I can profit from his foolishness.","Cóż, jeśli ten idiota pójdzie pierwszy... #2.40 może uda mi się skorzystać na jego głupocie."
 wanst_sobu_addpartycaptive_reply_1_1,"Are you jesting? Let me out first, you bumbling fool!","Żartujesz sobie? Wypuść mnie najpierw, niezdarny głupcze!"
 wanst_sobu_addresscaptive_1_1,"You look like you've been here for a while, pal.","Wyglądasz, jakbyś tu siedział już dobrą chwilę, kolego."
 wanst_sobu_addresscaptive_1_2,"I had some time to think my life through here, yes.","Owszem, miałem tu trochę czasu, żeby przemyśleć swoje życie."
@@ -54,24 +54,24 @@ wanst_sobu_addresscaptive_2_1,Hey - who do you think would win in a cage fight?,
 wanst_sobu_addresscaptive_2_2,"I... this is a topic I haven't pondered on, to be honest.","Ja... szczerze mówiąc, nigdy się nad tym nie zastanawiałem."
 wanst_sobu_addresscaptive_3_1,"Hey, is this the correct way to get out of here?","Hej, czy to jest właściwa droga, żeby się stąd wydostać?"
 wanst_sobu_addresscaptive_3_2,This side looks like a dead end to me. #2.50 But hit that lever and see for yourself...,Ta strona wygląda mi na ślepy zaułek. #2.50 Ale pociągnij za tę dźwignię i przekonaj się sam...
-wanst_hubert_follow_random_1_1,"Come on, let's go this way.","No chodź, idziemy tędy."
-wanst_hubert_follow_random_2_1,"Follow me, pal!","Za mną, przyjacielu!"
-wanst_hubert_follow_random_3_1,Join me.,Dołącz do mnie.
-wanst_hubert_follow_random_5_1,"This way, friendo!","Tędy, kolego!"
-wanst_hubert_follow_random_5_1,"This way, friendo!","Tędy, kolego!"
-wanst_hubert_follow_random_6_1,"Ok, follow me!","Dobra, za mną!"
-wanst_hubert_follow_random_7_1,"Ok, follow me!","Dobra, za mną!"
-wanst_hubert_follow_random_8_1,Come with me!,Chodź ze mną!
-wanst_hubert_follow_random_9_1,"Alright, let's go.","No dobrze, ruszajmy."
-wanst_hubert_follow_random_10_1,"Hey, come with me, pal!","Hej, chodź ze mną, przyjacielu!"
-wanst_hubert_follow_random_11_1,Come follow!,"Chodź, za mną!"
-wanst_hubert_follow_random_12_1,"Come along, pal.","Chodź ze mną, kolego."
-wanst_hubert_follow_random_13_1,"Come with me, pal!","Chodź ze mną, przyjacielu!"
-wanst_hubert_follow_random_14_1,Follow me!,Za mną!
-wanst_hubert_follow_random_15_1,Follow me!,Za mną!
-wanst_hubert_follow_random_16_1,Chop chop. Let's go.,"Szybko, szybko. Ruszajmy."
-wanst_hubert_follow_random_17_1,Come on!,No chodź!
-wanst_hubert_follow_random_18_1,"Let's go, pal!","Ruszajmy, przyjacielu!"
+wanst_sobu_follow_random_1_1,"Come on, let's go this way.","No chodź, idziemy tędy."
+wanst_sobu_follow_random_2_1,"Follow me, pal!","Chodź za mną, koleżko!"
+wanst_sobu_follow_random_3_1,Join me.,Dołącz do mnie.
+wanst_sobu_follow_random_4_1,"This way, friendo!","Tędy, przyjacielu!"
+wanst_sobu_follow_random_5_1,"This way, friendo!","Tędy, przyjacielu!"
+wanst_sobu_follow_random_6_1,"Ok, follow me!","Dobra, chodź za mną!"
+wanst_sobu_follow_random_7_1,"Ok, follow me!","Dobra, chodź za mną!"
+wanst_sobu_follow_random_8_1,Come with me!,Chodź ze mną!
+wanst_sobu_follow_random_9_1,"Alright, let's go.","No dobra, idziemy."
+wanst_sobu_follow_random_10_1,"Hey, come with me, pal!","Hej, chodź ze mną, koleżko!"
+wanst_sobu_follow_random_11_1,Come follow!,Chodź za mną!
+wanst_sobu_follow_random_12_1,"Come along, pal.","Chodź ze mną, koleżko."
+wanst_sobu_follow_random_13_1,"Come with me, pal!","Chodź ze mną, koleżko!"
+wanst_sobu_follow_random_14_1,Follow me!,Chodź za mną!
+wanst_sobu_follow_random_15_1,Follow me!,Chodź za mną!
+wanst_sobu_follow_random_16_1,Chop chop. Let's go.,"Szybko, szybko. Idziemy."
+wanst_sobu_follow_random_17_1,Come on!,No chodź!
+wanst_sobu_follow_random_18_1,"Let's go, pal!","Idziemy, koleżko!"
 wanst_sobu_follow_reply_perfect_1_1,Alright! #1.00 See me waltz through this place!,"Zgoda! #1.00 Patrz, jak paraduję przez to miejsce!"
 wanst_sobu_follow_reply_perfect_2_1,Aye! #0.80 Old man at your service!,Tak jest! #0.80 Starzec na twoje usługi!
 wanst_sobu_follow_reply_perfect_3_1,"Ooof, not so fast... #2.50 My back. #4.00 Just kidding.","Ooof, nie tak szybko... #2.50 Moje plecy. #4.00 Żartowałem."
@@ -90,22 +90,22 @@ wanst_sobu_follow_reply_bummed_3_1,Ordering an old man around like this... ugh.,
 wanst_sobu_follow_reply_angry_1_1,"Heck, you're a plague!","A niech to, jesteś istną plagą!"
 wanst_sobu_follow_reply_angry_2_1,"Old man this, old man that. Someone should teach you some manners!","Starzec tu, starzec tam. Ktoś powinien nauczyć cię manier!"
 wanst_sobu_follow_reply_angry_3_1,Mrhmdknkppp!,Mrhmdknkppp!
-wanst_hubert_stay_random_1_1,Could you stay here for a sec?,Zostaniesz tu na chwilę?
-wanst_hubert_stay_random_2_1,Stay right there.,Zostań właśnie tam.
-wanst_hubert_stay_random_3_1,Stay here!,Zostań tutaj!
-wanst_hubert_stay_random_4_1,Stop right there.,Zatrzymaj się właśnie tam.
-wanst_hubert_stay_random_5_1,Can you stay here for a bit?,Możesz tu chwilę zostać?
-wanst_hubert_stay_random_6_1,Stay right here!,Zostań tu na miejscu!
-wanst_hubert_stay_random_7_1,Please keep this position.,"Proszę, utrzymaj tę pozycję."
-wanst_hubert_stay_random_8_1,Stay here.,Zostań tutaj.
-wanst_hubert_stay_random_9_1,"Don't move, pal.","Nie ruszaj się, przyjacielu."
-wanst_hubert_stay_random_10_1,Hold it!,Stój!
-wanst_hubert_stay_random_11_1,"Okay, hold this position for a bit, willya?","Dobra, potrzymaj tę pozycję chwilę, dobra?"
-wanst_hubert_stay_random_12_1,Keep this position.,Zachowaj tę pozycję.
-wanst_hubert_stay_random_13_1,"Ok, hold it here.","Dobra, zatrzymaj się tu."
-wanst_hubert_stay_random_14_1,"Okay, hold on.","Dobra, poczekaj."
-wanst_hubert_stay_random_15_1,"Ok, hold it.","Dobra, czekaj."
-wanst_hubert_stay_random_16_1,"Stay right there, dude!","Zostań tam, ziomek!"
+wanst_sobu_stay_random_1_1,Could you stay here for a sec?,Możesz tu chwilkę zostać?
+wanst_sobu_stay_random_2_1,Stay right there.,Zostań tam.
+wanst_sobu_stay_random_3_1,Stay here!,Zostań tu!
+wanst_sobu_stay_random_4_1,Stop right there.,Stój w miejscu.
+wanst_sobu_stay_random_5_1,Can you stay here for a bit?,Możesz tu chwilę zostać?
+wanst_sobu_stay_random_6_1,Stay right here!,Zostań dokładnie tutaj!
+wanst_sobu_stay_random_7_1,Please keep this position.,"Proszę, zachowaj tę pozycję."
+wanst_sobu_stay_random_8_1,Stay here.,Zostań tutaj.
+wanst_sobu_stay_random_9_1,"Don't move, pal.","Ani drgnij, koleżko."
+wanst_sobu_stay_random_10_1,Hold it!,Stój!
+wanst_sobu_stay_random_11_1,"Okay, hold this position for a bit, willya?","Dobra, potrzymaj tę pozycję chwilę, dobra?"
+wanst_sobu_stay_random_12_1,Keep this position.,Zachowaj tę pozycję.
+wanst_sobu_stay_random_13_1,"Ok, hold it here.","Dobra, przytrzymaj tu."
+wanst_sobu_stay_random_14_1,"Okay, hold on.","Dobra, poczekaj."
+wanst_sobu_stay_random_15_1,"Ok, hold it.","Dobra, przytrzymaj."
+wanst_sobu_stay_random_16_1,"Stay right there, dude!","Zostań tam, ziomek!"
 wanst_sobu_stay_reply_perfect_1_1,"Whatever comes up, I'm here!","Cokolwiek się wydarzy, jestem tutaj!"
 wanst_sobu_stay_reply_perfect_2_1,You know where to find me!,"Wiesz, gdzie mnie szukać!"
 wanst_sobu_stay_reply_perfect_3_1,It shall be done!,Tak się stanie!

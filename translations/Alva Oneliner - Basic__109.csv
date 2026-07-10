@@ -24,12 +24,12 @@ alva_newfloor_bummed_2_1,"Jiminy Crickets, this tower never ends.","O w mordę, 
 alva_looted_angry_1_1,What are you doing!?,Co ty robisz!?
 alva_looted_angry_2_1,This means death!!,To oznacza śmierć!!
 alva_looted_angry_3_1,I will not tolerate this!!,Nie będę tego tolerować!!
-alva_looted_good_1_1,What are you doing!?,Co ty robisz!?
-alva_looted_good_2_1,This means death!!,To oznacza śmierć!!
-alva_looted_good_3_1,I will not tolerate this!!,Nie będę tego tolerować!!
-alva_looted_angry_1_1,What are you doing!?,Co ty robisz!?
-alva_looted_angry_2_1,This means death!!,To oznacza śmierć!!
-alva_looted_angry_3_1,I will not tolerate this!!,Nie będę tego tolerować!!
+alva_looted_great_1_1,What are you doing!?,Co ty robisz!?
+alva_looted_great_2_1,This means death!!,To oznacza śmierć!!
+alva_looted_great_3_1,I will not tolerate this!!,Nie będę tego tolerować!!
+alva_looted_bummed_1_1,What are you doing!?,Co ty robisz!?
+alva_looted_bummed_2_1,This means death!!,To oznacza śmierć!!
+alva_looted_bummed_3_1,I will not tolerate this!!,Nie będę tego tolerować!!
 alva_wanst_died_trap_perfect_1_1,Ohwow. You were doing so well...,O rety. Tak dobrze ci szło...
 alva_wanst_died_trap_great_1_1,Ouch! Sadly there's no potion to fix this...,"Au! Niestety nie ma mikstury, która by to naprawiła..."
 alva_wanst_died_trap_good_1_1,Oh my. This took a quick turn to the worse...,O rety. Szybko obróciło się to na gorsze...
@@ -118,12 +118,12 @@ row200,MISSING!,BRAK!
 alva_enter_kitchen_perfect_1_1,He-heyyy!#1.30 Look at this place. #2.80 I used to spend half my childhood cooking up... #5.40...crazy stuff in one of those.,"He-heej!#1.30 Spójrz na to miejsce. #2.80 Pół dzieciństwa spędziłam, warząc... #5.40...szalone rzeczy w czymś takim."
 alva_enter_kitchen_perfect_2_1,Mmmm you can brew almost any potion here. #3.00 Impressive.,"Mmmm, można tu uwarzyć prawie każdą miksturę. #3.00 Imponujące."
 alva_enter_kitchen_perfect_3_1,The potions we can brew here... #1.60 ...might help us with all kinds of things.,"Mikstury, które możemy tu uwarzyć... #1.60 mogą pomóc nam w najróżniejszych sprawach."
-alva_enter_kitchen_great_1_1,This cauldron is wild. #2.50 They know how they make their potions. #4.30 I must say.,"Ten kocioł to szaleństwo. #2.50 Wiedzą, jak robić swoje mikstury. #4.30 Muszę przyznać."
+alva_enter_kitchen_great_1_1,This cauldron is wild. #2.50 They know how they make their potions. #4.30 I must say.,"Ten kocioł to szaleństwo. #2.50 Wiedzą, jak dobrać się do swoich mikstur. #4.30 Muszę przyznać."
 alva_enter_kitchen_great_2_1,This place is quite well equipped. #2.00 It'll get us almost every kind of potion.,To miejsce jest całkiem dobrze wyposażone. #2.00 Zdobędziemy tu prawie każdy rodzaj mikstury.
 alva_enter_kitchen_great_3_1,Ah! #1.00 It's potion time!,Ach! #1.00 Czas na miksturę!
-alva_enter_kitchen_great_1_1,This cauldron is wild. #2.50 They know how they get to their potions. #4.30 I must say.,"Ten kocioł to szaleństwo. #2.50 Wiedzą, jak dobrać się do swoich mikstur. #4.30 Muszę przyznać."
-alva_enter_kitchen_great_2_1,This place is quite well equipped. #2.00 It'll get us almost every kind of potion.,To miejsce jest całkiem dobrze wyposażone. #2.00 Zdobędziemy tu prawie każdy rodzaj mikstury.
-alva_enter_kitchen_great_3_1,Ah! #1.00 It's potion time!,Ach! #1.00 Czas na miksturę!
+alva_enter_kitchen_good_1_1,This cauldron is wild. #2.50 They know how they get to their potions. #4.30 I must say.,"Ten kocioł jest obłędny. #2.50 Oni wiedzą, jak dochodzi się do dobrych mikstur. #4.30 Muszę przyznać."
+alva_enter_kitchen_good_2_1,This place is quite well equipped. #2.00 It'll get us almost every kind of potion.,To miejsce jest całkiem dobrze wyposażone. #2.00 Zdobędziemy tu prawie każdy rodzaj mikstury.
+alva_enter_kitchen_good_3_1,Ah! #1.00 It's potion time!,Ach! #1.00 Czas na miksturę!
 alva_enter_kitchen_medium_1_1,This place brings up memories. #2.80 Ah well.,"To miejsce budzi wspomnienia. #2.80 Ech, trudno."
 alva_enter_kitchen_medium_2_1,Careful. #0.60 The things created here can wreck us for good.,Ostrożnie. #0.60 Rzeczy tworzone tutaj mogą nas zrujnować na dobre.
 alva_enter_kitchen_bummed_1_1,Uh oh. #1.20 I'm already aftraid of the mess you'll cook up here.,"O nie. #1.20 Już się boję bałaganu, jaki tu nawarzysz."
@@ -134,9 +134,9 @@ alva_comment_recipe_two_perfect_3_1,A single brew: a moment's grace. #2.25 A dou
 alva_comment_recipe_eat_perfect_1_1,"When poisoned, it's best to eat as much as possible. #2.50 Non-poisonous things, that is...","Gdy jesteś zatruty, najlepiej jeść jak najwięcej. #2.50 Rzeczy niezatrutych, rzecz jasna..."
 alva_comment_recipe_eat_perfect_2_1,"Feast away, green's hue will sway.","Ucztuj śmiało, zieleń zblednie mało po mało."
 alva_comment_recipe_eat_perfect_3_1,"To undo poison's cruel chore, #3.00 Eating aids the cure in store.","By odwrócić trucizny okrutny trud, #3.00 jedzenie wspomaga lek, niczym cud."
-alva_wanst_died_trap_medium_1_1,That looks horrible.,To wygląda okropnie.
-alva_wanst_transform_monster_medium_1_1,Uuuuh here comes danger.,"Uuuh, nadchodzi niebezpieczeństwo."
-alva_wanst_died_alva_great_1_1,"That's it, pal. Rest in peace.","I już, kolego. Spoczywaj w pokoju."
+alva_door_obstacle_perfect_1_1,That looks horrible.,To wygląda okropnie.
+alva_door_obstacle_perfect_2_1,Uuuuh here comes danger.,"Uuuh, nadchodzi niebezpieczeństwo."
+alva_door_obstacle_perfect_3_1,"That's it, pal. Rest in peace.","I już, kolego. Spoczywaj w pokoju."
 Alva_comment_WeirdPotion_perfect_1_1,"When too many ingredients come together, you get a harmless brown soup like this one.","Kiedy zbyt wiele składników się połączy, wychodzi taka nieszkodliwa brązowa zupa jak ta."
 Alva_comment_WeirdPotion_great_1_1,This potion just gives things a weird color.,Ta mikstura po prostu nadaje rzeczom dziwny kolor.
 Alva_comment_WeirdPotion_good_1_1,This is just a muddled mixture.,To po prostu mętna mieszanka.

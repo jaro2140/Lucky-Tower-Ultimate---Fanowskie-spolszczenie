@@ -1,11 +1,10 @@
 #!/usr/bin/env bash
-# Weryfikuje integralnosc zainstalowanego tlumaczenia PL: Lucky Tower Ultimate
+# Przywraca oryginalne (angielskie) pliki gry: Lucky Tower Ultimate
 # Wygenerowano automatycznie przez _App - nie edytuj recznie.
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-DIST_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
-MANIFEST="$DIST_DIR/translation_manifest.json"
+BACKUP="$SCRIPT_DIR/backup"
 DATA_DIR_NAME="Lucky Tower Ultimate_Data"
 
 CANDIDATES=(
@@ -52,51 +51,26 @@ resolve_game_root() {
   return 1
 }
 
-sha256_of() {
-  if command -v shasum >/dev/null 2>&1; then
-    shasum -a 256 "$1" | awk '{print $1}'
-  else
-    sha256sum "$1" | awk '{print $1}'
-  fi
-}
-
-if [[ ! -f "$MANIFEST" ]]; then
-  echo "Brak translation_manifest.json obok skryptu."
-  exit 1
+if [[ ! -d "$BACKUP" ]]; then
+  echo "Brak backupu (folder $BACKUP nie istnieje) - nic do przywrocenia."
+  exit 0
 fi
 
 if ! GAME_ROOT="$(resolve_game_root "${1:-}")"; then
   echo "Nie znaleziono folderu gry 'Lucky Tower Ultimate'."
-  echo "Podaj sciezke jako argument:  ./verify-install.sh "/sciezka/do/gry""
+  echo "Podaj sciezke jako argument:  ./uninstall-pl.sh "/sciezka/do/gry""
   exit 1
 fi
 
 echo "Gra: $GAME_ROOT"
-echo ""
 
-ALL_OK=1
-while IFS= read -r line; do
-  rel="$(sed -E 's/^"(.*)": "[0-9a-f]{64}"$/\1/' <<<"$line")"
-  expected="$(sed -E 's/^"(.*)": "([0-9a-f]{64})"$/\2/' <<<"$line")"
+while IFS= read -r src; do
+  rel="${src#"$BACKUP"/}"
   target="$GAME_ROOT/$rel"
-  if [[ ! -f "$target" ]]; then
-    echo "  BRAK: $rel"
-    ALL_OK=0
-    continue
-  fi
-  actual="$(sha256_of "$target")"
-  if [[ "$actual" == "$expected" ]]; then
-    echo "  OK: $rel"
-  else
-    echo "  ROZNI SIE: $rel (plik zmodyfikowany / inna wersja patcha)"
-    ALL_OK=0
-  fi
-done < <(grep -oE '"[^"]+": "[0-9a-f]{64}"' "$MANIFEST")
+  mkdir -p "$(dirname "$target")"
+  cp "$src" "$target"
+  echo "  przywrocono: $rel"
+done < <(find "$BACKUP" -type f)
 
 echo ""
-if [[ "$ALL_OK" -eq 1 ]]; then
-  echo "Wszystko zgodne - tlumaczenie Lucky Tower Ultimate (PL) zainstalowane poprawnie."
-else
-  echo "Znaleziono niezgodnosci - patrz szczegoly powyzej."
-  exit 1
-fi
+echo "Gotowe - przywrocono oryginalne (angielskie) pliki Lucky Tower Ultimate."

@@ -1,16 +1,16 @@
 key,en,pl
-wanst_hubert_enterdoor_start_1_1,I'd like for you to go into that door.,"Chciałbym, żebyś wszedł w te drzwi."
-wanst_hubert_enterdoor_start_2_1,"Hey pal, go in that door.","Hej, kolego, wejdź w te drzwi."
-wanst_hubert_enterdoor_start_3_1,I want you to go into that door.,"Chcę, żebyś wszedł w te drzwi."
-wanst_hubert_enterdoor_start_4_1,"Alright buddy, let's go!","Dobra, ziomek, ruszamy!"
-wanst_hubert_enterdoor_start_5_1,I have chosen a door for you:,Wybrałem dla ciebie drzwi:
-wanst_hubert_enterdoor_start_6_1,Why don't you have a look at what's behind that door?,"Może zerkniesz, co jest za tymi drzwiami?"
-wanst_hubert_enterdoor_start_7_1,Go into that door!,Wejdź w te drzwi!
-wanst_hubert_enterdoor_start_8_1,"Ok, go into that door, ...","Ok, wejdź w te drzwi, ..."
+wanst_excito_enterdoor_start_1_1,I'd like for you to go into that door.,"Chciałbym, żebyś wszedł w te drzwi."
+wanst_excito_enterdoor_start_2_1,"Hey pal, go in that door.","Hej, kolego, wejdź w te drzwi."
+wanst_excito_enterdoor_start_3_1,I want you to go into that door.,"Chcę, żebyś wszedł w te drzwi."
+wanst_excito_enterdoor_start_4_1,"Alright buddy, let's go!","Dobra, ziomek, ruszamy!"
+wanst_excito_enterdoor_start_5_1,I have chosen a door for you:,Wybrałem dla ciebie drzwi:
+wanst_excito_enterdoor_start_6_1,Why don't you have a look at what's behind that door?,"Może zerkniesz, co jest za tymi drzwiami?"
+wanst_excito_enterdoor_start_7_1,Go into that door!,Wejdź w te drzwi!
+wanst_excito_enterdoor_start_8_1,"Ok, go into that door, ...","No dobra, wejdź w te drzwi, ..."
 wanst_excito_enterdoor_start_sceptical_1_1,It looks dangerous...,Wygląda niebezpiecznie...
 wanst_excito_enterdoor_start_sceptical_2_1,I'm not sure...,Nie jestem pewien...
-wanst_hubert_enterdoor_start_reply_1_1,"Trust me, pal!","Zaufaj mi, kolego!"
-wanst_hubert_enterdoor_start_reply_2_1,It's just a door!,To tylko drzwi!
+wanst_excito_enterdoor_start_reply_1_1,"Trust me, pal!","Zaufaj mi, kolego!"
+wanst_excito_enterdoor_start_reply_2_1,It's just a door!,To tylko drzwi!
 wanst_excito_enterdoor_success_perfect_1_1,See how I handle this fella!,"Zobacz, jak sobie z tym poradzę!"
 wanst_excito_enterdoor_success_perfect_2_1,Alright! #1.00 Rooms ain't got nothing on me!,Dobra! #1.00 Pokoje nie mają ze mną szans!
 wanst_excito_enterdoor_success_perfect_3_1,Yessies! #1.00 Can't wait to see what's behind that door!,"Tasss! #1.00 Nie mogę się doczekać, co jest za tymi drzwiami!"
@@ -36,17 +36,17 @@ wanst_excito_enterdoor_sceptical_angry_3_1,"Dude, you got some nerve! #1.50 #2.0
 wanst_excito_enterdoor_sceptical_angry_4_1,"You think you're King Cool. #1.50 Ordering everyone around like this? #3.40 No way, pal.","Myślisz, że jesteś Królem Luzu. #1.50 Rozkazujesz tak wszystkim? #3.40 W życiu, kolego."
 wanst_excito_enterdoor_attack_1_1,Raaaagh!,Raaaagh!
 wanst_excito_enterdoor_attack_2_1,I can't take it anymore!,Nie mogę już tego znieść!
-wanst_hubert_enterdoor_shrug_1_1,"Ain't no cracking this shell, eh?","Tej skorupy się nie złamie, co?"
-wanst_hubert_enterdoor_shrug_2_1,"Well, let's never talk about it again...","No cóż, nigdy więcej o tym nie rozmawiajmy..."
-wanst_hubert_enterdoor_shrug_3_1,"Well, let's never talk about it again...","No cóż, nigdy więcej o tym nie rozmawiajmy..."
-wanst_hubert_enterdoor_shrug_4_1,"Yeah, ok...","Ta, ok..."
-wanst_hubert_enterdoor_persuade_1_1,"Come on buddy, you can do it!","No dawaj, ziomek, dasz radę!"
-wanst_hubert_enterdoor_persuade_2_1,"If you really loved me, you'd do it!","Gdybyś naprawdę mnie kochał, zrobiłbyś to!"
-wanst_hubert_enterdoor_persuade_3_1,"It's just a door, pal!","To tylko drzwi, kolego!"
-wanst_hubert_enterdoor_order_1_1,Do I have to untie my belt?,Muszę rozwiązać pasek?
-wanst_hubert_enterdoor_order_2_1,Just do it!,Po prostu to zrób!
-wanst_hubert_enterdoor_order_3_1,Enough! This isn't a quiz!,Dość! To nie quiz!
-wanst_hubert_enterdoor_order_4_1,Go in there now!,Wejdź tam natychmiast!
+wanst_excito_enterdoor_shrug_1_1,"Ain't no cracking this shell, eh?","Twardy orzech do zgryzienia, co?"
+wanst_excito_enterdoor_shrug_2_1,"Well, let's never talk about it again...","Cóż, nigdy więcej o tym nie mówmy..."
+wanst_excito_enterdoor_shrug_3_1,"Well, let's never talk about it again...","Cóż, nigdy więcej o tym nie mówmy..."
+wanst_excito_enterdoor_shrug_4_1,"Yeah, ok...",No dobra...
+wanst_excito_enterdoor_persuade_1_1,"Come on buddy, you can do it!","No dawaj, ziomek, dasz radę!"
+wanst_excito_enterdoor_persuade_2_1,"If you really loved me, you'd do it!","Gdybyś naprawdę mnie kochał, zrobiłbyś to!"
+wanst_excito_enterdoor_persuade_3_1,"It's just a door, pal!","To tylko drzwi, kolego!"
+wanst_excito_enterdoor_order_1_1,Do I have to untie my belt?,Czy muszę rozpinać pas?
+wanst_excito_enterdoor_order_2_1,Just do it!,Po prostu to zrób!
+wanst_excito_enterdoor_order_3_1,Enough! This isn't a quiz!,Dość! To nie jest teleturniej!
+wanst_excito_enterdoor_order_4_1,Go in there now!,Wejdź tam natychmiast!
 wanst_excito_enterdoor_success_bummed_1_1,"Ugh, you got me. #1.50Alright. Be right back.","Ugh, dopadłeś mnie. #1.50Dobra. Zaraz wracam."
 wanst_excito_enterdoor_success_bummed_2_1,"There's no other way, huh? #1.50 Okay.","Nie ma innego wyjścia, co? #1.50 Okej."
 wanst_excito_enterdoor_success_bummed_3_1,"Ok, I'm doing this to enjoy some time on my own.","Ok, robię to, żeby cieszyć się chwilą dla siebie."

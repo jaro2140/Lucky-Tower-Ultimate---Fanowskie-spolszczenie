@@ -78,10 +78,10 @@ wanst_evelius_hidden_glassmarble_fail_4_1,No marble?,Bez kulki?
 wanst_evelius_kill_more_1_1,You seem like a very nice guy.#3.00 #3.50 Gross!,Wyglądasz na całkiem miłego gościa.#3.00 #3.50 Obrzydliwe!
 wanst_evelius_kill_more_1_2,I dare you to kill a few monsters.#3.20Go have some slashin' fun before I turn up again downstairs. #7.20 Hehehee.,"Rzucam ci wyzwanie: zabij kilka potworów.#3.20Poszalej trochę z mieczem w ręku, zanim znów zjawię się na dole. #7.20 Hehehe."
 wanst_evelius_kill_more_1_3,But... #0.70I hate fun.,Ale... #0.70Nienawidzę zabawy.
-wanst_evelius_kill_more_22_1,You aren't killing my monsters? #2.50This ain't a social club! #3.90I need some of them to go! #5.50Do some slashy slashy or else I'll be displeased!,"Nie zabijasz moich potworów? #2.50To nie jest klub towarzyski! #3.90Muszę się pozbyć kilku z nich! #5.50Trochę pocinaj, bo się rozzłoszczę!"
-wanst_evelius_kill_more_33_1,You're no good in creating job openings! #2.70 Kill some monsters for me or else!,"Nie potrafisz tworzyć wakatów! #2.70 Zabij dla mnie kilka potworów, bo inaczej!"
-wanst_evelius_kill_more_44_1,I noticed you haven't been killing my monsters. #3.50They're not here for a good convo. #5.50Go wreck some neck before I get back!,"Zauważyłem, że nie zabijasz moich potworów. #3.50Nie są tu na pogawędki. #5.50Skręć parę karków, zanim wrócę!"
-wanst_evelius_kill_less_11_1,Do you know how hard it is to find good employees? #4.00Stop killing them! #5.50You're up for a treat if you act sweet.,"Wiesz, jak trudno znaleźć dobrych pracowników? #4.00Przestań ich zabijać! #5.50Czeka cię nagroda, jeśli będziesz grzeczny."
+wanst_evelius_kill_more_2_1,You aren't killing my monsters? #2.50This ain't a social club! #3.90I need some of them to go! #5.50Do some slashy slashy or else I'll be displeased!,"Nie zabijasz moich potworów? #2.50To nie jest klub towarzyski! #3.90Kilku musi odejść! #5.50Zrób trochę sieku-sieku, bo będę niepocieszony!"
+wanst_evelius_kill_more_3_1,You're no good in creating job openings! #2.70 Kill some monsters for me or else!,"Marnie ci idzie tworzenie wakatów! #2.70 Ubij dla mnie parę potworów, bo inaczej!"
+wanst_evelius_kill_more_4_1,I noticed you haven't been killing my monsters. #3.50They're not here for a good convo. #5.50Go wreck some neck before I get back!,"Zauważyłem, że nie zabijasz moich potworów. #3.50One nie są tu dla miłej pogawędki. #5.50Skręć komuś kark, zanim wrócę!"
+wanst_evelius_kill_less_1_1,Do you know how hard it is to find good employees? #4.00Stop killing them! #5.50You're up for a treat if you act sweet.,"Wiesz, jak trudno znaleźć dobrych pracowników? #4.00Przestań ich zabijać! #5.50Będziesz grzeczny, to czeka cię coś słodkiego."
 wanst_evelius_kill_less_2_1,I counted my employees.#2.50 I really hope that number doesn't change...,"Policzyłem moich pracowników.#2.50 Mam nadzieję, że ta liczba się nie zmieni..."
 wanst_evelius_kill_less_2_2,It would be a shame...#1.40...wouldn't it?,Szkoda by było...#1.40...prawda?
 wanst_evelius_kill_more_success_1_1,Well done! #1.30 Now I have more space for new advent... #3.90Ehrr... Monsters.,Dobra robota! #1.30 Teraz mam więcej miejsca dla nowych poszuki... #3.90Ehm... Potworów.
@@ -203,9 +203,9 @@ wanst_evelius_reward_good_item_3_1,Good job! #1.40Here you go.,Dobra robota! #1.
 wanst_evelius_reward_bad_1_1,"Uhm yeah. We're getting somewhere, I guess...","Ehm, tak. Chyba do czegoś dochodzimy..."
 wanst_evelius_reward_bad_2_1,"Finally, you're good for something...",Nareszcie się do czegoś przydałeś...
 wanst_evelius_reward_bad_3_1,I see you decided to drag your reputation out of the gutter. #4.30 Cool.,"Widzę, że postanowiłeś wyciągnąć swoją reputację z rynsztoka. #4.30 Spoko."
-wanst_evelius_giveitem_start_generic_1_1,"Here, take this.","Proszę, weź to."
-wanst_evelius_giveitem_start_generic_2_1,You can have this one for free.,Ten możesz dostać za darmo.
-wanst_evelius_giveitem_start_generic_3_1,Here's a gift!,Oto prezent!
+wanst_evelius_reward_bad_item_1_1,"Here, take this.","Masz, weź to."
+wanst_evelius_reward_bad_item_2_1,You can have this one for free.,Ten możesz mieć za darmo.
+wanst_evelius_reward_bad_item_3_1,Here's a gift!,Oto podarunek!
 wanst_evelius_punish_good_1_1,I'm not angry. #1.50Just disappointed.,Nie jestem zły. #1.50Po prostu rozczarowany.
 wanst_evelius_punish_good_2_1,It was probably my fault to expect more...,"To pewnie moja wina, że spodziewałem się więcej..."
 wanst_evelius_punish_good_3_1,You're pretty good at being the worst...,Naprawdę dobrze ci idzie bycie najgorszym...

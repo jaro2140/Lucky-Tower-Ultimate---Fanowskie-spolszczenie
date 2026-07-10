@@ -241,7 +241,7 @@ earlyaccess_01,"Hey, you've reached the end of the current Early Access version.
 earlyaccess_02,Congratulations! This area will be unlocked in the full release of the game!,Gratulacje! Ten obszar zostanie odblokowany w pełnej wersji gry!
 village_underconstruction,Under Construction!,W budowie!
 row345,Coming soon!,Już wkrótce!
-row346,Early Access.,Early Access.
+row346,Early Access.,Wczesny dostęp.
 credits_funded,Funded with the support of:,Sfinansowano przy wsparciu:
 credits_copyright,Copyright notices:,Informacje o prawach autorskich:
 evelius_name,Evelius,Evelius
@@ -376,7 +376,7 @@ credits_amcgames,AMC Games,AMC Games
 credits_amcchiefcommercialofficer,Chief Commercial Officer,Dyrektor ds. komercyjnych
 credits_amclegalandbusinessaffairs,Legal and Business Affairs,Sprawy prawne i biznesowe
 credits_amcdigitalprojectoperations,Digital Project Operations,Operacje projektów cyfrowych
-credits_amcpublicrelations,Public Relations,Public Relations
+credits_amcpublicrelations,Public Relations,Relacje publiczne
 credits_amcriskassessment,Risk Assessment,Ocena ryzyka
 credits_lionbridgetestdirector,Test Director,Dyrektor testów
 credits_lionbridgeglobalaccountdirector,Global Account Director,Globalny dyrektor ds. klientów
@@ -437,7 +437,7 @@ credits_arcusprandaccountmanager,PR And Account Manager,Kierownik PR i obsługi 
 credits_arcusheadofsocialmediaengagement,Head Of Social Media Engagement,Szef ds. zaangażowania w social media
 credits_arcussenioraccountmanager,Senior Account Manager,Starszy kierownik ds. klienta
 credits_arcuschinesedevbusinessdevelopment,Chinese Dev Business Development,Rozwój biznesu – Chiny
-credits_arcuscommunitymanager,Community Manager,Community Manager
+credits_arcuscommunitymanager,Community Manager,Menedżer społeczności
 credits_SwitchPorting,Nintendo Switch Porting,Port na Nintendo Switch
 menu_exitwarning,This will end the run. You will lose your current equipment and start back at the top next time you play.,To zakończy podejście. Stracisz obecny ekwipunek i następnym razem zaczniesz od nowa od góry.
 menu_savemessage,"Outside the tower, your game saves and you can return later to continue.","Poza wieżą gra się zapisuje i możesz później wrócić, aby kontynuować."
@@ -485,11 +485,15 @@ switch_hint_028,"Some objects are perfect for throwing, like discs that you get 
 switch_hint_029,"If you put food in front of a small hole, a rat will come out.","Jeśli położysz jedzenie przed małą dziurą, wyjdzie z niej szczur."
 switch_hint_030,Furnaces can turn metal items and discs into better variants.,Piece mogą przemienić metalowe przedmioty i dyski w lepsze warianty.
 switch_hint_031,"If the game seems too hard, you can try switching to peasant mode!","Jeśli gra wydaje się zbyt trudna, spróbuj przełączyć się na tryb chłopski!"
-switch_hint_032,"The pawn shop will initially purchase items at full price, but after that sales will only give half value.","Lombard początkowo skupuje przedmioty w pełnej cenie, ale później sprzedaż daje tylko połowę wartości."
+switch_hint_032,"The pawn shop will initially purchase items at full price, but after that sales will only give a quarter of their value.","Lombard początkowo skupuje przedmioty w pełnej cenie, ale później sprzedaż daje tylko połowę wartości."
 switch_hint_033,Small objects on a floor with three doors give clues about what's inside...,"Małe przedmioty na piętrze z trzema drzwiami dają wskazówki, co jest w środku..."
+switch_hint_034,"For optimal performance, please close and restart the game if it has been running for an extended period.","Dla optymalnej wydajności zamknij i uruchom grę ponownie, jeśli działa od dłuższego czasu."
 barkeep_evelius_ruin_restart,Master! I stole one of these drinks to bring you back to life! Take this!,"Panie! Ukradłem jeden z tych trunków, żeby przywrócić cię do życia! Masz, weź to!"
 barkeep_evelius_ruin_restart2,Hnnnngg! Yesss. I can feel my power returning! Haha!,"Hnnnngg! Tak... Czuję, jak wraca moja moc! Haha!"
 barkeep_evelius_ruin_restart3,Now I'll use my mightiest spell to turn back time and restore the tower to its evil glory!,"Teraz użyję swojego najpotężniejszego zaklęcia, by cofnąć czas i przywrócić wieży jej złowrogą świetność!"
 switch_fpsbutton,Stable Framerate (30 FPS),Stabilna liczba klatek (30 FPS)
 switch_fpsbutton_explanation,Locks the game to 30 FPS for a more consistent experience.,Ogranicza grę do 30 FPS dla bardziej stabilnego działania.
 confirmation_dontask,Don’t ask again,Nie pytaj ponownie
+main_separate,Separate Pick up and Drop,Rozdziel podnoszenie i upuszczanie
+main_assignbuttonprompt,Press the button you want to assign.,"Naciśnij przycisk, który chcesz przypisać."
+main_assignkeyprompt,Press the key you want to assign.,"Naciśnij klawisz, który chcesz przypisać."

@@ -89,40 +89,40 @@ hubert_encounter_automat_1_1,"Let's not spend it all at once, ok?","Nie wydajmy 
 hubert_encounter_automat_2_1,Remember to save some for later. #2.00 For... me.,"Pamiętaj, żeby zostawić coś na później. #2.00 Dla... mnie."
 hubert_encounter_automat_3_1,Think hard about whether you really need to spend money on that...,"Zastanów się dobrze, czy naprawdę musisz wydawać na to pieniądze..."
 row134,//1,//1
-wanst_hubert_address_random_1_1,Well look at this little guy!,"No proszę, a to co za mały gagatek!"
+wanst_hubert_address_medium_1_1,Well look at this little guy!,"No proszę, a to co za mały gagatek!"
 wanst_hubert_address_medium_1_2_a,I'm lost! #1.00 D-d-do you know the way?,"Zgubiłem się! #1.00 W-w-wiesz, którędy?"
 wanst_hubert_address_medium_1_2_b,C-can I join you?,M-mogę się przyłączyć?
 row138,//2,//2
-wanst_hubert_address_random_2_1,Hey fellow adventurer!,"Hej, drogi poszukiwaczu przygód!"
+wanst_hubert_address_medium_2_1,Hey fellow adventurer!,"Hej, drogi poszukiwaczu przygód!"
 wanst_hubert_address_medium_2_2_a,"You're not a baddie, are you?","Nie jesteś złoczyńcą, prawda?"
 wanst_hubert_address_medium_2_2_b,"Y-You're a good guy, right? #2.00 You're smiling and everything...","J-jesteś dobrym facetem, prawda? #2.00 Uśmiechasz się i w ogóle..."
 row142,//3,//3
-wanst_hubert_addparty_random_3_1,Follow me on my journey!,Podążaj za mną w mej podróży!
+wanst_hubert_acceptjoin_medium_1_1,Follow me on my journey!,Podążaj za mną w mej podróży!
 wanst_hubert_acceptjoin_medium_1_2,"Ok, you seem confident!","Ok, wydajesz się pewny siebie!"
-wanst_hubert_addparty_random_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
+wanst_hubert_acceptjoin_medium_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
 wanst_hubert_acceptjoin_medium_2_2,"Ok, I-I trust you!","Ok, u-ufam ci!"
 wanst_hubert_acceptjoin_medium_3_2,Ok. #0.80 I-I'll be your companion!,Ok. #0.80 B-będę twoim towarzyszem!
 row150,//1,//1
-wanst_hubert_address_random_1_1,Well look at this little guy!,"No proszę, a to co za mały gagatek!"
+wanst_hubert_address_bummed_1_1,Well look at this little guy!,"No proszę, a to co za mały gagatek!"
 wanst_hubert_address_bummed_1_2,If you want to end me... #1.80 ...do it quick.,Jeśli chcesz mnie dobić... #1.80 ...zrób to szybko.
 row153,//2,//2
-wanst_hubert_address_random_2_1,Hey fellow adventurer!,"Hej, drogi poszukiwaczu przygód!"
+wanst_hubert_address_bummed_2_1,Hey fellow adventurer!,"Hej, drogi poszukiwaczu przygód!"
 wanst_hubert_address_bummed_2_2,I'm just a lost tortoise.,Jestem tylko zagubionym żółwiem.
 row156,//3,//3
-wanst_hubert_addparty_random_3_1,Follow me on my journey!,Podążaj za mną w mej podróży!
+wanst_hubert_acceptjoin_bummed_1_1,Follow me on my journey!,Podążaj za mną w mej podróży!
 wanst_hubert_acceptjoin_bummed_1_2,I was hoping to die alone. #1.80 But as you wish...,"Miałem nadzieję umrzeć samotnie. #1.80 Ale niech będzie, jak chcesz..."
-wanst_hubert_addparty_random_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
+wanst_hubert_acceptjoin_bummed_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
 wanst_hubert_acceptjoin_bummed_2_2,Alright. It cannot get much worse.,Dobra. Gorzej już chyba być nie może.
 row163,//1,//1
-wanst_hubert_address_random_1_1,Well look at this little guy!,"No proszę, a to co za mały gagatek!"
+wanst_hubert_address_angry_1_1,Well look at this little guy!,"No proszę, a to co za mały gagatek!"
 wanst_hubert_address_angry_1_2,Little guy?,Mały gagatek?
 row166,//2,//2
-wanst_hubert_address_random_2_1,Hey fellow adventurer!,"Hej, drogi poszukiwaczu przygód!"
+wanst_hubert_address_angry_2_1,Hey fellow adventurer!,"Hej, drogi poszukiwaczu przygód!"
 wanst_hubert_address_angry_2_2,Hey.,Hej.
 row169,//3,//3
-wanst_hubert_addparty_random_3_1,Follow me on my journey!,Podążaj za mną w mej podróży!
+wanst_hubert_acceptjoin_angry_1_1,Follow me on my journey!,Podążaj za mną w mej podróży!
 wanst_hubert_acceptjoin_angry_1_2,"Ok, but you go first!","Ok, ale ty idziesz pierwszy!"
-wanst_hubert_addparty_random_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
+wanst_hubert_acceptjoin_angry_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
 wanst_hubert_acceptjoin_angry_2_2,I'll keep a safe distance to you...,Będę trzymał się od ciebie z bezpiecznej odległości...
 excito_idle_generic_1_1,Dum di dum.,Pam pam pam.
 excito_idle_generic_2_1,A-hem. #0.70 Did you say something?,A-hem. #0.70 Coś mówiłeś?

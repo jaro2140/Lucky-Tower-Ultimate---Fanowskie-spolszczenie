@@ -42,24 +42,24 @@ alva_takegold_good_1_1,"Alright, cheers.","Dobra, dzięki."
 alva_takegold_medium_1_1,Uhm. Thanks.,Yy. Dzięki.
 alva_takegold_bummed_1_1,"Uh, yeah... thanks, I guess.","Yy, ta... dzięki, chyba."
 alva_takegold_angry_1_1,"Uhm, okay. ""Thanks""...","Yy, okej. „Dzięki”..."
-wanst_hubert_follow_random_1_1,"Come on, let's go this way.","No dawaj, chodźmy tędy."
-wanst_hubert_follow_random_2_1,"Follow me, pal!","Chodź za mną, kolego!"
-wanst_hubert_follow_random_3_1,Join me.,Dołącz do mnie.
-wanst_hubert_follow_random_5_1,"This way, friendo!","Tędy, przyjacielu!"
-wanst_hubert_follow_random_5_1,"This way, friendo!","Tędy, przyjacielu!"
-wanst_hubert_follow_random_6_1,"Ok, follow me!","Ok, chodź za mną!"
-wanst_hubert_follow_random_7_1,"Ok, follow me!","Ok, chodź za mną!"
-wanst_hubert_follow_random_8_1,Come with me!,Chodź ze mną!
-wanst_hubert_follow_random_9_1,"Alright, let's go.","Dobra, ruszamy."
-wanst_hubert_follow_random_10_1,"Hey, come with me, pal!","Hej, chodź ze mną, kolego!"
-wanst_hubert_follow_random_11_1,Come follow!,Chodź za mną!
-wanst_hubert_follow_random_12_1,"Come along, pal.","Chodź razem ze mną, kolego."
-wanst_hubert_follow_random_13_1,"Come with me, pal!","Chodź ze mną, kolego!"
-wanst_hubert_follow_random_14_1,Follow me!,Za mną!
-wanst_hubert_follow_random_15_1,Follow me!,Za mną!
-wanst_hubert_follow_random_16_1,Chop chop. Let's go.,Szybciutko. Ruszamy.
-wanst_hubert_follow_random_17_1,Come on!,No dawaj!
-wanst_hubert_follow_random_18_1,"Let's go, pal!","Ruszamy, kolego!"
+wanst_alva_follow_random_1_1,"Come on, let's go this way.","No chodź, idziemy tędy."
+wanst_alva_follow_random_2_1,"Follow me, pal!","Chodź za mną, koleżko!"
+wanst_alva_follow_random_3_1,Join me.,Dołącz do mnie.
+wanst_alva_follow_random_4_1,"This way, friendo!","Tędy, przyjacielu!"
+wanst_alva_follow_random_5_1,"This way, friendo!","Tędy, przyjacielu!"
+wanst_alva_follow_random_6_1,"Ok, follow me!","Dobra, chodź za mną!"
+wanst_alva_follow_random_7_1,"Ok, follow me!","Dobra, chodź za mną!"
+wanst_alva_follow_random_8_1,Come with me!,Chodź ze mną!
+wanst_alva_follow_random_9_1,"Alright, let's go.","No dobra, idziemy."
+wanst_alva_follow_random_10_1,"Hey, come with me, pal!","Hej, chodź ze mną, koleżko!"
+wanst_alva_follow_random_11_1,Come follow!,Chodź za mną!
+wanst_alva_follow_random_12_1,"Come along, pal.","Chodź ze mną, koleżko."
+wanst_alva_follow_random_13_1,"Come with me, pal!","Chodź ze mną, koleżko!"
+wanst_alva_follow_random_14_1,Follow me!,Chodź za mną!
+wanst_alva_follow_random_15_1,Follow me!,Chodź za mną!
+wanst_alva_follow_random_16_1,Chop chop. Let's go.,"Szybko, szybko. Idziemy."
+wanst_alva_follow_random_17_1,Come on!,No chodź!
+wanst_alva_follow_random_18_1,"Let's go, pal!","Idziemy, koleżko!"
 wanst_alva_follow_reply_perfect_1_1,Okeiiiii.,Okeeej.
 wanst_alva_follow_reply_perfect_2_1,"Okay, let's go!","Okej, ruszamy!"
 wanst_alva_follow_reply_perfect_3_1,Time to brew up some trouble!,Czas zawarzyć trochę kłopotów!
@@ -77,22 +77,22 @@ wanst_alva_follow_reply_bummed_2_1,This is an exercise in restraint. #2.40 But I
 wanst_alva_follow_reply_bummed_3_1,"You lead the way, and I'll do my best #2.20 to keep my eye rolls silent.","Ty prowadź, #2.20 a ja postaram się przewracać oczami po cichu."
 wanst_alva_follow_reply_angry_1_1,"Argh, this is getting ridiculous.","Argh, to robi się śmieszne."
 wanst_alva_follow_reply_angry_2_1,"Fine, lead on, oaf.","Dobra, prowadź, prostaku."
-wanst_hubert_stay_random_1_1,Could you stay here for a sec?,Możesz tu zostać na chwilę?
-wanst_hubert_stay_random_2_1,Stay right there.,Zostań właśnie tam.
-wanst_hubert_stay_random_3_1,Stay here!,Zostań tutaj!
-wanst_hubert_stay_random_4_1,Stop right there.,Zatrzymaj się właśnie tam.
-wanst_hubert_stay_random_5_1,Can you stay here for a bit?,Możesz tu zostać na chwilkę?
-wanst_hubert_stay_random_6_1,Stay right here!,Zostań właśnie tutaj!
-wanst_hubert_stay_random_7_1,Please keep this position.,"Proszę, zachowaj tę pozycję."
-wanst_hubert_stay_random_8_1,Stay here.,Zostań tutaj.
-wanst_hubert_stay_random_9_1,"Don't move, pal.","Nie ruszaj się, kolego."
-wanst_hubert_stay_random_10_1,Hold it!,Czekaj!
-wanst_hubert_stay_random_11_1,"Okay, hold this position for a bit, willya?","Okej, zachowaj tę pozycję na chwilę, dobra?"
-wanst_hubert_stay_random_12_1,Keep this position.,Zachowaj tę pozycję.
-wanst_hubert_stay_random_13_1,"Ok, hold it here.","Ok, zatrzymaj się tutaj."
-wanst_hubert_stay_random_14_1,"Okay, hold on.","Okej, czekaj."
-wanst_hubert_stay_random_15_1,"Ok, hold it.","Ok, czekaj."
-wanst_hubert_stay_random_16_1,"Stay right there, dude!","Zostań właśnie tam, stary!"
+wanst_alva_stay_random_1_1,Could you stay here for a sec?,Możesz tu chwilkę zostać?
+wanst_alva_stay_random_2_1,Stay right there.,Zostań tam.
+wanst_alva_stay_random_3_1,Stay here!,Zostań tu!
+wanst_alva_stay_random_4_1,Stop right there.,Stój w miejscu.
+wanst_alva_stay_random_5_1,Can you stay here for a bit?,Możesz tu chwilę zostać?
+wanst_alva_stay_random_6_1,Stay right here!,Zostań dokładnie tutaj!
+wanst_alva_stay_random_7_1,Please keep this position.,"Proszę, zachowaj tę pozycję."
+wanst_alva_stay_random_8_1,Stay here.,Zostań tutaj.
+wanst_alva_stay_random_9_1,"Don't move, pal.","Ani drgnij, koleżko."
+wanst_alva_stay_random_10_1,Hold it!,Stój!
+wanst_alva_stay_random_11_1,"Okay, hold this position for a bit, willya?","Dobra, potrzymaj tę pozycję chwilę, dobra?"
+wanst_alva_stay_random_12_1,Keep this position.,Zachowaj tę pozycję.
+wanst_alva_stay_random_13_1,"Ok, hold it here.","Dobra, przytrzymaj tu."
+wanst_alva_stay_random_14_1,"Okay, hold on.","Dobra, poczekaj."
+wanst_alva_stay_random_15_1,"Ok, hold it.","Dobra, przytrzymaj."
+wanst_alva_stay_random_16_1,"Stay right there, dude!","Zostań tam, ziomek!"
 wanst_alva_stay_reply_perfect_1_1,You can trust me!,Możesz mi zaufać!
 wanst_alva_stay_reply_perfect_2_1,I'll secure this spot.,Zabezpieczę to miejsce.
 wanst_alva_stay_reply_great_1_1,"Done that before, can do it again!","Robiłam to już wcześniej, mogę zrobić to znowu!"

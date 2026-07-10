@@ -14,13 +14,13 @@ wanst_excito_address_bummed_3_2,I think I want to be left alone.,Chyba chcę zos
 wanst_excito_address_angry_1_2,And what are you? #1.10 A bumbling idiot?,A ty co? #1.10 Jakiś oszołom?
 wanst_excito_address_angry_2_2,"Well, hello Sillypants! #2.00 What do you want?","No cóż, witaj, Głuptasie! #2.00 Czego chcesz?"
 wanst_excito_address_angry_3_2,Why would I want to talk to you?,Czemu miałbym w ogóle z tobą gadać?
-wanst_hubert_addparty_random_3_1,Follow me on my journey!,Podąż za mną w mojej podróży!
+wanst_excito_acceptjoin_perfect_1_1,Follow me on my journey!,Podąż za mną w mojej podróży!
 wanst_excito_acceptjoin_perfect_1_2,Exciting!,Ekscytujące!
-wanst_hubert_addparty_random_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
+wanst_excito_acceptjoin_perfect_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
 wanst_excito_acceptjoin_perfect_2_2,I'm down for adventure!,Jestem gotowy na przygodę!
-wanst_hubert_addparty_random_2_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
+wanst_excito_acceptjoin_perfect_3_1,Be my shadow and follow my lead!,Bądź moim cieniem i podążaj za mną!
 wanst_excito_acceptjoin_perfect_3_2,Let's get going!,Ruszajmy!
-wanst_hubert_follow_random_9_1,"Alright, let's go!","Dobrze, idziemy!"
+wanst_excito_acceptjoin_perfect_4_1,"Alright, let's go!","No dobra, ruszamy!"
 wanst_excito_acceptjoin_perfect_4_2,"Okay, let's beat it!","Okej, spadajmy stąd!"
 wanst_excito_acceptjoin_medium_1_2,Ok... #1.10 I am a bit scared though.,Okej... #1.10 Chociaż trochę się boję.
 wanst_excito_acceptjoin_medium_2_2,Following you?#1.00 #1.50 I'm not sure. #2.40 But let's give it a try.,Iść za tobą?#1.00 #1.50 Nie jestem pewien. #2.40 Ale spróbujmy.
@@ -47,24 +47,24 @@ wanst_excito_addpartycaptive_1_1,Follow me on my journey!,Podąż za mną w moje
 wanst_excito_addpartycaptive_1_2,I... would...,Ja... bym chętnie...
 wanst_excito_addpartycaptive_2_1,Follow me on my quest!,Podąż za mną w mojej wyprawie!
 wanst_excito_addpartycaptive_2_2,Only one thing left to do then. #1.90 Rriiight?,Więc zostało zrobić tylko jedno. #1.90 Prawdaaa?
-wanst_hubert_follow_random_1_1,"Come on, let's go this way.","Chodź, idziemy tędy."
-wanst_hubert_follow_random_2_1,"Follow me, pal!","Chodź za mną, przyjacielu!"
-wanst_hubert_follow_random_3_1,Join me.,Dołącz do mnie.
-wanst_hubert_follow_random_5_1,"This way, friendo!","Tędy, przyjacielu!"
-wanst_hubert_follow_random_5_1,"This way, friendo!","Tędy, przyjacielu!"
-wanst_hubert_follow_random_6_1,"Ok, follow me!","Okej, chodź za mną!"
-wanst_hubert_follow_random_7_1,"Ok, follow me!","Okej, chodź za mną!"
-wanst_hubert_follow_random_8_1,Come with me!,Chodź ze mną!
-wanst_hubert_follow_random_9_1,"Alright, let's go.","Dobrze, ruszajmy."
-wanst_hubert_follow_random_10_1,"Hey, come with me, pal!","Hej, chodź ze mną, przyjacielu!"
-wanst_hubert_follow_random_11_1,Come follow!,"Chodź, podążaj!"
-wanst_hubert_follow_random_12_1,"Come along, pal.","Chodź ze mną, przyjacielu."
-wanst_hubert_follow_random_13_1,"Come with me, pal!","Chodź ze mną, przyjacielu!"
-wanst_hubert_follow_random_14_1,Follow me!,Podążaj za mną!
-wanst_hubert_follow_random_15_1,Follow me!,Podążaj za mną!
-wanst_hubert_follow_random_16_1,Chop chop. Let's go.,Migiem. Idziemy.
-wanst_hubert_follow_random_17_1,Come on!,No chodź!
-wanst_hubert_follow_random_18_1,"Let's go, pal!","Idziemy, przyjacielu!"
+wanst_excito_follow_random_1_1,"Come on, let's go this way.","No chodź, idziemy tędy."
+wanst_excito_follow_random_2_1,"Follow me, pal!","Chodź za mną, koleżko!"
+wanst_excito_follow_random_3_1,Join me.,Dołącz do mnie.
+wanst_excito_follow_random_4_1,"This way, friendo!","Tędy, przyjacielu!"
+wanst_excito_follow_random_5_1,"This way, friendo!","Tędy, przyjacielu!"
+wanst_excito_follow_random_6_1,"Ok, follow me!","Dobra, chodź za mną!"
+wanst_excito_follow_random_7_1,"Ok, follow me!","Dobra, chodź za mną!"
+wanst_excito_follow_random_8_1,Come with me!,Chodź ze mną!
+wanst_excito_follow_random_9_1,"Alright, let's go.","No dobra, idziemy."
+wanst_excito_follow_random_10_1,"Hey, come with me, pal!","Hej, chodź ze mną, koleżko!"
+wanst_excito_follow_random_11_1,Come follow!,Chodź za mną!
+wanst_excito_follow_random_12_1,"Come along, pal.","Chodź ze mną, koleżko."
+wanst_excito_follow_random_13_1,"Come with me, pal!","Chodź ze mną, koleżko!"
+wanst_excito_follow_random_14_1,Follow me!,Chodź za mną!
+wanst_excito_follow_random_15_1,Follow me!,Chodź za mną!
+wanst_excito_follow_random_16_1,Chop chop. Let's go.,"Szybko, szybko. Idziemy."
+wanst_excito_follow_random_17_1,Come on!,No chodź!
+wanst_excito_follow_random_18_1,"Let's go, pal!","Idziemy, koleżko!"
 wanst_excito_follow_reply_perfect_1_1,"Okay, let's do this! Yeah!","Okej, do dzieła! Tak jest!"
 wanst_excito_follow_reply_perfect_2_1,"Okay, let's go!","Okej, ruszamy!"
 wanst_excito_follow_reply_perfect_3_1,This adventure is nuts!,Ta przygoda jest szalona!
@@ -86,22 +86,22 @@ wanst_excito_follow_reply_bummed_3_1,I hope for the last time!,"Mam nadzieję, �
 wanst_excito_follow_reply_angry_1_1,You're a freak!,Jesteś stukniętym dziwakiem!
 wanst_excito_follow_reply_angry_2_1,Really? What for!?,Serio? Po co!?
 wanst_excito_follow_reply_angry_3_1,I only follow to see you fail!,"Idę tylko po to, żeby patrzeć, jak ponosisz porażkę!"
-wanst_hubert_stay_random_1_1,Could you stay here for a sec?,Mógłbyś zostać tutaj na chwilę?
-wanst_hubert_stay_random_2_1,Stay right there.,Zostań właśnie tam.
-wanst_hubert_stay_random_3_1,Stay here!,Zostań tutaj!
-wanst_hubert_stay_random_4_1,Stop right there.,"Stój, ani kroku dalej."
-wanst_hubert_stay_random_5_1,Can you stay here for a bit?,Możesz tu zostać przez chwilę?
-wanst_hubert_stay_random_6_1,Stay right here!,Zostań właśnie tutaj!
-wanst_hubert_stay_random_7_1,Please keep this position.,"Proszę, zachowaj tę pozycję."
-wanst_hubert_stay_random_8_1,Stay here.,Zostań tutaj.
-wanst_hubert_stay_random_9_1,"Don't move, pal.","Nie ruszaj się, przyjacielu."
-wanst_hubert_stay_random_10_1,Hold it!,Stój bez ruchu!
-wanst_hubert_stay_random_11_1,"Okay, hold this position for a bit, willya?","Okej, zachowaj tę pozycję przez chwilę, dobra?"
-wanst_hubert_stay_random_12_1,Keep this position.,Zachowaj tę pozycję.
-wanst_hubert_stay_random_13_1,"Ok, hold it here.","Okej, stój tutaj."
-wanst_hubert_stay_random_14_1,"Okay, hold on.","Okej, poczekaj chwilę."
-wanst_hubert_stay_random_15_1,"Ok, hold it.","Okej, bez ruchu."
-wanst_hubert_stay_random_16_1,"Stay right there, dude!","Zostań tam, koleś!"
+wanst_excito_stay_random_1_1,Could you stay here for a sec?,Możesz tu chwilkę zostać?
+wanst_excito_stay_random_2_1,Stay right there.,Zostań tam.
+wanst_excito_stay_random_3_1,Stay here!,Zostań tu!
+wanst_excito_stay_random_4_1,Stop right there.,Stój w miejscu.
+wanst_excito_stay_random_5_1,Can you stay here for a bit?,Możesz tu chwilę zostać?
+wanst_excito_stay_random_6_1,Stay right here!,Zostań dokładnie tutaj!
+wanst_excito_stay_random_7_1,Please keep this position.,"Proszę, zachowaj tę pozycję."
+wanst_excito_stay_random_8_1,Stay here.,Zostań tutaj.
+wanst_excito_stay_random_9_1,"Don't move, pal.","Ani drgnij, koleżko."
+wanst_excito_stay_random_10_1,Hold it!,Stój!
+wanst_excito_stay_random_11_1,"Okay, hold this position for a bit, willya?","Dobra, potrzymaj tę pozycję chwilę, dobra?"
+wanst_excito_stay_random_12_1,Keep this position.,Zachowaj tę pozycję.
+wanst_excito_stay_random_13_1,"Ok, hold it here.","Dobra, przytrzymaj tu."
+wanst_excito_stay_random_14_1,"Okay, hold on.","Dobra, poczekaj."
+wanst_excito_stay_random_15_1,"Ok, hold it.","Dobra, przytrzymaj."
+wanst_excito_stay_random_16_1,"Stay right there, dude!","Zostań tam, ziomek!"
 wanst_excito_stay_reply_perfect_1_1,Stayin' and slayin'! #1.50 Here we go.,Zostaję tu i wymiatam! #1.50 No to zaczynamy.
 wanst_excito_stay_reply_perfect_2_1,THIS is my favourite spot!,TO jest moje ulubione miejsce!
 wanst_excito_stay_reply_perfect_3_1,It's beautiful!,Jest przepiękne!

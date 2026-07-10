@@ -51,7 +51,7 @@ row60,A turnip.,Rzepa.
 row61,A carrot.,Marchewka.
 row62,A pineapple.,Ananas.
 row63,A banana.,Banan.
-row64,A vest.,Kamizelka.
+wanst_headroom_vest_1_1,A vest.,Kamizelka.
 row65,A shirt with a cape.,Koszula z peleryną.
 row66,A suit of two-colored armor with a cloak.,Dwukolorowa zbroja z płaszczem.
 wanst_headroom_knightarmor_1_1,A suit of checkered armor.,Zbroja w szachownicę.
@@ -71,16 +71,16 @@ row80,A helmet with a purple plume.,Hełm z fioletowym pióropuszem.
 row81,A helmet with a blue plume.,Hełm z niebieskim pióropuszem.
 wanst_headroom_knightshield_1_1,A shield with a two-colored cross.,Tarcza z dwukolorowym krzyżem.
 row83,A winged helmet.,Skrzydlaty hełm.
-row84,A scimitar.,Sejmitar.
+wanst_headroom_scimitar_1_1,A scimitar.,Bułat.
 row85,A leg of meat.,Udziec mięsa.
 row86,A leather shield.,Skórzana tarcza.
 row87,A leather helmet.,Skórzany hełm.
-row88,A sapphire.,Szafir.
-row89,A topaz.,Topaz.
-row90,An amethyst.,Ametyst.
-row91,A clear diamond.,Przezroczysty diament.
-row92,A black diamond.,Czarny diament.
-row93,An emerald.,Szmaragd.
+wanst_headroom_sapphire_1_1,A sapphire.,Szafir.
+wanst_headroom_topaz_1_1,A topaz.,Topaz.
+wanst_headroom_amethyst_1_1,An amethyst.,Ametyst.
+wanst_headroom_cleardiamond_1_1,A clear diamond.,Przezroczysty diament.
+wanst_headroom_blackdiamond_1_1,A black diamond.,Czarny diament.
+wanst_headroom_emerald_1_1,An emerald.,Szmaragd.
 row94,//small disc(wanst- headroom),//mały dysk (Wanst - headroom)
 row95,//medium disc(wanst- headroom),//średni dysk (Wanst - headroom)
 row96,//big disc(wanst- headroom),//duży dysk (Wanst - headroom)

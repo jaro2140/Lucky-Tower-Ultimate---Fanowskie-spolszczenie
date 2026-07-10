@@ -25,12 +25,12 @@ sobu_newfloor_bummed_3_1,Whoa. Not dead. Cool.,O. Nie umarliśmy. Fajnie.
 sobu_looted_angry_1_1,"Hey, what do you think you're doing!","Hej, co ty sobie wyobrażasz!"
 sobu_looted_angry_2_1,No respect for the eldery?!,Żadnego szacunku dla starszych?!
 sobu_looted_angry_3_1,I'll teach you some manners!,Nauczę cię manier!
-sobu_looted_good_1_1,Hey what do you think you're doing!,"Hej, co ty sobie wyobrażasz!"
-sobu_looted_good_2_1,No respect for the eldery?!,Żadnego szacunku dla starszych?!
-sobu_looted_good_3_1,I'll teach you some manners!,Nauczę cię manier!
-sobu_looted_angry_1_1,Hey what do you think you're doing!,"Hej, co ty sobie wyobrażasz!"
-sobu_looted_angry_2_1,No respect for the eldery?!,Żadnego szacunku dla starszych?!
-sobu_looted_angry_3_1,I'll teach you some manners!,Nauczę cię manier!
+sobu_looted_great_1_1,Hey what do you think you're doing!,"Hej, co ty sobie wyobrażasz!"
+sobu_looted_great_2_1,No respect for the eldery?!,Żadnego szacunku dla starszych?!
+sobu_looted_great_3_1,I'll teach you some manners!,Nauczę cię manier!
+sobu_looted_bummed_1_1,Hey what do you think you're doing!,"Hej, co ty sobie wyobrażasz!"
+sobu_looted_bummed_2_1,No respect for the eldery?!,Żadnego szacunku dla starszych?!
+sobu_looted_bummed_3_1,I'll teach you some manners!,Nauczę cię manier!
 sobu_wanst_died_trap_perfect_1_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
 sobu_wanst_died_trap_perfect_2_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"
 sobu_wanst_died_trap_great_1_1,"A young life, cut so short!","Młode życie, ucięte tak nagle!"
@@ -136,18 +136,18 @@ sobu_takegold_good_1_1,"Uhm, thank you.","Yyy, dziękuję."
 sobu_takegold_medium_1_1,"Alright, thanks I guess.","No dobra, dzięki, chyba."
 sobu_takegold_bummed_1_1,"Uhhhh, thanks? That's something...","Yyyy, dzięki? To już coś..."
 sobu_takegold_angry_1_1,Yeah. Thanks.,No. Dzięki.
-sobu_wanst_died_enemy_medium_1_1,Retreat!,Odwrót!
-sobu_wanst_died_trap_perfect_1_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
-sobu_wanst_died_trap_perfect_2_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"
-sobu_wanst_died_enemy_medium_1_1,Retreat!,Odwrót!
-sobu_wanst_died_trap_perfect_1_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
-sobu_wanst_died_trap_perfect_2_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"
-sobu_wanst_died_enemy_medium_1_1,Retreat!,Odwrót!
-sobu_wanst_died_trap_perfect_1_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
-sobu_wanst_died_trap_perfect_2_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"
-sobu_wanst_died_enemy_medium_1_1,Retreat!,Odwrót!
-sobu_wanst_died_trap_perfect_1_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
-sobu_wanst_died_trap_perfect_2_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"
-sobu_wanst_died_enemy_medium_1_1,Retreat!,Odwrót!
-sobu_wanst_died_trap_perfect_1_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
-sobu_wanst_died_trap_perfect_2_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"
+sobu_door_obstacle_perfect_1_1,Retreat!,Odwrót!
+sobu_door_obstacle_perfect_2_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
+sobu_door_obstacle_perfect_3_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"
+sobu_door_obstacle_great_1_1,Retreat!,Odwrót!
+sobu_door_obstacle_great_2_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
+sobu_door_obstacle_great_3_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"
+sobu_door_obstacle_medium_1_1,Retreat!,Odwrót!
+sobu_door_obstacle_medium_2_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
+sobu_door_obstacle_medium_3_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"
+sobu_door_obstacle_bummed_1_1,Retreat!,Odwrót!
+sobu_door_obstacle_bummed_2_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
+sobu_door_obstacle_bummed_3_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"
+sobu_door_obstacle_angry_1_1,Retreat!,Odwrót!
+sobu_door_obstacle_angry_2_1,"Huh, I don't remember foreseeing this.","Hmm, nie pamiętam, żebym to przewidział."
+sobu_door_obstacle_angry_3_1,"Hey, that was not written in the prophecy!","Hej, tego nie było w przepowiedni!"

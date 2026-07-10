@@ -32,9 +32,9 @@ wanst_sobu_potion_hint_1_2_a,"Go to Alva, the witch! #1.50 She might be hard to 
 wanst_sobu_potion_hint_1_2_b,"Try getting the potion from Alva, the witch! #2.50 You'll surely find a way, chosen one.","Spróbuj zdobyć miksturę od Alvy, czarownicy! #2.50 Na pewno znajdziesz sposób, wybrańcze."
 wanst_sobu_potion_hint_1_2_c,Errr... #1.00 Alva. #1.80 Potion. #2.50 Get.,Eee... #1.00 Alva. #1.80 Mikstura. #2.50 Zdobyć.
 row55,case: Alva has not been freed,przypadek: Alva nie została uwolniona
-wanst_sobu_potion_hint_1_1_a,"Sorry, I didn't listen. What do I have to do now?","Wybacz, nie słuchałem. Co mam teraz zrobić?"
-wanst_sobu_potion_hint_1_1_b,Alright! What exactly am I supposed to do again?,Dobrze! Co dokładnie mam znowu zrobić?
-wanst_sobu_potion_hint_1_1_c,Soooo... I might not have listened to every exact word you said. What's my job again?,"Wiiięc... mogłem nie wsłuchać się w każde słowo, które powiedziałeś. Jakie jest moje zadanie?"
+wanst_sobu_alva_hint_1_1_a,"Sorry, I didn't listen. What do I have to do now?","Wybacz, nie słuchałem. Co mam teraz zrobić?"
+wanst_sobu_alva_hint_1_1_b,Alright! What exactly am I supposed to do again?,No dobrze! Co dokładnie miałem zrobić?
+wanst_sobu_alva_hint_1_1_c,Soooo... I might not have listened to every exact word you said. What's my job again?,"Taaak więc... możliwe, że nie słuchałem każdego twojego słowa. Jakie to było zadanie?"
 wanst_sobu_alva_hint_1_2_a,The witch Alva might be able to help us! #2.30 But she is still trapped inside the tower. #4.50 She needs to be freed as soon as possible!,Czarownica Alva może nam pomóc! #2.30 Ale nadal jest uwięziona w wieży. #4.50 Trzeba ją jak najszybciej uwolnić!
 wanst_sobu_alva_hint_1_2_b,I know the witch Alva usually comes up with very powerful brewings. #4.50 But she hasn't made it out of the tower yet. #7.50 Give her a hand?,"Wiem, że czarownica Alva zwykle wymyśla bardzo potężne wywary. #4.50 Ale jeszcze nie wydostała się z wieży. #7.50 Pomożesz jej?"
 wanst_sobu_alva_hint_1_2_c,We need to get Alva out of the tower. #2.20 Then she will surely be able to brew up #4.50 something that will help us.,"Musimy wydostać Alvę z wieży. #2.20 Wtedy na pewno uwarzy #4.50 coś, co nam pomoże."
@@ -59,9 +59,9 @@ wanst_alva_disbelieve_first_1_6,"Ok, let me get you a sample of the mess. Be rig
 wanst_alva_disbelieve_again_1_1,"I'm done with all this #1.30 jibber jabber, son. #2.50 Get proof. #3.50 Or get lost.","Mam dość tego całego #1.30 czczego gadania, synu. #2.50 Zdobądź dowód. #3.50 Albo spadaj."
 wanst_alva_disbelieve_again_2_1,Takes more than stubborness #1.50 to convince me.,"Potrzeba czegoś więcej niż uporu, #1.50 żeby mnie przekonać."
 wanst_alva_disbelieve_again_3_1,"Come back when you have proof, my friend. #1.90 I am busy here...","Wróć, kiedy będziesz miał dowód, mój drogi. #1.90 Jestem tu zajęta..."
-wanst_alva_explode_1_1_a,"//redirected ""i exploded"" alva lines","//przekierowane linie Alvy ""wybuchłem"""
-wanst_alva_explode_1_1_b,"//redirected ""i exploded"" alva lines","//przekierowane linie Alvy ""wybuchłem"""
-wanst_alva_explode_1_1_c,"//redirected ""i exploded"" alva lines","//przekierowane linie Alvy ""wybuchłem"""
+wanst_alva_give_recipe_1_1_a,"//redirected ""i exploded"" alva lines","//redirected ""i exploded"" alva lines"
+wanst_alva_give_recipe_1_1_b,"//redirected ""i exploded"" alva lines","//redirected ""i exploded"" alva lines"
+wanst_alva_give_recipe_1_1_c,"//redirected ""i exploded"" alva lines","//redirected ""i exploded"" alva lines"
 wanst_alva_give_recipe_1_2,"Did you know that they're cloning us to gain unlimited power? #4.00 We need to stop this! #6.00 Even though it means there will be... #8.00  ""Less of me,"" I guess.","Wiedziałaś, że klonują nas, żeby zdobyć nieograniczoną moc? #4.00 Musimy to powstrzymać! #6.00 Nawet jeśli to znaczy, że będzie... #8.00 ""mniej mnie"", jak mniemam."
 wanst_alva_give_recipe_1_3,Ewww! #1.00 So that's the evil sorcery #3.50 he's torturing us with. #5.20 Anything we could do about it?,"Fuuuj! #1.00 Więc to ta zła magia, #3.50 którą nas torturuje. #5.20 Możemy coś z tym zrobić?"
 wanst_alva_give_recipe_1_4,"I'd need to sneak into Evelius's special place. #3.30 Even though I'm a master of disguise, #5.40 I'll need a little help from your potion power to look like him.","Musiałbym wkraść się do specjalnego miejsca Eveliusa. #3.30 Choć jestem mistrzem przebrania, #5.40 przyda mi się trochę twojej mocy mikstur, żeby wyglądać jak on."
@@ -91,9 +91,9 @@ wanst_alva_potion_1_1_c,"Alright. #1.30 Use it wisely, though. #3.00 Ok?",Dobrze
 wanst_alva_potionfirst_1_2_a,"Ah, by the way... #1.70 The potion will only work #3.00 inside the tower.","Ach, przy okazji... #1.70 Mikstura zadziała tylko #3.00 wewnątrz wieży."
 wanst_alva_potionfirst_1_2_b,Aaaand: #1.50 Before you go goofin' off: #3.50 The potion doesn't work anywhere #5.50 but inside the tower...,I jeszcze: #1.50 Zanim zaczniesz się wygłupiać: #3.50 mikstura nie działa nigdzie #5.50 poza wieżą...
 wanst_alva_potionfirst_1_2_c,Before you get any ideas: #2.50 The potion only works in the tower.,Zanim wpadniesz na jakiś pomysł: #2.50 Mikstura działa tylko w wieży.
-wanst_sobu_potion_hint_1_1_a,"Sorry, I didn't listen. What do I have to do now?","Wybacz, nie słuchałem. Co mam teraz zrobić?"
-wanst_sobu_potion_hint_1_1_b,Alright! What exactly am I supposed to do again?,Dobrze! Co dokładnie mam znowu zrobić?
-wanst_sobu_potion_hint_1_1_c,Soooo... I might not have listened to every exact word you said. What's my job again?,"Wiiięc... mogłem nie wsłuchać się w każde słowo, które powiedziałeś. Jakie jest moje zadanie?"
+wanst_alva_smalltalk_1_1_a,"Sorry, I didn't listen. What do I have to do now?","Wybacz, nie słuchałem. Co mam teraz zrobić?"
+wanst_alva_smalltalk_1_1_b,Alright! What exactly am I supposed to do again?,No dobrze! Co dokładnie miałem zrobić?
+wanst_alva_smalltalk_1_1_c,Soooo... I might not have listened to every exact word you said. What's my job again?,"Taaak więc... możliwe, że nie słuchałem każdego twojego słowa. Jakie to było zadanie?"
 wanst_alva_smalltalk_1_2_a,I still need some more things for the #2.30 potion of potions...,Nadal potrzebuję paru rzeczy do #2.30 mikstury nad miksturami...
 wanst_alva_smalltalk_1_2_b,How are you doing? #1.30 Got the ingredients?,Jak ci idzie? #1.30 Masz składniki?
 wanst_alva_smalltalk_1_2_c,Can't wait to get going with this. #2.30 Got what we need?,"Nie mogę się doczekać, aż ruszymy z tym dalej. #2.30 Masz to, czego potrzebujemy?"
@@ -275,7 +275,7 @@ wanst_rando_final_cutscene_1_6_b,"Cheers, underling!","Na zdrowie, podwładny!"
 wanst_rando_final_cutscene_1_6_c,"Alright, my subject!","Dobrze, mój poddany!"
 wanst_rando_final_cutscene_1_6_d,"Thanks, serf!","Dzięki, parobku!"
 wanst_princess_final_cutscene_1_2,"Sure, you can stay in the castle. #2.00 There will always be enough guards to eat!","Jasne, możesz zostać w zamku. #2.00 Zawsze znajdzie się dość strażników do zjedzenia!"
-wanst_princess_final_cutscene_1_4,"Cheers, princess!","Dzięki, Princess!"
+wanst_princess_final_cutscene_1_4,"Cheers, princess!","Dzięki, księżniczko!"
 wanst_sobu_final_cutscene_1_1,"We did it! #1.10 I never doubted you were the chosen one! #3.40 I mean, I wrote the prophecy after all. #5.50 Thousands of souls have been freed from torment #8.30 thanks to you, son!","Udało nam się! #1.10 Ani przez chwilę nie wątpiłem, że jesteś wybrańcem! #3.40 W końcu sam napisałem przepowiednię. #5.50 Dzięki tobie tysiące dusz uwolniono od męki, #8.30 synu!"
 wanst_sobu_final_cutscene_1_2,"Just doing my knightly duty, #2.30 aiming for the highest of virtues! #4.70 Hoo-ray!","Po prostu wypełniam rycerski obowiązek, #2.30 celując w najwyższe cnoty! #4.70 Hu-ra!"
 wanst_sobu_final_cutscene_1_3,"Alright. #0.70 So my work here is done #2.10 and my wisdom will be required at another, #4.70 wealthier place. #6.20 Toodles.","Dobrze. #0.70 Moja praca tutaj skończona, #2.10 a moja mądrość będzie potrzebna gdzie indziej, #4.70 w zamożniejszym miejscu. #6.20 Pa-patki."
@@ -347,12 +347,12 @@ wanst_merchant_f_idle_10_1,Shhh! #0.80 This is not the tavern.,Ciii! #0.80 To ni
 wanst_merchant_f_idle_11_1,Wait! #0.80 I never pay taxes...,Czekaj! #0.80 Ja nigdy nie płacę podatków...
 wanst_merchant_f_idle_12_1,He had to sell his mansion!?,Musiał sprzedać swoją rezydencję!?
 wanst_townsfolk_smalltalk_endgame_bad_1_1,Hey. #0.60 How are you doing? #1.60 Enjoying your freedom?,Hej. #0.60 Jak się masz? #1.60 Cieszysz się wolnością?
-wanst_townsfolk_smalltalk_endgame_bad_1_2,"Umm, thanks for overcoming all evil. #2.30 But there's not much to do around here any more, #4.30 and almost everyone's gone.","Umm, dzięki za pokonanie całego zła. #2.30 Ale nie ma tu już zbyt wiele do roboty, #4.30 i prawie wszyscy odeszli."
+wanst_townsfolk_smalltalk_endgame_bad_1_2,"Umm, thanks for overcoming all evil. #2.30 But there's not much to do around here any more, #4.30 and almost everyone's gone.","Uhm, dzięki za pokonanie całego zła. #2.30 Ale nie ma tu już zbyt wiele do roboty #4.30 i prawie wszyscy odeszli."
 wanst_townsfolk_smalltalk_endgame_bad_1_3,I am still here.,Ja wciąż tu jestem.
 wanst_townsfolk_smalltalk_endgame_bad_1_4,I can see that. #1.10 Sigh....,Widzę. #1.10 Ech...
 wanst_townsfolk_smalltalk_endgame_bad_2_1,Recognize your new King? #2.20 It's me!,Poznajesz swojego nowego króla? #2.20 To ja!
 wanst_townsfolk_smalltalk_endgame_bad_2_2,Nice. #0.80 King of a an andoned place. #2.50 Enjoy your reign.,Miło. #0.80 Król opuszczonego miejsca. #2.50 Miłego panowania.
-wanst_townsfolk_smalltalk_endgame_bad_2_3,"Why the grim face, my main man? My reign will spark glamorous joy and lift the spirits!","Skąd ta ponura mina, mój człowieku? Moje rządy rozpalą olśniewającą radość i podniosą ducha!"
+wanst_townsfolk_smalltalk_endgame_bad_2_3,"Why the grim face, my main man? My reign will spark glamorous joy and lift the spirits!","No skąd ta ponura mina, mój człowieku. Moje rządy rozpalą olśniewającą radość i podniosą ducha!"
 wanst_townsfolk_smalltalk_endgame_bad_2_4,"By destroying the tower you sure lifted my prospects #2.70 of making any kind of income, #4.30 that's for sure...","Niszcząc wieżę, na pewno podniosłeś moje szanse #2.70 na jakikolwiek dochód, #4.30 co do tego nie ma wątpliwości..."
 wanst_townsfolk_smalltalk_endgame_good_1_1,"Good day, king worshipper! #1.80 How are you?","Dzień dobry, wyznawco króla! #1.80 Jak się masz?"
 wanst_townsfolk_smalltalk_endgame_good_1_2,"Our favourite ruler, #1.30 King Wanst! #2.50 So glad this nasty tower business is over.","Nasz ulubiony władca, #1.30 król Wanst! #2.50 Tak się cieszę, że ta paskudna sprawa z wieżą się skończyła."
@@ -367,59 +367,59 @@ wanst_townsfolk_smalltalk_endgame_good_3_2,King Wanst! #1.10 So glad the tower i
 wanst_townsfolk_smalltalk_endgame_good_3_3,Now you can always see my gorgeous castle!,Teraz zawsze możesz podziwiać mój wspaniały zamek!
 wanst_townsfolk_smalltalk_endgame_good_3_4,Your castle is the other way. #1.80 It is gorgeous though. #3.20 Hail you!,Twój zamek jest w drugą stronę. #1.80 Choć jest wspaniały. #3.20 Chwała ci!
 wanst_townsfolk_f_smalltalk_endgame_bad_1_1,"Hey, how's the jams, #1.50 my mams?","Hej, jak tam dżemy, #1.50 moja damo?"
-wanst_townsfolk_f_smalltalk_endgame_bad_1_2,"Umm, can you turn back time? #2.50 I understand that evil is vanquished, #5.00 but so is my business...","Umm, umiesz cofnąć czas? #2.50 Rozumiem, że zło zostało pokonane, #5.00 ale mój biznes też..."
-wanst_townsfolk_f_smalltalk_endgame_bad_1_3,I... #0.80 plan ahead #1.50 rather than looking back.,"Ja... #0.80 planuję naprzód, #1.50 zamiast oglądać się za siebie."
+wanst_townsfolk_f_smalltalk_endgame_bad_1_2,"Umm, can you turn back time? #2.50 I understand that evil is vanquished, #5.00 but so is my business...","Uhm, umiesz cofnąć czas? #2.50 Rozumiem, że zło zniknęło, #5.00 ale mój biznes też..."
+wanst_townsfolk_f_smalltalk_endgame_bad_1_3,I... #0.80 plan ahead #1.50 rather than looking back.,"Ja... #0.80 wolę planować naprzód, #1.50 niż oglądać się za siebie."
 wanst_townsfolk_f_smalltalk_endgame_bad_1_4,"Should've planned ahead when ruining all our lives, dude.","Trzeba było planować naprzód, kiedy rujnowałeś nam życie, stary."
 wanst_townsfolk_f_smalltalk_endgame_bad_1_5,"I'll take that as a #1.30 ""thank you""!","Uznam to za #1.30 ""dziękuję""!"
 wanst_townsfolk_f_smalltalk_endgame_bad_2_1,Hey there.,Cześć.
-wanst_townsfolk_f_smalltalk_endgame_bad_2_2,Was all this destruction worth it #2.50 to become king?,"Czy całe to zniszczenie było tego warte, #2.50 żeby zostać królem?"
-wanst_townsfolk_f_smalltalk_endgame_bad_2_3,"No heat without some friction, folks. #2.00 Sorry.","Nie ma ciepła bez tarcia, ludu. #2.00 Wybaczcie."
+wanst_townsfolk_f_smalltalk_endgame_bad_2_2,Was all this destruction worth it #2.50 to become king?,"Czy warto było tyle zniszczyć, #2.50 żeby zostać królem?"
+wanst_townsfolk_f_smalltalk_endgame_bad_2_3,"No heat without some friction, folks. #2.00 Sorry.","Nie ma ciepła bez odrobiny tarcia, ludu. #2.00 Wybaczcie."
 wanst_townsfolk_f_smalltalk_endgame_bad_2_4,Not sure if I agree...,"Nie wiem, czy się zgadzam..."
 wanst_townsfolk_f_smalltalk_endgame_good_1_1,Hey there.,Cześć.
-wanst_townsfolk_f_smalltalk_endgame_good_1_2,King Wanst! #1.30 Getting rid of the tower was long overdue. #4.40 Thanks!,Królu Wanst! #1.30 Pozbycie się wieży było już dawno spóźnione. #4.40 Dzięki!
-wanst_townsfolk_f_smalltalk_endgame_good_1_3,Only the best for my fellow citizens!,"Tylko to, co najlepsze dla moich współobywateli!"
+wanst_townsfolk_f_smalltalk_endgame_good_1_2,King Wanst! #1.30 Getting rid of the tower was long overdue. #4.40 Thanks!,Królu Wanst! #1.30 Pozbycie się wieży było już dawno na czasie. #4.40 Dzięki!
+wanst_townsfolk_f_smalltalk_endgame_good_1_3,Only the best for my fellow citizens!,Wszystkiego najlepszego dla moich współobywateli!
 wanst_townsfolk_f_smalltalk_endgame_good_1_4,Thank you. #1.30 Reign on!,Dziękuję. #1.30 Rządź dalej!
 wanst_townsfolk_f_smalltalk_endgame_good_2_1,"Hey, citizenette!","Hej, obywatelko!"
-wanst_townsfolk_f_smalltalk_endgame_good_2_2,Our king! #1.40 How's the reign?,Nasz król! #1.40 Jak tam panowanie?
-wanst_townsfolk_f_smalltalk_endgame_good_2_3,"Umm, #0.50 it's not raining. #1.70 It's always sunny in Wanst Kingdom.","Umm, #0.50 przecież nie pada. #1.70 W Królestwie Wansta zawsze świeci słońce."
+wanst_townsfolk_f_smalltalk_endgame_good_2_2,Our king! #1.40 How's the reign?,Nasz król! #1.40 Jak tam pogoda na tronie?
+wanst_townsfolk_f_smalltalk_endgame_good_2_3,"Umm, #0.50 it's not raining. #1.70 It's always sunny in Wanst Kingdom.","Uhm, #0.50 przecież nie pada. #1.70 W Królestwie Wanst zawsze świeci słońce."
 wanst_townsfolk_f_smalltalk_endgame_good_2_4,"Sure is! #1.40 Good day, King Wanst!","I pewnie! #1.40 Dobrego dnia, królu Wanst!"
-wanst_townsfolk_smalltalk_endgame_bad_1_1,Hey how are you doing? Enjoying your freedom?,"Hej, jak się masz? Cieszysz się wolnością?"
-wanst_townsfolk_smalltalk_endgame_bad_1_2,"Uhm, thanks for overcoming all evil. But there's not much to do around here anymore and almost everyone's gone.","Uhm, dzięki za pokonanie całego zła. Ale nie ma tu już zbyt wiele do roboty i prawie wszyscy odeszli."
-wanst_townsfolk_smalltalk_endgame_bad_1_3,I am still here.,Ja wciąż tu jestem.
-wanst_townsfolk_smalltalk_endgame_bad_1_4,I can see that. Sigh....,Widzę. Ech...
-wanst_townsfolk_smalltalk_endgame_bad_2_1,Recognize your new King? It's me!,Poznajesz swojego nowego króla? To ja!
-wanst_townsfolk_smalltalk_endgame_bad_2_2,Nice. King of an abandoned place. Enjoy your reign.,Miło. Król opuszczonego miejsca. Miłego panowania.
-wanst_townsfolk_smalltalk_endgame_bad_2_3,Well why the grim face my main man. My reign will spark glamorous joy and lift the spirits!,"No skąd ta ponura mina, mój człowieku. Moje rządy rozpalą olśniewającą radość i podniosą ducha!"
-wanst_townsfolk_smalltalk_endgame_bad_2_4,"By destroying the tower you sure lifted my prospects of making any kind of income, that's for sure.","Niszcząc wieżę, na pewno podniosłeś moje szanse na jakikolwiek dochód, co do tego nie ma wątpliwości."
-wanst_townsfolk_smalltalk_endgame_good_1_1,"Good day, king worshipper! How are you?","Dzień dobry, wyznawco króla! Jak się masz?"
-wanst_townsfolk_smalltalk_endgame_good_1_2,"Our favourite ruler, King Wanst! So glad this nasty tower business is over.","Nasz ulubiony władca, król Wanst! Tak się cieszę, że ta paskudna sprawa z wieżą się skończyła."
-wanst_townsfolk_smalltalk_endgame_good_1_3,"Over and done, let's have some fun!","Skończone, zrobione, czas na zabawę szalone!"
-wanst_townsfolk_smalltalk_endgame_good_1_4,Truly! You rule!,Zaiste! Rządzisz!
-wanst_townsfolk_smalltalk_endgame_good_2_1,"Hey pal, what's new?","Hej, kumplu, co nowego?"
-wanst_townsfolk_smalltalk_endgame_good_2_2,All hail King Wanst! I am enjoying the peaceful peace around here lately.,Chwała królowi Wanstowi! Ostatnio rozkoszuję się tutejszym spokojnym spokojem.
-wanst_townsfolk_smalltalk_endgame_good_2_3,I did that!,To moja zasługa!
-wanst_townsfolk_smalltalk_endgame_good_2_4,"I know. Thank you, King Cool!","Wiem. Dziękuję, Królu Luzaku!"
-wanst_townsfolk_smalltalk_endgame_good_3_1,Sup citizen!?,"Siema, obywatelu!?"
-wanst_townsfolk_smalltalk_endgame_good_3_2,"King Wanst! So glad the tower is gone, it was blocking my view anyway.","Królu Wanst! Tak się cieszę, że wieża zniknęła, i tak zasłaniała mi widok."
-wanst_townsfolk_smalltalk_endgame_good_3_3,Now you can always see my gorgeous castle!,Teraz zawsze możesz podziwiać mój wspaniały zamek!
-wanst_townsfolk_smalltalk_endgame_good_3_4,Your castle is the other way. It is gorgeous though. Hail you!,Twój zamek jest w drugą stronę. Choć jest wspaniały. Chwała ci!
-wanst_townsfolk_f_smalltalk_endgame_bad_1_1,"Hey, how's the jams, my mams?","Hej, jak tam dżemy, moja damo?"
-wanst_townsfolk_f_smalltalk_endgame_bad_1_2,"Uhm, can you turn back time? I understand evil is gone, but so is my business...","Uhm, umiesz cofnąć czas? Rozumiem, że zło zniknęło, ale mój biznes też..."
-wanst_townsfolk_f_smalltalk_endgame_bad_1_3,I... rather plan ahead than looking back.,Ja... wolę planować naprzód niż oglądać się za siebie.
-wanst_townsfolk_f_smalltalk_endgame_bad_1_4,"Should've planned ahead when ruining all our lives, dude.","Trzeba było planować naprzód, kiedy rujnowałeś nam życie, stary."
-wanst_townsfolk_f_smalltalk_endgame_bad_1_5,Alright way to be thankful here...,"No dobra, niezła wdzięczność..."
-wanst_townsfolk_f_smalltalk_endgame_bad_2_1,Hey there.,Cześć.
-wanst_townsfolk_f_smalltalk_endgame_bad_2_2,Did it really require all the destruction in order to become king?,"Czy naprawdę trzeba było tyle zniszczyć, żeby zostać królem?"
-wanst_townsfolk_f_smalltalk_endgame_bad_2_3,"No warmth without some friction, folks. Sorry.","Nie ma ciepła bez odrobiny tarcia, ludu. Wybaczcie."
-wanst_townsfolk_f_smalltalk_endgame_bad_2_4,Not sure if I agree...,"Nie wiem, czy się zgadzam..."
-wanst_townsfolk_f_smalltalk_endgame_good_1_1,Hey there.,Cześć.
-wanst_townsfolk_f_smalltalk_endgame_good_1_2,King Wanst! Getting rid of the tower was long overdue. Thanks!,Królu Wanst! Pozbycie się wieży było już dawno spóźnione. Dzięki!
-wanst_townsfolk_f_smalltalk_endgame_good_1_3,All the best for my fellow citizens!,Wszystkiego najlepszego dla moich współobywateli!
-wanst_townsfolk_f_smalltalk_endgame_good_1_4,Thank you. Reign on!,Dziękuję. Rządź dalej!
-wanst_townsfolk_f_smalltalk_endgame_good_2_1,"Hey, citizenette!","Hej, obywatelko!"
-wanst_townsfolk_f_smalltalk_endgame_good_2_2,Our king! How's the reign?,Nasz król! Jak tam panowanie?
-wanst_townsfolk_f_smalltalk_endgame_good_2_3,"Uhm, it's not raining. It's always sunny in Kingdom Wanst.","Uhm, przecież nie pada. W Królestwie Wanst zawsze świeci słońce."
-wanst_townsfolk_f_smalltalk_endgame_good_2_4,"Sure is! Good day, King Wanst!","I pewnie! Dobrego dnia, królu Wanst!"
+wanst_merchant_smalltalk_endgame_bad_1_1,Hey how are you doing? Enjoying your freedom?,"Hej, jak się miewasz? Cieszysz się wolnością?"
+wanst_merchant_smalltalk_endgame_bad_1_2,"Uhm, thanks for overcoming all evil. But there's not much to do around here anymore and almost everyone's gone.","Yyy, dzięki za pokonanie zła. Ale niewiele tu już do roboty i prawie wszyscy się wynieśli."
+wanst_merchant_smalltalk_endgame_bad_1_3,I am still here.,Ja wciąż tu jestem.
+wanst_merchant_smalltalk_endgame_bad_1_4,I can see that. Sigh....,"Widzę, widzę. Ech...."
+wanst_merchant_smalltalk_endgame_bad_2_1,Recognize your new King? It's me!,Poznajesz swojego nowego króla? To ja!
+wanst_merchant_smalltalk_endgame_bad_2_2,Nice. King of an abandoned place. Enjoy your reign.,Super. Król opuszczonej mieściny. Miłego panowania.
+wanst_merchant_smalltalk_endgame_bad_2_3,Well why the grim face my main man. My reign will spark glamorous joy and lift the spirits!,"Skądże ta ponura mina, mój drogi? Moje rządy rozniecą olśniewającą radość i podniosą wszystkich na duchu!"
+wanst_merchant_smalltalk_endgame_bad_2_4,"By destroying the tower you sure lifted my prospects of making any kind of income, that's for sure.","Burząc wieżę, skutecznie podniosłeś moje szanse na jakikolwiek zarobek, to pewne."
+wanst_merchant_smalltalk_endgame_good_1_1,"Good day, king worshipper! How are you?","Dzień dobry, wielbicielu króla! Jak się masz?"
+wanst_merchant_smalltalk_endgame_good_1_2,"Our favourite ruler, King Wanst! So glad this nasty tower business is over.","Nasz ukochany władca, król Wanst! Jak dobrze, że ta paskudna sprawa z wieżą już za nami."
+wanst_merchant_smalltalk_endgame_good_1_3,"Over and done, let's have some fun!","Po sprawie, czas ku zabawie!"
+wanst_merchant_smalltalk_endgame_good_1_4,Truly! You rule!,O tak! Ty tu rządzisz!
+wanst_merchant_smalltalk_endgame_good_2_1,"Hey pal, what's new?","Hej, kolego, co słychać?"
+wanst_merchant_smalltalk_endgame_good_2_2,All hail King Wanst! I am enjoying the peaceful peace around here lately.,Chwała królowi Wanstowi! Rozkoszuję się ostatnio tutejszym spokojnym spokojem.
+wanst_merchant_smalltalk_endgame_good_2_3,I did that!,To moja zasługa!
+wanst_merchant_smalltalk_endgame_good_2_4,"I know. Thank you, King Cool!","Wiem. Dzięki, Królu Luzu!"
+wanst_merchant_smalltalk_endgame_good_3_1,Sup citizen!?,"Siema, obywatelu!?"
+wanst_merchant_smalltalk_endgame_good_3_2,"King Wanst! So glad the tower is gone, it was blocking my view anyway.","Król Wanst! Jak dobrze, że wieży już nie ma, i tak zasłaniała mi widok."
+wanst_merchant_smalltalk_endgame_good_3_3,Now you can always see my gorgeous castle!,Teraz zawsze możesz podziwiać mój wspaniały zamek!
+wanst_merchant_smalltalk_endgame_good_3_4,Your castle is the other way. It is gorgeous though. Hail you!,"Twój zamek jest w drugą stronę. Ale przepiękny, trzeba przyznać. Chwała ci!"
+wanst_merchant_f_smalltalk_endgame_bad_1_1,"Hey, how's the jams, my mams?","Hej, jak tam kramik, mamciu?"
+wanst_merchant_f_smalltalk_endgame_bad_1_2,"Uhm, can you turn back time? I understand evil is gone, but so is my business...","Yyy, umiesz cofnąć czas? Rozumiem, że zło zniknęło, ale mój interes też..."
+wanst_merchant_f_smalltalk_endgame_bad_1_3,I... rather plan ahead than looking back.,"Ja... wolę planować naprzód, niż oglądać się wstecz."
+wanst_merchant_f_smalltalk_endgame_bad_1_4,"Should've planned ahead when ruining all our lives, dude.","Trzeba było planować naprzód, kiedy rujnowałeś nam życie, stary."
+wanst_merchant_f_smalltalk_endgame_bad_1_5,Alright way to be thankful here...,"No pięknie, oto i wdzięczność..."
+wanst_merchant_f_smalltalk_endgame_bad_2_1,Hey there.,Cześć.
+wanst_merchant_f_smalltalk_endgame_bad_2_2,Did it really require all the destruction in order to become king?,"Czy naprawdę trzeba było tylu zniszczeń, żeby zostać królem?"
+wanst_merchant_f_smalltalk_endgame_bad_2_3,"No warmth without some friction, folks. Sorry.","Nie ma ciepła bez odrobiny tarcia, moi drodzy. Wybaczcie."
+wanst_merchant_f_smalltalk_endgame_bad_2_4,Not sure if I agree...,"Nie wiem, czy się zgadzam..."
+wanst_merchant_f_smalltalk_endgame_good_1_1,Hey there.,Cześć.
+wanst_merchant_f_smalltalk_endgame_good_1_2,King Wanst! Getting rid of the tower was long overdue. Thanks!,Król Wanst! Pozbycie się wieży było już dawno na czasie. Dzięki!
+wanst_merchant_f_smalltalk_endgame_good_1_3,All the best for my fellow citizens!,Wszystkiego najlepszego dla moich drogich obywateli!
+wanst_merchant_f_smalltalk_endgame_good_1_4,Thank you. Reign on!,Dziękujemy. Panuj nam dalej!
+wanst_merchant_f_smalltalk_endgame_good_2_1,"Hey, citizenette!","Hej, obywatelko!"
+wanst_merchant_f_smalltalk_endgame_good_2_2,Our king! How's the reign?,Nasz król! Jak tam pogoda na szczycie władzy?
+wanst_merchant_f_smalltalk_endgame_good_2_3,"Uhm, it's not raining. It's always sunny in Kingdom Wanst.","Yyy, ani jednej chmurki. W Królestwie Wansta zawsze świeci słońce."
+wanst_merchant_f_smalltalk_endgame_good_2_4,"Sure is! Good day, King Wanst!","Święta prawda! Miłego dnia, królu Wanst!"
 wanst_merchant_smalltalk_1_1,"How's it going, #0.90 wealthy citizen?","Jak leci, #0.90 zamożny obywatelu?"
 wanst_merchant_smalltalk_1_2,I am enjoying the precious air. #2.20 Much better than down in that gross village. #4.80 Ugh.,"Rozkoszuję się tym cennym powietrzem. #2.20 O wiele lepsze niż na dole, w tej obrzydliwej wiosce. #4.80 Ugh."
 wanst_merchant_smalltalk_1_3,Luckily I don't have a nose. #1.90 So I am fine either way.,Na szczęście nie mam nosa. #1.90 Więc tak czy siak jest dobrze.
@@ -610,13 +610,13 @@ wanst_mayor_fortune_3_2,You're gonna die...,Umrzesz...
 wanst_mayor_fortune_3_3,What!?,Co!?
 wanst_mayor_fortune_3_4,...at the age of 265!,...w wieku 265 lat!
 wanst_mayor_fortune_3_5,"Phew, that's a relief. #1.50 Thanks...","Uff, co za ulga. #1.50 Dzięki..."
-wanst_mayor_fortune_3_6,Always here to help.,Zawsze do usług.
+wanst_mayor_fortune_3_6,Always here to help.,Zawsze do usług
 wanst_mayor_fortune_4_1,Let me know what my life has in store!,"Powiedz mi, co życie ma dla mnie w zanadrzu!"
 wanst_mayor_fortune_4_2,"Well, the pawn shop closed down #1.40 due to your destroying the tower... #3.20 so... nothing?","Cóż, lombard zamknięto #1.40 przez to, że zniszczyłeś wieżę... #3.20 więc... nic?"
 wanst_mayor_fortune_4_3,Well. That's a bummer.,No. To przykre.
 wanst_mayor_fortune_4_4,"Life's not just about jolly fun times, my friend!","Życie to nie tylko wesołe chwile, mój drogi!"
 wanst_mayor_fortune_4_5,"That's quite the motivation escalation, #2.20 bright spirit.","To dopiero motywacyjna eskalacja, #2.20 jasny duchu."
-wanst_mayor_fortune_3_6,Always there to help,Zawsze do usług
+wanst_mayor_fortune_4_6,Always there to help,Zawsze gotów pomóc
 wanst_evelius_demanditem_violin_1_1,...a violin.,...skrzypce.
 wanst_evelius_demanditem_swordrusty_1_1,...a rusty sword.,...zardzewiały miecz.
 wanst_evelius_demanditem_macegold_1_1,...a golden mace.,...złotą buławę.

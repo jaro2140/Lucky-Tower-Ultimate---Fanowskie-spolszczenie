@@ -46,9 +46,9 @@ wanst_statuemaker_first_1_2_c,An enormous statue is surely #1.90 something every
 wanst_statuemaker_first_1_3_a,Interested?,Zainteresowany?
 wanst_statuemaker_first_1_3_b,Deal?,Umowa stoi?
 wanst_statuemaker_first_1_3_c,What do you say?,Co ty na to?
-wanst_banker_house_accept_1_1,Gimme that!,Dawaj to!
-wanst_banker_house_accept_2_1,I'll take it!,Biorę!
-wanst_banker_house_accept_4_1,Take my money!,Bierz moje pieniądze!
+wanst_statuemaker_accept_1_1,Gimme that!,Dawaj to!
+wanst_statuemaker_accept_2_1,I'll take it!,Biorę!
+wanst_statuemaker_accept_3_1,Take my money!,Bierz moje pieniądze!
 wanst_statuemaker_accept_4_1,Let's mold some gold!,Ulepmy coś ze złota!
 wanst_statuemaker_accept_5_1,Let them remember me!,Niech mnie zapamiętają!
 wanst_statuemaker_accept_6_1,My shiny metal brother shall #1.80 protect y'all from now on!,Mój lśniący metalowy brat będzie #1.80 od teraz was wszystkich chronił!
@@ -60,9 +60,9 @@ wanst_statuemaker_success_3_1,We'll never be rid of your shiny glory! #4.10 Chee
 wanst_statuemaker_nomoney_1_1_a,Uhm... #0.90 It looks like you don't have enough money #3.30 in your bank account right now. #5.50 I can't make a gold statue #7.80 with a handful of pennies...,"Yyy... #0.90 Wygląda na to, że nie masz teraz dość pieniędzy #3.30 na koncie w banku. #5.50 Nie zrobię złotego posągu #7.80 z garści miedziaków..."
 wanst_statuemaker_nomoney_1_1_b,But I won't make a gold statue for a broke bloke. #4.00 Sorry. #5.00 Come back when you have more money in the bank.,Ale nie zrobię złotego posągu dla spłukanego gościa. #4.00 Wybacz. #5.00 Wróć gdy będziesz miał więcej pieniędzy w banku.
 wanst_statuemaker_nomoney_1_1_c,"You'll need more money in the bank, though. #2.50 Sorry, my friend.","Będziesz jednak potrzebował więcej pieniędzy w banku. #2.50 Wybacz, przyjacielu."
-wanst_banker_house_decline_1_1_a,What... me? No!,Co... ja? Nie!
-wanst_banker_house_decline_1_1_b,I have to think about it.,Muszę to przemyśleć.
-wanst_banker_house_decline_1_1_c,Noooo. Uhm. Nope. #2.50 I... don't think so. No. Definitely not. #5.50 No no no. Uh uh.,Nieee. Yyy. Nie. #2.50 Ja... nie sądzę. Nie. Zdecydowanie nie. #5.50 Nie nie nie. Y-y.
+wanst_statuemaker_decline_1_1_a,What... me? No!,Co... ja? Nie!
+wanst_statuemaker_decline_1_1_b,I have to think about it.,Muszę to przemyśleć.
+wanst_statuemaker_decline_1_1_c,Noooo. Uhm. Nope. #2.50 I... don't think so. No. Definitely not. #5.50 No no no. Uh uh.,Nieee. Yyy. Nie. #2.50 Ja... nie sądzę. Nie. Zdecydowanie nie. #5.50 Nie nie nie. Y-y.
 wanst_statuemaker_decline_1_1_d,Too bold for gold!,Zbyt śmiało jak na złoto!
 wanst_statuemaker_decline_1_1_e,"Uhm, no. #1.20 I feel I need to gather some more glory first. #4.00 And money.","Yyy, nie. #1.20 Czuję, że najpierw muszę zebrać trochę więcej chwały. #4.00 I pieniędzy."
 wanst_statuemaker_decline_1_1_f,No coins for these loins. #1.80 Sorry!,Nie ma monet na te lędźwie. #1.80 Wybacz!
@@ -363,8 +363,8 @@ Eternal glory.,Finish the statue.,Ukończ posąg.
 On a troll.,Kill X trolls.,Zabij X trolli.
 Hell of a sell.,Sell X items at the pawnshop.,Sprzedaj X przedmiotów w lombardzie.
 Fun-guy.,Eat every kind of mushroom at least once.,Zjedz każdy rodzaj grzyba przynajmniej raz.
-already exists,(find the crown),(znajdź koronę)
-already exists,(cave),(jaskinia)
+already exists,(find the crown),(młotnik podły)
+already exists,(cave),(młotnik podły)
 already exists,(hammerguy wicked),(młotnik podły)
 wanst_read_hammerbook_1_1,"""If I had a hammer, #1.20 I′d hammer in the morning, #2.60 I'd hammer in the evening #4.00 all over this tower..."" #5.70 Hammer magazine no. 13.","""Gdybym miał młot, #1.20 waliłbym nim rano, #2.60 waliłbym nim wieczorem #4.00 po całej tej wieży..."" #5.70 Magazyn Młot, nr 13."
 wanst_read_hammerbook_2_1,"""Hammer, hammering, #1.50 hammersome, ham."" #4.00 Some secrets #4.00 are better off staying secret... #5.50 Ooof.","""Młot, młocenie, #1.50 młotne, młam."" #4.00 Niektóre sekrety #4.00 lepiej niech zostaną sekretami... #5.50 Uuuf."
@@ -565,16 +565,16 @@ wanst_drop_wintermantle_2_1,That's just not me.,To po prostu nie ja.
 wanst_drop_wintermantle_3_1,Too much responsibility for me.,Za dużo odpowiedzialności jak dla mnie.
 row987,//see item,//zobacz przedmiot
 row991,//grab item,//podnieś przedmiot
-wanst_pickup_wintermantle_1_1,Anyone missing their attire?,Czy komuś brakuje odzienia?
+wanst_pickup_wintermantle2_1_1,Anyone missing their attire?,Czy komuś brakuje odzienia?
 row995,//equip item,//załóż przedmiot
-wanst_equip_wintermantle_1_1,Too cool for yule!,Za chłodny na święta!
-wanst_equip_wintermantle_2_1,Do I sense Christmas in distress?,Czy wyczuwam święta w opałach?
-wanst_equip_wintermantle_3_1,Father Frost is back to attack.,Dziad Mróz wraca do ataku.
+wanst_equip_wintermantle2_1_1,Too cool for yule!,Za chłodny na święta!
+wanst_equip_wintermantle2_2_1,Do I sense Christmas in distress?,Czy wyczuwam święta w opałach?
+wanst_equip_wintermantle2_3_1,Father Frost is back to attack.,Dziad Mróz wraca do ataku.
 row999,//attack with item,//atak przedmiotem
 row1003,//drop item,//upuść przedmiot
-wanst_drop_wintermantle_1_1,I'm done with fun.,Skończyłem z zabawą.
-wanst_drop_wintermantle_2_1,That's just not me.,To po prostu nie ja.
-wanst_drop_wintermantle_3_1,Too much responsibility for me.,Za dużo odpowiedzialności jak dla mnie.
+wanst_drop_wintermantle2_1_1,I'm done with fun.,Skończyłem z zabawą.
+wanst_drop_wintermantle2_2_1,That's just not me.,To po prostu nie ja.
+wanst_drop_wintermantle2_3_1,Too much responsibility for me.,Za dużo odpowiedzialności jak dla mnie.
 row1009,//see item,//zobacz przedmiot
 wanst_headroom_birch_1_1,A birch.,Brzozowa rózga.
 wanst_headroom_beard1_1_1,A beard.,Broda.

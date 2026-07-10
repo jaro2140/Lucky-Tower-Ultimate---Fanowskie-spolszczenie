@@ -44,7 +44,7 @@ wanst_encounter_romanshield_1_1,Didn't expect any Romans #1.70 in this grim plac
 wanst_pickup_romanshield_1_1,The only thing that can really protect you #2.10 is romance.,"Jedyna rzecz, która naprawdę cię ochroni, #2.10 to romans."
 wanst_pickup_romanshield_2_1,Romanes eunt domus!,Romanes eunt domus!
 wanst_pickup_romanshield_3_1,Idonium est!,Idonium est!
-wanst_pickup_romanshield_4_1,Shieldus maximus!,Shieldus maximus!
+wanst_pickup_romanshield_4_1,Shieldus maximus!,Tarczus maximus!
 wanst_encounter_woodenhammer_1_1,A wooden hammer... #1.30 Guess that's a start.,"Drewniany młot... #1.30 Cóż, od czegoś trzeba zacząć."
 wanst_pickup_woodenhammer_1_1,O'zapft is!,O'zapft is!
 wanst_pickup_woodenhammer_2_1,Time for some carpentry!,Czas na trochę stolarki!
@@ -68,11 +68,11 @@ wanst_pickup_table_3_1,For impromptu dinners.,Na improwizowane kolacje.
 hubert_door_balcony_1_1,Oii! It's freezing out there. #1.70 Must be because of the balcony.,Oii! Tam na zewnątrz jest lodowato. #1.70 To musi być przez balkon.
 hubert_door_balcony_2_1,There's an entrance to a balcony through there. #2.10 But I am afraid of heights.,Tam jest wejście na balkon. #2.10 Ale boję się wysokości.
 hubert_door_balcony_3_1,Are you into rock climbing? #1.60 Because the balcony out there will #3.20 require some of that.,Lubisz wspinaczkę skałkową? #1.60 Bo balkon tam na zewnątrz #3.20 będzie jej wymagał.
-excito_door_obstacle_bummed_1_1,If you want some fresh air: This way to the balcony.,Jeśli chcesz świeżego powietrza: tędy na balkon.
-excito_door_obstacle_bummed_1_1,This room looks better from the balcony out there.,Ten pokój wygląda lepiej z tamtego balkonu.
-excito_door_obstacle_bummed_1_1,This tower has an extensive balcony. Who would've thought?,Ta wieża ma rozległy balkon. Kto by pomyślał?
-excito_door_obstacle_bummed_1_1,"Not a fan of balconies, to be honest.","Szczerze mówiąc, nie jestem fanem balkonów."
-excito_door_obstacle_bummed_1_1,This way to the balcons.,Tędy do balkonów.
+excito_door_balcony_1_1,If you want some fresh air: This way to the balcony.,Jeśli chcesz zaczerpnąć świeżego powietrza: tędy na balkon.
+excito_door_balcony_2_1,This room looks better from the balcony out there.,Ten pokój wygląda lepiej z balkonu.
+excito_door_balcony_3_1,This tower has an extensive balcony. Who would've thought?,Ta wieża ma całkiem spory balkon. Kto by pomyślał?
+excito_door_balcony_4_1,"Not a fan of balconies, to be honest.","Szczerze mówiąc, nie przepadam za balkonami."
+excito_door_balcony_5_1,This way to the balcons.,Tędy na balkoni.
 wanst_encounter_goopotion_1_1,Not sure if the goo in that bottle #1.80 should be set free...,"Nie jestem pewien, czy maź z tej butelki #1.80 powinna zostać uwolniona..."
 wanst_encounter_goopotion_2_1,Goo in a bottle? #1.30 Let's see how that works out...,"Maź w butelce? #1.30 Zobaczmy, jak to się skończy..."
 wanst_pickup_goopotion_1_1,Goop goop.,Glut glut.
@@ -159,7 +159,7 @@ wanst_townsfolk_f_smalltalk_7_2_c,"Keeping up the good vibes, sir.","Trzymamy do
 wanst_townsfolk_f_smalltalk_7_2_d,No reward for mooching around. #2.00 Let's keep our heads up.,Za obijanie się nie ma nagrody. #2.00 Trzymajmy głowy wysoko.
 wanst_townsfolk_f_smalltalk_1_1,Hey there. I'm new here. #1.50 Can you point me towards the tavern?,Hej tam. Jestem tu nowy. #1.50 Wskażesz mi drogę do tawerny?
 wanst_townsfolk_f_smalltalk_1_2,Just follow the stench. #1.80 Or go all the way to the end of the city...,Po prostu idź za smrodem. #1.80 Albo prosto na koniec miasta...
-wanst_townsfolk_smalltalk_2_3,"Okay thanks, random stranger.","Okej, dzięki, przypadkowa nieznajoma."
+wanst_townsfolk_f_smalltalk_1_3,"Okay thanks, random stranger.","No dobra, dzięki, przypadkowa nieznajoma."
 wanst_townsfolk_f_smalltalk_1_4,Sure thing! Cheers for beers!,Jasne! Zdrowie za piwo!
 wanst_townsfolk_f_smalltalk_2_1,Hey pal! #0.80 What's new?,"Hej, koleżko! #0.80 Co nowego?"
 wanst_townsfolk_f_smalltalk_2_2,"You... #0.80 you seem to be new around here, yes?","Ty... #0.80 ty jesteś tu chyba nowy, tak?"
