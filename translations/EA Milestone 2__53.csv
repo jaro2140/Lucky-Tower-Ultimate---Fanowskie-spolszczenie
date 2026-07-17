@@ -15,7 +15,7 @@ wanst_pipefitter_gasketreturn_1_1_c,Maybe a drink at the tavern #1.70 will boost
 wanst_pipefitter_gasketreturn_1_2_a,"Take good care of that gasket, though.",Tylko dobrze dbaj o tę uszczelkę.
 wanst_pipefitter_gasketreturn_1_2_b,We gave you the tools. #1.80 Now it's your turn.,Dałyśmy ci narzędzia. #1.80 Teraz twoja kolej.
 wanst_pipefitter_gasketreturn_1_2_c,"As for that gasket, #1.70 I think it's pretty obvious how it works...","Co do tej uszczelki, #1.70 myślę, że jej działanie jest dość oczywiste..."
-wanst_pipefitter_gasketsuccess_1_1_a,One pipe down! #1.30 I need another ringy thingy.,Jedna rura z głowy! #1.30 Potrzebuję kolejnej okrągłej rzeczy.
+wanst_pipefitter_gasketsuccess_1_1_a,One pipe down! #1.30 I need another ringy thingy.,Jeden rura z głowy! #1.30 Dawać kolejny krążek do miski!
 wanst_pipefitter_gasketsuccess_1_1_b,Okay! #0.90 I need another gasket #2.20 for the adventure basket!,Okej! #0.90 Potrzebuję kolejnej uszczelki #2.20 do przygodowej sakiewki!
 wanst_pipefitter_gasketsuccess_1_1_c,"I have been successful! #2.00 Awesome, right? #3.20 Let's level up!","Odniosłem sukces! #2.00 Wspaniale, prawda? #3.20 Przechodzimy poziom wyżej!"
 wanst_pipefitter_gasketsuccess_1_2_a,Marvelous. #1.40 Here you go!,Cudownie. #1.40 Proszę bardzo!
@@ -28,7 +28,7 @@ wanst_pipefitter_gasketfail_1_2_a,"Luckily, my sister just finished a new one! #
 wanst_pipefitter_gasketfail_1_2_b,"These don't grow on trees, sir. #2.10 My sister has to craft them with her teeth.","One nie rosną na drzewach, panie. #2.10 Moja siostra musi je wyrabiać zębami."
 wanst_pipefitter_gasketfail_1_2_c,"You're supposed to fix the pipes, #2.20 not hoolahoop into certain death.","Miałeś naprawiać rury, #2.20 a nie hula-hopować prosto w pewną śmierć."
 wanst_pipefitter_repairintro_1_1_a,Great success! #1.30 I finished my part!,Wielki sukces! #1.30 Skończyłem swoją część!
-wanst_pipefitter_repairintro_1_1_b,Alright! #1.20 The pipe is ripe!,Dobra! #1.20 Rura jest dojrzała!
+wanst_pipefitter_repairintro_1_1_b,Alright! #1.20 The pipe is ripe!,Elegancko! #1.20 Z tą rurą poszło gładko!
 wanst_pipefitter_repairintro_1_1_c,"So, I've done what I did do!","A więc zrobiłem to, co zrobiłem!"
 wanst_pipefitter_repairintro_1_2_a,"Amazing! #1.20 Now we can extend the pipe system from the tower to our shop. #5.20 Rather... we could, #6.80 if we had the funds to do so. #9.00 Pay up, #10.0 and we can start getting the best out of the tower!","Niesamowite! #1.20 Teraz możemy przedłużyć system rur z wieży do naszego sklepu. #5.20 To znaczy... mogłybyśmy, #6.80 gdybyśmy miały na to fundusze. #9.00 Zapłać, #10.0 a zaczniemy wyciągać z wieży to, co najlepsze!"
 wanst_pipefitter_repairintro_1_3_a,What? #0.80 Good thing I didn't know I'd have to work #2.40 AND pay from the start...,"Co? #0.80 Dobrze, że od początku nie wiedziałem, że będę musiał pracować #2.40 I płacić..."
@@ -90,13 +90,13 @@ wanst_pipefitter_payitemfail_1_1_a,"It's hard work for my sister, #2.50 crawling
 wanst_pipefitter_payitemfail_1_1_b,"Sorry, sir. #1.30 You need to be able to cover the fee...","Przykro mi, panie. #1.30 Musi cię być stać na opłatę..."
 wanst_pipefitter_payitemfail_1_1_c,"Mmm, #0.80 it looks like you're short on funds. #3.20 We need to be able to stay afloat, sir. #5.50 Sorry.","Mmm, #0.80 wygląda na to, że brakuje ci środków. #3.20 Musimy utrzymać się na powierzchni, panie. #5.50 Przykro mi."
 wanst_pipefitter_payitemdecline_1_1_a,"Uhhh sorry, #1.00 I don't buy items from the pipe.","Uch, przepraszam, #1.00 nie kupuję przedmiotów z rury."
-wanst_pipefitter_payitemdecline_1_1_b,No thanks. #0.90 I decided I need to purchase fewer from the sewer.,"Nie, dzięki. #0.90 Uznałem, że muszę mniej kupować z kanału."
+wanst_pipefitter_payitemdecline_1_1_b,No thanks. #0.90 I decided I need to purchase fewer from the sewer.,"Nie, dzięki. #0.90 Ściekowych gratów nie będę kupował."
 wanst_pipefitter_payitemdecline_1_1_c,I don't trust pipes. #1.50 Sorry.,Nie ufam rurom. #1.50 Przepraszam.
 wanst_pipefitter_payitemdecline_1_2_a,Okay. #1.00 Let me know if you change your mind.,"Dobrze. #1.00 Daj znać, jeśli zmienisz zdanie."
 wanst_pipefitter_payitemdecline_1_2_b,Alright. #0.90 As you please.,W porządku. #0.90 Jak sobie życzysz.
 wanst_pipefitter_payitemdecline_1_2_c,"Well, why did you send it here #1.90 in the first place then?","Cóż, to po co w ogóle #1.90 przysłałeś to tutaj?"
 wanst_bard_first_1_1,Do I smell a struggling musician?,Czy czuję woń zmagającego się muzyka?
-wanst_bard_first_1_2,"If you smell, you can tell! #3.50 Sadly I don't have an instrument anymore. #6.00 The folks in my old town didn't like the sound my trumpet, #9.00 so they fed it to a donkey and chased me off.","Jeśli czujesz, to wiesz! #3.50 Niestety nie mam już instrumentu. #6.00 Ludziom w moim starym mieście nie podobał się dźwięk mojej trąbki, #9.00 więc nakarmili nią osła i mnie przegonili."
+wanst_bard_first_1_2,"If you smell, you can tell! #3.50 Sadly I don't have an instrument anymore. #6.00 The folks in my old town didn't like the sound my trumpet, #9.00 so they fed it to a donkey and chased me off.","Czujesz na milę, skumasz w chwilę! #3.50 Niestety nie mam już instrumentu. #6.00 Ludziom w moim starym mieście nie podobał się dźwięk mojej trąbki, #9.00 więc nakarmili nią osła i mnie przegonili."
 wanst_bard_first_1_3,I'll let you know when I come across #1.50 some toottoots or bingbangs.,"Dam ci znać, gdy natknę się #1.50 na jakieś tu-tu albo bim-bam."
 wanst_bard_first_1_4,Alas! #1.30 My savior!,Niestety! #1.30 Mój wybawca!
 wanst_bard_smalltalk_1_1_a,So how's the music biz?,Jak tam muzyczny biznes?

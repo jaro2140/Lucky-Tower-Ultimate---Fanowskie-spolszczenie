@@ -100,7 +100,7 @@ wanst_alva_smalltalk_1_2_c,Can't wait to get going with this. #2.30 Got what we 
 wanst_alva_smalltalk_1_2_d,"Enough dilly-dallying, son. #2.50 We need to get brewin'","Dość tego guzdralstwa, synu. #2.50 Musimy brać się za warzenie."
 wanst_alva_endgame_1_1_a,"Whew #0.70 Now that was something, right? #2.50 What do you need more potions for, though?","Uff #0.70 No, to było coś, prawda? #2.50 Po co ci jednak więcej mikstur?"
 wanst_alva_endgame_1_1_b,"Good job on the job, my friend. #2.80 I still got lots of these lying about...","Dobra robota, mój drogi. #2.80 Mam tu jeszcze sporo takich na zbyciu..."
-wanst_alva_endgame_1_1_c,"Well, guess team work killed the fiend dork! #2.80 Yay us!","Cóż, wygląda na to, że praca zespołowa ukatrupiła złego wała! #2.80 Brawo my!"
+wanst_alva_endgame_1_1_c,"Well, guess team work killed the fiend dork! #2.80 Yay us!","No i fuks! #2.80 Wspólny młot ubił ten miot! Brawo my!"
 wanst_alva_endgame_1_2_a,This potion is used to fight evil. #2.30 But it might just as well spawn evil. #4.50 Take care.,Ta mikstura służy do walki ze złem. #2.30 Ale równie dobrze może to zło przywołać. #4.50 Uważaj.
 wanst_alva_endgame_1_2_b,I'm glad that evil fool is gone. #2.50 No need to play around with dangerous liquids. #5.00 Alright?,"Cieszę się, że ten zły dureń zniknął. #2.50 Nie ma potrzeby bawić się niebezpiecznymi płynami. #5.00 Dobrze?"
 wanst_alva_endgame_1_2_c,"Before you get any ideas: #2.00 This potion can revive quite the evil spirits, mind you. #6.00 We like the peace. #8.50 Right?","Zanim wpadniesz na jakiś pomysł: #2.00 Ta mikstura może wskrzesić całkiem złe duchy, wiedz o tym. #6.00 Lubimy spokój. #8.50 Prawda?"
@@ -325,7 +325,7 @@ wanst_merchant_idle_1_1,"I haven't been down in the village in ages. #2.30 But I
 wanst_merchant_idle_2_1,Where did I put my money?,Gdzie położyłem pieniądze?
 wanst_merchant_idle_3_1,"I don't clean my clothes, #1.40 I just buy new ones.","Nie piorę ubrań, #1.40 po prostu kupuję nowe."
 wanst_merchant_idle_4_1,I'm so relieved none of the #1.50 boogers from the village are allowed here...,"Tak mi ulżyło, że żadnym #1.50 smarkaczom z wioski nie wolno tu wchodzić..."
-wanst_merchant_idle_5_1,I dress to impress.,"Ubieram się, żeby zachwycać."
+wanst_merchant_idle_5_1,I dress to impress.,"Stroję się tak, by zachwyt siać!"
 wanst_merchant_idle_6_1,I love to just stand here and enjoy my fortune.,Uwielbiam po prostu stać tutaj i cieszyć się fortuną.
 wanst_merchant_idle_7_1,Have you heard of the new citizen? #1.80 He's quite the catch.,Słyszałeś o nowym obywatelu? #1.80 Niezła partia.
 wanst_merchant_idle_8_1,I really deserve this life.,Naprawdę zasługuję na takie życie.
@@ -437,7 +437,7 @@ wanst_merchant_smalltalk_4_2,Hello citizen. #1.10 Welcome to a carefree life!,"W
 wanst_merchant_smalltalk_4_3,Care is free?,Troska jest za darmo?
 wanst_merchant_smalltalk_4_4,"Everything is free, if you've got the money!","Wszystko jest za darmo, jeśli masz pieniądze!"
 wanst_merchant_smalltalk_5_1,"Good day, sir!","Dzień dobry, panie!"
-wanst_merchant_smalltalk_5_2,"Good day to you, too! #1.40 You look wealthy and healthy.",Dzień dobry również! #1.40 Wyglądasz bogato i zdrowo.
+wanst_merchant_smalltalk_5_2,"Good day to you, too! #1.40 You look wealthy and healthy.",Dzień dobry również! #1.40 Zdrowie i grosz masz dziś to coś.
 wanst_merchant_smalltalk_5_3,You look like you're in your prime yourself. #2.60 Chateau!,"Ty też wyglądasz, jakbyś był w kwiecie wieku. #2.60 Chateau!"
 wanst_merchant_smalltalk_5_4,The secret to looking good is... #1.70 money. #2.50 But don't spill the beans to everyone. #4.50 Not everybody needs to know...,Sekret dobrego wyglądu to... #1.70 pieniądze. #2.50 Ale nie wygadaj wszystkim. #4.50 Nie każdy musi wiedzieć...
 wanst_merchant_smalltalk_5_5,No worries! #1.00 I keep my secrets where I keep my broom collection.,"Bez obaw! #1.00 Trzymam sekrety tam, gdzie kolekcję mioteł."
@@ -453,7 +453,7 @@ wanst_merchant_f_smalltalk_2_2,Yes! #1.00 Marvellous isn't it?,"Tak! #1.00 Cudow
 wanst_merchant_f_smalltalk_2_3,"Sure. #0.80 Time to spend some money, I guess.",Jasne. #0.80 Chyba pora wydać trochę pieniędzy.
 wanst_merchant_f_smalltalk_2_4,We don't discuss that here.,Nie rozmawiamy o tym tutaj.
 wanst_merchant_f_smalltalk_3_1,"The fun never ends around here, eh?","Zabawa nigdy się tu nie kończy, co?"
-wanst_merchant_f_smalltalk_3_2,Never! #1.10 We got plenty and we feel spendy.,Nigdy! #1.10 Mamy mnóstwo i chętnie wydajemy.
+wanst_merchant_f_smalltalk_3_2,Never! #1.10 We got plenty and we feel spendy.,"Nigdy! #1.10 Trzos pełny po brzegi, czas na wydatków szeregi!"
 wanst_merchant_f_smalltalk_3_3,That's the spirit.,O to chodzi.
 wanst_merchant_f_smalltalk_4_1,Can you tell me which way is the village?,"Powiesz mi, którędy do wioski?"
 wanst_merchant_f_smalltalk_4_2,Why would you ever want to go there?,Dlaczego w ogóle miałbyś chcieć tam iść?
@@ -587,7 +587,7 @@ wanst_evelius_task_hourglass_return_fail_1_1_b,Oh wow. #1.10 I wrote two books w
 wanst_evelius_task_hourglass_return_fail_1_1_c,"Umm... #0.80 You understand the concept of ""fast"", #3.60 right?","Umm... #0.80 Rozumiesz pojęcie ""szybko"", #3.60 prawda?"
 wanst_evelius_task_hourglass_return_fail_1_2_b,Can you explain the task again?,Możesz jeszcze raz wyjaśnić zadanie?
 wanst_evelius_task_hourglass_return_fail_1_2_c,I didn't like that funny bottle anyway...,I tak nie lubiłem tej śmiesznej butelki...
-wanst_evelius_task_nude_start_1_1_b,Alright! #1.00 No tools for fools. #3.00 Get through the next floor without any help.,Dobrze! #1.00 Bez narzędzi dla głupców. #3.00 Przejdź przez następne piętro bez żadnej pomocy.
+wanst_evelius_task_nude_start_1_1_b,Alright! #1.00 No tools for fools. #3.00 Get through the next floor without any help.,Dobrze! #1.00 Sprzęt dla matołów to marna zabawa. #3.00 Przejdź przez następne piętro bez żadnej pomocy.
 wanst_evelius_task_nude_start_1_1_c,Time to put some skin in the game. #2.70 No gear allowed until we meet again.,"Czas pokazać skórę w grze. #2.70 Żadnego ekwipunku, dopóki znów się nie spotkamy."
 wanst_evelius_task_nude_start_1_2_b,I was only carrying that around for the looks anyway...,I tak nosiłem to tylko dla wyglądu...
 wanst_evelius_task_nude_start_1_2_c,Limitation escalation!,Eskalacja ograniczeń!

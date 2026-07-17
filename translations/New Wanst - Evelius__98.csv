@@ -290,7 +290,7 @@ wanst_pickup_shuriken_3_1,Don't know how to handle this sharp thingy.,"Nie wiem,
 wanst_attack_macerusty_1_1,Rust in peace!,Rdza w pokoju!
 wanst_attack_macerusty_2_1,Rust me!,Zardzew mnie!
 wanst_encounter_macerusty_1_1,That rusty mace might spice up the chase.,Ta zardzewiała buława może doprawić pościg.
-wanst_encounter_macerusty_2_1,Rusty mace for a musty face!,Zardzewiała buława na zatęchłą gębę!
+wanst_encounter_macerusty_2_1,Rusty mace for a musty face!,"Rdzawa pałka, bęc i pęka ci gałka!"
 wanst_drop_macerusty_1_1,"Farewell, my rusty companion!","Żegnaj, mój zardzewiały towarzyszu!"
 wanst_drop_macerusty_2_1,Scrap metal. #1.30 Nothing more.,Złom. #1.30 Nic więcej.
 wanst_drop_macerusty_3_1,"From now, #1.00 I shall only handle #2.30 the shiniest of all weaponry.",Od teraz #1.00 będę dotykał tylko #2.30 najlśniącej broni.
@@ -304,7 +304,7 @@ wanst_encounter_swordrusty_2_1,"Someone wipe the rust off that sword, jeez.","Ni
 wanst_drop_swordrusty_1_1,Farewell my rusty companion!,"Żegnaj, mój zardzewiały towarzyszu!"
 wanst_drop_swordrusty_2_1,Not worthy of my shiny temper.,Nie jest godny mojego lśniącego temperamentu.
 wanst_pickup_swordrusty_1_1,This sword's seen better days.,Ten miecz widział lepsze dni.
-wanst_pickup_swordrusty_2_1,Rusty but trusty.,"Zardzewiały, ale zaufany."
+wanst_pickup_swordrusty_2_1,Rusty but trusty.,"Rdzawy, ale klawy."
 wanst_pickup_swordrusty_3_1,As rusty as it is sharp.,"Tak zardzewiały, jak ostry."
 wanst_attack_throwaxe_1_1,Axed!,Topornięty!
 wanst_attack_throwaxe_2_1,Chop chop!,"Ciach, ciach!"
@@ -314,13 +314,13 @@ wanst_pickup_throwaxe_2_1,This is meant to be thrown. #1.70 But I'm holding on t
 wanst_pickup_throwaxe_3_1,"In order to throw things, #1.30 you first have hold on to 'em tightly.","Żeby rzucać rzeczami, #1.30 najpierw trzeba je mocno trzymać."
 row471,Catch this!,Łap to!
 row472,To the axe!,Do topora!
-wanst_encounter_magicwand_1_1,That magic stick will do the trick!,Ta magiczna pałka zrobi sztuczkę!
+wanst_encounter_magicwand_1_1,That magic stick will do the trick!,"Magiczna różdżka, a wrogom drży nóżka!"
 wanst_encounter_magicwand_2_1,"Did you know ""wand"" means #2.00 ""wall"" in German? #4.00 You're welcome.","Wiedziałeś, że ""wand"" znaczy #2.00 po niemiecku ""ściana""? #4.00 Proszę bardzo."
 wanst_drop_magicwand_1_1,I'm not made to be a wizard.,Nie jestem stworzony na czarodzieja.
 wanst_drop_magicwand_2_1,Enough spelling.,Dość czarowania.
 wanst_drop_magicwand_3_1,My glorious aura doesn't require additional magic.,Moja chwalebna aura nie wymaga dodatkowej magii.
 wanst_drop_magicwand_4_1,I shall depart from this summoner of chaos...,Rozstanę się z tym przyzywaczem chaosu...
-wanst_drop_magicwand_5_1,I am built to destroy... #2.00 Not to cause laughter and joy.,Zbudowano mnie do niszczenia... #2.00 Nie do wywoływania śmiechu i radości.
+wanst_drop_magicwand_5_1,I am built to destroy... #2.00 Not to cause laughter and joy.,Stworzono mnie do niszczenia... #2.00 Nie do rozweselenia.
 wanst_pickup_magicwand_1_1,Is there a spell for cake?,Czy jest zaklęcie na ciasto?
 wanst_pickup_magicwand_2_1,Let's work some magic.,Zróbmy trochę magii.
 wanst_pickup_magicwand_3_1,I'm a wizard!,Jestem czarodziejem!
@@ -328,7 +328,7 @@ wanst_pickup_magicwand_4_1,I've always been really good at spelling.,Zawsze był
 wanst_attack_rake_1_1,Let me rake it to you.,"Pozwól, że ci to zagrabię."
 wanst_attack_rake_2_1,Dead as a leaf!,Martwy jak liść!
 wanst_attack_rake_3_1,Scratchy scratchy!,"Drapu, drapu!"
-wanst_attack_rake_4_1,Itches get scratches!,Swędzenie prosi o drapanie!
+wanst_attack_rake_4_1,Itches get scratches!,"Kto ma świąd, niech drapanie bierze w prąd!"
 //player gets hit by rake by stepping on it,Ow! That was unexpected.,Au! Tego się nie spodziewałem.
 row496,Ouch! What was that?,Auć! Co to było?
 row497,Ambush!,Zasadzka!
@@ -372,9 +372,9 @@ wanst_equip_monsterarmor_2_1,Chains on!,Łańcuchy na siebie!
 wanst_equip_monsterarmor_3_1,A bit tight around the waist.,Trochę ciasno w pasie.
 wanst_attack_armor_1_1,"This is a weapon, right?","To broń, prawda?"
 wanst_attack_armor_2_1,Think outside the box!,Myśl poza pudłem!
-wanst_encounter_armor_1_1,"""More armor I wore to war."" #1.90 As my grandchild would say.","""Więcej zbroi zbroiłem na wojnę."" #1.90 Jak powiedziałoby moje wnuczę."
+wanst_encounter_armor_1_1,"""More armor I wore to war."" #1.90 As my grandchild would say.","""Więcej zbroi na boje włożone."" #1.90 Jak powiedziałoby moje wnuczę."
 wanst_encounter_armor_2_1,Armor. #0.80 Helpful.,Zbroja. #0.80 Pomocne.
-wanst_encounter_armor_3_1,Slabs for my abs!,Płyty na moje mięśnie!
+wanst_encounter_armor_3_1,Slabs for my abs!,Płyty na moje kaloryfery!
 wanst_attack_strawhat_1_1,Last straw!,Ostatnia słomka!
 wanst_attack_strawhat_2_1,Hat attack!,Atak kapeluszem!
 wanst_encounter_strawhat_1_1,Straw hat! #1.00 My old companion.,Słomkowy kapelusz! #1.00 Mój stary towarzysz.
@@ -434,9 +434,9 @@ wanst_pickup_peasantcap_1_1,A regular peasant would wear this.,Zwykły chłop by
 wanst_pickup_peasantcap_2_1,Still undecided if I should wear this.,"Wciąż nie wiem, czy powinienem to założyć."
 wanst_pickup_peasantcap_3_1,What an oddly shaped rug.,Co za dziwnie ukształtowany dywanik.
 wanst_pickup_peasantcap_4_1,My grandma used to mop floors with these.,Moja babcia myła tym podłogi.
-wanst_pickup_peasantcap_5_1,A pleasant present for a peasant.,Przyjemny prezent dla chłopa.
+wanst_pickup_peasantcap_5_1,A pleasant present for a peasant.,Czysty zysk dla wieśniaka na pysk!
 wanst_equip_peasantcap_1_1,Now I look like a guy from the streets.,Teraz wyglądam jak gość z ulicy.
-wanst_equip_peasantcap_2_1,Call me the pleasant peasant.,Mówcie mi przyjemny wieśniak.
+wanst_equip_peasantcap_2_1,Call me the pleasant peasant.,"Jam kmieć, co wszystko chce mieć!"
 wanst_equip_peasantcap_3_1,This is my new favorite color.,To mój nowy ulubiony kolor.
 wanst_equip_peasantcap_4_1,This hat makes me look regular. #1.80 Let's try to make that a good thing...,"Ta czapka sprawia, że wyglądam zwyczajnie. #1.80 Spróbujmy zrobić z tego zaletę..."
 wanst_equip_peasantcap_5_1,I can barely hear. #2.00 But I must look blastin'.,Ledwo słyszę. #2.00 Ale muszę wyglądać bombowo.
@@ -464,13 +464,13 @@ wanst_drop_woodenshield_1_1,Can't find the barrel to this lid.,Nie mogę znaleź
 wanst_pickup_shield_1_1,Shield happens!,Tarcza się zdarza!
 wanst_pickup_shield_2_1,Shields up!,Tarcze w górę!
 wanst_pickup_shield_3_1,I'm practically invincible now.,Jestem teraz praktycznie niezwyciężony.
-wanst_attack_explotionpotion_1_1,Explosion potion!,Mikstura wybuchu!
+wanst_attack_explotionpotion_1_1,Explosion potion!,Wybuchowa mikstura!
 wanst_attack_explotionpotion_2_1,Bombs away!,Bomby w dół!
 wanst_encounter_explotionpotion_1_1,Dynamite in a bottle. #1.50 Fancy.,Dynamit w butelce. #1.50 Elegancko.
 wanst_drop_explotionpotion_1_1,Not in the mood for fireworks.,Nie mam nastroju na fajerwerki.
 wanst_pickup_explotionpotion_1_1,I better not drink this.,Lepiej tego nie pić.
 wanst_attack_goldpotion_1_1,Midas touch!,Dotyk Midasa!
-wanst_attack_goldpotion_2_1,Riches get stitches!,Bogactwo dostanie szwy!
+wanst_attack_goldpotion_2_1,Riches get stitches!,"Wielki pan, pełen szwów i ran!"
 wanst_drop_goldpotion_1_1,I have more of a silver skin type.,Mam raczej srebrny typ skóry.
 wanst_drop_goldpotion_2_1,Gold is of no value to me. #2.00 I believe in virtues.,Złoto nie ma dla mnie wartości. #2.00 Wierzę w cnoty.
 wanst_pickup_goldpotion_1_1,Liquid gold!,Płynne złoto!
@@ -545,7 +545,7 @@ wanst_attack_batcorpse_1_1,Better than nothing!,Lepsze niż nic!
 wanst_attack_batcorpse_2_1,Bat attack!,Atak nietoperzem!
 wanst_attack_batcorpse_3_1,This'll hit baaad!,To uderzy boleśnieee!
 wanst_encounter_blob_1_1,Ewww.,Fuuuj.
-wanst_encounter_blob_2_1,Slime time!,Czas śluzu!
+wanst_encounter_blob_2_1,Slime time!,Śluzu czas!
 wanst_encounter_blob_3_1,That's the most dangerous vomit I can imagine.,"To najniebezpieczniejsze wymiociny, jakie mogę sobie wyobrazić."
 wanst_encounter_bat_1_1,This animal is dangerous. #1.40 I bet!,To zwierzę jest niebezpieczne. #1.40 Założę się!
 wanst_encounter_bat_2_1,That is one ugly bird.,To jeden brzydki ptak.
@@ -641,7 +641,7 @@ wanst_encounter_toiletdoor_3_1,"Oookay, stay seated.","Ooookej, siedź dalej."
 wanst_encounter_toiletdoor_4_1,No need to get up...,Nie musisz wstawać...
 wanst_encounter_toiletdoor_5_1,Aaaaah! #0.90 There's some things I don't need to see.,"Aaaaach! #0.90 Są rzeczy, których nie muszę oglądać."
 wanst_encounter_toiletdoor_10_1,Business done.,Sprawa załatwiona.
-wanst_encounter_toiletdoor_11_1,Getting up from the seat can only mean defeat!,Wstanie z deski oznacza tylko klęskę!
+wanst_encounter_toiletdoor_11_1,Getting up from the seat can only mean defeat!,Ruch z siedzenia to znak zatracenia!
 row1049,Wiped out!,Wytarty!
 wanst_encounter_toiletdoor_6_1,"Uuuh, are you done?","Uuuch, skończyłeś?"
 wanst_encounter_toiletdoor_7_1,Don't forget to wash your hands!,Nie zapomnij umyć rąk!

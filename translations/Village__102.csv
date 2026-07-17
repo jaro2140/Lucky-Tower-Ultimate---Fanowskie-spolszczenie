@@ -45,7 +45,7 @@ wanst_banker_upgrade_1_1_b,I am ready to expand. #2.00 Got any realer estate?,Je
 wanst_banker_upgrade_1_1_c,Any new vacancies? #1.40 I need a bigger crib.,Jakieś nowe wolne lokum? #1.40 Potrzebuję większej chaty.
 wanst_banker_upgrade_1_1_d,Do you have a bigger place for me to stay?,Macie dla mnie coś większego do mieszkania?
 wanst_banker_upgrade_1_1_e,I'm tired of my house. #2.00 Got a bigger one?,Mam dość mojego domu. #2.00 Macie coś większego?
-wanst_banker_upgrade_1_1_f,I need more space! #1.50 Got a bigger place?,Potrzebuję więcej przestrzeni! #1.50 Macie coś większego?
+wanst_banker_upgrade_1_1_f,I need more space! #1.50 Got a bigger place?,"Ciasno tu, że strach! #1.50 Masz większy gmach?"
 wanst_banker_upgrade_1_2_a,We can upgrade your house easily #2.00 by building another one on top of it.,"Możemy łatwo ulepszyć twój dom, #2.00 dobudowując na nim kolejne piętro."
 wanst_banker_upgrade_1_2_b,We gladly assist you in your journey to the top.,Chętnie pomożemy ci w drodze na szczyt.
 wanst_banker_upgrade_1_2_c,"Yes. #0.60 I can fix you up with #2.00 a literal palace, my friend!","Tak. #0.60 Mogę ci załatwić #2.00 dosłowny pałac, przyjacielu!"
@@ -90,7 +90,7 @@ wanst_barber_haircut00_1_1,Give my my OG cut. Huzzah!,Zrób mi moją oryginalną
 wanst_barber_haircut01_1_1,I want a mustache on my forehead. #2.20 Yes. #2.70 That will look classy.,Chcę wąsy na czole. #2.20 Tak. #2.70 Będzie wytwornie.
 wanst_barber_haircut02_1_1,"Make it wavy. #1.10 Suavemente, please.","Zrób to falowane. #1.10 Suavemente, proszę."
 wanst_barber_haircut05_1_1,"Business in the front, #1.00 party in the pond, #2.20 my fellow homefry!","Interesy z przodu, #1.00 impreza na stawie, #2.20 mój drogi ziomeczku!"
-wanst_barber_haircut06_1_1,I want that heap on the edge for a #2.00 leap from the ledge.,"Chcę ten kok na krawędzi, gotowy na #2.00 skok z parapetu."
+wanst_barber_haircut06_1_1,I want that heap on the edge for a #2.00 leap from the ledge.,"Chcę tę kupę na brzegu z krańca, #2.00 by dać susa ze skazańca!"
 wanst_barber_haircut07_1_1,"As a grand admirer of the birdies, #2.00 gimme your best nest!","Jako wielki wielbiciel ptaszków, #2.00 dawaj najlepsze gniazdo!"
 wanst_barber_pay_1_1_a,"Alright, this is the price. #2.00 Pay up and we'll give your golden gardens a trim to the brim!","Dobra, oto cena. #2.00 Płać, a przystrzyżemy twoje złote ogrody po sam brzeg!"
 wanst_barber_pay_1_1_b,"Okay. #0.70 Give me some coins, and I'll make sure not to cut your ear.","Dobra. #0.70 Daj mi trochę monet, a postaram się nie uciąć ci ucha."
@@ -205,9 +205,9 @@ wanst_mayor_monster_killed_1_1_b,Good job hunting down these foul beasts in thei
 wanst_mayor_monster_killed_1_1_c,Look at you. #1.50 Didn't take you for a monster slayer. #3.50 But here we are. #4.70 Take this:,"Popatrz na siebie. #1.50 Nie sądziłem, że jesteś pogromcą potworów. #3.50 A jednak. #4.70 Masz, weź to:"
 wanst_mayor_monster_killed_1_2_a,It's not personal. #1.40 It's profitable.,To nic osobistego. #1.40 To po prostu opłacalne.
 wanst_mayor_monster_killed_1_2_b,That's a legit business now. #2.20 Nice.,To teraz legalny biznes. #2.20 Nieźle.
-wanst_mayor_monster_killed_1_2_c,Coins for the loins! #2.10 Radical!,Moneta za robotę! #2.10 Ekstra!
+wanst_mayor_monster_killed_1_2_c,Coins for the loins! #2.10 Radical!,"Grosik dla lędźwi, niech no żądza pędzi!! #2.10 Ekstra!"
 wanst_mayor_no_monster_1_1,"You look like a capable bloke. #2.00 If you see any monsters near the city that escaped the tower, kill 'em. #6.00 And I'll pay a fine bounty for each critter sent to the litter.","Wyglądasz na zdolnego gościa. #2.00 Jeśli zobaczysz w pobliżu miasta jakieś potwory, które uciekły z wieży, zabij je. #6.00 A ja wypłacę sowitą nagrodę za każde stworzenie wysłane do piachu."
-wanst_mayor_no_monster_1_2,Alright. #1.20 Slappy pappy's ready for the job.,Dobra. #1.20 Twój tatuś jest gotowy do roboty.
+wanst_mayor_no_monster_1_2,Alright. #1.20 Slappy pappy's ready for the job.,"Dobra. #1.20 Klaps-papcio zwarty do roboty, czas na kłopoty!."
 wanst_mayor_no_monster_1_3,Great thinking! But there have been no sightings recently.,Świetne myślenie! Ale ostatnio nikt niczego nie widział.
 wanst_mayor_no_monster_1_4,Mmm. #1.00 I wonder what would make those foul beasts break out from there.,"Mmm. #1.00 Ciekawe, co skłoniłoby te plugawe bestie do ucieczki stamtąd."
 wanst_mayor_monster_found_1_1_a,My men report sightings of some nasty creatures that escaped the tower. #4.50 Go get 'em for me and I'll make you rich.,"Moi ludzie donoszą o paskudnych stworach, które uciekły z wieży. #4.50 Załatw je dla mnie, a uczynię cię bogatym."
@@ -228,7 +228,7 @@ wanst_mayor_fortune_1_1,"So, what's my fortune?","No więc, co mi wróżysz?"
 wanst_mayor_fortune_1_2,"Mmm, let me guess. #1.90 5000 gold?","Mmm, niech zgadnę. #1.90 5000 złota?"
 wanst_mayor_fortune_1_3,I think you still need to practice a bit.,"Myślę, że musisz jeszcze trochę poćwiczyć."
 wanst_mayor_fortune_1_4,Darn it!,A niech to!
-wanst_villageguard_first_1_1,"Hey there, unknown guy. #1.50 Behave or be brave, will ya?","Hej, ty tam, nieznajomy. #1.50 Zachowuj się albo bądź odważny, dobra?"
+wanst_villageguard_first_1_1,"Hey there, unknown guy. #1.50 Behave or be brave, will ya?","Hej, ty tam, nieznajomy. #1.50 Zachowuj się, albo giń w dumie, łapiesz?"
 wanst_villageguard_first_2_1,Look at this! A new face. #2.00 Welcome.,Patrzcie no! Nowa twarz. #2.00 Witaj.
 wanst_villageguard_king_1_1,All hail the chosen one!,Chwała wybrańcowi!
 wanst_villageguard_king_2_1,Why look. #0.90 It's the chosen one. #2.40 Huzzah!,A niech mnie. #0.90 To wybraniec. #2.40 Hurra!
@@ -289,7 +289,7 @@ wanst_alva_basic_1_2_c,I use this place to unwind. #2.70 And to create the world
 wanst_alva_explode_1_1_a,"What is this evil sorcery? #2.50 I just saw myself #4.00 exploding violently, #5.50 right in front of me.","Co to za złowroga magia? #2.50 Właśnie widziałam samą siebie, #4.00 jak gwałtownie wybucham #5.50 tuż przed moimi oczami."
 wanst_alva_explode_1_1_b,"Jeez, #0.90 this isn't right. #2.50 A doppelgänger of me just came here #4.70 and burst into flames. #6.50 We really should do something about this...","Rety, #0.90 coś tu jest nie tak. #2.50 Mój sobowtór właśnie tu przybył #4.70 i stanął w płomieniach. #6.50 Naprawdę powinniśmy coś z tym zrobić..."
 wanst_alva_explode_1_1_c,Holy cannoli! #1.50 The oddest thing just occured. #3.00 A copy of me #4.50 appeared in here #5.80  and exploded. #7.00 Just like that. #8.00 This nonsense needs to stop!,"Święte słowa! #1.50 Właśnie zdarzyła się najdziwniejsza rzecz. #3.00 Moja kopia #4.50 pojawiła się tutaj #5.80 i eksplodowała. #7.00 Ot tak, po prostu. #8.00 Ten absurd musi się skończyć!"
-wanst_alva_explode_1_2_a,Fake it 'til you make it.,"Udawaj, aż ci się uda."
+wanst_alva_explode_1_2_a,Fake it 'til you make it.,"Udawaj chojraka, aż zrobisz z nich flaka!"
 wanst_alva_explode_1_2_b,Well... #0.60 Let's hope for the best.,Cóż... #0.60 Miejmy nadzieję na najlepsze.
 wanst_alva_explode_1_2_c,Looks like a bad case of explotivitis.,Wygląda na poważny przypadek eksplozjozy.
 wanst_hubertsmom_allsick_1_1,"Hullo there. #1.50 Sorry we cannot offer you great hospitality, dear adventurer. #6.00 We are very sick.","Witaj. #1.50 Wybacz, że nie możemy cię ugościć jak należy, drogi poszukiwaczu przygód. #6.00 Jesteśmy bardzo chorzy."
@@ -421,7 +421,7 @@ wanst_alva_eva_start_angry_1_1_c,Is this the end? #1.40 Will you let me be... #2
 wanst_alva_eva_end_perfect_1_1_a,I'll return to my hut #1.30 and continue the study of #3.00 potion magic. #4.00 Cheers!,Wrócę do swojej chatki #1.30 i będę kontynuować naukę #3.00 magii mikstur. #4.00 Na zdrowie!
 wanst_alva_eva_end_perfect_1_1_b,I shall now return to my homey cauldron. #3.50 Farewell!,Wrócę teraz do mojego przytulnego kotła. #3.50 Żegnaj!
 wanst_alva_eva_end_perfect_1_1_c,"Off I go to brew in peace! #2.50 Stop by, if you're ever in town!","Idę warzyć w spokoju! #2.50 Wpadnij, jeśli kiedyś będziesz w okolicy!"
-wanst_alva_eva_end_great_1_1_a,Can't wait to brew some #1.70 potion without any commotion. #3.70 My home sweet home awaits!,"Nie mogę się doczekać, żeby warzyć #1.70 miksturę bez żadnego zamieszania. #3.70 Czeka na mnie mój przytulny dom!"
+wanst_alva_eva_end_great_1_1_a,Can't wait to brew some #1.70 potion without any commotion. #3.70 My home sweet home awaits!,"Nie mogę się doczekać, by kociołek wstawić, #1.70 i bez zbędnego zgiełku miksturę doprawić. #3.70 Mój dom, słodki dom już czeka!"
 wanst_alva_eva_end_great_1_1_b,Off to my home I go! #1.80 You're welcome any time.,"Idę do domu! #1.80 Możesz wpaść, kiedy zechcesz."
 wanst_alva_eva_end_great_1_1_c,Can't wait to dust off my #1.90 olde cauldron. #3.90 How long were we trapped inside that mess?,"Nie mogę się doczekać, żeby odkurzyć mój #1.90 stary kocioł. #3.90 Jak długo byliśmy uwięzieni w tym bałaganie?"
 wanst_alva_eva_end_good_1_1_a,I am in dire need of #1.40 home and some rest. #3.50 Farewell.,Rozpaczliwie potrzebuję #1.40 domu i odrobiny odpoczynku. #3.50 Żegnaj.
@@ -494,7 +494,7 @@ wanst_townsfolk_smalltalk_3_4,"My company is called #1.20 ""Get lost, freak!""",
 wanst_townsfolk_smalltalk_3_5,You might want to work on the name. #1.70 I think I have some ideas...,Może popracuj nad nazwą. #1.70 Mam chyba kilka pomysłów...
 wanst_townsfolk_smalltalk_4_1,"How are you feeling today, #1.40 my pleasant peasant?","Jak się dziś czujesz, #1.40 mój przyjemny wieśniaku?"
 wanst_townsfolk_smalltalk_4_2,"Swell, my man. #1.30 Very swell.","Wspaniale, koleś. #1.30 Bardzo wspaniale."
-wanst_townsfolk_smalltalk_4_3,Right on. #0.90 Enjoy your joy.,No i super. #0.90 Ciesz się swoją radością.
+wanst_townsfolk_smalltalk_4_3,Right on. #0.90 Enjoy your joy.,Święta racja. #0.90 Świętuj swoje święto!
 wanst_townsfolk_smalltalk_5_1,Hey there.,Cześć.
 wanst_townsfolk_smalltalk_5_2,Heya. #0.60 Nice to meet you.,Hej. #0.60 Miło cię poznać.
 wanst_townsfolk_smalltalk_5_3,"Whoa, slow it down, pal.","Ojej, zwolnij trochę, koleś."

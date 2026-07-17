@@ -23,11 +23,11 @@ excito_door_exit_bummed_1_1,Wanna go? #0.80 This is the right door.,Chcesz iść
 excito_door_exit_bummed_2_1,At least it was worth it.#1.00 #1.40 This one's correct.,Przynajmniej było warto.#1.00 #1.40 Te są dobre.
 excito_door_exit_angry_1_1,"Let's continue here, and never talk to each other again.",Idźmy dalej i już nigdy więcej ze sobą nie rozmawiajmy.
 excito_door_exit_angry_2_1,Done! #0.60 Let's go already.,Gotowe! #0.60 Idziemy już.
-excito_door_loot_perfect_1_1,It's time for treasure pleasure! #2.00 #2.40 Look at thaaat.,Czas na skarbową zabawę! #2.00 #2.40 Popatrz na toooo.
+excito_door_loot_perfect_1_1,It's time for treasure pleasure! #2.00 #2.40 Look at thaaat.,"Pora na łupy, niech zazdroszczą te trupy! #2.00 #2.40 Popatrz na toooo."
 excito_door_loot_perfect_2_1,"Toot toot, here's the cute loot!","Tu-tu, słodki łup nadciąga tu!"
 excito_door_loot_perfect_3_1,Eeeey! #0.80 Check this out!,Ejże! #0.80 Zobacz to!
 excito_door_loot_great_1_1,"Hey pal, I got us something!","Hej, ziomek, coś dla nas zdobyłem!"
-excito_door_loot_great_2_1,Acute loot for the good mood! #2.00 Et voila!,Fantastyczny łup na dobry humor! #2.00 Et voila!
+excito_door_loot_great_2_1,Acute loot for the good mood! #2.00 Et voila!,"Łup bogaty na humor bogaty, gińcie kamraty! #2.00 Et voila!"
 excito_door_loot_good_1_1,Guess it was worth going!,Chyba warto było tam iść!
 excito_door_loot_good_2_1,"Ok, here's what I got.","Okej, oto co znalazłem."
 excito_door_loot_medium_1_1,Looking for this?,Tego szukasz?

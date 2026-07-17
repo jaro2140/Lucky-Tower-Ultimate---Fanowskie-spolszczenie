@@ -43,7 +43,7 @@ wanst_gambler_start_6_1,"Okay, all bets are placed! #2.40 Rien ne va plus, as th
 wanst_gambler_rules_1_cup_1_1,Alright.,Dobra.
 wanst_gambler_rules_1_cup_1_2,Watch closely...,Patrz uważnie...
 wanst_gambler_rules_1_cup_1_3,... and tell me where the marble went.,"...i powiedz mi, gdzie podziała się kulka."
-wanst_gambler_rules_1_cup_1_4,One try only. #1.80 Correct guess or make a mess!,Tylko jedna próba. #1.80 Trafna odpowiedź albo klapa!
+wanst_gambler_rules_1_cup_1_4,One try only. #1.80 Correct guess or make a mess!,"Tylko jedna próba, zero litości. #1.80 Zgadnij albo zbieraj swoje kości!"
 wanst_gambler_rules_2_cup_1_4,Best out of three it is!,Do dwóch zwycięstw z trzech prób!
 wanst_gambler_rules_3_cup_1_4,First one to score three points wins!,"Kto pierwszy zdobędzie trzy punkty, wygrywa!"
 wanst_gambler_rules_1_card_1_1,Put down a card at the same time as me.,Połóż kartę w tym samym momencie co ja.
@@ -66,7 +66,7 @@ wanst_gambler_left_4_1,Left is where the heart is.,"Lewa strona to ta, gdzie ser
 wanst_gambler_left_5_1,Right on! #0.80 It's the left cup.,No właśnie! #0.80 To lewy kubek.
 wanst_gambler_left_6_1,"Too easy. #1.20 The left cup, of course.","Zbyt łatwe. #1.20 Lewy kubek, oczywiście."
 wanst_gambler_middle_1_1,"Easy, the middle cup.","Łatwizna, środkowy kubek."
-wanst_gambler_middle_2_1,Ain't no riddle: #1.00 It's the middle.,To nie zagadka: #1.00 to środek.
+wanst_gambler_middle_2_1,Ain't no riddle: #1.00 It's the middle.,"Żadna zagadka, żadne podchody #1.00 to sam środek, bez zbędnej urody."
 wanst_gambler_middle_3_1,Alright! #1.00 You left the marble in the middle.,Dobra! #1.00 Zostawiłeś kulkę na środku.
 wanst_gambler_middle_4_1,Middle is my middle name!,Środek to moje drugie imię!
 wanst_gambler_middle_5_1,No challenge. It's the middle cup.,Żadne wyzwanie. To środkowy kubek.
@@ -75,7 +75,7 @@ wanst_gambler_right_1_1,"Easy, the right cup.","Łatwizna, prawy kubek."
 wanst_gambler_right_2_1,"Righty righy, lefty losey!","Prawy zwycięski, lewy przegrany!"
 wanst_gambler_right_3_1,The right cup is the right cup!,Prawy kubek to właściwy kubek!
 wanst_gambler_right_4_1,Easy peasy! #1.00 The right one.,Łatwizna! #1.00 Ten prawy.
-wanst_gambler_right_5_1,I'm tight with right!,Prawa strona to mój żywioł!
+wanst_gambler_right_5_1,I'm tight with right!,"Jestem za pan brat z tym, co prawe od lat!"
 wanst_gambler_right_6_1,"Uh, right. It's on the right","Yy, prawy. To po prawej"
 wanst_gambler_right_7_1,"Pip pip cheerio. #1.40 Righto, friend!","Pip pip, cała naprzód. #1.40 Zgadza się, przyjacielu!"
 wanst_gambler_right_8_1,Right's the right choice.,Prawy to właściwy wybór.

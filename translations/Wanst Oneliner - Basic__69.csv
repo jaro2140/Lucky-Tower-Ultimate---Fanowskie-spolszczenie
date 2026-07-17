@@ -15,7 +15,7 @@ wanst_attack_key_2_1,Unlock!,Otwórz się!
 wanst_pickup_key_1_1,This weapon is the #1.30 key to my success.#3.60,Ta broń jest #1.30 kluczem do mojego sukcesu.#3.60
 wanst_pickup_key_2_1,"Okay, let's see what this funny sword does.","Okej, zobaczmy, co robi ten zabawny miecz."
 wanst_attack_bananapeel_1_1,Banana fo-fana!,Banana fo-fana!
-wanst_attack_bananapeel_2_1,Feel my peel!,Poczuj moją skórkę!
+wanst_attack_bananapeel_2_1,Feel my peel!,"Poczuj mą skórkę"
 wanst_drop_bananapeel_1_1,Bomb planted.,Bomba podłożona.
 wanst_drop_bananapeel_2_1,Hehe.,Hehe.
 wanst_pickup_bananapeel_1_1,Let's put this away...,Odłóżmy to na bok...
@@ -57,7 +57,7 @@ wanst_attack_mace_3_1,Oooh what a satisfying squish!,"Ooo, ale satysfakcjonując
 wanst_attack_mace_4_1,Now there's some mace for your face.,Oto trochę buławy dla twojej twarzy.
 wanst_pickup_mace_1_1,I'll be having a #1.00 smashing time with this one.,Będę miał #1.00 miażdżąco dobry czas z tym czymś.
 wanst_pickup_mace_2_1,That mace should make quick work of 'em.,Ta buława powinna szybko się z nimi rozprawić.
-wanst_attack_mushroom_1_1,Make room for the mushroom!,Zrób miejsce na grzyba!
+wanst_attack_mushroom_1_1,Make room for the mushroom!,"Z drogi, wybywaj, grzyba podziwiaj!"
 wanst_attack_brains_1_1,Can't outsmart this punch!,Nie przechytrzysz tego ciosu!
 wanst_attack_broom_2_1,Meet your broom!,Poznaj swoją miotłę!
 wanst_drop_broom_1_1,Enough cleaning for now.,Dość sprzątania na razie.
@@ -153,7 +153,7 @@ wanst_drink_alcohol_2_1,# #0.60 That sure was a good vintage.,# #0.60 To był na
 wanst_drink_alcohol_3_1,"# #0.70 This direction, right?","# #0.70 W tym kierunku, prawda?"
 wanst_drink_anti_1_1,Mmm. #0.90 I feel... #1.70 ...perfectly normal now.,Mmm. #0.90 Czuję się... #1.70 ...teraz zupełnie normalnie.
 wanst_drink_anti_2_1,This drink sure did cure all my diseases. #2.70 Even the ones I didn't know I had.,"Ten trunek naprawdę wyleczył wszystkie moje choroby. #2.70 Nawet te, o których nie wiedziałem."
-wanst_drink_anti_3_1,This medicine is a cure for sure!,To lekarstwo na pewno leczy!
+wanst_drink_anti_3_1,This medicine is a cure for sure!,Ta dawka to pewna zdrowia zabawka!
 wanst_drink_love_1_1,"Hm, I suddenly feel like I'm the greatest guy in the universe...","Hm, nagle czuję się, jakbym był najwspanialszym facetem we wszechświecie..."
 wanst_drink_love_1_2,This drink doesn't seem to have any effect.,Ten trunek zdaje się nie mieć żadnego efektu.
 wanst_drink_poison_1_1,"I can feel a harsh, venomous poison #2.90 running through my veins. #4.60 Just like the last time I drank that #6.20 alcohol free beer!","Czuję ostrą, jadowitą truciznę #2.90 płynącą w moich żyłach. #4.60 Zupełnie jak wtedy, gdy piłem to #6.20 piwo bezalkoholowe!"

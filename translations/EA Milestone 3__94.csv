@@ -27,7 +27,7 @@ wanst_encounter_brokenpipe_1_1,Someone should fix these pipes.,Ktoś powinien na
 row93,The plumber must've left early...,Hydraulik musiał wyjść wcześniej...
 wanst_encounter_brokenpipe_2_1,This pipe could use a gasket.,Tej rurze przydałaby się uszczelka.
 wanst_fixpipe_1_1,"Alright, fits like a glove!","Dobra, pasuje jak ulał!"
-wanst_fixpipe_2_1,The pipe is ripe!,Rura jest dojrzała!
+wanst_fixpipe_2_1,The pipe is ripe!,Z tą rurą poszło gładko!
 wanst_fixpipe_3_1,Plumbing is a skill that lasts a lifetime.,Hydraulika to umiejętność na całe życie.
 wanst_encounter_pipeactive_1_1,Let's flush some goods down the drain.,Spuśćmy trochę towaru odpływem.
 wanst_encounter_pipeactive_2_1,"The postal business went down the drain, #2.00 I see...","Poczta zeszła na psy... i do odpływu, #2.00 jak widzę..."
@@ -110,7 +110,7 @@ hubert_princesspostal_generic_2_1,Haven't you eaten enough?,Czy ty już nie zjad
 hubert_princesspostal_generic_3_1,Uh oh. #0.90 I have a bad feeling about this princess....,O nie. #0.90 Mam złe przeczucia co do tej księżniczki....
 hubert_princesspostal_generic_4_1,That lady is dangerous!,Ta pani jest niebezpieczna!
 excito_princesspostal_generic_1_1,"I am not edible, princess!","Nie jestem jadalny, księżniczko!"
-excito_princesspostal_generic_2_1,I always had a hunch #1.20 that princess saw me as lunch!,"Zawsze miałem przeczucie, #1.20 że księżniczka widzi we mnie obiad!"
+excito_princesspostal_generic_2_1,I always had a hunch #1.20 that princess saw me as lunch!,"Zawsze miałem nosa, #1.20 że ta księżniczka zje mnie jak łososia!"
 excito_princesspostal_generic_3_1,We got ourselves Princess Predator right here! #2.50 Watch out.,Mamy tu Księżniczkę Drapieżcę! #2.50 Uważajcie.
 excito_princesspostal_generic_4_1,"Uh oh. #0.80 If you bite, #1.50 I'll fight.","O nie. #0.80 Jeśli gryźć będziesz, #1.50 to oberwiesz."
 excito_princesspostal_generic_5_1,"Stay away, lady!","Trzymaj się z daleka, pani!"
@@ -160,7 +160,7 @@ wanst_townsfolk_f_smalltalk_7_2_d,No reward for mooching around. #2.00 Let's kee
 wanst_townsfolk_f_smalltalk_1_1,Hey there. I'm new here. #1.50 Can you point me towards the tavern?,Hej tam. Jestem tu nowy. #1.50 Wskażesz mi drogę do tawerny?
 wanst_townsfolk_f_smalltalk_1_2,Just follow the stench. #1.80 Or go all the way to the end of the city...,Po prostu idź za smrodem. #1.80 Albo prosto na koniec miasta...
 wanst_townsfolk_f_smalltalk_1_3,"Okay thanks, random stranger.","No dobra, dzięki, przypadkowa nieznajoma."
-wanst_townsfolk_f_smalltalk_1_4,Sure thing! Cheers for beers!,Jasne! Zdrowie za piwo!
+wanst_townsfolk_f_smalltalk_1_4,Sure thing! Cheers for beers!,Jasna sprawa! Za browary i do pary!
 wanst_townsfolk_f_smalltalk_2_1,Hey pal! #0.80 What's new?,"Hej, koleżko! #0.80 Co nowego?"
 wanst_townsfolk_f_smalltalk_2_2,"You... #0.80 you seem to be new around here, yes?","Ty... #0.80 ty jesteś tu chyba nowy, tak?"
 wanst_townsfolk_f_smalltalk_2_3,Nopes! #0.80 Just changed my style.,Niee! #0.80 Po prostu zmieniłem styl.
@@ -176,7 +176,7 @@ wanst_townsfolk_f_smalltalk_4_3,I agree. #1.00 But now I must split. #2.30 Ciao!
 wanst_townsfolk_f_smalltalk_4_4,As you please.,Jak sobie życzysz.
 wanst_townsfolk_f_smalltalk_5_1,Hey ma'am. #1.00 Ever been to that tower over yonder?,"Hej, pani. #1.00 Byłaś kiedyś w tamtej wieży?"
 wanst_townsfolk_f_smalltalk_5_2,"I rather prefer the outdoors, sir.","Wolę raczej świeże powietrze, panie."
-wanst_townsfolk_f_smalltalk_5_3,"Bright light over gloom and doom, eh?","Jasne światło zamiast mroku i zguby, co?"
+wanst_townsfolk_f_smalltalk_5_3,"Bright light over gloom and doom, eh?","Jasny blask na mroczny czas, co?"
 wanst_townsfolk_f_smalltalk_5_4,Quite right.,Całkiem słusznie.
 wanst_townsfolk_f_smalltalk_6_1,Oh hey! #0.90 Why the grim look?,"O, hej! #0.90 Czemu taka ponura mina?"
 wanst_townsfolk_f_smalltalk_6_2,I just got some bad news.,Właśnie dostałam złe wieści.
@@ -284,7 +284,7 @@ wanst_pickup_spear_2_1,Time for some sparring.,Czas na trochę sparingu.
 wanst_attack_spear_1_1,Spear me the trouble!,Oszczędź mi kłopotu włócznią!
 wanst_attack_spear_2_1,Are you my spearing partner?,Jesteś moim partnerem do włóczniowania?
 wanst_attack_spear_3_1,Here comes de-spair!,Nadchodzi roz-włócz-nienie!
-wanst_attack_spear_4_1,Fear the spear!,Bój się włóczni!
+wanst_attack_spear_4_1,Fear the spear!,"Drżyj przed grotem, śmierć idzie potem!"
 wanst_encounter_plumbershelper_1_1,A plumber's helper? #1.50 Glad this place has a little bit of dignity...,"Pomocnik hydraulika? #1.50 Miło, że to miejsce ma choć odrobinę godności..."
 wanst_pickup_plumbershelper_1_1,Anybody in need of plumbing?,Ktoś potrzebuje hydrauliki?
 wanst_pickup_plumbershelper_2_1,Clogged toilets no more!,Koniec zatkanych toalet!

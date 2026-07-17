@@ -59,7 +59,7 @@ hubert_encounter_woodspikes_1_1,There's toothpicks coming out of the floor!,Z po
 hubert_encounter_woodspikes_2_1,These wooden spikes are less dangerous but still nasty.,"Te drewniane kolce są mniej niebezpieczne, ale wciąż paskudne."
 hubert_encounter_metalpendulum_1_1,Let's try not to lose our heads over these.,Postarajmy się nie stracić przez nie głów.
 hubert_encounter_metalpendulum_2_1,I'd give you my shell to protect your head against these blades. #3.00 But it won't come off. Sorry.,"Oddałbym ci swoją skorupę, żeby ochronić twoją głowę przed tymi ostrzami. #3.00 Ale nie da się jej zdjąć. Wybacz."
-hubert_encounter_gunpowderfuse_1_1,Uh-oh. #1.30 That fuse is moving quickly.,O nie. #1.30 Ten lont pali się szybko.
+hubert_encounter_gunpowderfuse_1_1,Uh-oh. #1.30 That fuse is moving quickly.,O nie. #1.30 Ten lont szybko się pali.
 hubert_encounter_gunpowderfuse_2_1,Why would they blow up their own tower?,Czemu mieliby wysadzić własną wieżę?
 hubert_encounter_gunpowderfuse_3_1,Explosion incoming!,Nadchodzi wybuch!
 hubert_encounter_monsterinwall_1_1,The walls have eyes. #2.00 Yikes!,Ściany mają oczy. #2.00 Ojej!
@@ -158,7 +158,7 @@ excito_encounter_helmet_2_1,"Headgear, nice.","Nakrycie głowy, miło."
 excito_encounter_helmet_3_1,Fits my skull perfectly.,Pasuje idealnie do mojej czaszki.
 excito_encounter_gianthammer_1_1,This hammer can take care of the biggest nails.,Ten młot poradzi sobie z największymi gwoźdźmi.
 excito_encounter_gianthammer_2_1,Where's the giant carpenter to that massive hammer?,Gdzie jest olbrzymi cieśla od tego ogromnego młota?
-excito_encounter_gianthammer_3_1,Giant hammer for a decent slammer.,Ogromny młot na porządne walnięcie.
+excito_encounter_gianthammer_3_1,Giant hammer for a decent slammer.,Potężny młot na solidny łomot!
 excito_encounter_mace_1_1,We'll have a smashin' time with that mace.,Będziemy się miażdżąco dobrze bawić z tą buławą.
 excito_encounter_mace_2_1,Mace. Nice. #1.50 I'm tired of these junk weapons.,Buława. Miło. #1.50 Mam dość tych szmelcowych broni.
 excito_encounter_mace_3_1,Let me get that mace.,Wezmę sobie tę buławę.
@@ -173,7 +173,7 @@ excito_encounter_bananapeel_2_1,Someone dropped their banana.,Ktoś zgubił swoj
 excito_encounter_bananapeel_3_1,Banana peel. #1.00 Watch your step.,Skórka od banana. #1.00 Uważaj na krok.
 excito_encounter_hamerguycorpse_1_1,That's what I call flatlined.,Otóż to nazywam płaskim EKG.
 excito_encounter_hamerguycorpse_2_1,I always wondered how I'd look after running face first into a wall...,"Zawsze się zastanawiałem, jak bym wyglądał po wbiegnięciu twarzą w ścianę..."
-excito_encounter_hamerguycorpse_3_1,Flat as a mat.,Płaski jak naleśnik.
+excito_encounter_hamerguycorpse_3_1,Flat as a mat.,"Płaski jak mata, aż trzeszczy klata."
 excito_encounter_honkhorn_1_1,Did you know bees hate honk horns?,"Wiedziałeś, że pszczoły nienawidzą klaksonów?"
 excito_encounter_honkhorn_2_1,Where's the bike to that horn?,Gdzie jest rower do tego klaksonu?
 excito_encounter_honkhorn_3_1,The sound of the honk horn is a cry for help.,Dźwięk klaksonu to wołanie o pomoc.
@@ -186,7 +186,7 @@ excito_encounter_enemycorpse_3_1,"Not so frightening now, eh?","Już nie taki st
 excito_encounter_bone_1_1,A bone. #0.90 Weird. #1.80 Looks like somebody died here.,"Kość. #0.90 Dziwne. #1.80 Wygląda na to, że ktoś tu zginął."
 excito_encounter_bone_2_1,Anyone got a bone to pick?,Ktoś ma z kimś na pieńku?
 excito_encounter_bone_3_1,Any skeleton missing a bone? #2.00Anyone?,Jakiemuś szkieletowi brakuje kości? #2.00 Ktoś?
-excito_encounter_rake_1_1,Rake it 'til you make it.,"Grabkuj, aż ci się uda."
+excito_encounter_rake_1_1,Rake it 'til you make it.,"Udawaj grabienie, aż przyjdzie zbawienie."
 excito_encounter_rake_2_1,Time for some gardening.,Czas na trochę ogrodnictwa.
 excito_encounter_rake_3_1,This rake is better for smacking than stepping on.,Te grabie lepiej się nadają do walnięcia niż do nadepnięcia.
 excito_encounter_club_1_1,This club can deliver a good bonk.,Ta maczuga potrafi solidnie zdzielić.
@@ -216,7 +216,7 @@ excito_equip_goldarmor_1_1,See me shine.,"Patrz, jak lśnię."
 excito_equip_goldarmor_2_1,Seems like a lotta gold to waste. #1.80 But I do feel well-protected.,Wygląda na sporo zmarnowanego złota. #1.80 Ale czuję się dobrze chroniony.
 excito_equip_goldarmor_3_1,This golden knight is outta sight!,Ten złoty rycerz jest niesamowity!
 excito_equip_strawhat_1_1,Adding a little vacay vibe.,Dodaję sobie trochę wakacyjnego klimatu.
-excito_equip_strawhat_2_1,Vacation escalation!,Eskalacja wakacyjności!
+excito_equip_strawhat_2_1,Vacation escalation!,Wakacyjna eskalacja!
 excito_equip_strawhat_3_1,"I might look relaxed, #1.20 but I'm still on punch duty.","Może wyglądam na rozluźnionego, #1.20 ale wciąż jestem na służbie walenia w mordę."
 excito_encounter_halberd_1_1,Halberd. #0.90 Isn't that the name of the tortoise fellow?,Halabarda. #0.90 Czy to nie imię tego żółwiowego gościa?
 excito_encounter_halberd_2_1,I feel worthy of this oversized poker.,Czuję się godny tego przewymiarowanego pogrzebacza.
@@ -243,7 +243,7 @@ excito_encounter_gap_2_1,That part of the room is missing some floor.,Tej częś
 excito_encounter_gap_3_1,A well-timed jump will get us past that hole.,Dobrze wyczekany skok przeniesie nas przez tę dziurę.
 excito_encounter_metalpendulum_1_1,Let's not lose our heads over that!,Nie traćmy przez to głów!
 excito_encounter_metalpendulum_2_1,They sure know how to sharpen their blades.,"Na pewno wiedzą, jak naostrzyć ostrza."
-excito_encounter_metalpendulum_3_1,They do make quite the effort to threaten us. #2.00 But fear not. #3.00 A little skill will do the drill.,"Naprawdę się starają, żeby nas zastraszyć. #2.00 Ale się nie bój. #3.00 Odrobina umiejętności załatwi sprawę."
+excito_encounter_metalpendulum_3_1,They do make quite the effort to threaten us. #2.00 But fear not. #3.00 A little skill will do the drill.,"Grożą nam i straszą, to fakt, nie bajka. #2.00 Ale bez obaw. #3.00 Nasz skill pozbawi ich sił!"
 excito_encounter_hook_1_1,These hooks will give you a good view from up above. #2.50 But it comes at a price...,Te haki dadzą ci dobry widok z góry. #2.50 Ale to ma swoją cenę...
 excito_encounter_hook_2_1,"I'd use those hooks for fishing, #1.50 but what do I know?","Użyłbym tych haków do wędkowania, #1.50 ale co ja tam wiem?"
 excito_encounter_hook_3_1,"These hooks'll give you one nasty poke, I'd say.","Te haki dadzą ci nieźle w kość, powiedziałbym."
@@ -254,7 +254,7 @@ excito_encounter_hammerguy_1_1,AAAAAAAAAAAAHHHHH!,AAAAAAAAAAAAHHHHH!
 excito_encounter_hammerguy_2_1,LET'S BEAT IT!,SPADAJMY STĄD!
 excito_encounter_hammerguy_3_1,RUUUUN!,UCIEKAJMYYY!
 excito_encounter_monster_1_1,Watch out! #1.00 Monsters!,Uważaj! #1.00 Potwory!
-excito_encounter_monster_2_1,These foes can eat my toes!,Ci wrogowie mogą zjeść mi palce u nóg!
+excito_encounter_monster_2_1,These foes can eat my toes!,Te wrogie pany niech liżą me glany!
 excito_encounter_monster_3_1,"Up for trouble, fiend!?","Szukasz kłopotów, bestio!?"
 excito_encounter_witch_1_1,Reveal yourselves! #1.30 Hooded hoodlums!,Pokażcie się! #1.30 Zakapturzone chuliganki!
 excito_encounter_witch_2_1,Witches don't negotiate. #1.40 I suggest brute force.,Czarownice nie negocjują. #1.40 Sugeruję brutalną siłę.
@@ -271,7 +271,7 @@ excito_encounter_blob_3_1,Pain is the only flavor these gummy bears come in. #3.
 excito_encounter_automat_1_1,"Alright, let's spend some money.","Dobra, wydajmy trochę kasy."
 excito_encounter_automat_2_1,I love shopping.,Uwielbiam zakupy.
 excito_encounter_automat_3_1,Okay. #1.10 Let's support local business.,Okej. #1.10 Wspierajmy lokalny biznes.
-excito_encounter_automat_4_1,"A bit of shoppin', to keep it poppin'!","Trochę zakupów, dla samych smaczków!"
+excito_encounter_automat_4_1,"A bit of shoppin', to keep it poppin'!","Szybkie zakupy i lecim po łupy!"
 row389,This room is made for someone more simpleminded. I was thinking about you.,Ten pokój jest stworzony dla kogoś nieco prostszego umysłowo. Myślałem o tobie.
 alva_idle_generic_1_1,This place has surely seen better times...,To miejsce na pewno pamięta lepsze czasy...
 alva_idle_generic_2_1,Throwing around some potions will surely #2.00 give this grey hell a makeover.,Rzucanie miksturami na pewno #2.00 odmieni to szare piekło.

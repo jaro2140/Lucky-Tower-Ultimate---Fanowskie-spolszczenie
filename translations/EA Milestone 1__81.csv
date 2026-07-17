@@ -19,14 +19,14 @@ wanst_topoftower_32_1,I didn't mean to leave the bathroom this way. #2.50 Oh wel
 wanst_topoftower_33_1,I... #0.70 hope I didn't leave the lid up...,"Ja... #0.70 mam nadzieję, że nie zostawiłem deski podniesionej..."
 wanst_topoftower_34_1,This... is exactly where I wanted to end up. #2.50 Yes.,To... dokładnie tam chciałem trafić. #2.50 Tak.
 wanst_topoftower_35_1,I should've brought something to defend myself with. #2.70 Next time I guess...,"Powinienem był zabrać coś do obrony. #2.70 Następnym razem, jak mniemam..."
-wanst_topoftower_36_1,No gear no fear!,Bez rynsztunku bez lęku!
+wanst_topoftower_36_1,No gear no fear!,"Bez zbroi nikt się nie boi!"
 wanst_topoftower_37_1,The toilet paper was out anyway.,Papier toaletowy i tak się skończył.
 wanst_topoftower_gear_1_1,This time I come prepared!,Tym razem przybywam przygotowany!
 wanst_topoftower_gear_2_1,I'm starting to understand this odd bathroom system.,Zaczynam rozumieć ten dziwaczny system łazienkowy.
 wanst_topoftower_gear_3_1,Alright. #0.70 Back to work. #1.50 This gear shall come in handy...,Dobrze. #0.70 Wracamy do pracy. #1.50 Ten rynsztunek z pewnością się przyda...
 wanst_topoftower_gear_4_1,This gear will help me get out again way easier. #1.80 So I can finally find the real toilet.,Ten sprzęt znacznie ułatwi mi ponowną ucieczkę. #1.80 Dzięki temu wreszcie znajdę prawdziwą toaletę.
 wanst_topoftower_gear_5_1,I should cross that toilet off the list.,Powinienem skreślić tę toaletę z listy.
-wanst_topoftower_gear_6_1,Fear my gear!,Drżyjcie przed mym rynsztunkiem!
+wanst_topoftower_gear_6_1,Fear my gear!,Patrz na mój szpej i ze strachu wiej!
 wanst_banker_return_1_1_a,"Welcome back, sire.","Witaj z powrotem, panie."
 wanst_banker_return_1_1_b,Hey there again!,No witaj ponownie!
 wanst_banker_return_1_1_c,"Ah, you again.","Ach, znowu ty."
@@ -65,7 +65,7 @@ wanst_statuemaker_decline_1_1_b,I have to think about it.,Muszę to przemyśleć
 wanst_statuemaker_decline_1_1_c,Noooo. Uhm. Nope. #2.50 I... don't think so. No. Definitely not. #5.50 No no no. Uh uh.,Nieee. Yyy. Nie. #2.50 Ja... nie sądzę. Nie. Zdecydowanie nie. #5.50 Nie nie nie. Y-y.
 wanst_statuemaker_decline_1_1_d,Too bold for gold!,Zbyt śmiało jak na złoto!
 wanst_statuemaker_decline_1_1_e,"Uhm, no. #1.20 I feel I need to gather some more glory first. #4.00 And money.","Yyy, nie. #1.20 Czuję, że najpierw muszę zebrać trochę więcej chwały. #4.00 I pieniędzy."
-wanst_statuemaker_decline_1_1_f,No coins for these loins. #1.80 Sorry!,Nie ma monet na te lędźwie. #1.80 Wybacz!
+wanst_statuemaker_decline_1_1_f,No coins for these loins. #1.80 Sorry!,Brak grosza na tego kokosza. #1.80 Wybacz!
 wanst_statuemaker_decline_1_2_a,Gold is definitely your color though. #3.00 If you ask me...,Złoto zdecydowanie jest twoim kolorem. #3.00 Jeśli mnie pytasz...
 wanst_statuemaker_decline_1_2_b,"Whatever you say, mister.","Jak pan sobie życzy, proszę pana."
 wanst_statuemaker_decline_1_2_c,Okay. #1.00 You know where to find me.,Dobrze. #1.00 Wiesz gdzie mnie znaleźć.
@@ -73,7 +73,7 @@ wanst_statuemaker_decline_1_2_d,Didn't take your for a humble bloke. #2.50 But f
 wanst_statuemaker_upgrade_1_1_a,Uhm. #0.50 It doesn't seem like my statue is making any progress #2.80 towards completion.,"Yyy. #0.50 Nie wygląda na to, żeby mój posąg robił jakiekolwiek postępy #2.80 ku ukończeniu."
 wanst_statuemaker_upgrade_1_1_b,"I wanted a statue, not modern art. #2.30 Can you finish your work, please?","Chciałem posąg, nie sztukę nowoczesną. #2.30 Możesz łaskawie dokończyć pracę?"
 wanst_statuemaker_upgrade_1_1_c,"My statue isn't finished, huh?","Mój posąg nie jest skończony, co?"
-wanst_statuemaker_upgrade_1_1_d,I don't see anyone working on my statue. #2.50 All good in the hood?,Nie widzę by ktokolwiek pracował nad moim posągiem. #2.50 Wszystko gra w tej dzielnicy?
+wanst_statuemaker_upgrade_1_1_d,I don't see anyone working on my statue. #2.50 All good in the hood?,Nie widzę by ktokolwiek pracował nad moim posągiem. #2.50 Na kwadracie wszystko w ładzie?
 wanst_statuemaker_upgrade_1_1_e,Shouldn't you be finishing my statue?,Czy nie powinieneś kończyć mojego posągu?
 wanst_statuemaker_upgrade_1_2_a,"Oh, we're sorry. #2.30 We ran out of money. #4.50 We'll need some extra funds to continue.","Och, przepraszamy. #2.30 Skończyły nam się pieniądze. #4.50 Będziemy potrzebować dodatkowych funduszy, żeby kontynuować."
 wanst_statuemaker_upgrade_1_2_b,A statue this fine #2.50 requires more gold than we thought. #5.00 We'll need extra coins to finish it.,Tak wspaniały posąg #2.50 wymaga więcej złota niż sądziliśmy. #5.00 Będziemy potrzebować dodatkowych monet aby go ukończyć.
@@ -283,7 +283,7 @@ sobu_idle_generic_1_1,This tower is not what it seems...,"Ta wieża nie jest tym
 sobu_idle_generic_2_1,I thought I had seen it all. #2.30 But what do you know...,"Myślałem, że widziałem już wszystko. #2.30 Ale proszę, człowiek wciąż się uczy..."
 sobu_idle_generic_3_1,Whew. #1.00 I think I need to sit down for a bit... #3.50 Joking! #4.50 I'm fit as a kid! #6.00 Chairs can go to hell!,Uff. #1.00 Chyba muszę na chwilę usiąść... #3.50 Żartuję! #4.50 Jestem sprawny jak dzieciak! #6.00 Krzesła mogą iść do diabła!
 sobu_idle_generic_4_1,"Don't call me vintage, #1.70 just because you're mint age.","Nie nazywaj mnie starociem, #1.70 tylko dlatego, że sam jesteś świeżak."
-sobu_idle_generic_5_1,What's the mileage on this old bugger you ask? #3.00 Well ask again. #4.00 And the flick of my stick might just drive you crazy.,"Jaki przebieg ma ten stary dziadyga, pytasz? #3.00 No to spytaj jeszcze raz. #4.00 A machnięcie moim kijem może cię doprowadzić do szału."
+sobu_idle_generic_5_1,What's the mileage on this old bugger you ask? #3.00 Well ask again. #4.00 And the flick of my stick might just drive you crazy.,"Jaki przebieg ma ten stary dziadyga, pytasz? #3.00 No to spytaj jeszcze raz. #4.00 Ruch mego drążka i pęka ci rżączka."
 alva_idle_generic_5_1,"Lots of great ingredients in this tower, #2.50 but it's tough to collect them all.","W tej wieży jest mnóstwo świetnych składników, #2.50 ale trudno zebrać je wszystkie."
 wanst_excito_smalltalk_regular_6_1,Tell me a little bit about yourself.,Opowiedz mi coś o sobie.
 wanst_excito_smalltalk_regular_6_2_a,"My patience is running out, #1.50 so let's be getting out of here.","Kończy mi się cierpliwość, #1.50 więc zbierajmy się stąd."
@@ -316,7 +316,7 @@ wanst_escapetower_1_1_c,"Alright, I'm out!","Dobra, wychodzę!"
 wanst_escapetower_1_1_d,"Okay. #0.70 So, that's it...",Okej. #0.70 Czyli to tyle...
 wanst_escapetower_1_1_e,I wish someone could see how well I did.,"Szkoda, że nikt nie widział, jak świetnie mi poszło."
 wanst_escapetower_1_1_f,Hey folks. #0.80 I have returned!,"Hej, ludzie. #0.80 Powróciłem!"
-wanst_escapetower_1_1_g,Now that was pretty easy peasy.,To było całkiem łatwiutkie.
+wanst_escapetower_1_1_g,Now that was pretty easy peasy.,Poszło gładko jak po maśle.
 wanst_escapetower_1_1_h,I made it!,Udało mi się!
 wanst_escapetower_1_2_c,Let's hit the tavern!,Uderzmy do tawerny!
 wanst_escapetower_1_2_d,"Back to my regular life, I guess...",Chyba wracam do zwykłego życia...
@@ -338,7 +338,7 @@ wanst_evelius_killed_2_1,"Who's laughing now, creep?","Kto się teraz śmieje, �
 wanst_evelius_killed_3_1,Nobody gets past me!,Nikt mnie nie powstrzyma!
 wanst_evelius_killed_4_1,Okay. #0.70 I think the rest will be a piece of cake.,"Okej. #0.70 Myślę, że reszta pójdzie jak z płatka."
 wanst_evelius_killed_5_1,"Can't cry about burns when you play with fire, pal...","Nie płacz nad oparzeniami, gdy bawisz się ogniem, kolego..."
-wanst_evelius_killed_6_1,If you choose to bruise... #1.50 Prepare to lose!,Kto chce bić... #1.50 musi przegrać i kwiczeć!
+wanst_evelius_killed_6_1,If you choose to bruise... #1.50 Prepare to lose!,Szukasz guza i zwady... #1.50 Nie dasz nam rady!
 wanst_evelius_killed_7_1,I am the new master here!,To ja jestem tu nowym panem!
 wanst_evelius_killed_8_1,You lose!,Przegrałeś!
 wanst_evelius_killed_9_1,A fitting end for you.,Stosowny koniec dla ciebie.
