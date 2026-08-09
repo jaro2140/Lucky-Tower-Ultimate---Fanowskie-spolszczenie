@@ -24,8 +24,8 @@ Kopie skryptów instalatora (do wglądu) są w folderze `installers/` tego repo.
 
 | Plik | SHA-256 |
 |---|---|
-| `Lucky_Tower_Ultimate_Patch_PL.zip` | `d6eba8d4a4bb947f59f17328d128660c1729100645e6653533bde0ed79082756` |
-| `data.unity3d` | `a87fa70a8b94cbe5fb09ff427c719979cdce5cc396ff4db132c3524349543a21` |
-| `LocaDatabase.ltu` | `9ecb427369e011855c8ed3b368d357f5a0f4c4be517cfe737aa50c1dc8cd1dc2` |
+| `Lucky_Tower_Ultimate_Patch_PL.zip` | `c306c48e102a9e450379ef9ce760078424e067a275b8a24755a71453cfe6610c` |
+| `data.unity3d` | `b506a1e46dba14c5b57788d8703089ee98f8f8c60b03e993a9e1f052f7f315d4` |
+| `LocaDatabase.ltu` | `1afed791d40ab06158a448e51c19a016a263304a7213acae6cc36c7b8dec2dd8` |
 
-Wymagana wersja gry: **V1.1**. Nie instalować na innych wersjach.
+Wymagana wersja gry: **v1.1.2**. Nie instalować na innych wersjach.

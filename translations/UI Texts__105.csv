@@ -245,8 +245,8 @@ row346,Early Access.,Wczesny dostęp.
 credits_funded,Funded with the support of:,Sfinansowano przy wsparciu:
 credits_copyright,Copyright notices:,Informacje o prawach autorskich:
 evelius_name,Evelius,Evelius
-skip_anykey,Press any key or button to skip,"Naciśnij dowolny klawisz lub przycisk, aby pominąć"
 skip_anykey2,Press any button or tap to skip,"Naciśnij dowolny przycisk lub dotknij ekranu, aby pominąć"
+skip_anykey,Press any key or button to skip,"Naciśnij dowolny klawisz lub przycisk, aby pominąć"
 ingame_savebacktomain,Save & Exit to menu,Zapisz i wyjdź do menu
 ingame_savequit,Save & Quit,Zapisz i zakończ
 window_mode,Window Mode:,Tryb okna:
@@ -497,3 +497,5 @@ confirmation_dontask,Don’t ask again,Nie pytaj ponownie
 main_separate,Separate Pick up and Drop,Rozdziel podnoszenie i upuszczanie
 main_assignbuttonprompt,Press the button you want to assign.,"Naciśnij przycisk, który chcesz przypisać."
 main_assignkeyprompt,Press the key you want to assign.,"Naciśnij klawisz, który chcesz przypisać."
+main_assignkeybuttonprompt,Press the key or button you want to assign.,"Naciśnij klawisz lub przycisk, który chcesz przypisać."
+main_skipdialogue,Skip Dialogue,Pomiń dialog
