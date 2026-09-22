@@ -3,6 +3,10 @@
 Nieoficjalne spolszczenie gry **Lucky Tower Ultimate** (Studio Seufz).
 Potrzebujesz **legalnie posiadanej kopii** gry (Steam/GoG/Pozostałe).
 
+> [!CAUTION]
+> **Spolszczenie stworzone we wsparciu z AI**
+
+
 ## ☕ Podoba Ci się to co robie?
 Postaw mi kawe ☕! - https://buymeacoffee.com/jaro2140
 
